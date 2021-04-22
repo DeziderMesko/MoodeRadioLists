@@ -1,0 +1,340 @@
+{
+   "lt" : [
+      {
+         "name" : "Radio ZW FUN",
+         "image" : "30178.png",
+         "site_url" : "http://zw.lt/",
+         "radio_url" : "http://play.zw.lt:8000/zwfun",
+         "description" : "Radio ZW FUN Słuchaj nas po polsku w Wilnie i okolicach na 103.8 FM oraz online na zw.lt, gdzie znajdziesz też bieżące info!"
+      },
+      {
+         "name" : "Znad Willii",
+         "image" : "30176.png",
+         "site_url" : "http://zw.lt/",
+         "radio_url" : "https://zw.lt:8443/zw128",
+         "description" : "Radio Znad Wilii od ponad 20-tu lat jest jednym z głównych ośrodków oddziaływania polskiej myśli i kultury na Litwie. Radio patronuje różnym aktywnościom, wspiera wydarzenia związane z Wilnem i Wileńszczyzną, a także jest rzecznikiem i środowiskiem budowy trudnego porozumienia ponad podziałami."
+      },
+      {
+         "name" : "DrChill",
+         "image" : "30173.png",
+         "site_url" : "http://www.drchill.eu/",
+         "radio_url" : "http://media-sov.musicradio.com/ChillMP3",
+         "description" : "Hear what feelings sound like!DrChill is an Internet Radio station broadcasting from Lithuania, providing 24/7 beautiful Chillout music stream. Carefully selected tracks are perfectly suitable when working, doing artistic work, relaxing etc"
+      },
+      {
+         "name" : "Power Hit Radio",
+         "image" : "29972.v3.png",
+         "site_url" : "http://powerhitradio.tv3.lt/",
+         "radio_url" : "https://powerhit.ls.lv/PHR_AAC",
+         "description" : "Šokių muzikos hitų radijo „Power Hit Radio“ galima klausytis Vilniuje, Kaune, Klaipėdoje ir Utenoje bei šiuos miestus supančiuose rajonuose."
+      },
+      {
+         "name" : "Radijo Gold FM",
+         "image" : "30275.png",
+         "site_url" : "http://goldfm.lt/",
+         "radio_url" : "http://82.135.234.195:8000/goldfm.mp3",
+         "description" : "First radio in Lithuania ONLY playing the best music from the 70’s and 80’s.The first radio Lithuania, which provides listeners the original’70s,’ 80s golden pop music hits."
+      },
+      {
+         "name" : "European Hit Radio",
+         "image" : "29999.v1.png",
+         "site_url" : "http://www.europeanhitradio.lt/",
+         "radio_url" : "http://82.135.234.195:8000/ehr.mp3",
+         "description" : "Perkamiausių Europoje dainų radijas!European Hit Radio - perkamiausių Europoje dainų radijas!!!*** Vilnius 99,7 FM, Kaunas 102,5 FM, Klaipėda  FM."
+      },
+      {
+         "name" : "Extra FM",
+         "image" : "30142.png",
+         "site_url" : "http://extrafm.lt/",
+         "radio_url" : "http://82.135.234.195:8000/extrafm.mp3",
+         "description" : "Only Hit Music! Informuoti, užtikrinti gerą nuotaiką, tai geros muzikos garantija!"
+      },
+      {
+         "name" : "Laluna Radio",
+         "image" : "30135.png",
+         "site_url" : "http://www.laluna.lt/",
+         "radio_url" : "https://stream.m-1.fm/laluna/mp3",
+         "description" : "1995 metų rugpjūčio 25 d. Klaipėdos klausytojai išgirdo pirmuosius radijo stoties Laluna šaukinius. Nuo to momento Laluna tapo neatskiriama Klaipėdos ir klaipėdiečių dalimi.Gera ten, kur esame!"
+      },
+      {
+         "name" : "Relax FM",
+         "image" : "29977.v3.png",
+         "site_url" : "http://relaxfm.lt/",
+         "radio_url" : "http://5.20.223.18/relaxfm128.mp3",
+         "description" : "Relax FM is a radio station from Vilnius, Lithuania, playing music variety from 80's till today hits."
+      },
+      {
+         "name" : "RUSRADIO LT",
+         "image" : "29953.png",
+         "site_url" : "http://www.rusradio.lt/",
+         "radio_url" : "http://5.20.223.18/rrb128.mp3",
+         "description" : "RUSRADIO LT - национальная радиостанция Литвы!Ежедневно служба новостей RUSRADIO LT готовит самые свежие новости из Литвы и мира. В программах „Мир Кино“ и „Другие новости“ полезная информация из мира культуры, кино и автомира. Музыка РUSRADIO LT это музыка для души. И именно это обстоятельство обеспечило мгновенный успех станции. Русское Радио сегодня это лучшая музыка минувшего времени и наших дней, самые любимые и популярные артисты, самые последние хиты, информация о концертах любимых исполнителей."
+      },
+      {
+         "name" : "Radijo stotis M-1 Plius",
+         "image" : "30014.png",
+         "site_url" : "http://pliusas.fm/",
+         "radio_url" : "https://radio.m-1.fm/m1plius/mp3",
+         "description" : "Radijo stotis pradėjo transliuoti savo programą 1996 metų gruodžio 5 dieną. Jau septynioliktus metus mums puikiai sekasi. Su kiekvienais metais vis geriau ir geriau. Pagalvokime kodėl, kur ta sėkmės paslaptis ?Teisingai parinkta muzika: laiko patikrinti, žinomi ir mėgstami kūriniai, kurių besiklausant gera prisiminti tai kas įvyko mūsų gyvenime ir dar smagiau kurti tai, ką prisiminsime rytoj."
+      },
+      {
+         "name" : "Radio Lietus",
+         "image" : "29960.png",
+         "site_url" : "http://www.lietus.fm/",
+         "radio_url" : "https://radio.m-1.fm/LIETUS",
+         "description" : "1999 metų liepos 15 dieną, 10 valandą ryte Stasio Povilaičio hitu 'Vėl švieski' startavo lietuviškos muzikos radijo stotis 'Lietus'. Muzikinė, pramoginė ir informacinė radijo programa skirta visiems mylintiems lietuvišką muziką, norintiems žinot,i kas vyksta Lietuvoje, dalyvauti viktorinose ir laimėti puikių prizų."
+      },
+      {
+         "name" : "RadioCentras",
+         "image" : "30139.png",
+         "site_url" : "http://rc.lt/",
+         "radio_url" : "http://84.46.205.13/rc128.mp3",
+         "description" : "Skleisti gerą nuotaiką!Radijo stotis „Radiocentras“ – pirmoji privati ir ilgiausiai nenutrūkstamai veikianti radijo stotis Lietuvoje, transliuojanti iš Vilniaus nuo 1991 metų sausio 31 dienos.Šiuo metu pramoginę – muzikinę „Radiocentro“ radijo programą gali girdėti 19 Lietuvos miestų ir jų apylinkių gyventojai. Radijo stoties siųstuvų tinklas dengia daugiau nei 96% šalies teritorijos ir pasiekia daugiau nei pusę milijono radijo klausytojų."
+      },
+      {
+         "name" : "Mano FM",
+         "image" : "30274.v1.png",
+         "site_url" : "http://www.manofm.lt/",
+         "radio_url" : "http://stream.manofm.lt/listen?",
+         "description" : "Mano FM the Lituanian radio features as usual like other most online radios which is a vary good thing their own local and national music. Lithuanian listeners has got great attraction and love for their own culture and style of music and this is why Mano FM is focused on promoting their songs."
+      },
+      {
+         "name" : "Žiniu Radijas",
+         "image" : "29991.png",
+         "site_url" : "http://www.ziniuradijas.lt/",
+         "radio_url" : "http://netradio.ziniur.lt/ziniur_64.mp3",
+         "description" : "Sveiki atvykę į Žinių radijo  paskyrą - sužinokite naujienas čia!"
+      },
+      {
+         "name" : "Rock FM",
+         "image" : "30022.v1.png",
+         "site_url" : "http://www.rock.lt/",
+         "radio_url" : "http://5.20.223.18/crf128.mp3",
+         "description" : "2014-02-24 startavo naujas galingas mūsų siųstuvas Vilniuje. Naujasis mūsų dažnis sostinėje yra 87,8 MHz. Dabar mūsų programa girdima 80-100 km spinduliu aplink Vilnių. Kituose miestuose ieškokite mūsų: Kaune - 90,3 MHz ir Panevėžyje 92,0 MHz. Tolesni mūsų tikslai - likę Lietuvos didmiesčiai: Klaipėda ir Šiauliai. Let's rock!"
+      },
+      {
+         "name" : "ZIP FM",
+         "image" : "30184.v1.png",
+         "site_url" : "http://www.zipfm.lt/",
+         "radio_url" : "https://rc.rafiki.dev/zipfm128.mp3",
+         "description" : "Radijo stotis ZIP FM gimė 2005-tų metų liepos 1 dieną, vidurnaktį, nuskambėjus Scissor Sisters dainai 'Comfortably Numb'.Mes draugiški, chuliganiški, charizmatiški, originalūs ir nebijantys kurti kitokios radijo stoties. Po ZIP FM stogu gyvena nedidelė komanda, bet to užtenka, kad kiekvieną dieną nuneštume tau stogą."
+      },
+      {
+         "name" : "Beveik Radijas",
+         "image" : "30147.v1.png",
+         "site_url" : "http://beveikradijas.com/",
+         "radio_url" : "http://78.63.84.190:8000/listen.mp3",
+         "description" : "Mąstyk alternatyviai!BEVEIK RADIJAS - tai internetinis radijas jaunam, mylinčiam 'ROCK' stiliaus muziką, žmogui! Junkis prie mūsų! Laukiam!"
+      },
+      {
+         "name" : "Lietus Radio Vilnius - M-1 Radio",
+         "image" : "30130.png",
+         "site_url" : "http://www.m-1.fm/",
+         "radio_url" : "https://radio.m-1.fm/M-1H",
+         "description" : "Live Fun!Radijo stotis M-1 - pirmoji komercinė radijo stotis nepriklausomoje Lietuvoje bei visoje Rytų Europoje.M-1 buvo ir yra muzikos, kokybės, populiarumo, šiuolaikiškumo, laisvės ir geros nuotaikos simbolis.Pastaraisiais metais M-1 išlaiko pirmaujančias pozicijas Lietuvos radijo stočių rinkoje, kurioje veikia daugiau kaip 30 radijo stočių."
+      },
+      {
+         "name" : "FRED FILM RADIO",
+         "image" : "46856.v1.png",
+         "site_url" : "http://www.fred.fm/",
+         "radio_url" : "http://stream.fred.fm:8058/stream/;",
+         "description" : "FRED Film Radio - the only multi lingual online radio station that brings you the insight on film festivals and film events all around the world!"
+      },
+      {
+         "name" : "Radio Pūkas 2",
+         "image" : "30005.png",
+         "site_url" : "http://www.pukas.lt/",
+         "radio_url" : "http://82.135.234.195:8000/pukas2.mp3",
+         "description" : "Tai viena iš pirmųjų Lietuvoje muzikos srityje veikiančių įmonių. Esame išleidę ir sukaupę fonduose per 13 000 įvairaus žanro lietuviškų dainų."
+      },
+      {
+         "name" : "Radijo Stotis Kelyje",
+         "image" : "29988.v1.png",
+         "site_url" : "http://www.radijaskelyje.lt/kn/home",
+         "radio_url" : "http://82.135.234.195:8000/kelyje_kaunas.mp3",
+         "description" : "Radijo stotis Kelyje, Vilnius, Laisvės pr.60-804, Spaudos rūmai.Radijo stotis Kelyje, Kaunas, Birželio 23-iosios 23f"
+      },
+      {
+         "name" : "RS2 Radio",
+         "image" : "30186.png",
+         "site_url" : "http://rs2.lt/",
+         "radio_url" : "http://77.79.33.225:8000/rs2.lt.aac",
+         "description" : "„RS2' - radijo stotis aktyviems, smalsiems, subrendusiems, linksmiems, kūrybingiems visos Šiaurės Lietuvos gyventojams.„RS2' - tai „Antroji radijo stotis', girdima 97,8 FM dažniu. Mūsų klausosi Šiaulių, Radviliškio, Joniškio, Panevėžio, Telšių bei Kelmės gyventojai - radijo stoties transliavimo aprėpties teritorija yra 80-90 km spinduliu aplink Šiaulius.Pusę (50%) transliuojamos muzikos sudaro geriausi praėjusių dešimtmečių hitai, trečdalį (30%) - visų laikų rokas, likusi dalis - įvairi kitų stilių muzika"
+      },
+      {
+         "name" : "Play Radio",
+         "image" : "74270.v2.png",
+         "site_url" : "http://www.playradio.lt/",
+         "radio_url" : "http://78.63.84.190/stream.mp3",
+         "description" : "Play Radio - more hits!"
+      },
+      {
+         "name" : "RadijoGAMA",
+         "image" : "30143.v1.png",
+         "site_url" : "http://radijogama.fm/",
+         "radio_url" : "http://212.24.99.134:8000/live",
+         "description" : "Radijo stotis „Radijogama“ | FM 99,0 MHz Klaipėdoje ir Vakarų Lietuvoje„Žodžiai – iš minties, muzika – iš širdies!Visuomeniškumas, pozityvi informacija, „teisinga“ muzika, atviras, tolerantiškas požiūris į žmogų."
+      },
+      {
+         "name" : "Neringa FM",
+         "image" : "29981.png",
+         "site_url" : "http://www.neringafm.lt/",
+         "radio_url" : "http://radio.15min.lt:8000/neringa_ogg",
+         "description" : "Neringa FM 89,8 MHz - Trippy lounge grooves.Soundtrack of the Curonian spit/ Kuršių nerijos garso takeli"
+      },
+      {
+         "name" : "Radio Maria",
+         "image" : "29919.v2.png",
+         "site_url" : "http://www.marijosradijas.lt/",
+         "radio_url" : "http://streamer.marijosradijas.lt:8001/marijosradijas.mp3",
+         "description" : "Radio Maria Lithuania - Marijos Radijas, FM 95.7, Kaunas . Listen live plus station schedule, song playlist, location and contact information online."
+      },
+      {
+         "name" : "Radijo stotis A2",
+         "image" : "30272.png",
+         "site_url" : "http://www.a2.lt/",
+         "radio_url" : "http://213.197.178.50:8000/A2",
+         "description" : "Listen online to Radijo stotis A2  in Vilnius, Lithuania."
+      },
+      {
+         "name" : "Baltupiu Radijas",
+         "image" : "30149.png",
+         "site_url" : "http://www.baltupiuprogimnazija.vilnius.lm.lt/",
+         "radio_url" : "http://fm.baltupiumokykla.lt:8888/;stream.nsv",
+         "description" : "Baltupių mokyklos radijas...Baltupiu Radijas 98.8 is a broadcast radio station from Vilnius, Lithuania providing Lithuanian music and programs."
+      },
+      {
+         "name" : "Radijo stotis 'RADUGA'",
+         "image" : "30154.png",
+         "site_url" : "http://www.raduga.lt/",
+         "radio_url" : "https://radio.m-1.fm/raduga/high",
+         "description" : "В эфире «Радуги» звучат только настоящие хиты! В нашем эфире нет места никому не известным «исполнителям-однодневкам», только признанные музыканты и группы 70-х, 80-х, 90-х и «двухтысячных»: Алла Пугачева, «Машина Времени», «Мираж», «Queen», София Ротару, Валерий Меладзе, «Modern Talking», Кристина Орбакайте, Григорий Лепс, «Abba», Леонид Агутин, Лариса Долина, Elton John, Елена Ваенга,"
+      },
+      {
+         "name" : "Radijo stotis FM99",
+         "image" : "30145.png",
+         "site_url" : "http://www.fm99.lt/",
+         "radio_url" : "http://82.135.234.195:8000/fm99.mp3",
+         "description" : "Radijo stotis „FM99' pirmą kartą į klausytojus kreipėsi 1993 metų sausio 6 dieną Alytuje. Savo veiklą pradėjusi kaip miesto radijas, dabar tai vienintelė regioninė radijo stotis Pietų Lietuvoje, transliuojanti savo programą iš Alytaus (99,0 MHz) ir Druskininkų (97,2 MHz). „FM99“ girdima Alytuje, Druskininkuose, Marijampolėje, Lazdijuose, Prienuose, Birštone, Kybartuose, Garliavoje ir kitur. „FM99“ programą transliuoja ir internetu."
+      },
+      {
+         "name" : "LRT RADIJAS",
+         "image" : "29917.v2.png",
+         "site_url" : "https://www.lrt.lt/mediateka/tiesiogiai/lrt-radijas",
+         "radio_url" : "https://radijas.lrt.lt/radijas/lrt_radijas/playlist.m3u8",
+         "description" : "Listen to LRT Radijas Lithuania (Lietuvos Radijas 1) Live on OSTENTUMLRT Radijas – pagrindinė Lietuvos nacionalinio radijo ir televizijos radijo programa (informacinė – muzikinė). Jos klausosi kas ketvirtas Lietuvos gyventojas – tai yra populiariausia radijo programa Lietuvoje. LRT Radijas transliuojamas 24 valandas per parą. Šiandien LRT Radijas yra viena iš beveik pusšimčio šalyje registruotų radijo programų."
+      },
+      {
+         "name" : "LRT Klasika",
+         "image" : "30151.v1.png",
+         "site_url" : "https://www.lrt.lt/mediateka/tiesiogiai/lrt-klasika",
+         "radio_url" : "https://radijas.lrt.lt/radijas/lrt_klasika/playlist.m3u8",
+         "description" : "LRT Klasika – antroji nacionalinė LRT radijo programa, skirta kultūrai ir klasikinei muzikai."
+      },
+      {
+         "name" : "Life Chill Music",
+         "image" : "76936.v3.png",
+         "site_url" : "http://www.lifechillmusic.com/",
+         "radio_url" : "http://aska.ru-hoster.com:8053/stream",
+         "description" : "Life Chill music is a radio station providing chillout, downtempo and lounge music. EXCLUSIVE and DELUXE music 24/7. Beautiful music makes life beautiful!"
+      },
+      {
+         "name" : "Easy FM",
+         "image" : "30273.v1.png",
+         "site_url" : "http://www.easyfm.lt/",
+         "radio_url" : "http://netradio.ziniur.lt/easyfm.mp3",
+         "description" : "Easy FM – tai radijo stotis, skirta klausytis tiek darbo, tiek poilsio metu. Gyvenk be įtampos – su tokiu šūkiu ir lengvo klausymo (lounge, smooth jazz, classic)"
+      },
+      {
+         "name" : "Geras FM",
+         "image" : "29971.v1.png",
+         "site_url" : "http://www.gerasfm.lt/",
+         "radio_url" : "http://82.135.234.195:8000/gerasfm.mp3",
+         "description" : "Geras FM - radijas, grojantis 90-ųjų ritmu.Sakome drąsiai - mes grojame tai, ko negroja kiti.Geras FM eteryje didžiausi 90-ųjų hitai EURODANCE, EUROBEAT, EUROPOP, POPROCK ritmu. Ir netik...mūsų eteryje išgirsite kūrinius, valdančius šių dienų šokių aikšteles. Geras FM eteryje Jūsų mylimi laidų vedėjai, įdomios rubrikos, informatyvios žinios.Jei širdyje esi 90-ųjų vaikas - tai Tavo radijo stotis (Jei gimei 1991-aisiais dar nereiškia kad tokiu esi:)"
+      },
+      {
+         "name" : "LRT OPUS",
+         "image" : "29912.v5.png",
+         "site_url" : "https://www.lrt.lt/mediateka/tiesiogiai/lrt-opus",
+         "radio_url" : "https://radijas.lrt.lt/radijas/lrt_opus/playlist.m3u8",
+         "description" : "Šiuo metu LRT sudaro keturi televizijos kanalai (LRT TELEVIZIJA, LRT KULTŪRA, LRT LITUANICA ir naujasis LRT HD), trys radijo stotys (LRT RADIJAS, LRT KLASIKA, LRT OPUS) ir interneto portalas LRT.LT.Mes siekiame aktyviai bendrauti su savo žiūrovais, klausytojais, gerbėjais ir kitais suinteresuotais žmonėmis. Protinga nuomonė ir argumentuota kritika visada išklausoma. Komentarai, žinutės ar įrašai, kuriuose yra keiksmažodžių, įžeidinėjimų ar nesantaikos kurstymų, bus trinami."
+      },
+      {
+         "name" : "Vaikų Radijas",
+         "image" : "30267.v1.png",
+         "site_url" : "http://vaikuradijas.lt/",
+         "radio_url" : "http://88.119.151.74:8001/vaikuradijas",
+         "description" : "Vaikų Radijas - „Mažoji muzika mažyliams ir jų tėveliams“ supažindins su naujomis ankstyvam amžiui skirtomis dainomis, kurios prisideda prie vaikų lavinimo"
+      },
+      {
+         "name" : "Radio Stotis Tau",
+         "image" : "30128.v4.png",
+         "site_url" : "http://www.tau.lt/",
+         "radio_url" : "http://radijas.tau.lt:8000/stream2",
+         "description" : "Radijas „TAU“ – seniausia Kauno radijo stotis, transliuojanti Kauno mieste ir 70 kilometrų spinduliu aplink Kauną bei internetu visame pasaulyje. Šis radijas pradėjo transliuoti vidutinių bangų diapazone 1993 metais ir vadinosi Radijo studija „Tau“, kuriai vadovavo Arvydas Linartas. Po pusmečio transliacijų stoties darbas nutrūko. Netrukus buvo pastatytas nuosavas FM bangų siųstuvas, ir 1994 metų gruodžio 22 dieną „TAU“ vėl pradėjo transliuoti 102,9 MHz FM dažniu. Dabar radijo stotis priklauso UAB „Artvydas“."
+      },
+      {
+         "name" : "FixFM",
+         "image" : "30155.v2.png",
+         "site_url" : "http://www.fixfm.lt/",
+         "radio_url" : "http://klausyk.fixfm.lt:2008/fixfm",
+         "description" : "FixFM, tai yra pelno nesiekiantis jaunų žmonių projektas. Radijas transliuojamas internetu, todėl yra pasiekiamas bet kuriame pasaulio taške, kur yra interneto ryšys. Kaip ir viskas turi pradžią, taip ir FixFM turi savo susikūrimą. FixFM savo veiklą pradėjo 2008 metų, balandžio 26 dieną. Nuo pat pirmųjų žingsnių stengiamės užkariauti klausytojų širdeles, ne tik puikia muzika, bet ir viskuo, ką galime pateikti klausytojams."
+      },
+      {
+         "name" : "Taurages Radijas",
+         "image" : "30233.v2.png",
+         "site_url" : "http://tauragesradijas.lt/",
+         "radio_url" : "http://stream.tauragesradijas.lt:8000/tr1",
+         "description" : "„Tauragės radijas″ 98,2 FM - Lietuvos regioninių radijo stočių asociacijos narys."
+      },
+      {
+         "name" : "Start FM",
+         "image" : "30141.v2.png",
+         "site_url" : "http://www.startfm.lt/",
+         "radio_url" : "http://radijas2.vu.lt:8000/startfm.mp3",
+         "description" : "Start FM – pirmoji ir vienintelė radijo stotis Lietuvoje, grojanti tik nekomercinę muziką. Radijas „nuo-iki“ įgyvendintas be komercinių rėmėjų. Nuo pat įkūrimo 2005 metais negrojame jokios reklamos, nepardavinėjame eterio laiko ir patys neparsiduodame. 2009 metų pabaigoje radijo automatizavimui ir transliacijoms naudojame tik atviro kodo programas."
+      },
+      {
+         "name" : "Upsas Radio",
+         "image" : "30236.v2.png",
+         "site_url" : "http://www.upsas.lt/",
+         "radio_url" : "http://185.5.52.50:8000/upsas_320",
+         "description" : "UPSAS – tai radijas skirtas tiems, kurie visur keliauja su muzikiniais taktais. Jeigu ir tu nei dienos nepraleidi be muzikos, neįsivaizduoji, kaip galima nežinoti naujausių hitų ir nesunkiai išvardintum visus ‘90ųjų „gabalus“ – tokiu atveju UPSAS kaip radijas tik tau. Tai į muziką orientuotas radijas, kurio tikslas, kad kasdienybė tekėtų taktų ritmu."
+      },
+      {
+         "name" : "Saulės Radijas FM",
+         "image" : "30144.v1.png",
+         "site_url" : "http://saulesradijas.lt/",
+         "radio_url" : "http://saule-mp3.vinlita.lt:8008/stream.mp3",
+         "description" : "Didžiausias regioninis radijas šiaurės Lietuvoje „Saulės radijas“ įkurtas prieš 25 metus. Klausytojus pasiekiame 102,5 FM dažniu arba internetu iš mūsų svetainės.Kodėl turėtumėte klausytis „Saules radijo“? Nes mes kitokie. Mes nekopijuojame didžiųjų radijo stočių. Grojame tik naujausią ir populiariausią muzika, o gurmanams siūlome muzikos stilių įvairovę vakarinėse „Saulės radijo“ programose."
+      },
+      {
+         "name" : "Sveikatos Radijas",
+         "image" : "30230.v1.png",
+         "site_url" : "http://www.sveikatosradijas.lt/",
+         "radio_url" : "http://193.219.87.11:8080/stream",
+         "description" : "Sveikatos radijas - tai sveika.Internetinis Sveikatos radijas yra skirtas pacientams ir medikams. Radijo transliavimo sistema sumontuota įvairių miestų gydymo įstaigose, tačiau dar ne visur - tai mūsų siekis."
+      },
+      {
+         "name" : "radio.audiomastering.lt",
+         "image" : "30146.v5.png",
+         "site_url" : "http://radio.audiomastering.lt/",
+         "radio_url" : "http://radio.audiomastering.lt:8000/hq",
+         "description" : "Lithuanian radiostation, providing a big variety of music.“It's not true that I had nothing on. I had the radio on.” ― Marilyn Monroe"
+      },
+      {
+         "name" : "XFM",
+         "image" : "30238.v1.png",
+         "site_url" : "http://xfm.lt/",
+         "radio_url" : "http://88.119.151.74:8001/xfm",
+         "description" : "Mūsų misija:Radijo stotis XFM oriai tarnauja žmonėms dora muzika ir geros naujienos skelbimu apie Dievą ir Jo pasaulį. Radijas darbą pradėjo 2004 m. rugpjūčio 2 dieną, FM 93,3 MHz dažniu, o nuo 2005 m. gegužės 1 d. – naujuoju FM 91,4 MHz dažniu. Žymiai padidinome siųstuvo galią ir dabar stotis girdima 50 – 70 km aplink Klaipėdą (Nidoje, Gargžduose, Kretingoje, Plungėje, Šilutėje, Plateliuose, Palangoje, Šventojoje, autostradoje 'Klaipėda - Vilnius' iki 75 km)."
+      },
+      {
+         "name" : "BitRadio",
+         "image" : "30020.png",
+         "site_url" : "http://bitradio.lt/",
+         "radio_url" : "http://power-stream.data.lt:8000/PHR",
+         "description" : "Geriausi muzikos hitai internete!BITRADIO yra pirmoji jaunimui kurta radijo stotis.Mūsų gimimo metai – 2011, mūsų formatas – “POP/RNB/ELECTRO/DANCE”,mūsų noras ir tikslas – groti kuo daugiau kokybiškos ir jaunimo pripažintos muzikos, kalbėti apie muziką, siūlyti kuo daugiau pramogų,suteikti galimybę jauniems Lietuvos elektroninės muzikos kūrėjams, skleistigerą nuotaiką, pristatyti įvairiausius Lietuvos DJs, pakalbėti apie visusvakarėlius Lietuvoje ir tapti geriausiu TAVO draugu!"
+      }
+   ]
+}

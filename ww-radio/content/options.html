@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title label="extension_name :: settings_title"></title>
+		<link rel="stylesheet" type="text/css" href="/skin/options.css" />
+		<script type="text/javascript" src="/content/options.js" charset="utf-8"></script>
+		<script type="text/javascript" src="/content/utils.js" charset="utf-8"></script>
+		<script type="text/javascript" src="/content/prefs.js" charset="utf-8"></script>
+		<script type="text/javascript" src="/content/i18n.js" charset="utf-8"></script>
+		<script type="text/javascript" src="/locale/supported.js" charset="utf-8"></script>
+	</head>
+<body><div id="div_body">
+	<div class="settings_head_title">
+		<div class="settings_head_title_text_1" label="extension_name :"></div>
+		<div class="settings_head_title_text_2" label="settings_title"></div>
+		<div class="settings_head_title_text_3">: <span id="addon_version"></span></div>
+		<div class="settings_head_title_current_locale">
+			<select id="current_locale"></select>
+			<span id="settings_saved" is_hidden="true" label="settings_saved"></span>
+		</div>
+	</div>
+
+	<div class="settings_head" label="settings_shuffle_timer"></div>
+	<div class="settings_text">
+		<div class="settings_shuffle_box">
+		<input type="range" id="settings_shuffle_timer" min="5" max="600" step="5" style="flex-grow: 1;"/>
+		<div id="settings_shuffle_timer_value" style="padding-left: 5px;"></div>
+		</div>
+	</div>
+
+	<div class="settings_head" label="settings_sleep_timer"></div>
+	<div class="settings_text">
+		<div class="settings_sleep_timer_box">
+		<input type="range" id="settings_sleep_timer" min="5" max="720" step="5" style="flex-grow: 1;"/>
+		<div id="settings_sleep_timer_value" style="padding-left: 5px;"></div>
+		</div>
+	</div>
+
+	<div class="settings_head" label="settings_theme_name"></div>
+	<div class="settings_text">
+		<input type="radio" id="theme_name_default" name="theme_name" label="settings_theme_name_default"/><br/>
+		<input type="radio" id="theme_name_modern_flat" name="theme_name" label="Modern Flat by Konstantin Polyakov"/><br/>
+		<br/>
+	</div>
+
+	<div class="settings_head" label="settings_theme_color"></div>
+	<div class="settings_text">
+		<div class="settings_theme_color_box">
+			<div class="settings_theme_color_box_left">
+				<div><span label="settings_theme_saturate"></span><span id="settings_theme_saturate_value"></span></div>
+				<input type="range" id="settings_theme_saturate" min="0" max="250" step="1"/>
+
+				<div><span label="settings_theme_hue_rotate"></span><span id="settings_theme_hue_rotate_value"></span></div>
+				<input type="range" id="settings_theme_hue_rotate" min="0" max="360" step="1"/>
+
+				<div><span label="settings_theme_brightness"></span><span id="settings_theme_brightness_value"></span></div>
+				<input type="range" id="settings_theme_brightness" min="0" max="200" step="1"/>
+
+				<div><span label="settings_theme_contrast"></span><span id="settings_theme_contrast_value"></span></div>
+				<input type="range" id="settings_theme_contrast" min="0" max="200" step="1"/>
+			</div>
+			<div class="settings_theme_color_box_right">
+				<div id="settings_theme_value"></div>
+				<input type="button" id="settings_theme_reset" label="settings_reset_button"/>
+			</div>
+		</div>
+	</div>
+
+	<div class="settings_head" label="settings_animated_icon"></div>
+	<div class="settings_text">
+		<input type="checkbox" id="animated_icon" label="settings_yes"/>
+		<br/><br/>
+	</div>
+
+	<div class="settings_head" label="copyrights_title"></div>
+	<div class="settings_text">
+		<div label="copyrights_text_1" style="padding-bottom: 10px;"></div>
+		<div label="copyrights_text_2" style="padding-bottom: 10px;"></div>
+		<div label="copyrights_text_3"></div>
+		<br/>
+	</div>
+
+	<div class="settings_bottom_page">
+		<input type="button" id="settings_save_button" label="settings_save_button"/>
+		<div	 style="padding-left: 5px;"></div>
+		<input type="button" id="settings_load_button" label="settings_load_button"/>
+		<input id="settings_load_file" type="file" style="display: none"/>
+		<div	 style="flex-grow: 1;"></div>
+		<input type="button" id="settings_reset_button" label="settings_reset_button"/>
+	</div>
+</div></body>
+</html>

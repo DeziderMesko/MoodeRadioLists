@@ -1,0 +1,15 @@
+﻿added: New Theme: Modern Flat by Konstantin Polyakov
+added: Azerbaijan radio stations (more than 20 stations)
+added: Greece radio stations: "Ράδιο Οιχαλία", "Λύχνος"
+updated: Polish radio stations "Radio Horyzont"
+updated: Czech Radio station: Evropa 2
+updated: Czech locale (thanks Zbyněk Hyrák)
+
+---
+updated: Nederlands locale (thanks Tonnes)
+updated: Korean locale (thanks VenusGirl)
+updated: French locale (thanks Jack Black)
+updated: Germany locale (thanks Michael Wolf)
+updated: Hungarian locale (thanks Balogh Béla)
+updated: Czech locale (thanks Zbyněk Hyrák)
+updated: Simplified Chinese locale (thanks yù)

@@ -1,0 +1,60 @@
+{
+   "gf" : [
+      {
+         "name" : "Ouest FM Guyane",
+         "image" : "48141.v1.png",
+         "site_url" : "http://www.ouestfm.net/",
+         "radio_url" : "http://163.172.96.134:8162/;",
+         "description" : "OUEST FM, la radio 100% hit qui vous accompagne de Cayenne à Saint Laurent !"
+      },
+      {
+         "name" : "RTL 2 Guyane",
+         "image" : "48147.png",
+         "site_url" : "http://www.rtl2guyane.fr/",
+         "radio_url" : "http://91.121.29.104:8136/;",
+         "description" : "Vous accompagner en voiture, au travail, chez vous... partout avec le Son Pop-Rock, non stop !"
+      },
+      {
+         "name" : "CHERIE FM",
+         "image" : "48135.png",
+         "site_url" : "http://www.cheriefmguyane.com/",
+         "radio_url" : "https://cheriefmguyane.ice.infomaniak.ch/cheriefmguyane-64.aac?type=.mp3",
+         "description" : "CHERIE FM Guyane vos plus belles émotions"
+      },
+      {
+         "name" : "NRJ Guyane",
+         "image" : "48121.v1.png",
+         "site_url" : "http://www.nrjguyane.fm/",
+         "radio_url" : "https://nrjguyane.ice.infomaniak.ch/nrjguyane-64.aac",
+         "description" : "1ère Radio Musicale de Guyane !"
+      },
+      {
+         "name" : "Nostalgie",
+         "image" : "48128.v4.png",
+         "site_url" : "http://www.nostalgiedom.fr/",
+         "radio_url" : "https://sv3.vestaradio.com/nostalgieguyane",
+         "description" : "NostalgieDom.fr : le site radio des années de légende - tubes, stars cultes, années 80, biographies artistes..."
+      },
+      {
+         "name" : "Fun Radio Guyane",
+         "image" : "48137.v2.png",
+         "site_url" : "http://www.funradioguyane.fr/frequences.php",
+         "radio_url" : "http://manager2.streaming-ingenierie.fr:8050/;",
+         "description" : "Vous donner envie de danser où que vous soyez!!! Au lycée, à la fac, au bureau, dans votre voiture... vibrez au rythme des tubes dancefloor du moment... sur FUN RADIO !"
+      },
+      {
+         "name" : "Radio JAM Guyane",
+         "image" : "48143.v1.png",
+         "site_url" : "http://radio-jam.fr/",
+         "radio_url" : "http://radiojam.ice.infomaniak.ch/radiojam-64.mp3",
+         "description" : "Radio JAM est le fruit de l’Association Jeunesse Active de Mirza qui a reçu son autorisation d’Emettre au mois de septembre 1985 qui a décidé de démocratiser la Radio qui ne permettait pas à tout un chacun de s’exprimer."
+      },
+      {
+         "name" : "GBSRadio",
+         "image" : "79775.v5.png",
+         "site_url" : "https://guyanablackstar.fr/gbsradio/",
+         "radio_url" : "https://listen.radioking.com/radio/132484/stream/172396",
+         "description" : "Découvrez les meilleurs titres de dancehall,rap,reggae et zouk"
+      }
+   ]
+}

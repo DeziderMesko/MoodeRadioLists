@@ -1,0 +1,136 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title label="extension_name"></title>
+		<script type="text/javascript" src="/content/popup.js" charset="utf-8"></script>
+		<script type="text/javascript" src="/content/utils.js" charset="utf-8"></script>
+		<script type="text/javascript" src="/content/prefs.js" charset="utf-8"></script>
+		<script type="text/javascript" src="/content/i18n.js" charset="utf-8"></script>
+		<script type="text/javascript" src="/locale/supported.js" charset="utf-8"></script>
+		<script type="text/javascript" src="/content/stations.js" charset="utf-8"></script>
+		<script type="text/javascript" src="/content/country_list.js" charset="utf-8"></script>
+		<link rel="stylesheet" type="text/css" href="/skin/tooltips.css" />
+	</head>
+<body><div id="div_body">
+<div id="div_body_load_progress"></div>
+<div id="div_body_player" is_hidden="true">
+	<div id="radio_player_box" class="radio_player">
+		<div class="table_wrap">
+		<table cellspacing="0" cellpadding="0" border="0"><tr valign="top" class="table_wrap_tr">
+		<td class="table_wrap_td_control"><a id="radio_player_name" target="_blank"></a>
+			<div class="radio_player_control">
+				<div id="radio_player_control_play"><div id="radio_player_control_play_state"></div></div>
+				<div id="radio_player_control_sound"></div>
+				<input type="range" id="radio_player_control_volume" min="0" max="100" step="1">
+			</div>
+			<div id="radio_player_station_favorites"></div>
+		</td>
+		<td class="table_wrap_td_station_site" width="96"><a id="radio_player_site_url" target="_blank" href="">
+			<img id="radio_player_image" width="95" height="50"/>
+			<img id="radio_player_country" width="14" height="11"/>
+		</a></td>
+		</tr>
+		<tr><td colspan="2">
+			<div class="radio_mini_control">
+				<div id="radio_player_prev" title="previous_radio_station" class="radio_mini_control_button"></div>
+				<div id="radio_player_next" title="next_radio_station" class="radio_mini_control_button"></div>
+				<div id="radio_player_random" title="random_radio_station" class="radio_mini_control_button"></div>
+				<div id="radio_player_shuffle" title="shuffle_radio_station" class="radio_mini_control_button"></div>
+				<div id="radio_player_sleep_timer" class="radio_mini_control_button tooltip"><span  id="radio_player_sleep_timer_tooltip" class="tooltiptext" ></span></div>
+				<div id="radio_player_search" title="search_radio_station" class="radio_mini_control_button"></div>
+				<div id="radio_player_favorites" title="favorite_radio_stations" class="radio_mini_control_button"></div>
+				<div id="radio_player_user_list" title="user_list_radio_stations" class="radio_mini_control_button"></div>
+				<div id="radio_player_list" title="show_hide_list_radio_stations" class="radio_mini_control_button"></div>
+				<div id="radio_player_settings" title="settings_tooltip" class="radio_mini_control_button"></div>
+				<div id="radio_player_country_list" class="radio_mini_control_button"><div label="list_countries"></div></div>
+			</div>
+		</td></tr>
+		</table>
+		</div>
+	</div>
+	<div id="radio_box_head">
+		<div id="country_list_head"></div>
+		<div id="favorite_list_head" label="favorite_radio_stations"></div>
+		<div id="search_list_head" label="search_radio_station"></div>
+		<div id="user_list_head" style="display: flex;">
+			<div style="flex-grow: 1;" label="user_list_radio_stations"></div>
+			<div id="user_list_head_plus" title="user_list_radio_stations_new" class="radio_mini_control_button"></div>
+		</div>
+	</div>
+	<div id="radio_search_box" is_hidden="true">
+		<div id="radio_search_select_country">
+			<div id="radio_search_select_country_current"></div>
+			<div id="radio_search_select_country_list" tabindex="0" is_hidden="true">
+				<div id="radio_search_select_country_list_all" label="all_countries" class="country_list_option"></div><hr/>
+				<div id="radio_search_select_country_list_user_list" label="user_list_radio_stations" class="country_list_option"></div><hr/>
+			</div>
+		</div>
+		<input id="radio_search_input" type="search" required value=""/>
+	</div>
+	<div id="radio_list_box"></div>
+	<div id="radio_list_box_is_empty" label="radio_list_empty"></div>
+
+	<div id="radio_list_template" style="display: none;">
+		<div id="radio_station_box" class="radio_station_box">
+			<div id="radio_station_play"><div id="radio_station_play_state"></div></div>
+			<div id="radio_station_name"></div>
+			<div id="radio_station_favorites"></div>
+			<div id="radio_station_country"></div>
+			<div id="radio_station_user_list_edit"></div>
+			<div id="radio_station_order" draggable="true"></div>
+		</div>
+	</div>
+</div>
+<div id="div_body_country_list" is_hidden="true">
+	<div id="button_body_country_list_close" title="close_tooltip" is_hidden="true"></div>
+	<div class="country_region" label="country_region_north_america"></div>
+	<div class="country_region_list" id="country_region_north_america"></div>
+
+	<div class="country_region" label="country_region_central_america"></div>
+	<div class="country_region_list" id="country_region_central_america"></div>
+
+	<div class="country_region" label="country_region_south_america"></div>
+	<div class="country_region_list" id="country_region_south_america"></div>
+
+	<div class="country_region" label="country_region_europe"></div>
+	<div class="country_region_list" id="country_region_europe"></div>
+
+	<div class="country_region" label="country_region_africa"></div>
+	<div class="country_region_list" id="country_region_africa"></div>
+
+	<div class="country_region" label="country_region_asia"></div>
+	<div class="country_region_list" id="country_region_asia"></div>
+
+	<div class="country_region" label="country_region_oceania"></div>
+	<div class="country_region_list" id="country_region_oceania"></div>
+	<div style="opacity: 0.1;color:#EFF2F5; font-size:1px;margin:0; padding:0;">fix for firefox</div>
+</div>
+<div id="div_body_user_list_new" is_hidden="true">
+	<div id="button_body_user_list_new_close" title="close_tooltip"></div>
+	<div class="user_list_head">
+		<div label="user_list_radio_stations_new" id="user_list_radio_stations_new_title"></div>
+		<a  class="user_list_help" title="help_tooltip" href="http://forums.mozillazine.org/viewtopic.php?p=14811571#p14811571" target="_blank"></a>
+	</div>
+	<div class="user_list_body"><form id="user_list_new_station_form">
+		<div label="user_list_radio_stations_name"></div>
+		<div style="display: flex;"><input type="text" id="user_list_new_station_name" style="flex-grow: 1;"/></div>
+		<br/>
+
+		<div label="user_list_radio_stations_stream_url"></div>
+		<div style="display: flex;"><input type="text" id="user_list_new_station_stream_url" style="flex-grow: 1;" placeholder="http://domain.com/radio.mp3 , .m3u8 , .acc , ..."/></div>
+		<br/>
+
+		<div label="user_list_radio_stations_website_url"></div>
+		<div style="display: flex;"><input type="text" id="user_list_new_station_website_url" style="flex-grow: 1;" placeholder="http://domain.com/"/></div>
+
+		<input type="hidden" id="user_list_new_station_id" value=""/>
+		<div style="display: flex;">
+			<div id="user_list_new_station_delete" label="user_list_radio_stations_new_delete"></div>
+			<input type="submit" id="user_list_new_station_save" label="user_list_radio_stations_new_save" style="margin-left: 5px;"/>
+		</div>
+	</form></div>
+</div>
+
+</div></body>
+</html>

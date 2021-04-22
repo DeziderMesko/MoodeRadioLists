@@ -1,0 +1,459 @@
+{
+   "cn" : [
+      {
+         "name" : "True Life in God",
+         "image" : "29439.png",
+         "site_url" : "http://www.tligradio.org/zh",
+         "radio_url" : "http://46.28.49.164:7752/;stream/1",
+         "description" : "主內真生命電台廣播華蘇拉麗敦自1985年開始從天主所領受到的訊息"
+      },
+      {
+         "name" : "LamRim Tibetan Buddhist Internet Radio",
+         "image" : "29434.png",
+         "site_url" : "http://lamrim.com/index2.html",
+         "radio_url" : "http://199.180.72.2:9097/lamrim",
+         "description" : "LamRim is an radio station and archive for Tibetan Buddhist teachings. Most of the content is in English."
+      },
+      {
+         "name" : "Chinese Music World",
+         "image" : "29301.png",
+         "site_url" : "http://chinesemusicworld.com/",
+         "radio_url" : "http://radio2.chinesemusicworld.com/;",
+         "description" : "ChineseMusicWorld is a portal for Chinese classical music lovers. It features a 24 hour online radio, as well as the knowledge base for you to know about Chinese classical music."
+      },
+      {
+         "name" : "Hit FM",
+         "image" : "29416.png",
+         "site_url" : "http://hitfm.cri.cn/",
+         "radio_url" : "http://37.59.32.115:2046/;stream.nsv",
+         "description" : "CRI Hit FM, is an international pop music radio's China Radio International. Integrated with traditional Chinese radio is different, it uses the world's most sophisticated, most professional type of music radio (Pure Format Radio) mode of operation, the rolling 24-hour broadcast of today's most dynamic international pop music, fashion popular songs, Let the music be the pursuit of high-quality players who enjoy the necessities of life."
+      },
+      {
+         "name" : "Nanchang My FM Radio",
+         "image" : "29442.png",
+         "site_url" : "http://www.myfmnanchang.com/",
+         "radio_url" : "http://http.qingting.fm/61636.mp3",
+         "description" : "MY FM广播广告网是寰宇从2009年开始联合主要省市电台为40岁以下的都市时尚听众打造的音乐广播。MY FM 已成为南京、合肥、南昌、长沙、乌鲁木齐、西安等地最受欢迎的音乐电台。MY FM一向秉持的理念就是：随时随心，好音乐！以一天24小时最丰富的音乐元素，陪伴每一个收听我们的朋友，打造一个最贴心的空间。"
+      },
+      {
+         "name" : "Zhejiang Music Radio",
+         "image" : "29438.png",
+         "site_url" : "http://www.cbssportsnetwork.com/",
+         "radio_url" : "http://http.qingting.fm/4866.mp3",
+         "description" : "成立于1999年的 FM96.8浙江电台音乐调频(动听968)以注重生活品质人群为主要服务对象,全天24小时广播,以海内外各门类各语种各形态高品质音乐播放为主轴,辅以多节点特色信息(城市文化艺术活动实用财经资讯体育赛场风云聪明生活服务讯息)集束播报,强调频率整体流畅愉悦的听觉感受,在轻松美好的氛围中,传递提升生活品质的真知灼见,办真正能让城市精英族群身心获益的“优质音乐生活广播”。"
+      },
+      {
+         "name" : "Nanjing News Radio",
+         "image" : "29436.png",
+         "site_url" : "http://www.njgb.com/2013/",
+         "radio_url" : "http://live.njgb.com:10698/show.mp3",
+         "description" : "Nanjing News Radio 106.9 is a broadcast radio station from Nanjing, Jiangsu, China providing News, Information, Talk and Music."
+      },
+      {
+         "name" : "FRED FILM RADIO",
+         "image" : "46845.png",
+         "site_url" : "http://www.fred.fm/",
+         "radio_url" : "http://stream.fred.fm:8020/stream/;",
+         "description" : "FRED Film Radio - the only multi lingual online radio station that brings you the insight on film festivals and film events all around the world!"
+      },
+      {
+         "name" : "Guangdong Radio",
+         "image" : "29418.v1.png",
+         "site_url" : "http://www.rgd.com.cn/",
+         "radio_url" : "http://ctt.rgd.com.cn/fm993",
+         "description" : "Radio Guangdong is a broadcast radio station from Guangzhou, China providing Chinese News, Information, Music, Talks, Entertainment and Live shows."
+      },
+      {
+         "name" : "Jinlin Village Radio",
+         "image" : "29613.png",
+         "site_url" : "http://fm976.jlradio.cn/",
+         "radio_url" : "http://http.qingting.fm/3977.mp3",
+         "description" : "吉林人民广播电台乡村广播是经国家广电总局批准设立的吉林省省级农村专业卫星广播。2007年1月28日正式开播，覆盖人口2800万，全省53个调频转播台同步播出。长春地区播出频率调频97.6兆赫。 吉林乡村广播立足办现代农业广播，以关注农业、聚焦农村、服务农民为办台宗旨。栏目设置以新闻、信息为核心，以农业气象、法律援助、科技推广、城乡市场、致富经验为架构，以二人转、评书、故事、歌曲、音乐等文艺节目为依托，以娱乐节目、情感节目为纽带，突出服务性、指导性、专业性、公益性、娱乐性。"
+      },
+      {
+         "name" : "Fujian News Radio",
+         "image" : "29588.png",
+         "site_url" : "http://www.fjgb.com/",
+         "radio_url" : "http://http.qingting.fm/1731.mp3",
+         "description" : "福建人民广播电台新闻综合广播是率先在全国实现“长时段播发新闻，全天候直通现场”的省级电台，是目前全省广播各频道覆盖全省范围最广的频道。新闻综合广播的节目以新闻节目为骨架，以综合服务类节目为辅助，努力办好早、中、晚三个时段的重点新闻节目，以不同的节目形态和各具特色的播音主持风格，配以不断滚动的整点、半点新闻，做为贯穿全天的新闻骨架，而后再以多种形式的综合服务类节目穿插其中，进行适当的调剂，避免收听疲劳，提高新闻伴随收听率，提升节目魅力"
+      },
+      {
+         "name" : "Yantai News Radio",
+         "image" : "29584.png",
+         "site_url" : "http://radio.jiaodong.net/",
+         "radio_url" : "http://http.qingting.fm/1682.mp3",
+         "description" : "烟台新闻广播全天节目播出19小时(早5：00----晚24点结束)，使用双频( AM1314 FM101)播出。烟台新闻广播将全天节目分为早间《101新闻资讯网》、上午《101新闻进行时》、下午《101生活资讯网》、晚间《101娱乐资讯网》四大板块，以新闻资讯、新闻访谈、要闻解读、生活资讯和娱乐资讯贯穿整天节目。"
+      },
+      {
+         "name" : "China Campus Radio",
+         "image" : "29623.v2.png",
+         "site_url" : "http://www.fm520.com/",
+         "radio_url" : "https://lhttp.qingting.fm/live/20091/64k.mp3",
+         "description" : "中国校园之声是我国首个独立面向全国大学生的电台,电台自2009年10月10日创办以来,一直致力于为广大学生提供一个真正属于大学生自己的网络交流和分享平台,经过几年的发展,逐渐成为了不同凡响的影响力,是一个真真正正属于大学生自己的电台。2013年电台的声音已覆盖全国34个省、直辖市、自治区拥有稳定集中的收听群,电台通过网络进行全天24小时不间断直播,节目现已形成以综艺、音乐、情感三大板块为主的节目类型。"
+      },
+      {
+         "name" : "Asia FM",
+         "image" : "72257.v4.png",
+         "site_url" : "http://www.asiafm.com.tw/",
+         "radio_url" : "https://www.asiafm.com.tw/asia-video927/",
+         "description" : "亞洲FM 92.7來自台灣的直播。 但它也是一個中國在線廣播電台。 亞洲FM 92.7是中國和台灣最著名的在線廣播電台之一。 亞洲FM播放各種最新的嘻哈，經典，舞曲，電子等。音樂。"
+      },
+      {
+         "name" : "Yunnan Education Radio",
+         "image" : "29555.png",
+         "site_url" : "http://www.ynradio.com.cn/",
+         "radio_url" : "http://www.ynradio.com.cn/",
+         "description" : "Yunnan Education Radio 100 Is an Internet Based radio website from Kunming. Adhering to the vigor and vitality of The Sound of Music youth 100 continuation the fashion broadcasting intellectual charm based on the big education focus on young people, and the whole of society."
+      },
+      {
+         "name" : "Jiangmen News Radio",
+         "image" : "29566.png",
+         "site_url" : "http://www.jmtv.cn/special/at/radiozt.shtml",
+         "radio_url" : "http://www.jmtv.cn/special/at/radiozt.shtml",
+         "description" : "江门电台于1991年12月18日正式开播，是一个以新闻、资讯为主，音乐欣赏、娱乐等节目为辅的综合性城市电台。电台的前身是成立于1950年11月的江门人民有线广播台，1978年改称江门市广播站。现设有编播部、新闻部、节目部、技术部、行政部等部门，每天播出18小时，用广州话、普通话播音，信号覆盖珠江三角洲广大地区。"
+      },
+      {
+         "name" : "CNR",
+         "image" : "71645.v5.png",
+         "site_url" : "http://hxradio.cnr.cn/",
+         "radio_url" : "https://www.qingting.fm/",
+         "description" : "中央人民广播电台第七套节目，打理您工作生活的方方面面，衣食住行，事无巨细。"
+      },
+      {
+         "name" : "Hainan Traffic Radio",
+         "image" : "29567.png",
+         "site_url" : "http://www.hainanfm100.com/",
+         "radio_url" : "http://www.hainanfm100.com/",
+         "description" : "海南交通广播(声动调频 Touching Voice)是海南唯一一家以交通、汽车为主导的专业电台，社会效益、广告效益以及收听率均居海南广播电台之首。历经十多年发展，海南交通广播已在本地树立了多个优势品牌节目。"
+      },
+      {
+         "name" : "Sichuan iRadio",
+         "image" : "29598.png",
+         "site_url" : "http://fm955.sctv.com/",
+         "radio_url" : "http://fm955.sctv.com/",
+         "description" : "岷江音乐iRadio是我国西部首家推出的专业音乐频率，是全国卫星音乐广播网的成员台，在国内享有较高的知名度和美誉度，曾荣获第二届中国品牌大会授予的“中国优秀品牌建设先进单位”的称号。岷江音乐iRadio以“多、快、变、精”的风格定位和“对象明确、参与度高、本土化强、国际面广”的节目特点，在本省具有强大的影响力。　　岷江音乐iRadio在节目形态上融合音乐广播类型化模式精细度高，传统模式贴近性强的优势，品牌栏目各具特色，日播节目丰富多彩，主持人队伍阵容强大，整体水平局同类频率前列，在受众中建立了广泛而权威的影响，她还通过跨媒体合作及新技术的运用，使传播手段和传播渠道得到了极大的拓展。　　岷江音乐iRadio，为你创造出耳朵与心灵共享的天堂。"
+      },
+      {
+         "name" : "China Radio International",
+         "image" : "71658.v3.png",
+         "site_url" : "http://newsradio.cri.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/1005/64k.mp3",
+         "description" : "中国国际广播电台环球资讯广播CRI News Radio于2005年9月28日起开始在调频ＦＭ90.5播出。32家记者站遍布全球，43种语言网罗天下，环球资讯广播集合国际台独特的资源优势和语言优势，实现新闻的即时滚动播出，全天24小时播音，17小时直播形态，集合早中晚夜四大新闻板块，辅以整点、半点快递，实现新闻的即时滚动播出。涵盖时政、财经、留学、旅游、体育、生活娱乐等领域的多档主题资讯时段贯穿其中，提供丰富资讯盛宴。力争体现“第一资讯、资讯第一”的频率特色，打造中国资讯广播第一品牌。"
+      },
+      {
+         "name" : "Changsha Music Radio",
+         "image" : "29602.png",
+         "site_url" : "http://www.fm1022.com/",
+         "radio_url" : "http://http.qingting.fm/4930.mp3",
+         "description" : "FM102.2，品味音乐广播，聆听老歌，品味经典！品味经典音乐广播是长沙市第一个 Format radio 即类型化、格式化的电台。"
+      },
+      {
+         "name" : "Love Radio",
+         "image" : "71827.v2.png",
+         "site_url" : "http://www.1037fm.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/273/64k.mp3",
+         "description" : "Love Radio 103.7 FM (Shanghai)"
+      },
+      {
+         "name" : "China Plus",
+         "image" : "71545.v11.png",
+         "site_url" : "http://chinaplus.cri.cn/",
+         "radio_url" : "http://sk.cri.cn/am846.m3u8",
+         "description" : "Open your eyes to the real China –everything China related from a Chinese perspective, its news, its people, its traditions and culture."
+      },
+      {
+         "name" : "Shanghai FM Radio",
+         "image" : "71826.v1.png",
+         "site_url" : "http://www.fm101.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/15318159/64k.mp3",
+         "description" : "上海第一个音乐电台，创建于1984年，一直用“东广音乐台”这个名称，直到1992年正式用“动感101”这个名字。 “动感101”(FM101.7)，从每天清晨6点到次日凌晨2点，每天20小时播放最新、最精彩的流行音乐，《东方风云榜》新歌推荐，更是为目标受众群打造贴身服务。“动感101”有十多位最具活力的DJ每天带来最具时尚魅力的节目，而电波中川流不息的明星，则带来超凡的动感。"
+      },
+      {
+         "name" : "Station of China Voice",
+         "image" : "71659.v2.png",
+         "site_url" : "http://china.cnr.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/386/64k.mp3",
+         "description" : "中央人民广播电台中国之声，简称中国之声，是中央人民广播电台的新闻和评论性广播；全天24小时不间断播音，全国2000多个调频和中、短波频率无缝隙覆盖；遍布海内外数百家电台、上千名记者全面合作。"
+      },
+      {
+         "name" : "KFM",
+         "image" : "71772.v2.png",
+         "site_url" : "https://weibo.com/login.php",
+         "radio_url" : "http://lhttp.qingting.fm/live/5022023/64k.mp3",
+         "description" : "KFM 98.1, the first bilingual music radio for western music in Shangha"
+      },
+      {
+         "name" : "Beijing Story",
+         "image" : "71647.v4.png",
+         "site_url" : "http://www.rbc.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/337/64k.mp3",
+         "description" : "北京故事广播是由“首都生活广播”于2009年1月1日改版而来，广播覆盖区域为北京、天津和唐山。内容为各种故事，包括：人物、科学、探秘、纪实、文学、历史、评书等。 无论古今、无论中外，人们对故事的喜爱和需要从来没有停止过。“北京故事广播”的开办宗旨就是为了让更多的听众听到好的故事。服务大众文化休闲生活、分享优秀精神产品、寓教于乐、贴近生活，将是我们的特色；弘扬先进文化，传播科学知识，促进人际和谐，提升生活品味，多方位满足公众高品质文化休闲需求，将是我们的目标。"
+      },
+      {
+         "name" : "Zhejiang Ladies Radio",
+         "image" : "71828.v2.png",
+         "site_url" : "http://www.fm1045.net/",
+         "radio_url" : "http://lhttp.qingting.fm/live/4524/64k.mp3",
+         "description" : "全国唯一女主播电台FM104.5品质生活广播，全省同频同步覆盖率排名第二，最具发展潜力的新锐强势媒体，十二星座女主播是最成功的主持人集群。"
+      },
+      {
+         "name" : "CNR Goldenradio",
+         "image" : "71670.v2.png",
+         "site_url" : "http://ent.cnr.cn/ylzt/goldenradio/",
+         "radio_url" : "http://lhttp.qingting.fm/live/389/64k.mp3",
+         "description" : "经典音乐广播(Golden Radio)是中央人民广播电台第四套广播节目、第二套国家级音乐广播，2017年7月10日全新开播，前身是中央台都市生活广播。经典音乐广播全天播出20小时，以直播卫星和新媒体等多种手段覆盖全国，以FM101.8调频覆盖北京，面向高端人群，传播高雅音乐，主要播出交响乐、民族音乐、经典流行音乐和民歌以及合唱节目。 ［更多］"
+      },
+      {
+         "name" : "News",
+         "image" : "71723.v2.png",
+         "site_url" : "http://www.news1296.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/275/64k.mp3",
+         "description" : "东广新闻台，中国大陆第一家类型化新闻电台，每二十分钟刷新全球资讯，全力争取第一时间的报道权。"
+      },
+      {
+         "name" : "Chengdu Simple Music Radio",
+         "image" : "29594.png",
+         "site_url" : "http://site.douban.com/simplemusic/",
+         "radio_url" : "http://http.qingting.fm/5012.mp3",
+         "description" : "简单音乐广播（FM105.1），在成都，一个分享简单生活理念的音乐频率。以创作民谣、流行小清新、小众音乐、爵士R&B为主要风格，分享有气质的音乐。"
+      },
+      {
+         "name" : "经典音乐广播",
+         "image" : "71759.v4.png",
+         "site_url" : "http://www.fm947.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/267/64k.mp3",
+         "description" : "听听FM是一款音频分享与互动的网络电台，汇聚全球2000多家电台直播节目、海量音频节目和个性化原创播客，涵盖新闻，资讯，音乐，相声，小说等大量有声资源。"
+      },
+      {
+         "name" : "Zhejiang Economic",
+         "image" : "71760.v2.png",
+         "site_url" : "http://www.fm95.com.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/4519/64k.mp3",
+         "description" : "fm95浙江经济广播"
+      },
+      {
+         "name" : "Shanghai News",
+         "image" : "71755.v3.png",
+         "site_url" : "http://www.news990.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/270/64k.mp3",
+         "description" : "上海人民广播电台（中波990、调频93.4）——上海广播的旗舰频率，在广大听众心目中占有举足轻重的地位，而且在收听率、市场占有率及广告吸附率上也有标杆表率的作用。万众瞩目的2010即将到来，深植广大听众心中的上海人民广播电台秉承“争取第一时间的报道权，掌握第一时间的解释权”精神，即将奏响新的乐章。 电波的“三贴近”——让听众更贴近首发时间、更贴近事件现场、更贴近新闻背后 全新版面的上海人民广播电台为新闻直播增加了更多的人力、物力，加长了全天的直播节目时间。全新的990直播车将带领听众关注全天新闻动态，让听众在新闻事件发生的第一时间知晓；各档直播节目直击最新鲜的新闻事件，让听众了解更多的热点新闻和幕后故事。"
+      },
+      {
+         "name" : "Hebradio",
+         "image" : "71646.v4.png",
+         "site_url" : "http://www.hebradio.com/hbncgb/",
+         "radio_url" : "http://lhttp.qingting.fm/live/1650/64k.mp3",
+         "description" : "河北电台农村广播是我省唯一面向农村的专业广播频道,采用中波558千赫和亚太Ⅵ卫星传输发射。农村频道的节目构成是，评书占50%，供求信息、科技致富信息、法律咨询服务占30%，互动节目占20%，形成了“评书消遣、信息实用、法律贴近”的节目构成，符合农民听众收听习惯并直接满足农民听众实际需求，在全省广大农民中享有极高的忠诚度。"
+      },
+      {
+         "name" : "Pudong",
+         "image" : "71825.v2.png",
+         "site_url" : "http://www.pudongtv.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/5022341/64k.mp3",
+         "description" : "玩购浦东 ... 上海市浦东新区广播电视台版权所有"
+      },
+      {
+         "name" : "Five Star Sports",
+         "image" : "71756.v2.png",
+         "site_url" : "http://www.hisports.com/",
+         "radio_url" : "http://lhttp.qingting.fm/live/4928/64k.mp3",
+         "description" : "五星体育广播FM94.0是上海唯一的一家专业的体育广播媒体,于2004年8月8号开播。 五星体育广播FM94.0是上海唯一一家专业体育电台是全国首家广播电视多媒体联动的专业体育资讯发布平台它集中了上海体育传媒界强大的人才、版权和资源优势目标打造全国第一的专业体育广播媒体。 五星体育广播FM94.0播出时间从早间600次日凌晨100每天播出19小时滚动播报体坛资讯现场转播重点赛事主推一批特色栏目。 五星体育广播FM94.0拥有一支专业团队广播电视主持人强强联手进行资讯报道、体育评论、赛事解说、听众互动。 五星体育广播FM94.0拥有全国首个广播电视合一的专业演播室、一流的硬件设备和办公条件走在上海广播界前沿。 五星体育广播FM94.0立志打造成为上海体育界权威的资讯发布平台用更快、更高、更强的专业精神为上海体育事业作出贡献。"
+      },
+      {
+         "name" : "CRI Hit FM",
+         "image" : "71657.v3.png",
+         "site_url" : "http://www.hitfm.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/388/64k.mp3",
+         "description" : "Hit FM劲曲调频，是中国国际广播电台（CRI）旗下的国际流行音乐广播，采用国际上最成熟、最专业的类型化音乐电台（Pure Format Radio）操作模式，全天24小时滚动播出当今国际流行乐坛最动感、时尚的热门金曲，让音乐成为高品质追求者随身享用的生活必需品。"
+      },
+      {
+         "name" : "Shanghai Theatre Arts",
+         "image" : "71769.v2.png",
+         "site_url" : "http://www.fm972.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/269/64k.mp3",
+         "description" : "上海电台戏剧曲艺广播有着悠久传统，一向执着于弘扬戏曲艺术。它从原上海人民广播电台文艺频率脱胎而来，于2002年7月15日正式宣告成立，是全国第一家专业戏曲广播。 戏剧曲艺广播力足戏曲欣赏，保留了一大批有着二十多年、甚至五十多年历史的老品牌，如《广播书场》、《说说唱唱》、《谈天说地阿富根》、《滑稽王小毛》、《笑声与歌声》、《越剧大观园》、《越沪艺苑》、《吴曲乡音》、《京昆雅韵》、《刑警803》等。如今的戏剧广播锐意创新，新创即兴广播小品《杨戏迷和马大嫂》闪亮登场，《老搭子茶馆店》最新开张；《戏曲大家唱》特邀专业演员空中教唱，同时开设深入上海各老年大学和社区文化活动中心的“戏迷课堂”，把空中舞台延伸到听众身边。另外，《粉墨春秋故事会》讲述梨园人物的精彩故事，兼具情节性和欣赏性。 戏剧曲艺广播也是沪上独有的以方言播音为主的广播频率，《老搭子茶馆店》、《谈天说地阿富根》、《滑稽王小毛》、《吴曲乡音》、《说说唱唱》、《杨戏迷和马大嫂》等节目向听众传送、教授正宗的上海闲话，播送沪剧、滑稽等上海特产的戏曲曲艺节目。 传承数百年传统艺术，以现代理念活力呈现给听众，希望成为各位戏曲爱好者的精神家园。"
+      },
+      {
+         "name" : "Shanghai ERC Story Radio",
+         "image" : "71853.v3.png",
+         "site_url" : "http://www.fm1072.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/268/64k.mp3",
+         "description" : "2007年12月16日，经国家广播电影电视总局批准沪上首个以“故事立台”的专业广播频率FM107.2上海故事广播正式开播，全天播音18小时。 上海故事广播，播出广大听众喜闻乐见的丰富节目内容，有当代畅销小说、武侠小说、情感故事、幽默故事、财富故事，市井故事、旅游故事、惊悚悬疑故事、档案揭秘、老上海故事、童话故事、小说剧、广播剧等。"
+      },
+      {
+         "name" : "Taiyuan Private Car Radio",
+         "image" : "29563.png",
+         "site_url" : "http://www.tyfm1044.com/",
+         "radio_url" : "http://http.qingting.fm/4018.mp3",
+         "description" : "太原私家车Radio，移动调频准确锁定城市百万私家车移动群体，营造在车内移动的愉悦时光，专为开车人、坐车人“量耳定造”广播节目，只为私家车移动群体打造一个有用、有趣的移动空间、快乐陪驾。"
+      },
+      {
+         "name" : "Zhejiang Music FM Livelihood",
+         "image" : "71775.v3.png",
+         "site_url" : "http://www.ting9968.com/996/",
+         "radio_url" : "http://lhttp.qingting.fm/live/4521/64k.mp3",
+         "description" : "节目直播. 音乐调频. 直播内容： FM 99.6 WIFI Radio，全省覆盖频率杭州、嘉兴、湖州：FM99.6"
+      },
+      {
+         "name" : "Shanghai Traffic Radio",
+         "image" : "71851.v2.png",
+         "site_url" : "http://www.fm1057.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/266/64k.mp3",
+         "description" : "FM105.7上海交通广播是中国第一家以交通信息为主导的广播媒体，以“为大都市的流动人群提供更多、更好、更切实的服务”为宗旨，全天24小时、双频播出，强劲的FM105.7、AM648不仅以清晰的音质传遍上海的任何角落，而且有效覆盖沪宁，沪杭及长三角地区的公路与城市的移动人群。 通过设立在上海市公安局交巡警总队的第二直播室，主持人与监控中心信息同步，第一时间报道交通突发状况、疏导高峰车流。除了即时交通路况及交通专题节目之外，还在汽车、房地产、金融理财、旅游、健康保健、音乐娱乐等领域推出了多档轻松活泼的节目，构成多层次、人性化的服务氛围。"
+      },
+      {
+         "name" : "RBC",
+         "image" : "71674.v2.png",
+         "site_url" : "http://topic.rbc.cn/14/2014chengshi/index.html",
+         "radio_url" : "http://lhttp.qingting.fm/live/345/64k.mp3",
+         "description" : "北京有一家电台，专门服务你的生活，她的名字叫城市广播！这里求解、求学、求职、求医、求援、求乐，外加安居、理财、旅游，“九求必应”！有什么想说的、想问的、要求助的、要分享的，就听城市广播！"
+      },
+      {
+         "name" : "Chengdu Only Radio",
+         "image" : "29597.png",
+         "site_url" : "http://www.cdbs.com.cn/",
+         "radio_url" : "http://livecdn.cdbs.com.cn/fm1032.flv",
+         "description" : "Only Radio FM103.2以清新、时尚、海派为频道特性，以无主播为最大特色，重点凸显频道整体风格，弱化节目概念，严格执行当代流行音乐节目标准，针对18-45岁高素质、高教育目标听众的收听习惯和音乐偏好，以大时段为播出族群，用音乐节奏和风格的转换来衔接、国度、区划各族群节目设定，在频道包装中大量运用中英文双语，歌单选择上强化外文歌曲的出现频率，以此来增加频道辨识度，树立独树一帜的频道风格。"
+      },
+      {
+         "name" : "First Financial Broadcast",
+         "image" : "71771.v1.png",
+         "site_url" : "http://www.yicai.com/",
+         "radio_url" : "http://lhttp.qingting.fm/live/276/64k.mp3",
+         "description" : "第一财经频道是第一财经传媒有限公司旗下的一个以投资者为对象的专业财经频道。总部设在上海，在北京、深圳两地设有直播室，并在香港、新加坡、东京、纽约、伦敦等地拥有特约观察员。全天播出19个小时，直播节目近12个小时，内容涵盖经济、金融、贸易、投资等各个领域。 FM97.7，AM1422第一财经(频率)是全国最具影响力的专业财经特色广播频率，主要有财经资讯、金融证券、生活服务等三大类节目，全天播出16小时。"
+      },
+      {
+         "name" : "East City Radio",
+         "image" : "29569.png",
+         "site_url" : "http://www.eastradio.com/",
+         "radio_url" : "http://http.qingting.fm/4893.mp3",
+         "description" : "东方广播中心隶属于上海广播电视台、上海文化广播影视集团有限公司（SMG），是SMG贯彻落实中央和市委关于深化文化体制改革精神，推进文广整体改革进一步深化的又一举措"
+      },
+      {
+         "name" : "Tianjin Rural Radio",
+         "image" : "71662.v2.png",
+         "site_url" : "http://quxianlianmeng.radiotj.com/",
+         "radio_url" : "http://lhttp.qingting.fm/live/1176/64k.mp3",
+         "description" : "Tianjin Rural Radio is a broadcast radio station from Tianjin, Tianjin, China providing Chinese Agriculture, Talk shows and News reports."
+      },
+      {
+         "name" : "CNR National Voice",
+         "image" : "71708.v3.png",
+         "site_url" : "http://www.cnrmz.com/",
+         "radio_url" : "http://lhttp.qingting.fm/live/394/64k.mp3",
+         "description" : "中央人民广播电台民族之声旧称中央人民广播电台第八套节目，是中央人民广播电台的对少数民族广播频道。该台每日使用调频、中波和短波向全中國少数民族地区播音，使用朝鲜语和蒙古语播音，全日播放18小时。"
+      },
+      {
+         "name" : "Jiangsu News",
+         "image" : "71763.v2.png",
+         "site_url" : "http://www.vojs.cn/2014new/c/k/",
+         "radio_url" : "http://lhttp.qingting.fm/live/4944/64k.mp3",
+         "description" : "2009年7月，江苏新闻广播全省覆盖后，江苏广播新闻宣传大格局基本形成。中波、调频、短波、境内外其它平台多种载体同时使用；对内、对外新闻宣传同时展开；城市、乡村同时覆盖；格式化新闻台、综合型新闻台同时并进，第一时间向全省人民传递省委、省政府的决策和部署，向世界报道江苏。"
+      },
+      {
+         "name" : "Voice of Zhejiang City",
+         "image" : "71852.v2.png",
+         "site_url" : "http://www.fm107.net/",
+         "radio_url" : "http://lhttp.qingting.fm/live/4523/64k.mp3",
+         "description" : "浙江广播电视集团 新蓝网 浙江电台城市之声 版权所有"
+      },
+      {
+         "name" : "CNR Finance",
+         "image" : "71665.v2.png",
+         "site_url" : "http://finance.cnr.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/387/64k.mp3",
+         "description" : "中央人民广播电台经济之声是中国最具影响力的财经广播，也是唯一覆盖中国的财经专业广播频率，频率借助中、短波和几十个城市的调频网覆盖全国3亿多广播听众。经济之声倾力打造全天候的信息服务平台，用权威的声音带给全球最新财经资讯，并让百姓轻松享受理财的乐趣，开启通往财富的大门。节目口号：听有品位的广播，过有质量的生活。节目宗旨：立足经济、关注民生。节目特色：服务社会，寻找社会化体的经济视角；服务百姓，寻找经济话题的百姓视角。"
+      },
+      {
+         "name" : "Jiaxing News Radio",
+         "image" : "71855.v2.png",
+         "site_url" : "http://www.jiaxingren.com/",
+         "radio_url" : "http://lhttp.qingting.fm/live/1154/64k.mp3",
+         "description" : "嘉兴新闻广播（新闻频率），嘉兴市广播电视集团的广播主频率。始终坚持新闻立台、强化服务和公益活动的品牌意识，突出“资讯、服务、时尚、互动”四位一体理念。节目由调频104．1兆赫和中波1107千赫两路传输、播出，全天播音17小时30分。 早、中、晚间三档黄金时段强势新闻版块《嘉广早新闻》、《新闻今日谈》、《新闻晚报》，全天各整点新闻播报，《第一现场》记者连线随时插播，真正做到了“国事、家事、嘉兴事，大事、小事、身边事，尽在嘉兴新闻广播”的节目宗旨。新闻广播特色节目精彩纷呈，《阿德对你讲》、《小崔说法》、《乐活百事通》、《hello！牧洋人》、《动感地带新播客》、《七彩童年》、《点石财经》等，满足了不同年龄、层次听众的需求。"
+      },
+      {
+         "name" : "FM93",
+         "image" : "71753.v2.png",
+         "site_url" : "http://www.fm93.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/4522/64k.mp3",
+         "description" : "FM93同频同步覆盖浙江。从默默无闻到亿元广播，直至中国前三强。十六年，砥砺奋进，引领浙江广播辉煌！ FM93浙江交通之声，历经十六年如铁征程"
+      },
+      {
+         "name" : "Tianjin Life",
+         "image" : "71702.v2.png",
+         "site_url" : "http://shenghuo.radiotj.com/",
+         "radio_url" : "http://lhttp.qingting.fm/live/1169/64k.mp3",
+         "description" : "天津生活广播 2009年倾力巨献，着力打造中国广播媒体——最长时段的倾诉空间、最多关怀的交流平台、最具亲和力的情感家园。在浸透浓厚人文的话语言谈里，行走于都市人的情感之中、聆听最本真的心灵声音。让心灵插上语言的翅膀，享受心与心沟通的快乐，在追寻情感升华的过程中，找到属于我们共同的家。 　　真情记录——在《百姓故事》《温馨家园》与《我要说声谢谢你》中，记录最真实的城市身影。 　　都市物语——《心灵左岸》《都市有情人》与《听得见的往事》一同开启都市的心灵之窗，邮递午间的温暖阳光。 　　午后闲情——《流行阅读》《时尚有声》与《相约玫瑰园》携手勾勒都市情感地图，彰显心情色彩。 　　豪门夜宴——《夜访百家》《悄悄话》与《创业者说》强强联手，聆听心灵诉求，品味生活滋味。 　　假日地帶——《名嘴对对碰》《周日论坛》《共享阳光》等八档节目联手奉献假日温情，打造休憩时光的幸福品质。 　　医药保健——全天五個半小时的细腻呵护，为您布置幸福與健康的港湾。"
+      },
+      {
+         "name" : "Ningbo Radio",
+         "image" : "71722.v2.png",
+         "site_url" : "http://www.nbtv.cn/gbds/gbds.html",
+         "radio_url" : "http://lhttp.qingting.fm/live/1141/64k.mp3",
+         "description" : "宁波人民广播电台创建于1953年。55年来，宁波电台锐意进取，开拓创新，广播事业不断壮大。全台有专业技术人员160余人，其中高级职称29人、中级职称58人。拥有新闻综合频道新闻广播、阳光之声，经济娱乐频道，交通音乐频道交通之声、音乐之声五套系列节目，全天播出各类节目一百多个，时间达98小时，有效覆盖宁波全市和周边地区，覆盖总人口1000万以上。丰富的节目内容和活泼的节目形式吸引了广泛的听众，据央视索福瑞调查宁波电台在宁波广播受众中的占有率达60%以上。宁波电台还办有自主综合网站“宁波广播在线”。 2010年“宁波电台老少广播阳光之声”更名为“宁波电台老少广播”就是把“阳光之声”给去掉了。"
+      },
+      {
+         "name" : "Tibet CNR",
+         "image" : "71705.v2.png",
+         "site_url" : "http://www.tibetcnr.com/",
+         "radio_url" : "http://lhttp.qingting.fm/live/397/64k.mp3",
+         "description" : "中央人民广播电台藏语广播前身为1950年5月22日中央人民广播电台开办的藏语节目，也是中央人民广播电台最早开办的少数民族语言广播。2009年3月1日，从民族之声分离出来，由每天播出8小时增加到18小时[1]，使用藏语卫藏方言、藏语康方言、藏语安多方言播音；2010年增加了安多方言和康巴方言新闻综合节目各2小时，北京时间5：55点到次日0:05点播出。2011年，中央人民广播电台藏语广播中心拉萨编辑部揭牌[2]。"
+      },
+      {
+         "name" : "Driving FM",
+         "image" : "71721.v2.png",
+         "site_url" : "http://www.899fm.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/4893/64k.mp3",
+         "description" : "东方都市广播- 上海899驾车调频, FM 89.9"
+      },
+      {
+         "name" : "Tianjin Economic",
+         "image" : "71701.v2.png",
+         "site_url" : "http://jingji.radiotj.com/",
+         "radio_url" : "http://lhttp.qingting.fm/live/1173/64k.mp3",
+         "description" : "天津经济广播--一个城市上空响亮的声音，一个百姓生活中不可或缺的声音。天津经济广播坚持广播差异化竞争的原则，形成节目的独特性和排他性。巩固我们已有的《今日证券》、《安居置业》、《理财百事通》节目的资源优势，并做大做强，变优势为强势，突出核心竞争力。它定位于“都市、生活”，以“都市民生、大众投资、消费服务、百姓生活”四方面的内容为支点，以百姓的视角捕捉生活热点和亮点，做足都市新闻、民生新闻。说百姓身边事，讲百姓身边理。 　　2009年，天津经济广播将依托现有广播节目加大网络内容的拓展和开发。将每天节目中的服务信息、供求信息等资源整合，在网络平台发布。同时利用网站征集节目素材及听众反馈，加强广播与网站的信息共享和互补延伸。 　　2009年，天津经济广播，将植根于社会，植根于百姓，每个月都要举办一场不同形式的直播或公益活动，让广播走进社区，贴近民生，办百姓“看得见的广播”，服务百姓生活，在天津上空打造一个全新的“时尚、实用”的广播品牌。天津经济广播--打造天津地区生活服务第一台，生活上的事听101.4，天津经济广播离你最近！"
+      },
+      {
+         "name" : "Tianjin News",
+         "image" : "71714.v2.png",
+         "site_url" : "http://xinwen.radiotj.com/",
+         "radio_url" : "http://lhttp.qingting.fm/live/1167/64k.mp3",
+         "description" : "天津新闻广播（FM 97.2 MHz AM 909 KHz），是天津上空历史最悠久、最具影响力的权威声音。通过权威新闻发布锁定最具传播价值的社会中坚力量，各档节目集结了忠实度很高的听众，同时优秀的采编播团队和屡获国家级大奖的新闻报道奠定了新闻广播在业内的话语权。这些不但保障了频道整体收听的竞争力，同时催生出有别于其他频道的独特、有影响力的听众群体，也是天津新闻广播“权威、专业”定位的最好诠释。建台以来，天津新闻广播始终以报道的权威和真实受到听众的信赖和推崇。"
+      },
+      {
+         "name" : "CRI EZFM",
+         "image" : "71700.v2.png",
+         "site_url" : "http://ezfm.cri.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/1006/64k.mp3",
+         "description" : "CRI EZFM is a radio station of China. The radio mainly focuses on songs sang by popular musicians and singers of China which means cultural songs at it best. As this is a very big country and has got plenty of cultural diversity so do CRI EZFM brings a lot of variation in its programmings."
+      },
+      {
+         "name" : "CNR Old",
+         "image" : "71713.v2.png",
+         "site_url" : "http://old.cnr.cn/",
+         "radio_url" : "http://lhttp.qingting.fm/live/396/64k.mp3",
+         "description" : "中央人民广播电台老年之声为中央人民广播电台老年服务类广播频道，旧称中央人民广播电台第十套节目，使用中波1053kHz对北京市播出，全天21.5小时播音（其中每周二14:05—16:55停机检修）。"
+      },
+      {
+         "name" : "Tianjin Crosstalk Radio",
+         "image" : "71715.v2.png",
+         "site_url" : "http://xiangsheng.radiotj.com/",
+         "radio_url" : "http://lhttp.qingting.fm/live/1175/64k.mp3",
+         "description" : "Tianjin peoples brodcasting station"
+      },
+      {
+         "name" : "Voice of Zhejiang",
+         "image" : "71770.v2.png",
+         "site_url" : "http://www.am810.net/",
+         "radio_url" : "http://lhttp.qingting.fm/live/4518/64k.mp3",
+         "description" : "'浙江之声'的前身是浙江新华广播电台浙江人民广播电台浙江人民广播电台新闻综合频道浙江电台新闻台。'浙江之声'是省委省政府的喉舌浙江50多个省级部门政务信息和重要新闻的指定发布媒体。'浙江之声'培育了《浙广早新闻》、《浙江新闻联播》、《阳光行动》等一大批新闻品牌节目以及浙江广播名嘴伟雯等一批著名主持人。"
+      },
+      {
+         "name" : "Jilin Economics Radio",
+         "image" : "29610.png",
+         "site_url" : "http://fm953.jlradio.cn/",
+         "radio_url" : "http://http.qingting.fm/3976.mp3",
+         "description" : "吉林经济广播创办于1993年，它是吉林省唯一一家双频覆盖全省的经济生活广播。全天24小时播出，播出频率为：调频（FM）93.3/中波（AM）846。多年来，经济广播始终坚持“关注百姓经济，服务大众生活”的办台宗旨。突出节目贴近性、服务性、可听性、参与性。"
+      }
+   ]
+}

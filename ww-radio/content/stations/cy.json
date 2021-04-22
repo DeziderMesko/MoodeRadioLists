@@ -1,0 +1,389 @@
+{
+   "cy" : [
+      {
+         "name" : "Cyprus Dub Community Radio",
+         "image" : "18670.v2.png",
+         "site_url" : "http://www.cdcstation.com/",
+         "radio_url" : "http://50.7.77.114:8479/stream",
+         "description" : "Cyprus Dub Community Radio is an online Reggae Radio Station broadcasting from the island of Cyprus. CDC Station aims in creating a platform for local, international DJs as well as sound systems and live acts to promote Reggae music with live and pre-recorded sets."
+      },
+      {
+         "name" : "Love Zove",
+         "image" : "45646.png",
+         "site_url" : "http://www.alltimegreatestradio.com/love-zone.html",
+         "radio_url" : "http://5.189.142.165:8108/stream",
+         "description" : "Love Zone Radio playing just great songs about love, romance and relationships. We’re on air and online 24h a day with the perfect soundtrack for your life."
+      },
+      {
+         "name" : "Klik FM",
+         "image" : "18493.png",
+         "site_url" : "http://www.klikfm.com.cy/",
+         "radio_url" : "http://eco.onestreaming.com:8310/;",
+         "description" : "Εκπέμπει σε όλη την ελεύθερη Κύπρο! Με ένα ιδιαίτερο μουσικό προφίλ που ξεχωρίζει, έχει καθιερωθεί ως ο Πρώτος Μουσικός Σταθμός που μεταδίδει κυρίως ελληνική μουσική, και προσεγγίζει με μεγάλη επιτυχία άτομα όλων των ηλικιακών ομάδων."
+      },
+      {
+         "name" : "Zenith",
+         "image" : "18508.png",
+         "site_url" : "http://www.zenithfm.com.cy/",
+         "radio_url" : "http://live3.istoikona.net:8023/;audio.mp3?hash=1465047625436",
+         "description" : "Zenith 96.4 FM is a broadcast radio station from Nicosia, Cyprus providing Parties, Salsa, Dance, Greek Hits and Christian music, Live shows, Information and Entertainment."
+      },
+      {
+         "name" : "ANT1 FM",
+         "image" : "18491.v3.png",
+         "site_url" : "http://www.ant1iwo.com/ant1radio/",
+         "radio_url" : "https://r1.cloudskep.com/radio2/ant1fm/icecast.audio",
+         "description" : "ANT1 FM is a broadcast radio station on the Ant1 radio group from Nicosia, Cyprus providing Greek Top 40/Pop music, information, culture and sports."
+      },
+      {
+         "name" : "Radio Logos",
+         "image" : "18502.png",
+         "site_url" : "http://www.megatv.com.cy/cgibin/hweb?-A=133&-V=ologos",
+         "radio_url" : "https://r1.cloudskep.com/radio/diesi/icecast.audio",
+         "description" : "Radio Logos is a broadcast radio station in Nicosia, Cyprus, providing religious and greek  music."
+      },
+      {
+         "name" : "Smooth Radio",
+         "image" : "18679.v1.png",
+         "site_url" : "http://www.smoothradio.net/",
+         "radio_url" : "https://media-ssl.musicradio.com/SmoothUKMP3",
+         "description" : "Smooth Radio is a broadcast radio station from Cyprus providing Easy Listening Standards, Pop and Jazz music."
+      },
+      {
+         "name" : "BFBS Cyprus",
+         "image" : "18669.v7.png",
+         "site_url" : "http://www.forces.net/radio/stations/bfbs-cyprus",
+         "radio_url" : "https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs8.aac",
+         "description" : "BFBS British Forces Broadcasting Service: entertaining and informing British Service personnel and their families in British Forces Cyprus, and worldwide."
+      },
+      {
+         "name" : "Choice FM",
+         "image" : "18488.png",
+         "site_url" : "http://www.choicefm.com.cy/",
+         "radio_url" : "http://eco.onestreaming.com:8364/;",
+         "description" : "Choice FM 104.3 is a broadcast Radio station from  Cyprus, providing Top 40/Pop, Rnb and Hot AC Music."
+      },
+      {
+         "name" : "Russian Wave Radio",
+         "image" : "18677.v1.png",
+         "site_url" : "http://www.russianwave.com.cy/",
+         "radio_url" : "http://shout.kalsedia.com:1057/ruwave1057_64",
+         "description" : "Русская Волна 105.7 FM – первая русскоязычная радиостанция Кипра – это лучшая музыка российских и мировых исполнителей, яркие шоу, интересные программы."
+      },
+      {
+         "name" : "GREEK WORLD RADIO",
+         "image" : "51904.v7.png",
+         "site_url" : "http://greekhitsradio.wixsite.com/greekhitsradio",
+         "radio_url" : "http://5.189.142.165:8140/stream",
+         "description" : "GREEK WORLD RADIO is here to bring you the best popular Greek music free to your computer, smartphone and radio"
+      },
+      {
+         "name" : "ΠΡΩΤΟ LIVE",
+         "image" : "62801.v2.png",
+         "site_url" : "http://www.riknews.com.cy/index.php/radio-main/proto-live",
+         "radio_url" : "https://r1.cloudskep.com/cybcr/cybc1/icecast.audio",
+         "description" : "Το παλαιότερο ραδιοφωνικό πρόγραμμα της Κύπρου εκπέμπει σε 24ωρη βάση δίνοντας έμφαση στην επικαιρότητα της ημέρας, την εκπαίδευση και τον πολιτισμό. Παρουσιάζονται προγράμματα για παιδιά, νέους, στρατιώτες, την ιστορία και παράδοση της Κύπρου."
+      },
+      {
+         "name" : "Super Rad 104.8",
+         "image" : "18483.v2.png",
+         "site_url" : "http://www.superfmradio.com/",
+         "radio_url" : "http://eco.onestreaming.com:8175/;",
+         "description" : "Super Rad104.8 - FM 95.7 is a broadcast radio station on the Super Rad104.8 network from Nicosia, Cyprus providing Greek and international Top 40/Pop music, information, live shows and entertainment."
+      },
+      {
+         "name" : "Super Sport FM",
+         "image" : "18487.png",
+         "site_url" : "http://sport-fm.com.cy/",
+         "radio_url" : "http://sportfm-cyprus.live24.gr/sportfm-cyprus",
+         "description" : "Super Sport FM is a broadcast radio station in Nicosia, Cyprus, providing Sports News, Talk and Live coverage of sports events."
+      },
+      {
+         "name" : "Radio Sfera",
+         "image" : "18481.png",
+         "site_url" : "http://www.sfera.gr/",
+         "radio_url" : "http://netradio.live24.gr/sfera4132",
+         "description" : "Ο Sfera 102,2 ιδρύθηκε το 1996 στην Αθήνα και έκτοτε παραμένει στις πρώτες προτιμήσεις των ακροατών. Καθιερώθηκε ως ο σταθμός που τολμά και εντάσσει στο μουσικό του πρόγραμμα, καλλιτέχνες και τραγούδια που αμέσως γίνονται επιτυχίες!Οι trendsetters παραγωγοί του Sfera102.2 προσφέρουν στο Ελληνικό κοινό, ώρες απολαυστικής ελληνικής μουσικής, σχολιασμό της επικαιρότητας με ένα μοναδικά ξεχωριστό τρόπο και όχι μόνο… Κάθε χρόνο ο Sfera 102,2 διοργανώνει με τεράστια επιτυχία events και συναυλίες!Εβδομάδα Ελληνικής ΜουσικήςΚάθε χρόνο 100 Έλληνες καλλιτέχνες φιλοξενούνται στα studio του ραδιοφωνικού και του τηλεοπτικού σταθμού επιλέγοντας τις δικές τους αγαπημένες ελληνικές μουσικές, δημιουργώντας τα playlist των σταθμών Η ΕΕΜ πάντα κορυφώνεται με μεγάλη συναυλία, ανοιχτή στο κοινό με τη συμμετοχή Ελλήνων καλλιτεχνών"
+      },
+      {
+         "name" : "Radio Elios",
+         "image" : "18520.png",
+         "site_url" : "http://politis.com.cy/radio",
+         "radio_url" : "http://live3.istoikona.net:8199/;mp3",
+         "description" : "Radio Elios 107.6 is a radio station broadcasting from Larnaca, Cyprus, Station Airs Greek Music, Adult-Contemporary and Variety programs."
+      },
+      {
+         "name" : "Radio Proto",
+         "image" : "18478.png",
+         "site_url" : "http://www.radioproto.com.cy/",
+         "radio_url" : "http://eco.onestreaming.com:8191/;",
+         "description" : "It was September 3, 1990, when the First Radio broadcast for the first time the mark. Station airs With entertaining shows. In sports news and broadcasting matches. tributes, cultural reports, events, Radio One is now a modern radio. A radio near everyone. Near you."
+      },
+      {
+         "name" : "Sunshine Radio Cyprus",
+         "image" : "62640.v7.png",
+         "site_url" : "http://www.sunshineradio.com/",
+         "radio_url" : "http://5.63.151.52:7172/stream/;stream.mp3",
+         "description" : "Sunshine Radio offers listeners brilliant music, the latest news, weather and other information and entertainment 24 hours a day, 7 days a week."
+      },
+      {
+         "name" : "Radio Pafos",
+         "image" : "18522.png",
+         "site_url" : "http://www.radiopafos.com/",
+         "radio_url" : "http://live.iteam4media.com:1818/;?1461772569450.mp3",
+         "description" : "Το ΡΑΔΙΟ ΠΑΦΟΣ ως πολυσυλλεκτικός σταθμός δίνει βάση τόσο στην ανεξάρτητη και αντικειμενική ενημέρωση όσο και στην ψυχαγωγία."
+      },
+      {
+         "name" : "Radyo Cool",
+         "image" : "18521.png",
+         "site_url" : "http://www.radyocool.net/",
+         "radio_url" : "http://yayin3.canlitv.com:6050/;",
+         "description" : "Radyo Cool is a broadcast based radio station from Famagusta that plays Turkish Hits and Local genre of music."
+      },
+      {
+         "name" : "Star FM",
+         "image" : "18501.png",
+         "site_url" : "http://www.starfm937.com/",
+         "radio_url" : "http://eco.onestreaming.com:8538/;",
+         "description" : "Το STAR FM 93.7 με έδρα την Λάρνακα καλύπτει την πόλη και μια μεγάλη περιοχή της επαρχίας. Ξεκίνησε να εκπέμπει επίσημα το 2005! Ο σταθμός μας κατάφερε με σταθερά βήματα να κερδίσει την προτίμηση όλο και περισσότερων ακροατών και την εμπιστοσύνη των τοπικών επιχειρήσεων.Το πρόγραμμα του σταθμού είναι κυρίως μουσικό αλλά περιλαμβάνει καθημερινά εκπομπές με ενημέρωση, ειδήσεις με έμφαση στην τοπική επικαιρότητα, αλλά και αθλητική εκπομπή με στόχευση στα νέα των ομάδων της πόλης.Με προσεκτική ισορροπία ανάμεσα στο λαϊκό τραγούδι που έκανε τον σταθμό αγαπημένο πολλών, και το καλό ποιοτικό ελληνικό τραγούδι στην ευρύτερη του έννοια. Με προτεραιότητα στα δρώμενα της πόλης δίνοντας μέσα από τις εκπομπές του βήμα και έκφραση στους ανθρώπους της. Με φιλοξενίες και ανάδειξη του έργου προσωπικοτήτων και εταιρειών που προέρχονται από την πόλη και πρωταγωνιστούν στα πράγματα της Κύπρου ή της τοπικής κοινωνίας."
+      },
+      {
+         "name" : "Ydü FM",
+         "image" : "18537.png",
+         "site_url" : "http://www.neu.edu.tr/",
+         "radio_url" : "http://broadcast.neu.edu.tr/ydufm",
+         "description" : "Ydü FM 88.0 -  Is a broadcast based radio station from the Cyprus Near East University that plays Rock, Collage genre of music"
+      },
+      {
+         "name" : "Kibris FM",
+         "image" : "18514.v1.png",
+         "site_url" : "http://www.kibristv.com/kibristv/fm.html",
+         "radio_url" : "http://46.101.133.224/hls/radio.m3u8",
+         "description" : "Kibris FM 103.4 is a broadcast radio station from Nicosia, Cyprus providing News, Information, Education and Economics."
+      },
+      {
+         "name" : "Radio TBB",
+         "image" : "49065.png",
+         "site_url" : "http://radiotbb.com/",
+         "radio_url" : "http://79.98.108.170:8121/live",
+         "description" : "Radio station for electronic music.Every day live radio shows with the best DJ’s around the world!"
+      },
+      {
+         "name" : "Radio Napa",
+         "image" : "18682.v1.png",
+         "site_url" : "http://www.napaonline.eu/",
+         "radio_url" : "http://67.212.189.122:8115/;",
+         "description" : "Radio Napa is one of the most popular and oldest commercial radio brands in Cyprus.We’re into good music from the past, we love new music from the present and blend the greatest hits of all time seamlessly together 24-hours a day.You’ll hear everything from the Beatles to Bryan Adams and the latest quality new releases, which are updated weekly to our playlist.Our listeners are from a variety of backgrounds, including wives, husbands, parents, tourists, expats, locals and professionals.Listeners are able to listen to Napa on various platforms, we are available nationally on via online radio and mobile as well on FM Stereo across the south east of Cyprus.Our online platform, along with social media outlets are a popular source for local news."
+      },
+      {
+         "name" : "Capital Radio",
+         "image" : "18524.v1.png",
+         "site_url" : "http://www.capitalcyprus.com/",
+         "radio_url" : "http://159.253.37.137:9956/;",
+         "description" : "Cyprus's No:1 Hit Music Station... Broadcasting on 93.8 FM radio service and a live online stream."
+      },
+      {
+         "name" : "RadioSama",
+         "image" : "18532.png",
+         "site_url" : "http://www.radiosama.net/",
+         "radio_url" : "http://serv02.streamsfortheworld.com:8000/radiosama_hi",
+         "description" : "من نحنيتوجه ”راديو سما“ الى كافة المستمعين، لاسيما الشباب منهم، بباقة من البرامج المفيدة على الصعيد الروحي والنفسي والاجتماعي إضافة الى الترانيم والاناشيد والشهادات المنعشة للروح. ترتكز كافة موادنا على مبادىء الكتاب المقدس وتعاليم سيدنا يسوع المسيح في نطاق احترام مشاعر المستمع ومبادئه. تابعوا آخر المستجدات على “Radio Sama” يوميا على مدار الساعة."
+      },
+      {
+         "name" : "Radio Pure 90s",
+         "image" : "65690.v3.png",
+         "site_url" : "http://pure90s.eu/",
+         "radio_url" : "http://5.189.142.165:8505/stream",
+         "description" : "Pure 90s is here to bring you the best 90s music 24/7 free to your computer, smartphone and radio!"
+      },
+      {
+         "name" : "Astra FM",
+         "image" : "18482.png",
+         "site_url" : "http://www.astra.com.cy/",
+         "radio_url" : "http://radio.dialogos.com.cy:8000/stream",
+         "description" : "Astra FM 92.8 is a broadcast radio station from Nicosia, Cyprus, providing News, Culture, World, Pop, and Rock music."
+      },
+      {
+         "name" : "Greek Hits Radio",
+         "image" : "43155.v3.png",
+         "site_url" : "http://greekhitsradio.wixsite.com/greekhitsradio",
+         "radio_url" : "https://streamingv2.shoutcast.com/GREEKHITSRADIO",
+         "description" : "GREEK HITS RADIO is here to bring you the best popular Greek music free to your computer, smartphone and radio."
+      },
+      {
+         "name" : "Pure 60s",
+         "image" : "74840.v2.png",
+         "site_url" : "http://60schartbusters.weebly.com/pure-60s.html",
+         "radio_url" : "https://str2b.openstream.co/575",
+         "description" : "Pure 60s is here to bring you the best 60s Music 24/7 free to your computer, smartphone and radio !"
+      },
+      {
+         "name" : "60s Chartbusters",
+         "image" : "43150.v4.png",
+         "site_url" : "https://alltimegreatestradio.co.uk/60s-Chartbusters/",
+         "radio_url" : "https://streamingv2.shoutcast.com/60sChartbusters",
+         "description" : "60s Chartbusters is here to bring you the best 60s music 24/7 to your computer, smart phone and radio! Nothing would ever be the same again, the 1960's was the period of time which changed everything. The sixties decade was the most incredibly exciting, influential, inventive and vibrant period of popular music in the 20th century."
+      },
+      {
+         "name" : "Mix FM",
+         "image" : "18485.v1.png",
+         "site_url" : "https://www.mixfmradio.com/",
+         "radio_url" : "http://eco.onestreaming.com:8127/;",
+         "description" : "Mix FM is Cyprus’ No1 Hit Music Station.It is by far the most original, vibrant and energetic radio station on the island that has managed to set new standards in radio broadcasting.Mix FM was introduced to Cyprus on the 23rd of February 2002 and since then has consistently delivered the best international hit music 24 hours a day, the coolest live links, the most original competitions and promotions and the biggest events on the island. Mix FM’s core audience ranges from 15 to 35 years old.  Our station is heard in most homes, cars, restaurants, gyms, cafes, shops and offices. Tune in and enjoy!"
+      },
+      {
+         "name" : "Dance FM",
+         "image" : "18492.v11.png",
+         "site_url" : "http://www.nrgplay.com/",
+         "radio_url" : "http://88.99.254.110/;",
+         "description" : "Dance FM is a broadcast radio station in Nicosia, Cyprus, providing Adult Contemporary Pop Dance music."
+      },
+      {
+         "name" : "Bayrak Radyosu",
+         "image" : "18503.v2.png",
+         "site_url" : "http://www.brtk.net/radio-template/",
+         "radio_url" : "http://sc.brtk.net:8002/;*.mp3",
+         "description" : "BRTK broadcasts news, sports, arts, women's hour, talks, educational, cultural, entertainment and other social events programmes on both TV and Radio."
+      },
+      {
+         "name" : "CHILLOUT ZONE",
+         "image" : "43159.v8.png",
+         "site_url" : "https://chillout-zone.eu/",
+         "radio_url" : "http://5.189.142.165:2304/;",
+         "description" : "Listen to the best relaxing chill-out, lounge, ambient, smooth jazz and downtempo ​music while working, having a cocktail, chilling out at home or driving."
+      },
+      {
+         "name" : "Rock FM Cyprus",
+         "image" : "18500.png",
+         "site_url" : "http://rockfmcyprus.com/",
+         "radio_url" : "http://live3.istoikona.net:8278/;",
+         "description" : "12 years ago Rock FM presented Paphos with a unique radio program format. Based on good music for every taste, our shows combine both English and Greek presenters and that did not just happen by accident.Rock FM is the radio station for everyone! We consider ourselves a major part of the local society and the main way people in this society communicate. That is why we are always first in any charity event and why we try to get out of the studios and next to the people of Paphos and Limassol, through Live Links, festivals, parties and more.Rock FM is a family from any angle you see it. It’s a family business created by two good friends with the same ambitions for a creative life and not a faceless corporation trying to make another million. The Rock FM team works like a big family and that is what makes everyday cooperation within Rock FM a real pleasure.Rock FM is always evolving, always near you. So all you have to do is stay tuned, as the best is yet to come!"
+      },
+      {
+         "name" : "KISS",
+         "image" : "18486.png",
+         "site_url" : "http://kissfm.com.cy/",
+         "radio_url" : "http://phileradio.com:8193/89FM",
+         "description" : "Τώρα ακούς KISS παντού… με τις καλύτερες επιτυχίες από τα 80’s μέχρι σήμερα, στοχεύοντας σε ένα μεγαλύτερο ακροατήριο που αγαπά την ξένη μουσική, έχει μοντέρνες αντιλήψεις, είναι μορφωμένο και κοινωνικά καλλιεργημένο και ζει στους ρυθμούς της πόλης.Ο ακροατής του KISS 89.0 λατρεύει τη μουσική, ζει και διασκεδάζει με αυτή! Το νέο πρόγραμμά του σταθμού περιλαμβάνει εκπομπές από αγαπημένους Κύπριους μουσικούς παραγωγούς, καθώς και θεματικές ενότητες, που έχουν ως στόχο τη μουσική ενημέρωση και ψυχαγωγία του ακροατή. Συμπληρώνεται δε με πληθώρα διαγωνισμών, ζωντανών συνεντεύξεων από το στούντιο και live links από όλη την Κύπρο.Ο KISS 89.0 συνεχίζει να αναπτύσσεται, να εξελίσσεται, να προσαρμόζεται στα δεδομένα της εποχής, διατηρώντας παράλληλα τις αρχές του: μεράκι για το ραδιόφωνο, αγάπη για τη μουσική και ανάγκη για ειλικρινή, άμεση, ανθρώπινη και ζεστή επικοινωνία με το κοινό. Τώρα ακούς KISS παντού…Καλώς ήλθατε στον KISS 89,0 & 88,5!"
+      },
+      {
+         "name" : "Melody Radio",
+         "image" : "18519.v1.png",
+         "site_url" : "http://melodyradio1031.com/",
+         "radio_url" : "http://liveaudio.virtualict.com:8000/;",
+         "description" : "The station was founded by Mr. Panicos Costantinou on 2nd February 1998. Melody Radio is Limassol’s leading Greek, English and international music. We broadcast 24 hours a-day to documented listeners of 41%. So Melody Radio is tuned-in to the living pulse of Limassol, at 103.1 FM.We play the latest sounds and all the hits from the past for all ages and demographics. So Melody Radio is far more than a set of airwaves, they are part of Limassol life."
+      },
+      {
+         "name" : "All Time 70s 80s Greatest",
+         "image" : "42886.v3.png",
+         "site_url" : "http://www.alltimegreatestradio.com/",
+         "radio_url" : "https://streamingv2.shoutcast.com/AllTime70s80sGreatest",
+         "description" : "Welcome to your very own personal dedicated 70s and 80s Internet Radio Station ! Nothing but the 70s and 80s, Non-Stop all day and every day. All classic hits, one hit wonders and all those songs you had forgotten about..! 24/7 - 365 days music free to your computer, smart phone and radio..! Start listening Now !"
+      },
+      {
+         "name" : "70s 80s All Time Greatest",
+         "image" : "76551.v4.png",
+         "site_url" : "https://alltimegreatestradio.co.uk/All-Time-70s-80s-Greatest/",
+         "radio_url" : "http://5.189.142.165:8032/stream",
+         "description" : "Nothing but the 70s and 80s, Non-Stop all day and every day. All classic hits, one hit wonders and all those songs you had forgotten about..!"
+      },
+      {
+         "name" : "artFM Radio",
+         "image" : "18518.png",
+         "site_url" : "http://www.artfmradio.com/",
+         "radio_url" : "http://192.240.102.198:14012/;",
+         "description" : "artFM Radio is an internet radio station from Limassol, Cyprus, providing best music, art, entertainment and live shows from all over the world."
+      },
+      {
+         "name" : "NRG Türkçe Rap",
+         "image" : "76893.v3.png",
+         "site_url" : "http://www.nrgplay.com/",
+         "radio_url" : "http://scserv.nrgplay.com:80/stream/202/;",
+         "description" : "En iyi ve en yeni Türkçe Rap."
+      },
+      {
+         "name" : "50s All Time Greatest",
+         "image" : "43148.v8.png",
+         "site_url" : "https://alltimegreatestradio.co.uk/50s-Greatest/",
+         "radio_url" : "https://streamingv2.shoutcast.com/50sAllTimeGreatest",
+         "description" : "50s All Time Greatest Radio is here to bring you the best 50s, 60s, oldies music 24/7 to your computer, smartphone and radio. All classic hits, one hit wonders and all those songs you had forgotten about..!"
+      },
+      {
+         "name" : "Kıbrıs Sim Radyo",
+         "image" : "80377.v3.png",
+         "site_url" : "http://www.simradyo.com/",
+         "radio_url" : "http://88.255.211.12:8000/;stream.mp3",
+         "description" : "Kıbrıs Lefkoşa”da her tür müzik yayını yapan bir yerel radyodur."
+      },
+      {
+         "name" : "Enerji",
+         "image" : "18484.v1.png",
+         "site_url" : "http://www.radyoenerji.com/",
+         "radio_url" : "http://webstream.mediaworks.com.tr/stream/2/;stream.mp3/;",
+         "description" : "Radyo Enerji FM 93.1 is a broadcast Radio station from Lefkosa Nicosia, North Cyprus, Cyprus, providing Top 40/Pop, Hot AC and Rnb Music."
+      },
+      {
+         "name" : "90s All Time Greatest",
+         "image" : "43149.v6.png",
+         "site_url" : "https://alltimegreatestradio.co.uk/90s-All-Time-Greatest/",
+         "radio_url" : "https://streamingv2.shoutcast.com/90sAllTimeGreatest",
+         "description" : "90s All Time Greatest is here to bring you the best 90s Music 24/7 free to your computer, smartphone and radio. All classic hits, one hit wonders and all those songs you had forgotten about..!"
+      },
+      {
+         "name" : "All 60s Radio",
+         "image" : "76408.v4.png",
+         "site_url" : "http://allhitsradio.eu/",
+         "radio_url" : "http://185.105.4.100:8151/stream",
+         "description" : "All 60s Radio is here to bring you the best 60s Music 24/7 free to your computer, smartphone and radio!"
+      },
+      {
+         "name" : "Radyo Güven",
+         "image" : "80928.v1.png",
+         "site_url" : "https://www.radyoguven.com/",
+         "radio_url" : "http://82.145.227.16:8080/radyoguven.mp3",
+         "description" : "Kıbrıs Türkünün sesi"
+      },
+      {
+         "name" : "NRJ Cyprus",
+         "image" : "82898.png",
+         "site_url" : "https://nrj.com.cy/",
+         "radio_url" : "http://shout.kalsedia.com:1045/;stream.nsv",
+         "description" : "NRJ Cyprus is an official member of NRJ, the biggest commercial radio franchise in the world with 17 Countries & 32 Million Weekly Listeners. NRJ HIT MUSIC ONLY ensuring that you won't miss your favorite hit from was it R&B, Pop, Rock or Dance."
+      },
+      {
+         "name" : "Enallaktikos-Studio64",
+         "image" : "78231.v11.png",
+         "site_url" : "http://www.64fmcy.com/",
+         "radio_url" : "http://s3.voscast.com:9728/;",
+         "description" : "Ellinikos-Studio64WGR-Web Greek RadioΠοιοτικό Ραδιόφωνο."
+      },
+      {
+         "name" : "All Hits Zone",
+         "image" : "66633.v6.png",
+         "site_url" : "http://alltimegreatestradio.co.uk/",
+         "radio_url" : "https://listen.openstream.co/3126/audio",
+         "description" : "A Real Decades Internet Radio Station ! All classic hits, one hit wonders and all those songs you had forgotten about !"
+      },
+      {
+         "name" : "Capital FM96.1",
+         "image" : "18681.png",
+         "site_url" : "http://www.capital-961fm.com/",
+         "radio_url" : "http://81.4.144.146:8000/live",
+         "description" : "Capital FM 96.1 is an international online radio station playing a fresh music format for a global audience. Capital FM 96.1 are an independent station for the online generation, connecting those who already have a strong connection with Cyprus."
+      },
+      {
+         "name" : "Extacy Radio",
+         "image" : "76488.v1.png",
+         "site_url" : "https://www.extacyradio.com.cy/",
+         "radio_url" : "http://151.80.252.37:9998/listen.mp3",
+         "description" : "Από τις 3 Δεκεμβρίου 2018 το Extacy Radio πλέον δραστηριοποιείται και στην Κύπρο. Συντονιστείτε λοιπόν και αφήστε τα άλλα επάνω μας....."
+      },
+      {
+         "name" : "Wacky Radio",
+         "image" : "18523.png",
+         "site_url" : "http://www.wackyradio.com/",
+         "radio_url" : "http://149.202.69.31/listen/6d66h5swmumtv",
+         "description" : "Όταν ο έρωτας για την μουσική και το ράδιο ξεπέρασε τα όρια της τρέλας, τότε και εμείς δημιουργήσαμε το Wacky Radio!!! Μέσα από αυτή την τρέλα και τον παρορμητισμό μας, δημιουργήσαμε το δικο σας Wacky Radio για ατελιώτες ώρες μουσικής ακρόασης με ελάχιστες σφηνες συζήτησης και προβληματισμού!!! Με όπλο την θετική μας ενέργεια, τον ενθουσιασμό μας, αλλά και την ερασοτεχνική τρέλλα μας, τολμούμε να κοντράρουμε τις αντοχές σας, με αλύπητες ντόπες μουσικής έκστασης!!! Μέσα από τα προγράμματα μας θέλουμε να μοιράσουμε απεριόριστες ώρες διασκέδασης, αλλά και την ευκαιρια στους ακροατές μας να κερδίσουν δώρα, και ταυτόχρονα να εκμεταλευτούν της ευκερίας που θα τους δοθεί να παρουσιάσουν και αυτοί το δικό τους προγραμμα στο ραδιόφωνο. Τρελλοσωρίσατε λοιπόν στο Wacky Radio... και... τολμήστε να γίνετε και εσεις μέρος της τρέλλας..."
+      }
+   ]
+}

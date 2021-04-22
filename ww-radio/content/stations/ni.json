@@ -1,0 +1,410 @@
+{
+   "ni" : [
+      {
+         "name" : "Radio Maria",
+         "image" : "36346.v4.png",
+         "site_url" : "http://radiomaria.org.ni/",
+         "radio_url" : "http://dreamsiteradiocp4.com:8048/;?",
+         "description" : "¡Una voz católica en tu hogar! 99.9 y 90.7 FM en Nicaragua, América Central. Nuestra Misión es ser instrumento de la Nueva Evangelización para poder seguir extendiendo la palabra del Señor.."
+      },
+      {
+         "name" : "Radio Andromeda",
+         "image" : "48882.v2.png",
+         "site_url" : "http://www.radioandromeda.tk/",
+         "radio_url" : "http://c11.radioboss.fm:8071/stream",
+         "description" : "Diseñada Exclusivamente para Tus Oídos!!Combinacion Perfecta del pasado y el presente!Un Oasis para Tus Oidos!"
+      },
+      {
+         "name" : "Radio Ondas de Luz",
+         "image" : "36637.png",
+         "site_url" : "http://www.ondasdeluz.com/",
+         "radio_url" : "http://www.streamkairos.com:9976/;",
+         "description" : "Ser tribuna del pueblo evangélico de Nicaragua en la construcción del Reino de Dios. Promover la libre difusión de la Palabra de Dios, mediante estudios bíblicos, foros, análisis, prédicas, radio revistas y comunicación participativa destinados a impulsar la formación, conocimiento y fortalecimiento de las iglesias evangélicas. Promover los valores y principios del evangelio que fomenten la unión de la familia y de la sociedad nicaragüense. Difundir las expresiones culturales nicaragüenses que afirmen nuestra identidad nacional. Ser una voz profética que procure una sociedad más justa, pacífica, trabajadora y próspera."
+      },
+      {
+         "name" : "Desde Chinandega",
+         "image" : "36369.v1.png",
+         "site_url" : "http://www.desdechinandega.com/radio",
+         "radio_url" : "http://radios.navegacionesfranks.com:9322/;stream/1",
+         "description" : "Sitio web de la ciudad de Chinandega, Nicaragua. Nuestra misión es dar a conocer la cultura, tradiciones y acontecimientos de la ciudad."
+      },
+      {
+         "name" : "Radio Corporación",
+         "image" : "35989.png",
+         "site_url" : "http://www.radio-corporacion.com/",
+         "radio_url" : "https://stream.zeno.fm/2d1n26k0a7duv",
+         "description" : "La emisora que habla el lenguaje de su pueblo."
+      },
+      {
+         "name" : "La Nueva Radio Ya",
+         "image" : "36315.v8.png",
+         "site_url" : "https://nuevaya.com.ni/",
+         "radio_url" : "https://stream.zenolive.com/g8svpwaz5f5tv",
+         "description" : "Cualquier comentario, contenido o foto publicado por ti, podría ser usado por La Nueva Radio YA o sus afiliados en cualquier medio. La Nueva Radio YA se reserva el derecho de eliminar, editar la información que publiques."
+      },
+      {
+         "name" : "Radio ABC Stereo",
+         "image" : "36631.v1.png",
+         "site_url" : "http://www.radioabcstereo.com/",
+         "radio_url" : "http://76.164.217.100:7066/stream",
+         "description" : "Radio ABC Stereo Estelí...El Alfabeto de tu música ♥ A 20 Años: Seguimos siendo parte de tu Familia"
+      },
+      {
+         "name" : "Radio Restauracion",
+         "image" : "36455.v2.png",
+         "site_url" : "http://www.mirestauracion.net/",
+         "radio_url" : "http://stm12.miradio.com.es:10428/;",
+         "description" : "Radio Restauracion 107.9 fm Radio Cristiana en Nicaragua. Amado pueblo de Nicaragua y muy especialmente al pueblo cristiano, quiero anunciarles que estamos declarando en el nombre poderoso de Jesucristo que será el “Año de las Bendiciones Sobrenaturales”, creemos en el poder de Dios que se va a manifestar en una manera extraordinaria como nunca jamás hemos vista la manifestación del poder de Dios sobre nuestras vidas."
+      },
+      {
+         "name" : "La Tuani",
+         "image" : "36505.png",
+         "site_url" : "http://www.latuani.com.ni/",
+         "radio_url" : "http://107.6.142.243:9300/;",
+         "description" : "La emisora 100% urbana en Nicaragua. La Tuani la que está de Moda!"
+      },
+      {
+         "name" : "Radio Sandino",
+         "image" : "36316.v1.png",
+         "site_url" : "http://www.lasandino.com.ni/",
+         "radio_url" : "http://165.98.68.45:8000/lasandino.mp3",
+         "description" : "La sandino esta #EnTodasPartes!!! Junto al pueblo nicaragüense por más de 30 años, con música, entretenimiento, deportes y mucha información."
+      },
+      {
+         "name" : "Radio Príncipe de Paz",
+         "image" : "62073.v3.png",
+         "site_url" : "http://www.radioprincipedepaz.net/",
+         "radio_url" : "http://64.150.176.192:8010/;stream.nsv",
+         "description" : "Transmitimos el mensaje de salvación de Nuestro Señor Jesucristo, desde Managua, Nicaragua, las 24Horas, bendito por siempre es mi Señor..."
+      },
+      {
+         "name" : "Radio La Primerísima",
+         "image" : "36324.v1.png",
+         "site_url" : "http://www.radiolaprimerisima.com/",
+         "radio_url" : "http://server.3hostingnica.com:9000/&type=mp3",
+         "description" : "Radio La Primerísima, fundada en diciembre de 1985, fue una de las radioemisoras creadas durante los diez años de gobierno del Frente Sandinista de Liberación Nacional (FSLN), entre el triunfo revolucionario de 1979 sobre la dictadura de Somoza, y la derrota electoral de 1990. La historia de esta radio tiene dos grandes etapas: Primero como propiedad del Estado, hasta 1990, y luego como propiedad de los trabajadores, a través de la Asociación de Profesionales de la Radiodifusión Nicaragüense (APRANIC), hasta el día de hoy."
+      },
+      {
+         "name" : "Coca-Cola FM",
+         "image" : "39429.v3.png",
+         "site_url" : "http://www.coca-cola.com.co/es/",
+         "radio_url" : "https://ic.imusicaradios.com.br/nicaragua.stream.http",
+         "description" : "Radio que ofrece programas variados que brindan entretenimiento e información, los más escuchados son Carreteraa, Música CCFM, RuidoNoise, El Colectivo, Pop Stop entre otros, que difunde durante las 24 horas."
+      },
+      {
+         "name" : "Radio Viva FM",
+         "image" : "67380.v3.png",
+         "site_url" : "http://www.vivafm.com.ni/",
+         "radio_url" : "http://165.98.68.45:8030/vivafm.mp3",
+         "description" : "Viva Fm 98.3 Es una emisora con una excelente programación y selección musical, basada en éxitos románticos del ayer en español, inglés y de la actualidad."
+      },
+      {
+         "name" : "Radio fe 840",
+         "image" : "36646.png",
+         "site_url" : "http://radio.fe840.com/",
+         "radio_url" : "http://usa3.fastcast4u.com:5814/;?_=1",
+         "description" : "Radio fe 840 am es algo diferente, tiene en mente al oyente, tanto cristiano como de otra fe. Quiero que esta sea su emisora preferida.No queremos comercializar la programación, ni el evangelio del nuevo pacto. Nuestra programación tiene por meta hacerle crecer con la palabra, educarle y enseñarle sobre su posición en cristo."
+      },
+      {
+         "name" : "Radio Disney",
+         "image" : "64935.v2.png",
+         "site_url" : "http://radiodisney.disneylatino.com/nicaragua",
+         "radio_url" : "http://ic.streann.com:8000/disneynicaragua",
+         "description" : "Radio Disney es una radio musical de éxitos en español e inglés que transmite las 24 horas del día con un elenco de locutores integrado por jóvenes estudiantes de locución. La programación está destinada a niños y adolescentes."
+      },
+      {
+         "name" : "RADIO LA VOZ DE TERESA",
+         "image" : "36634.png",
+         "site_url" : "http://lavozdeteresa.blogspot.com/",
+         "radio_url" : "http://91.121.65.37:26214/;",
+         "description" : "SOMOS UNA RADIO ESPECIAL EN LOS 1530 AM ,DESDE LA CIUDAD DE SANTA TERESA CARAZO EN NICARAGUA. TRASMITIMOS LAS 24 HORAS"
+      },
+      {
+         "name" : "Radio Kiss 92.9 FM",
+         "image" : "56469.v3.png",
+         "site_url" : "http://radiokiss929.com/",
+         "radio_url" : "http://giss.tv:8001/kissfmmatagalpa.mp3",
+         "description" : "Radio Kiss 92.9 FM, la radio Juvenil Urbana de Matagalpa, siendo la primera radio mas escuchada del norte de Nicaragua."
+      },
+      {
+         "name" : "Radio Stereo Madriz",
+         "image" : "67297.v3.png",
+         "site_url" : "https://stereomadrizsomoto.es.tl/",
+         "radio_url" : "https://stream.zenolive.com/w571q240kumtv",
+         "description" : "Radio Stereo Madriz es el medio de comunicación mas importante de la región.Ha ocupado un lugar en cada uno de los hogares norteños y cuenta con un sistema de producción altamente computarisado."
+      },
+      {
+         "name" : "Radio Pirata",
+         "image" : "36456.png",
+         "site_url" : "http://pirata.biz/",
+         "radio_url" : "http://managua.mooo.com:8765/m128.mp3",
+         "description" : "Radio Pirata 99.9 FM, Managua, Nicaragua, is a cultural radio station, transmitting live on the Internet. Brief history: Radio Pirata was born in December 1991, in Managua, Nicaragua. After a few moves we ended up at the (in)famous place in Managua called 'La Colinita de Susto' (Hill of Fear), an open place on a cool hill with a fantastic view, where we also arranged rock concerts. We also had a lot of young people making programs for us, mostly metal rock, and also several with other content."
+      },
+      {
+         "name" : "Radio Poder De Cristo",
+         "image" : "37192.png",
+         "site_url" : "http://www.rpc1049fm.com/",
+         "radio_url" : "http://45.55.42.134:8000/airtime_128",
+         "description" : "Una de las razones por la cúal soy Dj es por que me apasiona hablar sobre la palabra de Dios, estar en la radio y hacer lo que hago me apasiona; saber que por medio de las alabanzas hay gente que quizás estan pasando por alguna necesidad, ya sea espiritual o material, y al escuchar alguna alabanza o alguna reflexión de Dios ministra sus vidas de una maravillosa manera."
+      },
+      {
+         "name" : "Radio 800 AM",
+         "image" : "36643.v1.png",
+         "site_url" : "http://radio800.es/revista/",
+         "radio_url" : "https://stream.zenolive.com/qtbg1e6xh4duv",
+         "description" : "Radio 800 AM - La Gigante del Dial con 50,000 Watts de potencias"
+      },
+      {
+         "name" : "Fiesta Norteña Radio",
+         "image" : "81557.v3.png",
+         "site_url" : "https://zeno.fm/lachukara",
+         "radio_url" : "https://stream.zeno.fm/2wy9xv857reuv",
+         "description" : "Fiesta Norteña Radio Nicaragua es una idea que surge de la necesidad de la gente para escuchar radios frescas y sin ningun perfil politico,religioso que dibulguen solo contenido musical para que los oyentes se sientan muy comodos con sus gustos."
+      },
+      {
+         "name" : "Radio Music Online",
+         "image" : "80211.png",
+         "site_url" : "http://radiomusicfm.mex.tl/",
+         "radio_url" : "https://ic.streann.com/cvaudio",
+         "description" : "Somos Radio Music trasmitiendo CVC LA VOZ contenido y comunidad una Radio diferente y dinamica donde encontraras variedades de programas, musica actual, entretenimiento y mucho mas Sintonizanos...."
+      },
+      {
+         "name" : "Hotmusic Radio",
+         "image" : "75371.v7.png",
+         "site_url" : "http://mmcradio.tk/",
+         "radio_url" : "https://stream.zenolive.com/dwmeq8xk2rquv",
+         "description" : "Hotmusic Radio Nicaragua es una idea que surge de la necesidad de la gente para escuchar radios frescas y sin ningun perfil politico,religioso que dibulguen solo contenido musical para que los oyentes se sientan muy comodos con sus gustos."
+      },
+      {
+         "name" : "Radio Tigre 93.9 FM",
+         "image" : "36510.v3.png",
+         "site_url" : "http://www.radiotigre.com/index.html",
+         "radio_url" : "http://www.radiotigre.com/al-aire.html",
+         "description" : "Escuchá Radio Tigre 93.9 FM a través de radios.co.ni. Con un simple click puedes escuchar todas las mejores emisoras de radio de Nicaragua."
+      },
+      {
+         "name" : "Joya FM",
+         "image" : "36368.v3.png",
+         "site_url" : "http://www.joyafm.com.ni/",
+         "radio_url" : "https://www.radiosnicaragua.com.ni/radios/joya/",
+         "description" : "La mejor música en inglés de los 70´s, 80`s, 90´s y pinceladas de los años 60, con una programación hecha a la medida del oyente."
+      },
+      {
+         "name" : "Radio Suprema",
+         "image" : "36622.v3.png",
+         "site_url" : "http://www.radiosuprema.com.ni/",
+         "radio_url" : "https://www.radiosnicaragua.com.ni/radios/suprema/",
+         "description" : "Transmitimos éxitos en Inglés y Español de la música Pop, Pop-Rock & Alternativo, dance, techno y hits actuales de artistas consagrados a traves del tiempo. Con una locución fresca, animada e informativa."
+      },
+      {
+         "name" : "Radio Tropicálida",
+         "image" : "36511.v3.png",
+         "site_url" : "http://www.tropicalida.com.ni/",
+         "radio_url" : "https://www.radiosnicaragua.com.ni/radios/tropicalida/",
+         "description" : "Nuestra misión es llegar a nuestro público joven-adulto con la mejor música del momento. Entretener a nuestros radio escuchas a través de nuestras transmisiones diarias durante toda la semana."
+      },
+      {
+         "name" : "Radio La Marka",
+         "image" : "36620.v3.png",
+         "site_url" : "http://www.radiolamarka.com.ni/",
+         "radio_url" : "https://www.radiosnicaragua.com.ni/radios/la-marka/",
+         "description" : "La Radio que Deja huellas X todo Latino America desde Nicaragua 90.9 FM"
+      },
+      {
+         "name" : "Radio Alfa",
+         "image" : "36535.v5.png",
+         "site_url" : "http://www.radioalfa.com.ni/",
+         "radio_url" : "https://radios-mp3-nc.cdn.nedmedia.io/nc-alfa.mp3",
+         "description" : "Una Radio para toda la Familia, en especial para la Mujer, que es la base fundamental del hogar. Música del Recuerdo en Español de los años 70, 80 y 90. Con lo más Nuevo de los artistas consagrados en el género de las Baladas."
+      },
+      {
+         "name" : "Monumental 96.5 FM",
+         "image" : "37271.v1.png",
+         "site_url" : "http://monumental96.com/",
+         "radio_url" : "http://107.6.142.243:9328/;stream.mp3",
+         "description" : "Inmediatamente con este nuevo y original formato logramos captar una gran porcentaje de radioescuchas de la Zona Norte, Centro y Pacifico, gracias a una rápida encuesta con oyentes, los que en su mayoría manifestaban la necesidad que existiera en esta zona una emisora con estilo diferente, música contemporánea, pop en español e inglés y fue precisamente Monumental la primera en introducir el ritmo Salsa, Merengue y segmentó su programación con oldies 60/80, música Instrumental y las baladas en español/inglés actuales, hoy, este formato original de Monumental se escucha de una forma generalizada."
+      },
+      {
+         "name" : "Advent Stereo",
+         "image" : "36624.png",
+         "site_url" : "http://www.adventstereo.org/",
+         "radio_url" : "http://streaming.admediasystem.net:9642/;",
+         "description" : "Estamos contentos de tenerles con nosotros una vez más. Esta vez, por medio de nuestro Portal Web. Deseamos que la bendición de Dios descanse sobre cada uno y que disfrute su estadía por acá. Para cualquier información, sugerencia o comentario recuerde que estaremos en contacto. Dios les bendiga!"
+      },
+      {
+         "name" : "Radio Stereo Family",
+         "image" : "37279.v1.png",
+         "site_url" : "https://radiofamily907.com/",
+         "radio_url" : "https://stream.pinedahost.com/radio/8050/;",
+         "description" : "Radio Stereo Family es la Emisora con mayor audiencia en la ciudad de Jinotega. Nuestro principal propósito es Entretener y Orientar a la población en general, con un perfil Juvenil de música variada de los distintos géneros en Ingles y Español."
+      },
+      {
+         "name" : "Radio Hermanos",
+         "image" : "66528.v4.png",
+         "site_url" : "http://radiohermanos.net/",
+         "radio_url" : "http://185.105.4.100:8014/live",
+         "description" : "Radio Hermanos es una emisora católica que nace en el año 1993 fundada por Monseñor Carlos Santi la cual inicio emitiendo señal en la frecuencia 690 AM.Luego con el tiempo nace la frecuencia 92.3 FM. Para bañar en cobertura gran parte de la zona norte de la República de Nicaragua.Con el único fin de llevar la evangelización por todos los rincones de nuestro país, dado que somos la única radio en la ciudad de Matagalpa que transmite por medio de dos frecuencias, por lo tanto nos permite tener una mejor cobertura en la zona norte y parte del pacífico de Nicaragua."
+      },
+      {
+         "name" : "Radio Stereo Redencion",
+         "image" : "37096.v3.png",
+         "site_url" : "http://stereoredencion.org/",
+         "radio_url" : "http://64.31.33.226:8224/;",
+         "description" : "Nuestra programación incluye programas de salud, familia, música, cultura, superación y liderazgo, entre otros, resaltando el poderoso mensaje de la palabra de Dios expresada en los sermones y mensajes que llegan hasta cada oyente.Gracias a la bondadosa mano de Dios hemos llegado hasta este momento y nos seguimos depositando en sus manos para que Él sostenga exitosamente nuestro ministerio."
+      },
+      {
+         "name" : "Radio Fe y Esperanza FM",
+         "image" : "76546.v2.png",
+         "site_url" : "http://radiofeyesperanza103-7fm.com/wp/",
+         "radio_url" : "http://167.114.116.223:2137/;stream.nsv",
+         "description" : "'A la Manera de Dios'. Somos un Ministerio Radial y Televisivo con proyección social, destinado a predicar las buenas nuevas de Salvación de nuestro Señor Jesucristo."
+      },
+      {
+         "name" : "Radio Jinotega",
+         "image" : "76562.png",
+         "site_url" : "https://radiojinotega.com/",
+         "radio_url" : "https://stream.pinedahost.com/radio/8060/radio",
+         "description" : "Esta emisora online transmite desde Jinotega, Nicaragua, enfocada al servicio de la población local, especialmente en lo referente a la cultura regional. Ofrece música y espacios educativos para niños y jóvenes, además de otros variados programas de interés."
+      },
+      {
+         "name" : "Radio Evangélica Voz Cristiana",
+         "image" : "73447.v5.png",
+         "site_url" : "http://www.radiovozcristiana1037fm.com/",
+         "radio_url" : "http://s4.free-shoutcast.com:18186/;stream.nsv",
+         "description" : "Radio Cristiana Evangélica, con un enfoque Cristocentrica, que proclama la Palabra de Dios en la Sana Doctrina"
+      },
+      {
+         "name" : "Radio Shalom 100.1",
+         "image" : "54297.v1.png",
+         "site_url" : "http://radioshalom1001.com/",
+         "radio_url" : "http://107.6.142.243:9984/;stream.mp3",
+         "description" : "Radio para promover talentos Cristianos"
+      },
+      {
+         "name" : "Radio Ometepe",
+         "image" : "79079.v1.png",
+         "site_url" : "http://www.radioometepe.com/",
+         "radio_url" : "http://ngstreaming.info:8112/stream",
+         "description" : "Con musica todo el tiempo!"
+      },
+      {
+         "name" : "Radio Nicaragua",
+         "image" : "36507.v3.png",
+         "site_url" : "http://www.radionicaragua.com.ni/",
+         "radio_url" : "http://200.85.161.170:9830/;",
+         "description" : "Voz oficial del Estado, información, noticias, audio en línea."
+      },
+      {
+         "name" : "Radio Impacto de Fe",
+         "image" : "37289.v2.png",
+         "site_url" : "http://www.tuimpactodefe.com/",
+         "radio_url" : "http://ca2.rcast.net:8032/;",
+         "description" : "Transmitiendo desde La Paz Centro, Nicaragua. La voz de occidente en la frecuencia 103.3 FM"
+      },
+      {
+         "name" : "Radio Segovia",
+         "image" : "36537.png",
+         "site_url" : "http://radiosegovia.net/",
+         "radio_url" : "http://195.154.182.222:26852/stream?type=.mp3",
+         "description" : "Escucha todos los programas de Radio Segovia de la Cadena SER a la carta. Elige tu preferido y suscríbete"
+      },
+      {
+         "name" : "Kairos Seven",
+         "image" : "80221.v2.png",
+         "site_url" : "http://mannypalma.com/",
+         "radio_url" : "http://144.217.254.14:8009/stream",
+         "description" : "Somos Radio Kairos Seven 89.3 fm.Predicando el Evangelio del Reyno.Desde Nicaragua para el mundo."
+      },
+      {
+         "name" : "Euforia Metal",
+         "image" : "71531.v1.png",
+         "site_url" : "http://www.euforiametal.com/",
+         "radio_url" : "http://giss.tv:8001/euforiametal.mp3",
+         "description" : "Radio Online, Website informativo de bandas de rock y metal, Show Radial. Nuestro objetivo es promocionar exclusivamente el rock y metal under mundial"
+      },
+      {
+         "name" : "Radio Sion 101.7 fm",
+         "image" : "81251.v1.png",
+         "site_url" : "http://radiosion1017.online/",
+         "radio_url" : "http://stream3.wernerstreamhd.net:6732/;stream.nsv",
+         "description" : "Transmitiendo desde el municipio de Pantasma Jinotega Nicaragua"
+      },
+      {
+         "name" : "Radio Adoración Jinotega",
+         "image" : "82853.v1.png",
+         "site_url" : "http://www.radioadoracionlapastora.com/",
+         "radio_url" : "http://stream3.wernerstreamhd.net:6672/;stream.nsv",
+         "description" : "Emisora Cristiana, que transmite desde la ciudad de Jinotega en  el norte de Nicaragua en 105.3 fm stereo oficial de la Iglesia Arca de Noe  con transmisión en vivo 24 horas los 365 días del año."
+      },
+      {
+         "name" : "Radio Bethel Jinotega",
+         "image" : "85410.v2.png",
+         "site_url" : "http://starterfm.com/hitnation",
+         "radio_url" : "http://server.datalivehd.com:6672/;stream.nsv",
+         "description" : "Emisora Cristiana que transmite desde Jinotega Nicaragua,perteneciente a la cadena Radial Restauración."
+      },
+      {
+         "name" : "Radio Sendas FM",
+         "image" : "37110.v3.png",
+         "site_url" : "http://radiosendasfm.com/",
+         "radio_url" : "http://104.247.203.196:8888/;",
+         "description" : "Sendas FM es un medio de comunicación social que se localiza en la ciudad de Matagalpa en nicaragua, transmite en la frecuencia 107.3 megahercios y a través de la Internet en www.radiosendasfm.com Ss programación es variada y netamente cristiana, llevamos a todos los hogares, sectores sociales y grupos de diferentes edades un mensaje de esperanza, unidad y amor basado en la palabra de Dios."
+      },
+      {
+         "name" : "Radio Visión de Dios Stereo",
+         "image" : "84785.v1.png",
+         "site_url" : "http://stereovisiondedios.tk/",
+         "radio_url" : "http://198.204.234.10:8218/stream",
+         "description" : "Anunciando su Verdad"
+      },
+      {
+         "name" : "La Internacional Costanica Radio",
+         "image" : "79689.v8.png",
+         "site_url" : "https://costanicaradio.wixsite.com/costanicaradio",
+         "radio_url" : "http://78.129.193.82:33171/;stream.nsv",
+         "description" : "Somos una estación de radio sin fines de lucro, nacimos para entretenerte musicalmente."
+      },
+      {
+         "name" : "Radio Stereo Corazón",
+         "image" : "83462.v2.png",
+         "site_url" : "http://stereocorazon.com/",
+         "radio_url" : "http://108.170.61.114:8225/stream",
+         "description" : "La mejor selección de éxitos musicales, te brindamos una programación en la cual permaneces disfrutando las 24 horas de la mejor música."
+      },
+      {
+         "name" : "Radio Digital",
+         "image" : "66526.v3.png",
+         "site_url" : "http://radiodigital1001.com/",
+         "radio_url" : "http://162.244.80.140:8017/digital",
+         "description" : "Misión “Somos Una Empresa Radial De Alta Calidad Que Realizamos Una Programación Original Satisfaciendo Las Exigencias De Nuestra Clientela Y Público De Audiencia Siendo Los Más Escuchados En La Región.”Visión 'Ser Una Empresa Radial Digitalizada Líder En Publicidad En Toda La Zona Norte Del País, Dando Entera Satisfacción A Nuestra Clientela Comercial Y Contribuyendo Al Desarrollo Local A Través Del Servicio Social Radial.”"
+      },
+      {
+         "name" : "La Ke Buena",
+         "image" : "83565.v2.png",
+         "site_url" : "http://lakebuenanicaragua.com/",
+         "radio_url" : "http://108.170.61.114:8127/stream",
+         "description" : "Somos una emisora en la cual disfruta de todo el sabor de la música en todos sus géneros, con ritmos bailables, buen humor y una actitud cercana, donde el oyente programa los temas de su preferencia desde el primer momento."
+      },
+      {
+         "name" : "Radio Kayrios",
+         "image" : "84835.v3.png",
+         "site_url" : "https://radiokayrios.blogspot.com/",
+         "radio_url" : "http://78.129.224.21:33264/;stream.nsv",
+         "description" : "Estación que transmite programas variados con temas educativos y culturales, entretenimiento variados, mucho humor, noticieros serios por los mejores profesionales y la música de diferentes géneros para alegrar cada día a su amplio público."
+      },
+      {
+         "name" : "Radio Santa Lucia",
+         "image" : "66527.v2.png",
+         "site_url" : "http://radiosantalucia.org/",
+         "radio_url" : "http://162.244.80.140:8027/stream",
+         "description" : "Somos una emisora 100% Católica, 100% Mariana, estamos ubicados en Ciudad Darío, Matagalpa y nuestra responsabilidad es evangelizar a toda nuestra ciudad y sus comunidades."
+      },
+      {
+         "name" : "Radio Ritmo Latino",
+         "image" : "37119.png",
+         "site_url" : "http://www.radioritmolatino.com/",
+         "radio_url" : "http://107.155.120.114:9992/;stream.nsv",
+         "description" : "La ritmo nace en el año 2000,transmitimos en los 100.5 Fm desde Muelle de los Bueyes,Zelaya Central,Nicaragua (La Magia Musical)"
+      }
+   ]
+}

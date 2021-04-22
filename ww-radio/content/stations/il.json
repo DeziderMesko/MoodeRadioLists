@@ -1,0 +1,669 @@
+{
+   "il" : [
+      {
+         "name" : "Radio Lelo Hafsaka",
+         "image" : "10790.png",
+         "site_url" : "http://103fm.maariv.co.il/",
+         "radio_url" : "http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio",
+         "description" : "רק ב 103 FM השדרים הטובים ביותר.פרופסור רפי קרסו, ורדה רזיאל ז'קונט, מהקשור, נתן זהבי, דידי הררי ועוד. רדיו ללא הפסקה."
+      },
+      {
+         "name" : "100FM Radius",
+         "image" : "10813.v1.png",
+         "site_url" : "http://www.100fm.co.il/",
+         "radio_url" : "http://100fm.streamgates.net/Radios100Fm",
+         "description" : "האזנה ישירה רדיוס 100 באתר RLive. רדיוס 100 תחנת רדיו אזורית הממוקמת בראש העין ומשדרת לאזור השרון בתדר 100FM. התחנה רדיוס 100 FM מאופיינת עם תוכניות מוזיקה שונו."
+      },
+      {
+         "name" : "Geula FM",
+         "image" : "11388.png",
+         "site_url" : "http://www.geula.fm/",
+         "radio_url" : "http://geula-live.adpronet.com:8010/;stream/1",
+         "description" : "Geula FM is an internet radio station from Israel, providing variety music."
+      },
+      {
+         "name" : "Smooth Jazz",
+         "image" : "11465.v3.png",
+         "site_url" : "http://www.smoothjazzisrael.com/",
+         "radio_url" : "https://eu6.fastcast4u.com/proxy/smoothja10?mp=/1",
+         "description" : "Smooth Jazz,Fusion,Soul,R&B Radio from Israel 24/7"
+      },
+      {
+         "name" : "Radio Orenu",
+         "image" : "10863.png",
+         "site_url" : "http://orenu.co.il/",
+         "radio_url" : "http://stream9.radiostyle.ru:8009/messianic-radio-haifa-64",
+         "description" : "Messianic online radio Oren. Hebrew means - our light ie Yeshua (Jesus) He is our light. On the radio sounds Messianic music in Hebrew, Russian, English and many other languages. Also there you can hear the instrumental-music relax. The teachings of Messianic rabbis, prayer, worship. Broadcasting is in Israel (Haifa)."
+      },
+      {
+         "name" : "Israel1 Radio",
+         "image" : "10663.png",
+         "site_url" : "http://www.israel1.fm/",
+         "radio_url" : "http://jradio.ilcast.com:8025/;stream/1/;",
+         "description" : "Israel1 Radio is an internet radio station from Jerusalem, Israel providing the best of Jewish music in all its forms, advocates, Eastern - Mediterranean, alternative and more ..."
+      },
+      {
+         "name" : "Radio B.B Bukharian Jewish Music",
+         "image" : "10789.png",
+         "site_url" : "http://bbvostok.com/",
+         "radio_url" : "http://212.150.101.181:8004/;",
+         "description" : "Radio BB Bukharian Jewish Music is a radio channel on the BB Vostok internet radio station from Tel Aviv, Israel providing Entertainment, Music and Live shows for the Bukharan community."
+      },
+      {
+         "name" : "Kol-Barama",
+         "image" : "11402.png",
+         "site_url" : "http://www.kol-barama.co.il/",
+         "radio_url" : "http://server1.live1.co.il:8004/livemp3",
+         "description" : "האזנה ישירה קול ברמה באתר RLive. תחנת רדיו קול ברמה פונה למגזר החרדי, קול ברמה החלה את שידוריה בשנת 2009 ונחשבת לתחנת רדיו האזורית החמישית בגדולה בישראל. אולפני."
+      },
+      {
+         "name" : "radioDANCE",
+         "image" : "11448.v1.png",
+         "site_url" : "http://radiodance.co.il/",
+         "radio_url" : "http://cp11.livecdn.biz/radiodance",
+         "description" : "אתר הבית של תחנת הדאנס של ישראל. רדיו דאנס משדר 24 שעות של מוזיקת דאנס מהארץ ומהעולם, ומציע תכניות וסטים מגוונים לאורך השבוע."
+      },
+      {
+         "name" : "Radio Breslov Karmiel",
+         "image" : "11033.v5.png",
+         "site_url" : "http://www.breslevcarmiel.com/",
+         "radio_url" : "http://breslevcarmiel.com:8000/;stream.nsv",
+         "description" : "Radio Breslov Karmiel is an internet radio station from Israel, providing Religious songs."
+      },
+      {
+         "name" : "Joint Radio",
+         "image" : "10888.png",
+         "site_url" : "http://www.jointil.com/radio/",
+         "radio_url" : "http://star.jointil.net/proxy/jrn_reggae?mp=/stream",
+         "description" : "Joint Radio is an Internet radio station that plays Reggae and Hip Hop music around the clock 24/7. In addition, we host friends during our broadcasts. You are welcome to come and listen to our radio. Jah love you!"
+      },
+      {
+         "name" : "RADIO 5",
+         "image" : "11470.v1.png",
+         "site_url" : "http://www.radio5.co.il/",
+         "radio_url" : "http://162.210.196.140:39804/;",
+         "description" : "רדיו 5 הינה תחנת רדיו אינטרנטית, שנקראה בעבר 'רדיו פאן'.התחנה פועלת במתכונת של 24 שעות ביממה, שבעה ימים בשבועבתחנת רדיו 5 ניתן להאזין לכל סוגי המוזיקה, אך עם דגש על המוזיקה הים תיכונית.בין השאר מקיימת תחנת הרדיו מצעד להיטים שבועי, המצעד משודר ביום ראשון בין השעות 20:00-22:00.בין התוכניות הבולטות ברדיו 5 ניתן להאזין ל'אחלה חפלה' עם חיים בורדה,'שידורים לגוף ולנשמה' עם רחל שיראל, 'באזז בזמן' עם נסי אלקנלי, ו'שיגעון בים התיכון' עם איציק גרשון."
+      },
+      {
+         "name" : "GalGalatz",
+         "image" : "10567.v3.png",
+         "site_url" : "http://www.glgltz.co.il/",
+         "radio_url" : "http://glzicylv01.bynetcdn.com/glglz_mp3",
+         "description" : "GalGalatz is a broadcast radio station in Tel Aviv, Israel, providing Top 40 Adult Contemporary Pop and Rock music."
+      },
+      {
+         "name" : "Radio 2000",
+         "image" : "10911.png",
+         "site_url" : "http://www.radio2000.co.il/",
+         "radio_url" : "http://jradio.ilcast.com:8030/;*.mp3",
+         "description" : "Radio Channel in 2000 - global communication: an orthodox religious Station, broadcasts via satellite and Internet. The site features information on the broadcasting station and station activities taking part."
+      },
+      {
+         "name" : "Radio Hamesh",
+         "image" : "11433.png",
+         "site_url" : "http://995.co.il/",
+         "radio_url" : "http://ads10.livecdn.biz:8000/995fm",
+         "description" : "רדיו 99.5 חם אש מבית רדיו חיפה. האזנה חמה אש!"
+      },
+      {
+         "name" : "Toker FM",
+         "image" : "10811.png",
+         "site_url" : "http://www.toker.fm/",
+         "radio_url" : "http://live.toker.fm:6060/;stream.nsv",
+         "description" : "Toker.fm is an internet radio station from Jerusalem, Israel, providing 24 hours of Jewish music including all styles rhythms and hits."
+      },
+      {
+         "name" : "Noshmim Mizrahit",
+         "image" : "11389.v2.png",
+         "site_url" : "http://www.mizrahit.co/",
+         "radio_url" : "http://www.rs.mizrahit.fm:7777/;",
+         "description" : "Noshmim Mizrahit is an internet radio station from Israel, providing music entertainment."
+      },
+      {
+         "name" : "Radio Mevaser Tov",
+         "image" : "10871.v2.png",
+         "site_url" : "http://www.770tv.org/",
+         "radio_url" : "http://770tv.no-ip.org:7777/;",
+         "description" : "מבשר טוב משדר לכל עמך בית ישראל תוכניות מגוונות: בקבלה, מיסטיקה, פנימיות התורה וכן שיעורים יומיים בחומש תהילים ותניא הרמב'ם ענייני גאולה ומשיח, תוכנית ברכות באגרות הקדש. תוכניות לילדים ונוער, חדשות חב'ד, חדשות כלליות מרחבי העולם ועוד… מוסיקה מגוונת: חסידית, מזרחית, ניגונים, פיוטים"
+      },
+      {
+         "name" : "Kol Rega",
+         "image" : "10868.png",
+         "site_url" : "http://www.96fm.co.il/",
+         "radio_url" : "http://radio.96fm.co.il/96fm",
+         "description" : "Kol Rega 96.0 is a broadcast radio station on the Kol Rega group from Nazareth, Israel providing local news, information, events, live shows, music and entertainment."
+      },
+      {
+         "name" : "The Voice of Peace",
+         "image" : "10867.png",
+         "site_url" : "http://www.thevoiceofpeace.co.il/",
+         "radio_url" : "http://uk2-vn.mixstream.net:8004/;",
+         "description" : "The Voice of Peace is an internet radio station from Tel Aviv, Israel providing Top 40-Pop and Rock music."
+      },
+      {
+         "name" : "Kabbalah TV",
+         "image" : "11406.png",
+         "site_url" : "http://www.kab.tv/",
+         "radio_url" : "https://edge2.uk.kab.tv/rtplive/tv66-heb-medium.stream/playlist.m3u8",
+         "description" : "ערוץ חוכמת הקבלה וארגון קבלה לעם מגיש: שיעורים והרצאות של הרב לייטמן, סרטים, קליפים, תוכניות טלוויזיה, שיחות עם אמנים ואנשי רוח – 24 שעות ביממה."
+      },
+      {
+         "name" : "TSHUVAfm",
+         "image" : "11398.v1.png",
+         "site_url" : "http://www.tshuvafm.com/",
+         "radio_url" : "http://94.23.30.114:8032/;;audio.mp3",
+         "description" : "TSHUVAfm is a Jewish Radio Station broadcasting live from Israel 24/6 Torah Teachings, Halacham Kabbalah, Hebrew Music and Judaism. If you do not know hebrew, they recommend you our sponsor: eTeacher group; They provide the best online hebrew classes available. Enroll your Course Online LIVE from Israel Hebrew Here."
+      },
+      {
+         "name" : "lovely greek radio",
+         "image" : "10872.v2.png",
+         "site_url" : "http://2all.co.il/web/Sites/greekmusic/",
+         "radio_url" : "http://130.185.144.199:36275/;",
+         "description" : "Lovely greek radio is an internet radio station from Haifa, Israel providing Greek music."
+      },
+      {
+         "name" : "Radio Haifa",
+         "image" : "10804.png",
+         "site_url" : "http://1075.fm/",
+         "radio_url" : "http://cp11.livecdn.biz/radiohaifa",
+         "description" : "Radio Haifa FM 107.5 is a broadcast radio station from Haifa, Israel providing Adult Contemporary music."
+      },
+      {
+         "name" : "Radio 102FM",
+         "image" : "10899.png",
+         "site_url" : "http://www.102fm.co.il/",
+         "radio_url" : "http://102.livecdn.biz/102fm_aac",
+         "description" : "ניתן להאזין לנו בכל מקום ובכל זמן- הורידו את האפליקציה של רדיו תל אביב לנייד שלכם, אייפון ואנדרואיד."
+      },
+      {
+         "name" : "Kahol Yavan",
+         "image" : "10901.v1.png",
+         "site_url" : "http://leylotyavan.co.il/",
+         "radio_url" : "http://radio.kaholyavan.co.il/livegreece_aac/?",
+         "description" : "Kahol Yavan is an internet radio station from Tel Aviv, Israel, providing Greek Culture, Entertainment, Music and Current events"
+      },
+      {
+         "name" : "Contrive-M",
+         "image" : "10877.png",
+         "site_url" : "http://www.contrive-m.net/",
+         "radio_url" : "http://livecast.contrive-m.net:9098/radiostation-live.mp3",
+         "description" : "Radio Station Contrive-M is an internet radio station from Holon, Israel providing Hits and Top 40/Pop music of Russian and Engish."
+      },
+      {
+         "name" : "TLV1",
+         "image" : "11404.v1.png",
+         "site_url" : "http://tlv1.fm/",
+         "radio_url" : "http://tlv1.out.airtime.pro:8000/tlv1_a",
+         "description" : "Your window into Israeli culture, politics, food, music, and business."
+      },
+      {
+         "name" : "Arutz Sheva Radio",
+         "image" : "11490.png",
+         "site_url" : "http://www.inn.co.il/",
+         "radio_url" : "http://media.varnish.inn.co.il/a7live?1459598876638.mp3;stream.nsv;stream.nsv",
+         "description" : "Israel National Radio is Arutz Sheva's English language Internet radio station operating in Beit El. It broadcasts primarily across the Internet, and is simulcast on radio stations in the United Sates, Canada, and South Africa and affirms its purposes as being to spread the word of Israel to Jews and Israel-sympathizers living in English speaking countries as well as Anglophones living in Israel, and to be the archetypal 'light unto the nations'"
+      },
+      {
+         "name" : "Radio ClickIL",
+         "image" : "11037.png",
+         "site_url" : "http://clickil.co.il/",
+         "radio_url" : "http://listen.clickfm.co.il/clickfm",
+         "description" : "Radio ClickIL is an internet radio station from Israel, providing Hebrew language Adult Contemporary Easy Listening Romantic music."
+      },
+      {
+         "name" : "RadioezOrit",
+         "image" : "11392.png",
+         "site_url" : "http://www.radioezorit.co.il/",
+         "radio_url" : "http://ereznet.info:9779/;",
+         "description" : "RadioezOrit is the best Interadio in Israel, it plays a variety of playlist from the 60's 70's 80's 90's and the newest playlist. The station managed by the music editor and the Broadcaster Orit Vazana"
+      },
+      {
+         "name" : "101FM",
+         "image" : "11399.png",
+         "site_url" : "http://www.tapuz.co.il/minisites/radiojerusalem/",
+         "radio_url" : "http://server1.live1.co.il:8004/jrs101fm",
+         "description" : "101 FM is a broadcast radio station in Jerusalem, Israel, providing Israeli Top 40 Adult Contemporary Pop music."
+      },
+      {
+         "name" : "Eco99FM",
+         "image" : "10866.png",
+         "site_url" : "http://eco99fm.maariv.co.il/",
+         "radio_url" : "https://99.livecdn.biz/99fm",
+         "description" : "Eco99FM was launched in December 2009, and offers audiences its growing integration Hmnzh- program 'Morning' with Tal Berman and Aviad Ivy, who enjoys being bugged highest of all the programs in all regional radio stations along with music hits excellent throughout the day."
+      },
+      {
+         "name" : "Radio Briza",
+         "image" : "10865.png",
+         "site_url" : "http://www.brizafm.co.il/",
+         "radio_url" : "http://rs.mizrahit.fm:7777/arabellavie",
+         "description" : "Radio Briza is Voice of Middle Eastern music transmitter Mediterranean Mediterranean shine 24 hours a day the best broadcasters events. Middle voice radio listeners the best singers Hznar Eastern Mediterranean including promoters and PR people from the eastern Mediterranean music. Eastern Radio will provide live months and request songs you want to listen to, the site team wishes you listening pleasure."
+      },
+      {
+         "name" : "Radio Kol-Chai",
+         "image" : "10791.png",
+         "site_url" : "http://www.93fm.co.il/",
+         "radio_url" : "https://media.93fm.co.il/live",
+         "description" : "Radio Kol-Chai FM 93.0 is a broadcast radio station from Jerusalem, Israel, providing News, Information, religious programs, and programs for women, children, and family games"
+      },
+      {
+         "name" : "Radio Kol-Chai Music",
+         "image" : "kcm.png",
+         "site_url" : "http://kcm.fm/",
+         "radio_url" : "http://kcm.fm/livemusic",
+         "description" : "קול חי מיוזיק - מנגנים לכם את היום"
+      },
+      {
+         "name" : "Radio Harif-Mate Yehuda",
+         "image" : "11397.png",
+         "site_url" : "http://m-yehuda.org.il/radio2/",
+         "radio_url" : "http://harif.livecdn.biz:8006/stream",
+         "description" : "Radio Harif-Mate Yehuda is an internet radio station from Mate Yehuda, Israel providing Community News, Information, Talks, Religious program and Music."
+      },
+      {
+         "name" : "Israel News Talk Radio",
+         "image" : "11456.png",
+         "site_url" : "http://israelnewstalkradio.com/",
+         "radio_url" : "http://174.127.75.88:8054/live_live",
+         "description" : "The new English-speaking Israeli radio network. News & Commentary from on-the-ground in Israel, with LIVE shows that invite your calls!"
+      },
+      {
+         "name" : "Beat Radio",
+         "image" : "11156.png",
+         "site_url" : "http://www.radio-beat.com/",
+         "radio_url" : "http://live.radio-beat.com/stream1",
+         "description" : "כיום אנו גאים להשמיע לכם את שידורי רדיו ביט באינטרנט, 24 שעות של מוזיקהצעירה ודינאמית, עדכנית ומכל הזמנים,עם המון תשומת לב למה שאתם באמת צריכיםכי את האמת? אין לנו מקום אחר לעשות את זה :-)רדיו ביט שמה לה למטרה לעשות את מהשהיא יודעת לעשות היטב מאז ומתמיד,את 'הכי מוזיקה שיש'."
+      },
+      {
+         "name" : "Radio Yasoo",
+         "image" : "10807.png",
+         "site_url" : "http://www.radio-yasoo.com/wscraft/",
+         "radio_url" : "http://radio-yasoo.ath.cx:7500/;",
+         "description" : "Radio Yasoo is an Internet Radio station broadcasting from Jerusalem, Israel, providing Greek music in all its forms and types, 24 hours a day, 7 days a week evening and afternoon."
+      },
+      {
+         "name" : "We Are Israel Online - WAIO",
+         "image" : "10786.v1.png",
+         "site_url" : "https://trumpetofsalvation.org/",
+         "radio_url" : "http://stream0.radiostyle.ru:8000/trumpet",
+         "description" : "Messianic Israeli Based Radio Station - Connecting, Inspiring and Reaching the Nation of Israel. Our aim is to not only connect a Jewish audience to our station but also Strengthen and Connect the Believing Body of Yeshua Globally Through Sermons, Music & Relevant News."
+      },
+      {
+         "name" : "Mt. Scopus Radio",
+         "image" : "10902.v1.png",
+         "site_url" : "http://msradio.huji.ac.il/",
+         "radio_url" : "http://msradio.huji.ac.il/wwwroot/basics/48Kmancreation.mp3",
+         "description" : "המחלקה לתקשורת ועיתונאות מרכז הדרכה המדיה האלקטרונית רדיו/טלוויזיה/אינטרנט"
+      },
+      {
+         "name" : "Radio Kol Hagalil Haelion",
+         "image" : "10893.png",
+         "site_url" : "http://www.1053fm.co/",
+         "radio_url" : "http://1053.cdnwz.net/galil",
+         "description" : "Radio Kol Hagalil Haelion 105.3 FM is a broadcast radio station from Haifa, Israel providing variety music."
+      },
+      {
+         "name" : "FM 102",
+         "image" : "11405.png",
+         "site_url" : "http://www.eilat102fm.com/",
+         "radio_url" : "http://eilat.cdnwz.net/102fm",
+         "description" : "Voice of the Red Sea (Kol Hayam haadom) is the official radio station of Eilat and the Arava region. Apart from foreign and Israeli music and news from recent times every hour, Voice of the Red Sea has a variety of programs dealing with local issues and community issues."
+      },
+      {
+         "name" : "Radio Israel IsraLA",
+         "image" : "10684.png",
+         "site_url" : "http://www.israla.com/",
+         "radio_url" : "http://stream.israla.com:8684/;stream.mp3/;",
+         "description" : "The first and ONLY radio station that broadcasts Israeli music from Los Angeles 24/7!  We will bring you the best in the latest songs, along with a great mix of nostalgic music, music from all eras, rock, classic, and much more!  Our station is great for all Israeli and American Jewish listeners that want to enjoy quality music from our Jewish nation!"
+      },
+      {
+         "name" : "Radio Kol Yizrael",
+         "image" : "11386.png",
+         "site_url" : "http://www.radio106.co.il/",
+         "radio_url" : "http://server1.live1.co.il/yezreel",
+         "description" : "'Voice of Jezreel' is an educational radio station and community broadcasting sponsored by 'Voice of Israel' in the valley, and the Internet. The station is located in the communications center of the Jezreel Valley College."
+      },
+      {
+         "name" : "Kol HaCampus",
+         "image" : "10874.v1.png",
+         "site_url" : "http://www.106fm.co.il/",
+         "radio_url" : "http://106fm.livecdn.biz:7075/;",
+         "description" : "כתחנה סטודנטיאלית, קול הקמפוס מאופיינת בקו אלטרנטיבי ברור הן בצד התכנים והן מבחינת הקו המוזיקלי. התוכניות אינן מונעות משיקולי רייטינג, כמתאפשר מאופי התחנה. בכדי למנוע 'אכזבות' נוספות, המאזין פטור מפרסומות, דיווחי תנועה ומזג אויר. השדרנים של קול הקמפוס 106 שמחים לקבל ולשדר חומרים רעננים וחדשניים מהקהילה"
+      },
+      {
+         "name" : "Kiss FM Middle East",
+         "image" : "11400.png",
+         "site_url" : "http://www.kissfmmiddleeast.com/",
+         "radio_url" : "http://217.28.20.20:8075/stream",
+         "description" : "Kiss FM-Middle East-International Hit Radio We are International Hit Radio for all the peoples of the Middle East Region."
+      },
+      {
+         "name" : "Radio 90 FM",
+         "image" : "10919.v1.png",
+         "site_url" : "http://www.90fm.co.il/",
+         "radio_url" : "http://90.cdnwz.net/90fm",
+         "description" : "Enjoy Journal 90, Magic Night Shift, as well as shows like Regional Report, and many more."
+      },
+      {
+         "name" : "YESHUA RADIO",
+         "image" : "11390.png",
+         "site_url" : "http://www.yeshuaradio.org/",
+         "radio_url" : "https://s2.radio.co/s1451cfa86/listen",
+         "description" : "YESHUA RADIO is an internet radio station from Israel, providing Religious Jewish music and talk program."
+      },
+      {
+         "name" : "RADIO ILIOS",
+         "image" : "11039.png",
+         "site_url" : "http://www.iliosradio.com/",
+         "radio_url" : "http://46.23.76.199:3700/;",
+         "description" : "Ilios Radio - Greek music 24 hours a day, quality music, good friends, and much of Greece"
+      },
+      {
+         "name" : "Kol Haemet",
+         "image" : "11153.v2.png",
+         "site_url" : "http://www.kolhaemet.co.il/",
+         "radio_url" : "http://stream.kolhaemet.co.il:8000/live",
+         "description" : "Kol Haemet is an internet radio station from Israel, providing programs of peace, education of children, questions, listening, repair measurements and sacred songs."
+      },
+      {
+         "name" : "Radio Lev Hamedina",
+         "image" : "10792.v1.png",
+         "site_url" : "http://www.91fm.co.il/",
+         "radio_url" : "http://91fm.streamgates.net/Lev91Fm",
+         "description" : "Radio Lev Hamedina 91 FM is a broadcast radio station from Rishon LeZion, Israel providing Top 40/Pop music, live shows, news and information."
+      },
+      {
+         "name" : "Jlm.fm",
+         "image" : "11146.png",
+         "site_url" : "http://jlm.fm/",
+         "radio_url" : "http://108.178.13.122:8102/;",
+         "description" : "Jlm.fm is an internet radio station from Israel, providing music and program in Hebrew."
+      },
+      {
+         "name" : "Soul of the Caucasus",
+         "image" : "11396.v1.png",
+         "site_url" : "http://www.kavkazportal.com/index.php",
+         "radio_url" : "https://str1.pcradio.ru/dusha_kavkaza-med",
+         "description" : "'The soul of the Caucasus' - online radio that you can listen over the internet. Internet radio stations face it: Caucasian Estrada, Caucasian and Russian chanson, newest hits. Extreme round the clock online."
+      },
+      {
+         "name" : "kzradio",
+         "image" : "11141.png",
+         "site_url" : "http://kzradio.net/",
+         "radio_url" : "https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
+         "description" : "kzradio is an Internet Radio station broadcasting from Israel, provides Indie Rock, Electronica, Alternative Rock music."
+      },
+      {
+         "name" : "IDC Radio",
+         "image" : "11001.png",
+         "site_url" : "http://1062fm.co.il/",
+         "radio_url" : "http://194.153.101.160:8000/idc123.mp3",
+         "description" : "IDC Radio 106.2 FM is a college radio station from Herzliya, Israel, providing talk, culture and entertainment programs. IDC Radio focuses on talk programs and also brings music from Pop to Alternative."
+      },
+      {
+         "name" : "Radio Breslev",
+         "image" : "10864.v2.png",
+         "site_url" : "http://www.radiobreslev.co.il/",
+         "radio_url" : "https://streams.radio.co/s33f5cd9f1/listen",
+         "description" : "Tune in to Mshiebat mind, On the morning, and broadcasts such as Showing daily Belicote, in addition to others."
+      },
+      {
+         "name" : "Radio Futée",
+         "image" : "50908.png",
+         "site_url" : "http://www.radiofutee.com/",
+         "radio_url" : "http://82.80.192.236:8000/stream",
+         "description" : "Le meilleur de la radio juive.Radio franco israelienne, initiallement destinée à la communauté francophone d'Israël"
+      },
+      {
+         "name" : "Radio EL-HI",
+         "image" : "78781.v1.png",
+         "site_url" : "https://el-hi.com/",
+         "radio_url" : "https://a4.radioheart.ru:9002/RH6003",
+         "description" : "Мессианское радио из Израиля на русском языке"
+      },
+      {
+         "name" : "Here at",
+         "image" : "73040.v7.png",
+         "site_url" : "http://www.kan.org.il/live/radio.aspx?stationId=3",
+         "radio_url" : "https://kanliveicy.media.kan.org.il/icy/749624_mp3",
+         "description" : "תחנת האקטואליה המובילה בישראל, מביאה לכם את כל העדכונים מהשטח"
+      },
+      {
+         "name" : "Kan Radio Hebrew",
+         "image" : "64154.v5.png",
+         "site_url" : "http://www.makan.org.il/live/tv.aspx?stationId=3",
+         "radio_url" : "http://136.243.139.25/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8?",
+         "description" : "شاهدوا قناة مكان التلفزيون الإسرائيلي باللغة العربية في هيئة البث العامة، مباشرة على الانترنت ومن كل مكان."
+      },
+      {
+         "name" : "Up2Dance Radio",
+         "image" : "82697.v4.png",
+         "site_url" : "https://up2dance.com/",
+         "radio_url" : "https://icecast.myradio.co.il:80/up2dance",
+         "description" : "Get up-to-date with best music 24/7: The newest releases from around the world, Top remixes, mashups, and sweets from last 3 decades. Up2Dance !"
+      },
+      {
+         "name" : "Maxximixx Electra",
+         "image" : "84619.v4.png",
+         "site_url" : "http://www.maxximixx.com/",
+         "radio_url" : "https://sv2.vestaradio.com/MaxximixxElectra",
+         "description" : "Maxximixx Electra, le meilleur de la Dance, House, Tech house, Trance, PsyTrance , Electro,Techno"
+      },
+      {
+         "name" : "Radio Sol",
+         "image" : "11394.v7.png",
+         "site_url" : "http://www.radiosol.co.il/",
+         "radio_url" : "http://sol.video.cdnwz.net/sol/studio_a/chunks.m3u8",
+         "description" : "Radio Sol is an online radio station from Israel, providing programs in variety of styles including Israeli, Eastern Mediterranean, Latin, jazz, blues, contemporary and nostalgic foreign, Greek, rock, metal, house, plans updates, book corner, current events, plan with mayors, Seating Experts - traffic law, mysticism and way of life, Judaism technology, reports and articles on various subjects."
+      },
+      {
+         "name" : "Voice of Hope - Middle East",
+         "image" : "69909.v2.png",
+         "site_url" : "http://www.saoutalamal.com/",
+         "radio_url" : "https://streamdb6web.securenetsystems.net/v5/VOH",
+         "description" : "On March 28, 2017, through an unprecedented decision by the government of Israel, the VOICE OF HOPE - 1287 AM signed on the airwaves as the only Christian radio station in the Holy Land. The VOICE OF HOPE is dedicated to our Christian brothers and sisters in the Middle East under oppression. The VOICE OF HOPE Arabic broadcasts are reaching Muslims with the Gospel for the first time. Broadcasting in Arabic and English from the shore of the Sea of Galilee, over 40 million people are under its powerful broadcast signal every day reaching Israel, Syria, Lebanon, Jordan, and Cyprus."
+      },
+      {
+         "name" : "Первое радио",
+         "image" : "72998.v7.png",
+         "site_url" : "http://www.891fm.co.il/",
+         "radio_url" : "http://891fm.streamgates.net/891Fm",
+         "description" : "«Первое радио» — первая русскоязычная музыкальная коммерческая радиостанция Израиля."
+      },
+      {
+         "name" : "Radio Agape",
+         "image" : "10916.v4.png",
+         "site_url" : "http://www.agape.fm/",
+         "radio_url" : "https://s3.radio.co/s43b65d791/listen",
+         "description" : "Agape.fm is an internet radio station in Israel, providing Religious, Christian music and programs."
+      },
+      {
+         "name" : "Galei Zahal",
+         "image" : "73000.v3.png",
+         "site_url" : "https://glz.co.il/",
+         "radio_url" : "http://glzwizzlv.bynetcdn.com/glz_mp3",
+         "description" : "Galatz (Galei-Tzahal – means “IDF Waves”) is the official radio station of the Israeli army."
+      },
+      {
+         "name" : "Радио Под крышей",
+         "image" : "73151.v2.png",
+         "site_url" : "http://rpk.fm/",
+         "radio_url" : "http://93.190.141.15:7022/stream",
+         "description" : "Мы вещаем на волнах интернета и стараемся с помощью музыки передать людям кусочек чего-то доброго и хорошего=) Мы, скорее всего, даже не коммерческий проект. Нам просто нравится делать то, что мы делаем. А еще нам хочется делать все это лучше и интереснее."
+      },
+      {
+         "name" : "רדיו המזרח 106 FM",
+         "image" : "75342.v9.png",
+         "site_url" : "http://radiohamizrah.com/",
+         "radio_url" : "http://cradio.co.il:9040/stream",
+         "description" : "הרדיו משדר מוזיקה מזרחית 24 שעות ביממה הרדיו פתוח לכולם בכל העולם הרדיו החזק שיש"
+      },
+      {
+         "name" : "Radio Martit",
+         "image" : "75453.v6.png",
+         "site_url" : "http://radio-martit-m-b.co.il/",
+         "radio_url" : "http://cradio.co.il:9030/;",
+         "description" : "A radio vibrates in the heart             The station plays Mediterranean music programs of different styles, mainly love songs that touch each of us, which gives our listeners during live broadcasts points of view into the 'giving' and love free, alongside the presenter and the broadcaster"
+      },
+      {
+         "name" : "Jerusalem FM",
+         "image" : "73038.v4.png",
+         "site_url" : "http://101fm.tapuz.co.il/",
+         "radio_url" : "http://101.cdnwz.net/101fm",
+         "description" : "101 FM היא תחנת רדיו לשידורים בירושלים, ישראל, המספקת מוזיקה ישראלית מובילה ל -40 מוסיקה עכשווית."
+      },
+      {
+         "name" : "AvivMedia",
+         "image" : "51948.v4.png",
+         "site_url" : "https://www.avivmedia.com/",
+         "radio_url" : "http://equinox.shoutca.st:8127/stream",
+         "description" : "AvivMedia it is an independent Music Digital Label, specializes in the production of electronic music,such as:Recordings,Broadcasting ,Music Promotion and Publishing."
+      },
+      {
+         "name" : "Holmim Mizra Hit",
+         "image" : "77259.v1.png",
+         "site_url" : "http://www.holmimmizrahit.co.il/",
+         "radio_url" : "http://holmimmizrahit.co.il:8008/stream",
+         "description" : "רדיו חולמים מזרחית 24 שעות ביממה למוזיקה מזרחית ים תיכונית עם מיטב השירים היפים והמשובחים שיש במוזיקה המזרחית ועם מיטב השדרנים. ברדיו יש כל מיני תוכניות: קצב ים תיכוני,פותחים שבוע נוסטלגיה ים תיכונית ומקבלים שבת רדיו חולמים מזרחית הוקם בשנת 2017 הרדיו פתוח לכל הקהל הרחב לכל אוהבי המוזיקה המזרחית הים תיכונית"
+      },
+      {
+         "name" : "רדיו קצב ים תיכוני",
+         "image" : "76356.v12.png",
+         "site_url" : "http://ketzev-yamtichoni.co.il/",
+         "radio_url" : "http://130.185.144.199:25396/;stream.mp3",
+         "description" : "רדיו קצב ם תיכוני - תחנת הרדיו של כל הצעירים,משדרת 24 שעות ביממה 7 ימים בשבוע ומכניסה אתכם לקצב"
+      },
+      {
+         "name" : "Mizrahit Orginal",
+         "image" : "77263.v10.png",
+         "site_url" : "http://mizrahit-orginal.co.il/",
+         "radio_url" : "http://198.7.59.204:11465/;",
+         "description" : "מזרחית אורגינל 24 שעות ביממה למוזיקה מזרחית ים תיכונית עם מיטב השירים היפים והמשובחים שיש במוזיקה המזרחית ועם מיטב השדרנים. ברדיו יש כל מיני תוכניות: קצב ים תיכוני,פותחים שבוע נוסטלגיה ים תיכונית ומקבלים שבתרדיו חולמים מזרחית  הוקם בשנת 2017 הרדיו פתוח לכל הקהל הרחב לכל אוהבי המוזיקה המזרחית הים תיכונית."
+      },
+      {
+         "name" : "109FM Israel",
+         "image" : "10653.v2.png",
+         "site_url" : "http://www.109fm.co.il/",
+         "radio_url" : "http://cuead.cdnwiz.com/cuead-109fmmp3-64",
+         "description" : "רדיו fm109 משדר מוזיקה שאי אפשר לעמוד בפניה. מגוון של סגנונות וז'אנרים שיבואו לכם טוב בכל פעם שתתחברו לנגן שלנו: www.109fm.co.il"
+      },
+      {
+         "name" : "Radio Oranim",
+         "image" : "11143.v1.png",
+         "site_url" : "http://www.oranim.ac.il/",
+         "radio_url" : "http://oranim.cdnwz.net/oranim",
+         "description" : "Radio Oranim FM 103.6 Tivon, Community radio, streaming live from Tivon, Israel, Middle East."
+      },
+      {
+         "name" : "Blue Greece",
+         "image" : "72999.v4.png",
+         "site_url" : "http://leylotyavan.co.il/",
+         "radio_url" : "http://radio.kaholyavan.co.il/livegreece/",
+         "description" : "…פורטל 'לילות יוון' הוקם בקיץ 2011 על ידי יוני איאטרו, איש מדיה ותקשורת ממוצא יווני-ישראלי ואדם דוד, המתמחה במוזיקה יוונית, במטרה לקדם את התרבות היוונית בישראל הפורטל פורטל 'לילות יוון' הוא אתר תוכן ראשון מסוגו בישראל ומכיל בתוכו דפי מידע וכתבות העוסקות בתרבות המוזיקה היוונית. המידע באתר מתעדכן על בסיס יומי על ידי מיטב האנשים העוסקים בז'אנר היווני. הרדיו רדיו 'כחול יוון' משדר מוזיקה יוונית על כל גווניה , 24 שעות ביממה, 7 ימים בשבוע. לוח השידורים מציע למאזיניו תכניות תוכן שונות בנושאי תרבות , בידור, מוזיקה ואקטואליה . אך גם רצפיים מוזקליים המתעדכנים על בסיס יומי. שיתופים פורטל 'לילות יוון' עובד בשיתוף גופים והאנשים הקשורים לתרבות היוונית בישראל, כגון: - לשכת העיתונות של שגרירות יוון בישראל - משרד התיירות היווני - גופי שידור ברדיו ובטלוויזיה - חברות תקליטים - אמנים - אנשי מדיה ועוד…"
+      },
+      {
+         "name" : "Wave Radio Club",
+         "image" : "73153.v1.png",
+         "site_url" : "http://waveradio.club/",
+         "radio_url" : "http://dj.waveradio.club:8000/live",
+         "description" : "We are here to bring you the best music from all over the surface. Stay on the right wave!"
+      },
+      {
+         "name" : "רדיו מזרחית בנשמה",
+         "image" : "83101.v5.png",
+         "site_url" : "http://mizrahitbaneshama.mozello.co.il/",
+         "radio_url" : "http://162.244.80.106:11295/;stream.mp3",
+         "description" : "התחנה משדרת מערד בדרום מוזיקה נוסטלגית ים תיכוני התחנה פועלת לקידום המוזיקה המזרחית הים תיכוני מזרחית בנשמה משדרים רק מוזיקה שקטה עם המון נשמה ונתינה הרדיו מתאים לכל הגילאים אנחנו נותנים לכם את המוזיקה הכי טובה לא קיים עוד תחנה כזאת בישראל"
+      },
+      {
+         "name" : "Radio Kolamerkaz",
+         "image" : "76369.v4.png",
+         "site_url" : "http://radiokolamerkaz.co.il/",
+         "radio_url" : "http://109.169.15.20:32276/;?type=http&nocache=27",
+         "description" : "רדיו קול המרכז י 24. שעות ביממה למוזיקה מזרחית ים תיכונית עם מיטב השירים היפים והמשובחים שיש במוזיקה המזרחית וכמובן בכל סוגי הזאנרים ועם מיטב השדרנים."
+      },
+      {
+         "name" : "Radio KOL GALIM",
+         "image" : "73148.v2.png",
+         "site_url" : "http://www.kolgalim.co.il/",
+         "radio_url" : "http://switch2-streaming-212-83-eu.ilcast.com:8055/;",
+         "description" : "רדיו קול גלים, תחנה אזורית קהילתית מבית קול ישראל המשדרת מבית הספר גלים בכפר גלים. במהלך היום ניתן לשמוע מוסיקה מגוונת בנוסף לתוכניות ייחודיות אשר מופקות על ידי תלמידי מגמת התקשורת בבית הספר. רדיו קול גלים - זה סוחף אותי!"
+      },
+      {
+         "name" : "Shmama FM",
+         "image" : "10915.v1.png",
+         "site_url" : "http://www.shmamafm.co.il/",
+         "radio_url" : "http://ereznet.info:5588/;",
+         "description" : "הרדיו האזורי של חבל אילות"
+      },
+      {
+         "name" : "רדיו אטרף (Radio Atraf)",
+         "image" : "80970.v3.png",
+         "site_url" : "http://radio-atraf.co.il/",
+         "radio_url" : "http://sweb.co.il:8044/stream",
+         "description" : "רדיו אטרף 24 שעות ביממה למוזיקה מזרחיתם תיכונית עם מיטב השירים היפים והמשובחים שיש במוזיקה המזרחית וכמובן בכל סוגי הזאנרים ועם מיטב השדרנים. ברדיו יש כל מיני תוכניות: קצב ים תיכוני,פותחים שבוע מוזיקה יוונית רמיקסים דאנסים טרנסים מוזיקה ישראלית מוזיקה לועזית שנות 50 70 80 וכדומה וכמובן שירי עדות רדיו אטרף הוקם בשנת 2017 הרדיו פתוח לכל הקהל  וגם לכל אוהבי סוגי הזאנרים השונים כתובת האתר של התחנה"
+      },
+      {
+         "name" : "Kol Galim",
+         "image" : "11150.png",
+         "site_url" : "http://www.kol-galim.co.il/",
+         "radio_url" : "http://212.83.129.92:8055/",
+         "description" : "Kol Galim FM 106 is a broadcast radio station from Israel, providing Variety music."
+      },
+      {
+         "name" : "רדיו חגיגה מזרחית",
+         "image" : "84907.v5.png",
+         "site_url" : "http://mizrahitcelebration.mozello.co.il/",
+         "radio_url" : "http://162.244.80.106:11226/;stream.nsv",
+         "description" : "התחנה משדרת מתל אביב מוזיקה נוסטלגית ים תיכוני התחנה פועלת לקידום המוזיקה המזרחית הים תיכוני"
+      },
+      {
+         "name" : "Click Radio to the Mediterranean",
+         "image" : "73154.v2.png",
+         "site_url" : "http://www.yamfm.co.il/",
+         "radio_url" : "http://1036fm.livecast.co.il/live1036fm/",
+         "description" : "קליק לים התיכון 24 שעות של מוזיקה ים תיכונית בלי פרסומות, בלי חדשות"
+      },
+      {
+         "name" : "Yaboos FM",
+         "image" : "79842.v1.png",
+         "site_url" : "http://www.yaboos.fm/",
+         "radio_url" : "http://188.225.182.10:8000/live",
+         "description" : "Yaboos FM is the first Arabic independent community radio station founded in 2017, we work for community as non-profit organization to support Entrepreneurs in Jerusalem.No commercials , No Politics , non-stop music with some radio slots , music  we play is almost with all languages"
+      },
+      {
+         "name" : "Eshel",
+         "image" : "11008.png",
+         "site_url" : "http://www.eshelnet.com/",
+         "radio_url" : "http://81.218.116.232:8000/xstream",
+         "description" : "Eshel 106FM is a broadcast radio station from Eshel Hanasi, Israel providing Education, Talks and Information."
+      },
+      {
+         "name" : "Koomy Radio",
+         "image" : "10913.png",
+         "site_url" : "http://www.koomyradio.com/",
+         "radio_url" : "http://184.172.56.62:8089/;listen.mp3/;",
+         "description" : "Koomy Radio is a web based internet radio station from Israel that plays Jewish Music."
+      },
+      {
+         "name" : "Omemo Radio",
+         "image" : "10873.png",
+         "site_url" : "http://www.omemo.co.il/",
+         "radio_url" : "http://72.9.152.111:9994/;",
+         "description" : "News from the margins, viral clips dedicated Internet radio indie alternative music."
+      },
+      {
+         "name" : "Radio Sahar",
+         "image" : "83116.v2.png",
+         "site_url" : "http://radiosahar.co.il/",
+         "radio_url" : "http://shoutcast.ilcast.com:8946/;stream.mp3",
+         "description" : "Radio Sahar is an egalitarian radio, because it is possible to express different opinions from different people while respecting another opinion.We will broadcast content that would not have received a chance on another radio.Radio Sahar will operate 24/7, we will broadcast new and old music and all styles."
+      },
+      {
+         "name" : "Radio kol Hashfela 1036FM",
+         "image" : "82450.v2.png",
+         "site_url" : "https://www.1036kh.com/",
+         "radio_url" : "http://1036kh.cdnwz.net/1036kh",
+         "description" : "תחנת 'קול השפלה' היא תחנת הרדיו החינוכי-קהילתי ברחובות. התחנה פועלת באישור משרד התקשורת בשיתוף משרד החינוך וקול."
+      }
+   ]
+}

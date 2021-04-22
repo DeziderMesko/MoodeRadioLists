@@ -1,0 +1,263 @@
+{
+   "ir" : [
+      {
+         "name" : "Radio Eram",
+         "image" : "31574.png",
+         "site_url" : "http://radioeram.com/",
+         "radio_url" : "http://37.59.47.192:8200/;",
+         "description" : "Radio Eram, 24/7 Persian entertainmen, live radio, Music of today and yesterday , from outside and inside of Iran"
+      },
+      {
+         "name" : "Bia2",
+         "image" : "73159.v3.png",
+         "site_url" : "https://www.bia2.com/",
+         "radio_url" : "http://199.58.163.15:8002/;",
+         "description" : "رادیو Bia2 یکی از ایستگاه های رادیویی مشهور است که از ایران پخش می شود. ایستگاه بین المللی رادیو Bia2 پخش کننده های موسیقی محبوب با انواع ژانرهای موسیقی مانند موسیقی 24 ساعته در روز زندگی می کنند."
+      },
+      {
+         "name" : "Nava7",
+         "image" : "31334.v1.png",
+         "site_url" : "http://www.nava98.com/",
+         "radio_url" : "http://5.39.71.159:8578/stream",
+         "description" : "موسیقی بی کلام، موسیقی با کلام سنتی، پاپ، محلی"
+      },
+      {
+         "name" : "RadioAli",
+         "image" : "31498.v1.png",
+         "site_url" : "http://www.radioali.com/",
+         "radio_url" : "http://avazfarsi.com:9300/;",
+         "description" : "Radio Ali is your number one source for Persian music and entertainment. Persian radio with the Best Persian Music 24/7"
+      },
+      {
+         "name" : "Radio Farda",
+         "image" : "17550.v2.png",
+         "site_url" : "http://www.radiofarda.com/",
+         "radio_url" : "https://stream.radiojar.com/cp13r2cpn3quv",
+         "description" : "Radio Free Europe/Radio Liberty journalists report the news in 21 countries where a free press is banned by the government or not fully established. We provide what many people cannot get locally: uncensored news, responsible discussion, and open debate."
+      },
+      {
+         "name" : "AVA Radio",
+         "image" : "73155.v2.png",
+         "site_url" : "http://radioava.net/",
+         "radio_url" : "http://stream.avaradio.com/radio/8000/radio.mp3",
+         "description" : "رادیو آوا رسانه ای مستقل بودهو به هیچ گونه حزب، شبه حزب، گروه و دسته سیاسی تعلق ندارد"
+      },
+      {
+         "name" : "Radio0098",
+         "image" : "31571.v1.png",
+         "site_url" : "http://radio0098.com/",
+         "radio_url" : "http://radio.radio0098.com:8000/radio1",
+         "description" : "The largest source of Persian entertainment providing the best Persian and Iranian music"
+      },
+      {
+         "name" : "Radio Mojahed",
+         "image" : "74929.v3.png",
+         "site_url" : "https://radio.mojahedin.org/",
+         "radio_url" : "https://s2.radio.co/s830691c74/listen",
+         "description" : "رادیو مجاهد صدای مجاهدین خلق ایرانخبرها و تحولات قیام مردم ایران، گزارش‌های کانون‌های شورشی، آخرین خبرهای ایران و جهان، گزارش‌های و گفتگوهای سیاسی و اجتماعی، موضعگیری‌ها و اطلاعیه‌های سازمان مجاهدین، رویدادهای تاریخی، ادبیات و موسیقی مقاومت در رادیو مجاهد"
+      },
+      {
+         "name" : "Russkoe Radio",
+         "image" : "82354.v7.png",
+         "site_url" : "http://rusradio-ir.pp.ua/",
+         "radio_url" : "https://stream.zeno.fm/43q0ey00phruv",
+         "description" : "“Russian Radio” is a Russian and international radio station broadcasting in some countries of the CIS and far abroad as international. It differs from other similar stations in broadcasting songs in Russian, although there are exceptions where the proportions of foreign and Russian words in songs can reach a ratio of 50/50."
+      },
+      {
+         "name" : "IRIB Radio Farhang",
+         "image" : "31562.v3.png",
+         "site_url" : "http://radiofarhang.ir/",
+         "radio_url" : "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-farhang/playlist.m3u8",
+         "description" : "مخاطبان اين شبكه مي توانند مهم ترين و جديدترين مباحث فرهنگي و فكري را بشنوند و با مسايل جاري ادبيات و هنر به صورت مطلوبي آشنا شوند. همچنين هموطنان عزيز مي توانند مشروح مذاكرات مجلس شوراي اسلامي را از اين شبكه دنبال كنند. پخش موسيقي سنتي، ملي، مقامي، كلاسيك يا موسيقي فيلم و ... در برنامه هاي اين شبكه جايگاه ويژه اي دارد"
+      },
+      {
+         "name" : "IRIB Radio Ava",
+         "image" : "84842.v2.png",
+         "site_url" : "http://radioava.ir/",
+         "radio_url" : "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-avaa/playlist.m3u8",
+         "description" : "پخش موسیقی های با كلام سنتی، ترانه محلی، پاپ ایرانی، موسیقی بی كلام"
+      },
+      {
+         "name" : "IRIB Radio English",
+         "image" : "84902.v1.png",
+         "site_url" : "http://radiotehran.ir/",
+         "radio_url" : "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-english/playlist.m3u8",
+         "description" : "رادیو انگلیسی"
+      },
+      {
+         "name" : "ParsToday Radio Dari",
+         "image" : "31565.v3.png",
+         "site_url" : "https://parstoday.com/dari",
+         "radio_url" : "http://stream.parstoday.com:1935/ws/irib7/playlist.m3u8",
+         "description" : "مخاطبان اين شبكه مي توانند مهم ترين و جديدترين مباحث فرهنگي و فكري را بشنوند و با مسايل جاري ادبيات و هنر به صورت مطلوبي آشنا شوند. همچنين هموطنان عزيز مي توانند مشروح مذاكرات مجلس شوراي اسلامي را از اين شبكه دنبال كنند. پخش موسيقي سنتي، ملي، مقامي، كلاسيك يا موسيقي فيلم و ... در برنامه هاي اين شبكه جايگاه ويژه اي دارد"
+      },
+      {
+         "name" : "IRIB Radio Iran",
+         "image" : "84851.v2.png",
+         "site_url" : "http://radioiran.ir/",
+         "radio_url" : "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-iran/playlist.m3u8",
+         "description" : "رادیو ایران فراگیرترین رادیو وصدای ملی کشورمان است که از موجهایFM و AM پخش می شود و در دورترین نقاط کشور شنونده دارد. رادیو ایران درکنار شبکه های متعدد رادیویی، قدیمی ترین رادیوی کشور است و عمر برخی از برنامه های آن به نیم قرن می رسد. خاطره انگیزترین برنامه های رادیو ، از رادیو ایران به گوش مردم ایران رسیده است و خاطره جمعی قوم ایرانی سرشار از نغمه هایی است که این جعبه ی جادویی خلق کرده است . رادیو ایران ، سعی کرده همراه با تحولات جامعه پیش رود و در کنار برنامه های قدیمی برنامه های جدید خود را به مخاطبان عرضه کند و برنامه های قدیم را نیز با ساختار و فرم امروزین بپردازد. سال سال۱۳۹۴ شعار تازه ای برای رادیو ایران برگزیده شد ، شعاری که بر دو عنصر اصلی تکیه دارد : نخست وجه ایرانی بودن و دوم وجه شنیداری بودن رادیو ."
+      },
+      {
+         "name" : "IRIB Radio Tehran",
+         "image" : "84844.v4.png",
+         "site_url" : "http://radiotehran.ir/",
+         "radio_url" : "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-tehran/playlist.m3u8",
+         "description" : "در این برنامه علاوه بر معرفی روستاهای اطراف تهران، روستاهایی كه قابلیت رشد، توسعه اقتصادی و سرمایه گذاری در كار تولیدی دارد، معرفی خواهند شد"
+      },
+      {
+         "name" : "IRIB Radio Arabic",
+         "image" : "84901.v2.png",
+         "site_url" : "http://radiotehran.ir/",
+         "radio_url" : "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-arabic/playlist.m3u8",
+         "description" : "رادیو عربی"
+      },
+      {
+         "name" : "IRIB Radio Javan",
+         "image" : "84843.v2.png",
+         "site_url" : "http://radiojavan.ir/",
+         "radio_url" : "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-javan/playlist.m3u8",
+         "description" : "مسابقه و سرگرمی"
+      },
+      {
+         "name" : "IRIB Radio West Azerbaijan",
+         "image" : "84909.v1.png",
+         "site_url" : "http://radio.iranseda.ir/radiolist/?VALID=TRUE",
+         "radio_url" : "http://altcdn.iranseda.ir:1935/channel-live/smil:r-azgharbi/playlist.m3u8",
+         "description" : "رادیو آذربایجان غربی"
+      },
+      {
+         "name" : "IRIB Radio Maaref",
+         "image" : "84857.v2.png",
+         "site_url" : "http://radiomaaref.ir/",
+         "radio_url" : "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-maaref/playlist.m3u8",
+         "description" : "رادیو معارف -صدای فضیلت و فطرت"
+      },
+      {
+         "name" : "IRIB Radio Eghtesad",
+         "image" : "84854.v2.png",
+         "site_url" : "http://radioeghtesad.irib.ir/",
+         "radio_url" : "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-eghtesad/playlist.m3u8",
+         "description" : "شبکه رادیویی اقتصاد : صدای اقتصاد درون زای ایران"
+      },
+      {
+         "name" : "IRIB Radio Namayesh",
+         "image" : "84856.v2.png",
+         "site_url" : "http://radionamayesh.ir/",
+         "radio_url" : "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-namayesh/playlist.m3u8",
+         "description" : "شبکه رادیویی نمایش : پرنیان تخیل و تفکرنمايش به عنوان نکوترين ساختار راديويي اولين بار در خرداد ۱۳۲۱ در فهرست برنامه هاي راديويي گنجانده شد . سيد عليخان نصر، اولين کسي بود که نمايش را به راديو آورد ، به اين صورت که نمايش هاي اجرا شده در تهران را به همراه عده اي ازبازيگران و با کمي تغییر به استوديو پخش زنده ی راديو مي آورد و آن ها را اجرا مي کرد."
+      },
+      {
+         "name" : "ParsToday Radio Spanish",
+         "image" : "85617.v1.png",
+         "site_url" : "https://parstoday.com/es",
+         "radio_url" : "https://stream.parstoday.com/ws/irib6/playlist.m3u8",
+         "description" : "El servicio español de ParsToday presenta temas políticos, culturales y religiosos en el marco de contenido de multimedios, con el propósito de tratar sobre asuntos que están trasmitiendo en otros medios de comunicación del mundo."
+      },
+      {
+         "name" : "IRIB Radio Salamat",
+         "image" : "84847.v3.png",
+         "site_url" : "http://radiosalamat.ir/",
+         "radio_url" : "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-salamat/playlist.m3u8",
+         "description" : "‌ رادیو سلامت، رسانه ای شنیداری، تخصصی، معتبر، پیشگام و موج آفرین در همه حوزه های مربوط به سلامت فرد و جامعه است که براساس تحقیقات و دانش روز و با تکیه بر اصول اخلاقی و ارزشهای اسلامی، ملی و انقلابی، برنامه های فاخر طراحی، تولید و برای مخاطبان فرهیخته ی خود پخش می نماید."
+      },
+      {
+         "name" : "Ahlulbayt TV",
+         "image" : "31563.v2.png",
+         "site_url" : "http://ahlulbayt.tv/",
+         "radio_url" : "http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8",
+         "description" : "Ahlulbayt TV is the world's first free-to-air, exclusively English TV network dedicated to delivering the pristine message of the Holy Prophet Muhammad and His Holy Household."
+      },
+      {
+         "name" : "IRIB Radio Goftego",
+         "image" : "84858.v2.png",
+         "site_url" : "http://radiogoftogoo.ir/",
+         "radio_url" : "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-goftego/playlist.m3u8",
+         "description" : "رادیو گفت و گوصدای اندیشه‌ها"
+      },
+      {
+         "name" : "IRIB Radio Ziarat",
+         "image" : "84849.v2.png",
+         "site_url" : "http://ziarat.seda.ir/",
+         "radio_url" : "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-ziarat/playlist.m3u8",
+         "description" : "رادیو زیارت رادیویی 24 ساعته و تخصصی با هدف توسعه و تقویت اطلاعات مردم در حوزه زیارت است و روزانه با افراد و قطب های فرهنگی و مکان های مقدس سراسر کشور ارتباط برقرار می کند."
+      },
+      {
+         "name" : "IRIB Radio Talavat",
+         "image" : "84900.v2.png",
+         "site_url" : "http://radio.iranseda.ir/radiolist/?VALID=TRUE",
+         "radio_url" : "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-talavat/playlist.m3u8",
+         "description" : "Radio Talavat"
+      },
+      {
+         "name" : "Radio Darvish",
+         "image" : "31371.v1.png",
+         "site_url" : "http://radiodarvish.com/",
+         "radio_url" : "https://radiodarvish.radio12345.com/",
+         "description" : "Welcome to Radio Darvish. This is a free webcast to promote and share Persian music. Radio Darvish is a Persian Traditional Music Station - 24/7This page is running by Radio Darvish fans and Persian traditional music lovers.For more information about the radio station please visit"
+      },
+      {
+         "name" : "IRIB Radio Enghelab",
+         "image" : "84852.v2.png",
+         "site_url" : "http://radioenghelab.ir/",
+         "radio_url" : "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-monasebati/playlist.m3u8",
+         "description" : "رادیو انقلاب"
+      },
+      {
+         "name" : "ParsToday Radio English",
+         "image" : "85618.v1.png",
+         "site_url" : "https://parstoday.com/en",
+         "radio_url" : "https://stream.parstoday.com/ws/irib8/playlist.m3u8",
+         "description" : "“Pars Today” is an Iranian news website covering breaking news and the latest events in Iran, the Middle East and the wider world."
+      },
+      {
+         "name" : "IRIB Radio Varzesh",
+         "image" : "84855.v2.png",
+         "site_url" : "http://radiovarzesh.ir/",
+         "radio_url" : "http://s0.cdn1.iranseda.ir:1935/liveedge/radio-varzesh/playlist.m3u8",
+         "description" : "رادیو ورزش -صدای تندرستی ، نشاط و افتخار"
+      },
+      {
+         "name" : "IRIB Radio Quran",
+         "image" : "84845.v2.png",
+         "site_url" : "http://radioquran.ir/",
+         "radio_url" : "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-quran/playlist.m3u8",
+         "description" : "‌ پس از پیروزی انقلاب اسلامی  ‌با توجه به نیاز مبرم جامعه ‌برای آشنایی با قرآن  و معارف اسلامی ، به دستور مقام معظم رهبری که در آن زمان رئیس جمهور وقت بودند ، رادیو قرآن در سال ۱۳۶۲ تأسیس شد. این شبکه رادیویی ‌‌در ابتدای کار با سه ساعت برنامه روزانه با محوریت تلاوت ، کار خود را آغاز کرد و در اواخر دهه ی اول فعالیت خود ، اندکی هم به مباحث ‌معارفی و تفسیری پرداخت.‌  رادیو قرآن در سال ۱۳۷۸ به یک شبکه سراسری ۲۴ ساعته تبدیل شد.  مسئولان رادیو در آن زمان تصمیم گرفتند‌ این شبکه‌  رویکرد مخاطب عام‌  هم داشته باشد که در حال حاضر این رویکرد موجب افزایش مخاطبان این رادیو ‌شده است ، به نحوی که رادیو قرآن در سال های اخیر توانسته رتبه نخست شبکه‌های رادیویی تخصصی در جذب مخاطب را به خود اختصاص دهد.  در حال حاضر استاد احمد ابوالقاسمی مدیریت این شبکه رادیویی را عهده دار است."
+      },
+      {
+         "name" : "IRIB Radio Saba",
+         "image" : "84846.v2.png",
+         "site_url" : "http://radiosaba.ir/",
+         "radio_url" : "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-saba/playlist.m3u8",
+         "description" : "شبکه رادیویی صبا : شوخ طبعی را از خانه شروع کنیم"
+      },
+      {
+         "name" : "Radio 6o8",
+         "image" : "32026.v6.png",
+         "site_url" : "http://radio6o8.com/",
+         "radio_url" : "http://radio6o8.com:8000/stream",
+         "description" : "#1 Iranian Internet radio with it's main focus on musics produced and created by talented Iranian musicians 'inside' our beloved IRAN."
+      },
+      {
+         "name" : "Radio Iran International",
+         "image" : "83762.v2.png",
+         "site_url" : "https://iranintl.com/",
+         "radio_url" : "https://radio.iraninternational.app/iintl_c",
+         "description" : "Iran International launched in May 2017. Its mix of rolling news, current affairs and sport, lifestyle, health, and technology, programmed to attract a wide audience, especially younger people.  Iran International is a privately-owned UK entity: the first of a family of channels aiming eventually to target other communities and other languages."
+      },
+      {
+         "name" : "Radio Navahang",
+         "image" : "81080.v1.png",
+         "site_url" : "https://www.navahang.com/",
+         "radio_url" : "http://173.236.47.154:9000/stream",
+         "description" : "رادیو نواهنگ با ده سال سابقه فعالیت، یکی از رادیوهای پرطرفدار ایرانی میباشد که غالبا به موسیقی پاپ و سنتی میپردازد"
+      },
+      {
+         "name" : "Radio Payam",
+         "image" : "31328.v2.png",
+         "site_url" : "http://www.radiopayam.ir/",
+         "radio_url" : "http://s1.cdn1.iranseda.ir:1935/liveedge/radio-payam/playlist.m3u8",
+         "description" : "خبر، موسیقی بی کلام، موسیقی با کلام سنتی، پاپ، محلی"
+      }
+   ]
+}

@@ -1,0 +1,844 @@
+{
+   "bo" : [
+      {
+         "name" : "Radio Mix",
+         "image" : "38591.v4.png",
+         "site_url" : "http://www.radiomix931bolivia.com/",
+         "radio_url" : "http://37.48.73.96:9996/;stream.mp3",
+         "description" : "Emisora estilo y programas originales, brinda entretenimiento, información y noticias, sus contenidos ofrecen sucesos del mundo de la farándula, notas de actualidad del país y el mundo, y la mejor música del dial."
+      },
+      {
+         "name" : "Radio FM La Paz",
+         "image" : "38528.v1.png",
+         "site_url" : "http://www.lapaz.fm/",
+         "radio_url" : "http://icecasthd.net:45019/live",
+         "description" : "FM La Paz fue fundada el 20 de octubre de 1991 por Henry Dueri y su esposa Leonora Mujía de Dueri.A través de los 96.7 del dial (originalmente 96.9) FM La Paz fue la primera emisora del país en desarrollar y emplear el formato “adulto contemporáneo”."
+      },
+      {
+         "name" : "Radio Chacaltaya",
+         "image" : "38539.v1.png",
+         "site_url" : "http://www.radiochacaltayafm.net/",
+         "radio_url" : "http://stream.servionbolivia.red:9364/stream",
+         "description" : "Radio Chacaltaya 93.7 'Música Tropical con Altura'"
+      },
+      {
+         "name" : "Radio Fides",
+         "image" : "37866.png",
+         "site_url" : "http://radiofides.com/",
+         "radio_url" : "http://192.99.17.12:6358/stream/;",
+         "description" : "Radio Fides La Paz es una emisora radiodifusora de la red Grupal Fides de radios de La Paz, La Paz, Bolivia que ofrece noticias, charlas, información, música folclórica y entretenimiento."
+      },
+      {
+         "name" : "Radio Disney",
+         "image" : "64930.v2.png",
+         "site_url" : "http://radiodisney.disneylatino.com/bolivia",
+         "radio_url" : "http://144.217.67.108:9156/;",
+         "description" : "Emisora juvenil que durante las 24 horas brinda lo mejor en música, las notas de actualidad de los artistas preferidos y equipo de conductores profesionales en horario de 24 horas."
+      },
+      {
+         "name" : "Radio Mega DJ",
+         "image" : "38509.v1.png",
+         "site_url" : "http://megadjs899.com/",
+         "radio_url" : "http://eu8.fastcast4u.com:5682/;",
+         "description" : "la mega 89.8 cochabamba radio en vivo amplificacion mega dj,s."
+      },
+      {
+         "name" : "Radio Panamericana",
+         "image" : "37868.v1.png",
+         "site_url" : "http://panamericana.bo/",
+         "radio_url" : "https://stream.zeno.fm/pnwpbyfambruv",
+         "description" : "Radio Panamericana radio nacida a la vida del país el 17 de julio de 1972, hace 42 años con el visionario industrial Miguel Dueri, apareció en el dial una nueva estación, que más tarde se convirtió en la institución más importante de la radiodifusión nacional."
+      },
+      {
+         "name" : "Radio Clasica",
+         "image" : "37885.v1.png",
+         "site_url" : "http://www.radioclasicafm.com/",
+         "radio_url" : "http://radios.istbolivia.com:9976/;",
+         "description" : "Radio Clasica 100.3 es una emisora radiodifundida de Cochabamba, Bolivia, que ofrece Adult Contemporary, Oldies Music."
+      },
+      {
+         "name" : "Radio Gente",
+         "image" : "37872.v1.png",
+         "site_url" : "http://www.radiogentebolivia.com/",
+         "radio_url" : "http://91.121.220.14:9966/;",
+         "description" : "Estación que difunde variada programación durante las 24 horas del día, con el mejor entretenimiento, informacion, se ha situado como la radio líder en audiencia en la ciudad de Bolivia."
+      },
+      {
+         "name" : "Radio Ambaná Bolivia",
+         "image" : "38526.v2.png",
+         "site_url" : "http://radioambana.com/",
+         "radio_url" : "http://142.54.190.6:9390/;stream.aac",
+         "description" : "Escucha radio Ambana  en vivo las 24 horas del dia con buena programacion musical noticias y mucho mas transmitiendo desde."
+      },
+      {
+         "name" : "Radio Melodia",
+         "image" : "37955.png",
+         "site_url" : "http://www.radiomelodia.fm/",
+         "radio_url" : "https://stream.zeno.fm/g9rp3urpmnruv",
+         "description" : "La emisora de Bolivia transmitiendo buena música en el 99.1 FM. Tambien ofrece una programación variada."
+      },
+      {
+         "name" : "Radio Stereo 97",
+         "image" : "37953.png",
+         "site_url" : "http://www.stereo97.fm/",
+         "radio_url" : "http://centova1.consultoradas.com:27147/live",
+         "description" : "Programas que animan y entretienen, cultiva, informan y actualizan, son los que transmite esta radio que con su equipo de locutores, se encargan de lanzar una programación alegre y jovial a todos los lugares de Bolivia y el mundo."
+      },
+      {
+         "name" : "Radio Erbol",
+         "image" : "37884.v2.png",
+         "site_url" : "http://www.erbol.com.bo/",
+         "radio_url" : "http://108.170.61.114:7223/live",
+         "description" : "Radio Erbol es una emisora de radio de La Paz, Bolivia que ofrece programas de música y conversación en español."
+      },
+      {
+         "name" : "Radio Cristo en Nosotros",
+         "image" : "64071.v3.png",
+         "site_url" : "http://radiocristoennosotros.radiostream321.com/",
+         "radio_url" : "http://109.169.23.22:33227/;",
+         "description" : "Fundamentado en los cinco Ministerios Hasta alcanzar la Estatura y Plenitud en Cristo"
+      },
+      {
+         "name" : "Radio Aclo Potosi",
+         "image" : "39037.v3.png",
+         "site_url" : "http://aclo.org.bo/",
+         "radio_url" : "http://212.83.172.247:8072/;",
+         "description" : "Emisora de Bolivia que brinda apoyo a las comunidades, difunde información de la actualidad nacional, las noticias relevantes, cultura, educación y servicios que transmite durante las 24 horas del día."
+      },
+      {
+         "name" : "Radio Next Bolivia",
+         "image" : "38601.png",
+         "site_url" : "http://www.radionext917.com/",
+         "radio_url" : "http://212.83.172.242:8022/;",
+         "description" : "La radio mas importante de todo el norte cruceño, ofreciendo un estilo musical 'Único' con una calidad de sonido nunca antes escuchada, convertiendose en la radio preferida de los jovenes, no solo llegando a varias provincias, si no tambien, a muchos paises,con nuestra señal On Line en internet con una calidad HD."
+      },
+      {
+         "name" : "Radio Classica FM",
+         "image" : "37889.png",
+         "site_url" : "http://www.classicafm.com/",
+         "radio_url" : "http://classicafm.scbbs.net:8000/;",
+         "description" : "Emisora que difunde música en diversidad de géneros, hits de los años 60’s, 70’s, 80’s y 90’s, mezclando diversos ritmos en shows musicales para el público de todos los gustos."
+      },
+      {
+         "name" : "Radio Caliente",
+         "image" : "37945.v1.png",
+         "site_url" : "https://radiocalientesantacruz.com/",
+         "radio_url" : "http://stream01.net-bolivia.com:9992/;",
+         "description" : "Radio Caliente 105.1 es la radio número uno en estilo, se ubican en # preferencia de la gente en Santa Cruz de la Sierra Bolivia. Tienen 24 horas de transmisión en vivo con altavoces profesionales, cambiando cada 2 o 3 horas de voz, de esta manera damos espacios más dinámicos."
+      },
+      {
+         "name" : "Radio Santa Cruz",
+         "image" : "37948.v1.png",
+         "site_url" : "http://www.irfabolivia.org/",
+         "radio_url" : "http://138.197.156.231:8631/stream",
+         "description" : "Radio Santa Cruz tiene como objetivo desarrollar en los sectores sociales menos favorecidos del oriente y el chaco boliviano capacidades y conocimientos que los conviertan en protagonistas solidarios de su propio desarrollo."
+      },
+      {
+         "name" : "Radio Activa",
+         "image" : "38566.v1.png",
+         "site_url" : "http://www.919radioactiva.com/",
+         "radio_url" : "http://streamserver.ml:7002/;",
+         "description" : "Bienvenidos a la fan page oficial de Radio Activa 91.9, juntos formamos la comunidad de radio mas activa. GRACIAS A VOS."
+      },
+      {
+         "name" : "Radio Audiokiss",
+         "image" : "37935.v3.png",
+         "site_url" : "http://www.audiokiss.com/",
+         "radio_url" : "http://radioserver1.us:7040/;",
+         "description" : "Radio AudioKiss, musica latina, noticias, concursos y mucho mas Montero Santa Cruz. Tune in to Honda 70'S, Escucha Y Chatea, as well as shows including Solo Sentimientos, and many more."
+      },
+      {
+         "name" : "Radio Carlos Valverde",
+         "image" : "38495.png",
+         "site_url" : "http://www.carlosvalverde.com/",
+         "radio_url" : "http://radios.bolivianservers.net:8010/;",
+         "description" : "Comunicar y compartir ideas; hacer comunidad. Plataforma del pensamiento libre."
+      },
+      {
+         "name" : "Radio Patria Nueva",
+         "image" : "37871.v1.png",
+         "site_url" : "http://www.patrianueva.bo/",
+         "radio_url" : "http://190.129.90.43:8000/;?",
+         "description" : "Radio Patria Nueva es una emisora de radiodifusión en La Paz, Bolivia, proporcionando Noticias de la Comunidad, Charla y Entretenimiento."
+      },
+      {
+         "name" : "WKM Radio",
+         "image" : "39009.png",
+         "site_url" : "http://www.wkmradio.com/",
+         "radio_url" : "http://radio.mediastre.am/wkmradio.aac",
+         "description" : "Estación que transmite durante las 24 horas, programas con lo mejor de la música rock y pop, clásicos de años 70’s, 80’s, 90’s, con difusión de las novedades del espectáculo."
+      },
+      {
+         "name" : "Radio Caliente Cochabamba",
+         "image" : "38504.png",
+         "site_url" : "http://radiocalientecochabamba.com/",
+         "radio_url" : "http://stm3.xcast.com.br:12878/;",
+         "description" : "Radio Caliente Cochabamba la súper radio es una emisora que difunde su señal en Cochabamba - Bolivia hace ya bastante tiempo, nos ocupamos de ofrecerles la mejor música popular a todo nuestros oyentes con la más divertida programación."
+      },
+      {
+         "name" : "Radio Maritima FM",
+         "image" : "37873.png",
+         "site_url" : "http://www.radiomaritimafm.com/",
+         "radio_url" : "http://198.49.68.60:9984/;",
+         "description" : "Radio Marítima Radio 99.9 FM con diferente estilo y contenido, proporcionando sus programas de noticias de audiencia, deportes, salud, revista de entretenimiento dirigida al público adulto contemporáneo. La música en todas sus variedades es en español."
+      },
+      {
+         "name" : "Radio Sabor y Candela",
+         "image" : "37947.v3.png",
+         "site_url" : "http://www.radiosaborycandela.com/",
+         "radio_url" : "http://195.154.182.222:25609/live",
+         "description" : "Una emisora con calidad y de formato variado."
+      },
+      {
+         "name" : "Radio FM Tropical",
+         "image" : "37944.png",
+         "site_url" : "http://www.fmtropical.net/",
+         "radio_url" : "https://b.c8.net.ua/b/81/81524.mp4",
+         "description" : "Radio FM Tropical es una emisora online de Bolivia, que ofrece música española, Variety."
+      },
+      {
+         "name" : "Radio Kantuta",
+         "image" : "39021.v2.png",
+         "site_url" : "http://www.radiokantuta.com/",
+         "radio_url" : "http://stm1.srvstm.net:23128/;",
+         "description" : "Estación que transmite desde Oruro, durante las 24 horas del día, ofrece notas informativas más actualizadas, lo mejor en musicales de los géneros populares como cumbia boliviana y folklore sureño."
+      },
+      {
+         "name" : "El Sonido de la Vida",
+         "image" : "37956.png",
+         "site_url" : "http://www.sccbolivia.com/",
+         "radio_url" : "http://stream.servionbolivia.red:9580/;",
+         "description" : "El Sonido de la Vida es una emisora de radio de La Paz, Bolivia que ofrece música y programación cristiana."
+      },
+      {
+         "name" : "Radio Splendid",
+         "image" : "37886.png",
+         "site_url" : "http://www.cercacomunicaciones.com/",
+         "radio_url" : "http://boliviastreaming.com:7010/;stream.nsv",
+         "description" : "Radio Esplendida AM 1220 es una emisora radiodifusora de La Paz, Bolivia, una estación perteneciente al Sistema de Comunicaciones NEAR, es una institución que fomenta la comunicación de la cultura andina y sobre todo la cultura del país. Radio Splendid AM 1220 ofrece programas culturales, musicales y educativos."
+      },
+      {
+         "name" : "Radio Transamericana Oruro",
+         "image" : "37943.v6.png",
+         "site_url" : "http://www.transamericana.com/",
+         "radio_url" : "http://server.laradio.online:8233/;",
+         "description" : "Historia y programas de Radio Transamericana, en el aire desde 1988. Pasión por la música."
+      },
+      {
+         "name" : "Radio Deseo",
+         "image" : "37949.v1.png",
+         "site_url" : "http://www.radiodeseo.com/",
+         "radio_url" : "http://195.154.56.114:9166/;",
+         "description" : "Radio Deseo, 103.3 FM, se transmite en Vivo desde la ciudad de La Paz, Bolivia, las 24 horas del día. A través de una programación fresca lleva sano entretenimiento a todos sus radioescuchas. Aquí podrás disfrutar de la mejor música, compuesta por canciones pop, ritmos latinos y los clásicos de los artistas más famosos de todos los tiempos."
+      },
+      {
+         "name" : "Radio Solidaria RKM",
+         "image" : "39007.v3.png",
+         "site_url" : "http://www.radiorkm.com/",
+         "radio_url" : "http://www.boliviastreaming.com:7036/;",
+         "description" : "Radio Solidaria RKM, se difunde por el dial 90.9 FM desde la ciudad de La Paz, Bolivia. Es una estación radial cristiana que tiene como principal objetivo difundir el evangelio a todos sus fieles oyentes."
+      },
+      {
+         "name" : "Radio Televisión Mundial",
+         "image" : "38602.v2.png",
+         "site_url" : "http://www.radiomundialmontero.com/",
+         "radio_url" : "http://62.210.24.124:8499/live",
+         "description" : "Radio Televisión Mundial es una emisora de radio en Montero, Bolivia, que ofrece música Pop."
+      },
+      {
+         "name" : "Radio Integración",
+         "image" : "38579.v5.png",
+         "site_url" : "http://www.integracionfm.com/",
+         "radio_url" : "http://62.210.24.124:8339/live?1516099866399",
+         "description" : "Radio INTEGRACION 90.3 FM es una emisora legalmente establecida en la ciudad de Montero Santa Cruz Bolivia."
+      },
+      {
+         "name" : "Radio Arce",
+         "image" : "49679.v1.png",
+         "site_url" : "http://www.radioarce.com/",
+         "radio_url" : "http://108.170.61.114:8346/live",
+         "description" : "Radio Arce.com es un medio de comunicación que trasmite desde la ciudad de Oruro (Estado Plurinacional de Bolivia), con el objetivo de generar una programación entretenida y amena, a través de todo género de música y especialmente la música de Bolivia."
+      },
+      {
+         "name" : "Radio Betania",
+         "image" : "37877.v1.png",
+         "site_url" : "http://radiobetania.com/",
+         "radio_url" : "http://icecast.radiobetania.com:8000/betania.mp3",
+         "description" : "Laicos católicos dieron vida a Radio Betania el 1ro de Diciembre de 1998 con una señal experimental en la Frecuencia 93.9 FM, La radio es parte de un proyecto de la Fundación Betania, institución dedicada a la difusíon y proclamacíon de la Buena Nueva de Jesús. Los mensajes de Radio Betania cubrieron la necesidades y las expectativas de la población católica de Santa Cruz de la Sierra, Quienes buscan la propagación de la esperanza, la Fé y el Amor. El contenido de nuestra programación es explicitamente Cristiano Catolico, difundiendo mensajes que tienen fundamento en las Sagradas Escrituras y en la Doctrina de la Iglesia."
+      },
+      {
+         "name" : "Radio Maria",
+         "image" : "38585.v8.png",
+         "site_url" : "http://www.radiomariaauxiliadora.sdb.bo/",
+         "radio_url" : "http://62.210.24.124:8454/live",
+         "description" : "Maria Auxiliadora una emisora que llega hasta sus hogares con valores, entretenimiento y mucho mas bien venido a tu estacion radial desde Montero Santa Cruz Bolivia.Programación radial dirigida a la familia, especialmente a la familia del area rural - norte del departamento de Santa Cruz"
+      },
+      {
+         "name" : "Radio Maria",
+         "image" : "37878.v2.png",
+         "site_url" : "https://www.radiomaria.org.bo/",
+         "radio_url" : "http://dreamsiteradiocp4.com:8022/;",
+         "description" : "Radio María Bolivia 101.9 es una emisora de Radio Cochabamba, Bolivia. Asociación sin fines de lucro, que como medio de evangelización es el servicio de la Iglesia Católica, cuyo objetivo es el compromiso con el bien que inspira a la gente a vivir el Cristo enseñado inspirándolos a valores de integridad y acción."
+      },
+      {
+         "name" : "Radio Red Pío XII",
+         "image" : "37958.v2.png",
+         "site_url" : "http://www.radiopio12.com/",
+         "radio_url" : "http://aler.org:8000/pio12cbba.mp3",
+         "description" : "Emisora Católica que transmite programas de contenidos cristianos, siendo medio de comunicación de la comunidad, promociona la defensa del medio ambiente, promueve la opinión y diálogo en demandas y problemas indígneas y de otros sectores sociales."
+      },
+      {
+         "name" : "Radio Melodia FM",
+         "image" : "38555.png",
+         "site_url" : "http://melodiafm.net/",
+         "radio_url" : "http://live.streamsolutions.gr:8692/;stream/1",
+         "description" : "Emisora de Medellín, con programas las 24 horas, sus contenidos de noticias relevantes, información actual nacional e internacional, musicales con los éxitos colombianos como cumbias, salsas, rancheras y otros ritmos."
+      },
+      {
+         "name" : "Radio Pasion Boliviana",
+         "image" : "37957.png",
+         "site_url" : "http://radiopasionfm.com/",
+         "radio_url" : "http://realserver2.megalink.com:8140/;",
+         "description" : "Estación que difunde a través de frecuencia modulada, durante las 24 horas del día, con espacios de música en Español, notas de actualidad y sano entretenimiento, noticias regionales e internacionales."
+      },
+      {
+         "name" : "Radio Latina",
+         "image" : "38489.v1.png",
+         "site_url" : "http://laradiolatina.com/",
+         "radio_url" : "http://s9.viastreaming.net:7045/;",
+         "description" : "Radio Latina 90.7 es una emisora de radiodifusión de Sucre, Bolivia, que ofrece Love Songs, Pop Latino Music. La idea de gastar sólo música latina duró más de una década, pero ahora también nos llevó a transmitir los rankings internacionales con los éxitos del momento, no sólo para diversificar la música, sino también para un público más amplio."
+      },
+      {
+         "name" : "Radio Pachamama",
+         "image" : "37888.png",
+         "site_url" : "http://www.radiopachamama.com/",
+         "radio_url" : "http://208.85.5.254:7158/;",
+         "description" : "Radio Pachamama 106.1 FM es una emisora de radiodifusión de La Paz, Bolivia, que ofrece música en Español y Variety."
+      },
+      {
+         "name" : "Radio Estelar FM",
+         "image" : "37954.v1.png",
+         "site_url" : "http://www.estelarfm.com/",
+         "radio_url" : "http://91.121.220.14:9960/;",
+         "description" : "Emisora líder en Bolivia, con una innovadora programación, su principal contenido es la música de los géneros más populares y los más escuchados, información de artistas y noticias más relevantes."
+      },
+      {
+         "name" : "Radio Camargo Bolivia",
+         "image" : "39019.png",
+         "site_url" : "http://www.radiocamargo.com.bo/",
+         "radio_url" : "http://aliasdns.info:8778/;",
+         "description" : "Radio que difunde en frecuencia modulada durante las 24 horas, ofrece noticias locales e internacionales, segmentos informativos de deportes, culturales y folklore boliviano, animación y profesionalismo del equipo de locutores."
+      },
+      {
+         "name" : "Radio El Deber",
+         "image" : "37867.v6.png",
+         "site_url" : "http://www.eldeberradio.com/",
+         "radio_url" : "http://62.210.24.124:8612/live",
+         "description" : "Radio El Deber es una emisora de radio de Santa Cruz, Bolivia que ofrece noticias, información y música de variedades."
+      },
+      {
+         "name" : "Radio Sucre",
+         "image" : "39040.png",
+         "site_url" : "http://radiosucre1320.com/",
+         "radio_url" : "http://radios.imd.com.bo:7791/;",
+         "description" : "Estación que transmite programas variados con información de actualidad, noticieros y sucesos que acontecen diariamente, con el entretenimiento variado y shows en vivo con música popular y del folklor boliviano."
+      },
+      {
+         "name" : "Radio Estrella",
+         "image" : "38999.v1.png",
+         "site_url" : "http://www.radioestrella93.com/",
+         "radio_url" : "http://200.58.82.171:8000/;",
+         "description" : "Radio Estrella FM 93.1 es una estación radial que se trasmite desde Cochabamba, Cochabamba, Bolivia las 24 horas del día.A través de una programación se encarga de difundir diferentes segmentos con lo que mantiene entretenidos a todos sus fieles seguidores de Bolivia."
+      },
+      {
+         "name" : "Majestad Sintonia Real",
+         "image" : "37937.v1.png",
+         "site_url" : "http://www.majestadfm.com/",
+         "radio_url" : "http://stm28.srvstm.com:24214/;",
+         "description" : "Radio Majestad, es una estación cristiana que se transmite desde La Paz, Bolivia, por la frecuencia 105.7 FM. Surge con la necesidad de predicar y llevar a los hogares de cada uno de sus fieles oyente la palabra de la Santa Biblia."
+      },
+      {
+         "name" : "Radio Católica Carisma",
+         "image" : "37952.png",
+         "site_url" : "http://www.radiocatolicacarisma.com/",
+         "radio_url" : "http://72.29.89.35:8036/;",
+         "description" : "Radio Católica Carisma, se difunde por el dial 103.1 FM desde la ciudad de Santa Cruz, Bolivia. Es una estación radial cristiana que tiene como principal objetivo educar en la fe, a través de la comunicación y la predicación de la Palabra de Jesucristo. Se caracteriza por trabajar y contribuir con la unidad en la diversidad de la Iglesia Católica, para difundir la buena nueva de nuestro señor Jesús."
+      },
+      {
+         "name" : "Radio América",
+         "image" : "37951.png",
+         "site_url" : "http://americafm.org/",
+         "radio_url" : "http://198.100.152.234:8236/;",
+         "description" : "Radio América es un Medio de Comunicación Cristiano en Santa Cruz de la Sierra, Bolivia, el cual aporta y brinda valores y principios a las familias cruceñas."
+      },
+      {
+         "name" : "Radio Felicidad FM",
+         "image" : "66620.v1.png",
+         "site_url" : "http://www.crtvuyuni.com.bo/",
+         "radio_url" : "http://cast.streamingsitios.com:8080/;;",
+         "description" : "Hoy por hoy Radio Felicidad FM se constituye en un referente de calidad indiscutido, una emisora que se expresa en el lenguaje adecuado 'ESPAÑOL'. El de la mejor música latina y esa música está en 89.5 Frecuencia Modulada (Uyuni - Bolivia)."
+      },
+      {
+         "name" : "Radio Kollasuyo",
+         "image" : "37870.v1.png",
+         "site_url" : "http://www.radiokollasuyo.net/",
+         "radio_url" : "http://104.248.51.135:8000/kolla",
+         "description" : "Estación que ofrece una programación vanguardista y noticieros que transmiten los sucesos al instante, ofrece información de actualidad, entretenimiento musical con lo mejor de los interpretes del país y los eventos mas relevantes."
+      },
+      {
+         "name" : "Radio Ecco FM Cuevo Bolivia",
+         "image" : "38493.png",
+         "site_url" : "http://radioeccocuevofm92.blogspot.com.es/",
+         "radio_url" : "http://188.165.236.90:8306/;",
+         "description" : "RADIO ECCO CUEVO FM 92.3 CORDILLERA BOLIVIA es una emisora de radiodifusión de Bolivia que ofrece música Variety."
+      },
+      {
+         "name" : "Radio Grupo Centro Universal",
+         "image" : "39032.png",
+         "site_url" : "http://www.grupocentro.com.bo/",
+         "radio_url" : "http://playservistream.net:7172/;",
+         "description" : "Radio Grupo Centro Universal, que brinda programas de información actual, noticieros a través de periodistas serios y responsables, una  selección de géneros musicales del pop latino y música folklórica boliviana."
+      },
+      {
+         "name" : "JHV Radio",
+         "image" : "37959.v4.png",
+         "site_url" : "https://www.jhvradio.com/",
+         "radio_url" : "http://radios.istbolivia.com:9898/;stream.nsv",
+         "description" : "JHV FM 93.5 es una emisora de radio de Oruro, Bolivia que ofrece música y programación de Christian Contemporary."
+      },
+      {
+         "name" : "Radio Hit FM",
+         "image" : "38574.v1.png",
+         "site_url" : "http://www.fmhit99.com/",
+         "radio_url" : "http://stm10.nshcast.in:16252/;",
+         "description" : "Radio Hit FM de la mejor emisora de Santa Cruz, Bolivia.Aquí encontrarás información relacionada con Fm Hit, sus programas principales, adelantos de programación, listados de ranking y más."
+      },
+      {
+         "name" : "Panamerica Clásica",
+         "image" : "38531.v1.png",
+         "site_url" : "http://www.panamericanaclasica.com/",
+         "radio_url" : "http://hubble.shoutca.st:8093/stream",
+         "description" : "Deje que los compositores mas grandes de todos los tiempos compartan con usted sus mas preciosas creaciones."
+      },
+      {
+         "name" : "Radio Maxima Bolivia",
+         "image" : "80470.v3.png",
+         "site_url" : "https://zeno.fm/radio-maxima-bolivia",
+         "radio_url" : "https://stream.zeno.fm/pff2xz1na9quv",
+         "description" : "Radio  transmitiendo 24 horas lo mejor deMaxima Bolivia tu estilo aqui ,tus exitos suenan todo el dia una programacion estructurada acorde de los numero uno Maxima Bolivia hecho para ti."
+      },
+      {
+         "name" : "Radio Sonar FM",
+         "image" : "73281.v8.png",
+         "site_url" : "http://radiosonarbolivia.blogspot.com/",
+         "radio_url" : "https://stream.zeno.fm/cve08dfdhceuv",
+         "description" : "Radio sonar fm bolivia transmite las 24 horas al dia desde la ciudad m,as alta del mundo para toda america bajo la conducccion de dj wilys para todos ustedes."
+      },
+      {
+         "name" : "Dj Edwin Bolivia",
+         "image" : "82120.v3.png",
+         "site_url" : "https://zeno.fm/djedwinbolivia",
+         "radio_url" : "https://stream.zeno.fm/pdexkzp3ahruv",
+         "description" : "las musicas que suena"
+      },
+      {
+         "name" : "Sonido Oscuro Radio",
+         "image" : "75284.v8.png",
+         "site_url" : "http://sonidooscuro666.blogspot.com/",
+         "radio_url" : "https://stream.zenolive.com/1q7md65ubseuv",
+         "description" : "The most brutal radio of all time, a point where you can only hear overwhelming metal in all its genres and subgenres, real music from the low worlds where only reigns terror and despair"
+      },
+      {
+         "name" : "CESAR RadioRock",
+         "image" : "74607.v9.png",
+         "site_url" : "https://cesarradiorock.wixsite.com/radio",
+         "radio_url" : "https://stream.zenolive.com/sb1x2nz6s9duv",
+         "description" : "Lo mejor del Rock y Pop Boliviano"
+      },
+      {
+         "name" : "Global Radio Studio",
+         "image" : "80024.v1.png",
+         "site_url" : "https://javibest.es.tl/Global-Radio-Studio.htm",
+         "radio_url" : "https://stream.zeno.fm/zd9r4r1485quv",
+         "description" : "Global Radio Cochabamba Bolivia Estacion On-Line de Musica 24/7"
+      },
+      {
+         "name" : "Radio Genial Bolivia",
+         "image" : "79935.v6.png",
+         "site_url" : "https://radiogeniallapazboolivia.blogspot.com/",
+         "radio_url" : "https://stream.zeno.fm/1sap8zedtqzuv",
+         "description" : "Estamos en vivo las 24 horas con la mejor musica"
+      },
+      {
+         "name" : "Radio El Sonido De Vida",
+         "image" : "81725.v2.png",
+         "site_url" : "https://www.radioelsonidodevida.tk/",
+         "radio_url" : "https://stream.zeno.fm/c4z6tu9gqeruv",
+         "description" : "Somos una emisora con el único propósito de exaltar el nombre de Dios, y de esa forma predicar el evangelio a toda criatura alrededor del mundo entero, queremos acompañarle las 24 horas del día con música con vida, predicas, programas y mensajes de ayuda al crecimiento de la familia de Dios."
+      },
+      {
+         "name" : "Electra Radio",
+         "image" : "79598.v2.png",
+         "site_url" : "https://electraradio.weebly.com/",
+         "radio_url" : "https://stream.zeno.fm/0q9z2s5h22quv",
+         "description" : "Best Collection EMD music"
+      },
+      {
+         "name" : "Radio DJ TV",
+         "image" : "80311.v2.png",
+         "site_url" : "https://zeno.fm/raio-dj-tv",
+         "radio_url" : "https://stream.zeno.fm/ngqs730zh3quv",
+         "description" : "En vivo Radio DJ TV 107.1 fm"
+      },
+      {
+         "name" : "Caravana Deportiva",
+         "image" : "78967.v1.png",
+         "site_url" : "https://caravanadeportiva.es.tl/",
+         "radio_url" : "https://stream.zeno.fm/q2km9gqmymruv",
+         "description" : "100 % música y deporte"
+      },
+      {
+         "name" : "Rádio Star Bolívia",
+         "image" : "79916.v3.png",
+         "site_url" : "https://radiostarbolivia.blogspot.com/",
+         "radio_url" : "https://stream.zeno.fm/3g5c5ez8n0quv",
+         "description" : "Rádio Star Bolívia siempe esta contigo las 24 horas con buenas músicas"
+      },
+      {
+         "name" : "la Super Sterio",
+         "image" : "80312.v1.png",
+         "site_url" : "http://zeno.fm/la-super-sterio-1080",
+         "radio_url" : "https://stream.zeno.fm/e8trwxbut5quv",
+         "description" : "en vivo Sterio 108.0 fm"
+      },
+      {
+         "name" : "ANN Radio",
+         "image" : "82260.v4.png",
+         "site_url" : "http://annradios24h.ml/",
+         "radio_url" : "https://stream.zeno.fm/scneph5ycceuv",
+         "description" : "ANN Radio es parte de ANN Multimedia y transmite en vivo desde Bolivia para el mundo."
+      },
+      {
+         "name" : "Radio Acer Valles Cruceños",
+         "image" : "84965.v3.png",
+         "site_url" : "https://joseluisyucrayale.wixsite.com/radioacer",
+         "radio_url" : "https://stream.zeno.fm/405agpahhbruv",
+         "description" : "Una radio con identidad propia en los Valles Cruceños para que disfrutes nuestras programaciónes de 24 horas,de buena música y programas variados, sonando sin parar.24 hora de buena compañía, de día y de noche transmitiendo desde los Valles Cruceños-Santa Cruz-Bolivia y el mundo"
+      },
+      {
+         "name" : "Radio X Bolivia",
+         "image" : "85572.v4.png",
+         "site_url" : "https://x.radio.com.bo/",
+         "radio_url" : "https://azura1.bitstreaming.net/radio/8020/radio.mp3",
+         "description" : "Solo buena música las 24 hrs. Del día, siempre pensando en usted"
+      },
+      {
+         "name" : "Radio UCB Online",
+         "image" : "72030.v2.png",
+         "site_url" : "https://www.ucbcba.edu.bo/Radio/RadioUCB.html",
+         "radio_url" : "https://stream.codigosur.org/RadioComunitariaUCB.mp3",
+         "description" : "Radio UCB Online es una propuesta académica que tiene únicamente fines educativos y no comerciales."
+      },
+      {
+         "name" : "Radio Eco Loyola",
+         "image" : "38492.png",
+         "site_url" : "http://www.loyola.edu.bo/",
+         "radio_url" : "http://www.loyola.edu.bo/univ/radio/radio.html",
+         "description" : "La Universidad Loyola sustenta su Misión con la promoción de una cultura integral capaz de formar personas que se distingan por la firmeza de sus convicciones, sus profundos conocimientos científicos, humanísticos y sociales, además de mantener su compromiso para conseguir la creación de una sociedad más justa, equitativa y fraterna"
+      },
+      {
+         "name" : "Radio LaBruja FM",
+         "image" : "38479.v2.png",
+         "site_url" : "http://www.labrujafm.com/",
+         "radio_url" : "http://91.121.220.14:9952/;",
+         "description" : "Radio Fides Oruro. Tune in to A Todo Futbol, Concierto Boliviano, and shows like Memorias De Una Generación."
+      },
+      {
+         "name" : "Radio HIT Cochabamba",
+         "image" : "73323.v2.png",
+         "site_url" : "http://www.fmhitradio.com/",
+         "radio_url" : "http://www.fmhitradio.com/escuchanos",
+         "description" : "Estación líder en Cochabamba Bolivia. Única con formato CHR TOP 40"
+      },
+      {
+         "name" : "Radio Qhana",
+         "image" : "39027.v13.png",
+         "site_url" : "http://www.qhana.org.bo/",
+         "radio_url" : "http://163.172.8.18:8017/stream",
+         "description" : "Radio QHANA 98.5 FM., es una radio emisora informativa, educativa y cultural. La señal llega a la ciudad de La Paz, El Alto, Viacha"
+      },
+      {
+         "name" : "Radio Energy 95.5",
+         "image" : "69698.v6.png",
+         "site_url" : "http://www.radioenergy955.com/",
+         "radio_url" : "http://5.135.183.124:9513/stream",
+         "description" : "Nuestro motivo principal es el de crear un medio diferente, Que rompa totalmente el esquema tradicional. Ya que la filosofía musical de Energy consiste en transmitir la mejor música, Nuestros DJs. Seleccionan con buen gusto y conocimiento las mejores canciones de actualidad y aquellas que nunca pasaran de moda ya que para Energy las buenas canciones no tienen temporalidad, porque la buena música está hecha con el corazón."
+      },
+      {
+         "name" : "Radio Integracion (La Paz)",
+         "image" : "73222.v5.png",
+         "site_url" : "https://www.radiointegracion.com/",
+         "radio_url" : "http://stream.nepsum.com:9000/radiointegracion.mp3",
+         "description" : "Radio Integracion transmite en los 640 kHz, es la señal AM más escuchada en todo El Alto, Bolivia. Su programación informativa y adulto contemporáneo aborda los problemas económicos, políticos y culturales generados en toda la ciudad de El Alto, La Paz y Bolivia. Abarca las noticias locales, nacionales e internacionales en el momento preciso en que ocurren y al mismo tiempo presenta el análisis de los diferentes puntos de vista de cada evento."
+      },
+      {
+         "name" : "SUPER FM",
+         "image" : "59290.v13.png",
+         "site_url" : "http://superfm101.com/",
+         "radio_url" : "http://138.197.156.231:8733/live",
+         "description" : "El mejor entretenimiento solo lo escucha por la super fm 101.5desde Trinidad - Beni - Bolivia. Te damos la bien venida desde Trinidad Beni Bolivia con el mejor entretenimiento de la Radio Super FM 101.5 con temas musicales variados y mucha información."
+      },
+      {
+         "name" : "Radio Silver mix",
+         "image" : "73325.v5.png",
+         "site_url" : "https://radiosilvermix.jimdo.com/",
+         "radio_url" : "http://142.54.190.6:9588/stream",
+         "description" : "Una radio que te propone todo tipo de música como ser cumbia, y Folklor sureño y mucho mas no te lo puedes perder una radio al estilo original sin competencia , Radio silver mix fm Bolivia transmite desde la comunidad de pacharia a cargo de Rolando Lopez , y acompañenos todos los dia en frecuencia modulada 95.3 fm y también atraves de Raadio Ancoraimes para toda la gente de bolivia en el mundo www.radiosilvermix.com"
+      },
+      {
+         "name" : "Radio La Tremenda",
+         "image" : "73303.v5.png",
+         "site_url" : "http://www.latremenda958.com/index.php",
+         "radio_url" : "http://198.27.80.34:8004/;",
+         "description" : "Radio La Tremenda 95.8 FM. Emitiendo desde Santa Cruz De La Sierra, Bolivia... Para todo el mundo."
+      },
+      {
+         "name" : "Radio San Gabriel",
+         "image" : "37950.v6.png",
+         "site_url" : "http://www.radiosangabriel.org.bo/",
+         "radio_url" : "http://72.29.70.22:8048/;",
+         "description" : "Estación que transmite las 24 horas, desde El Alto, sus segmentos se difunden en Español y lenguaje Aymara, brinda noticias, cultura, entretenimiento, información de Bolivia y el mundo, sucesos regionales, cultura, eventos y más."
+      },
+      {
+         "name" : "Radio Ancoraimes",
+         "image" : "38534.v5.png",
+         "site_url" : "http://www.radioancoraimes.com/",
+         "radio_url" : "http://142.54.190.6:9588/;",
+         "description" : "Radio Ancoraimes es una emisora de radiodifusión en La Paz, Bolivia, que ofrece Top 40 Pop Contemporáneo Pop y Rock en una variedad de frecuencias en toda Bolivia."
+      },
+      {
+         "name" : "Radio Ciudad 91.3 FM",
+         "image" : "73304.v4.png",
+         "site_url" : "http://ciudad91.net/",
+         "radio_url" : "http://66.7.222.98:9304/;",
+         "description" : "Ciudad es la primera radio paceña decidida a emitir solamente música."
+      },
+      {
+         "name" : "Radio Buena Onda 90.3",
+         "image" : "77409.v8.png",
+         "site_url" : "https://zeno.fm/radio-buena-onda-903",
+         "radio_url" : "https://stream.zeno.fm/tvdgnpfbs8quv",
+         "description" : "las 24 hora musica variado solo por radi buena onda"
+      },
+      {
+         "name" : "Copartircanaltv dj",
+         "image" : "80416.png",
+         "site_url" : "https://zeno.fm/copartircanaltv-dj",
+         "radio_url" : "https://stream.zeno.fm/ff1610y0h3quv",
+         "description" : "en vivo radio 103.9 fm"
+      },
+      {
+         "name" : "La Voz 89.5 FM",
+         "image" : "60500.v4.png",
+         "site_url" : "http://radioplaymontero.com/",
+         "radio_url" : "http://62.210.24.124:8487/live",
+         "description" : "Radio Play transmite desde la ciudad de Montero, Santa Cruz Bolivia"
+      },
+      {
+         "name" : "Radio Gcom Streaming",
+         "image" : "79569.v1.png",
+         "site_url" : "https://www.gcomstreaming.com/",
+         "radio_url" : "http://198.49.68.60:9300/;stream.mp3",
+         "description" : "Escucha y Disfruta de la mejor radio de Bolivia, con musica variada de todos los tiempo."
+      },
+      {
+         "name" : "Imperial FM",
+         "image" : "76806.v2.png",
+         "site_url" : "http://radiotvimperial.com/",
+         "radio_url" : "http://stm8.painelcast.com:7344/;",
+         "description" : "A radio que le puso nombre a la noticia"
+      },
+      {
+         "name" : "Radio FmBolivia",
+         "image" : "37876.v3.png",
+         "site_url" : "http://www.fmbolivia.com.bo/",
+         "radio_url" : "http://stm11.streaming.profesional.bo:11300/;",
+         "description" : "FmBolivia es un portal en la internet que te ofrece música, Noticias y mucho entretenimiento en su sala de chat. Radio FmBolivia 94.9 FM, uniendo a más bolivianos en todo el planeta."
+      },
+      {
+         "name" : "Radio Panamericana FM",
+         "image" : "72071.v6.png",
+         "site_url" : "http://www.radiopanamericanafm.com/",
+         "radio_url" : "http://hubble.shoutca.st:8093/live",
+         "description" : "Se você é o administrador do site desta rádio e deseja atualizar alguma informação de streaming, logo, segmento, entre outras, basta preencher abaixo os dados que precisam de atualização.Caso você seja apenas um ouvinte, mas tem conhecimento de alguma mudança nesta emissora, também pode enviar as informações, contudo serão analisadas por nós.Campos com asterisco * são obrigatórios"
+      },
+      {
+         "name" : "Radio Exito Bolivia",
+         "image" : "37874.v5.png",
+         "site_url" : "http://www.radioexitobolivia.com/",
+         "radio_url" : "http://stream.servionbolivia.red:9458/;",
+         "description" : "Radio Éxito, ha reunido experiencia y promesa, con un formato donde la palabra, la información y el entretenimiento son los ingredientes principales."
+      },
+      {
+         "name" : "Radio EA Bolivia",
+         "image" : "37940.v1.png",
+         "site_url" : "http://www.eabolivia.com/",
+         "radio_url" : "http://radios.webenblanco.com:7110/;",
+         "description" : "EA Bolivia es una emisora ​​de radio por Internet de El Alto, Bolivia, proporciona Últimas Noticias de los bolivianos de tiempo y la información. EA Bolivia es una empresa joven con más de 5 años de presencia en Internet que nace de la necesidad de tener una Web interactiva y participativa 2.0 significa el uso de los recursos en el proceso de comunicación."
+      },
+      {
+         "name" : "Somos Fenix",
+         "image" : "76810.v6.png",
+         "site_url" : "http://somosfenix.com/",
+         "radio_url" : "http://stm11.painelcast.com:7354/;",
+         "description" : "Somos Fenix - tu radio"
+      },
+      {
+         "name" : "Night ON Radio",
+         "image" : "82530.v19.png",
+         "site_url" : "https://nightonradio.wixsite.com/official",
+         "radio_url" : "http://198.7.59.204:5890/;stream.nsv",
+         "description" : "Disfruta de la mejor musica en Night ON Radio 24/7"
+      },
+      {
+         "name" : "Atlántida FM",
+         "image" : "73319.v3.png",
+         "site_url" : "http://www.radioatlantidatarija.com/",
+         "radio_url" : "http://78.129.193.82:38955/;",
+         "description" : "Atlántida FM 102.7, somos una radio juvenil enfocada en el entretenimiento musical, con una programación que se extiende las 24 horas del día, los siete días de la semana. Escúchanos donde tú quieras."
+      },
+      {
+         "name" : "Radio la Joya Bolivia",
+         "image" : "80807.v1.png",
+         "site_url" : "https://radiolajoyabolivialapaz.blogspot.com/",
+         "radio_url" : "http://stm4.netstreambolivia.com:7414/;stream.nsv",
+         "description" : "Transmite desde la Paz Bolivia desde la Ciudad de Viacha"
+      },
+      {
+         "name" : "Radio Frontera",
+         "image" : "38497.v3.png",
+         "site_url" : "http://www.radiofronterayac.com/",
+         "radio_url" : "http://50.22.217.113:36411/;stream.nsv",
+         "description" : "Radio Frontera 100.3 es una emisora de radiodifusión de Tarija, Bolivia, que ofrece programas de habla española, noticias, deportes y programas musicales."
+      },
+      {
+         "name" : "LVC Radio",
+         "image" : "77524.v2.png",
+         "site_url" : "https://lvcradio.disweb.top/",
+         "radio_url" : "http://108.170.61.114:8240/;stream.nsv",
+         "description" : "es una radio cristiana llegando desde la cuidad mas alta del mundo desde Potosi Bolivia"
+      },
+      {
+         "name" : "Radio Guadalquivir",
+         "image" : "39016.png",
+         "site_url" : "http://www.radioguadalquivir.net/",
+         "radio_url" : "http://www.boliviastreaming.com:7030/;",
+         "description" : "Emisora que ofrece una programación de 24 horas al día, que comprende las noticias relevantes, información de interés general y sucesos, también promueve las tradiciones bolivianas, cultura, música y folklore."
+      },
+      {
+         "name" : "Radio UNO",
+         "image" : "73302.v4.png",
+         "site_url" : "http://www.radiouno89.com/",
+         "radio_url" : "http://radios.tecnosoul.com.ar:8000/radio1?type=.flv",
+         "description" : "La Radio en la que puedes escuchar lo más reciente de la música de forma primicial, así mismo la única en el Valle Alto en apoyar al Rock Boliviano, por esas y muchas razones más somos 89.7 la número Uno."
+      },
+      {
+         "name" : "Radio Turbo Mix 91.5 FM",
+         "image" : "84985.v1.png",
+         "site_url" : "http://radioturbomixmontero.com/",
+         "radio_url" : "http://62.210.24.124:8352/live",
+         "description" : "Radio Turbo Mix 91.5 FM - Montero, La Super Sabrosona de Montero transmite desde la calle Arenales entre Pastor Diaz y Mariscal Santa Cruz de la ciudad de Montero Santa Cruz Bolivia"
+      },
+      {
+         "name" : "La Cruz del Sur Oruro",
+         "image" : "73320.v1.png",
+         "site_url" : "http://lacruzdelsuroruro.com/",
+         "radio_url" : "http://stm4.srvstm.com:23490/;",
+         "description" : "92.8 FM Oruro"
+      },
+      {
+         "name" : "Radio Cruceña",
+         "image" : "74623.v3.png",
+         "site_url" : "http://lacruceñafm.com/",
+         "radio_url" : "http://62.210.24.124:8340/live",
+         "description" : "Transmite desde la ciudad de Santa Cruz Bolivia"
+      },
+      {
+         "name" : "Radio Uno",
+         "image" : "84490.v2.png",
+         "site_url" : "http://www.radiouno103.com/",
+         "radio_url" : "http://emiteradio.com:8201/stream",
+         "description" : "Una estacion de radio, dirigida a la gente joven, con un formato de musica variada y juvenil, con espacios y sectores de participacion de nuestros oyentes."
+      },
+      {
+         "name" : "Radio Sin Nombre Internacional De Bolivia",
+         "image" : "79136.v7.png",
+         "site_url" : "https://jorgegarciajjsv85.wixsite.com/radiosinnombre",
+         "radio_url" : "http://78.129.193.82:23980/;stream.nsv",
+         "description" : "Radio Sin Nombre es una estacion social"
+      },
+      {
+         "name" : "Radio ApoyoTV",
+         "image" : "78523.v2.png",
+         "site_url" : "https://www.radio.apoyotv.com/",
+         "radio_url" : "http://70.32.30.150:9003/stream",
+         "description" : "Primera Radio de Bolivia y del mundo de apoyo a las Microfinanzas, adicionalmente la estructura del programa esta centrada en Economía y Finanzas."
+      },
+      {
+         "name" : "Radio Generacion de Fuego",
+         "image" : "82849.v3.png",
+         "site_url" : "https://generaciondefuego.radio.com.bo/",
+         "radio_url" : "http://138.197.156.231:8012/stream",
+         "description" : "Iglesia Cristiana Evangélica dedicada a difundir la palabra de Dios único y verdadero."
+      },
+      {
+         "name" : "Radio Comunitaria de Aiquile",
+         "image" : "84841.v3.png",
+         "site_url" : "https://radiocomunitariadeaiquile.blogspot.com/",
+         "radio_url" : "http://109.169.37.137:27724/;",
+         "description" : "La mejor radio que escuchas"
+      },
+      {
+         "name" : "Radio Online Jeremy Producciones",
+         "image" : "64315.v9.png",
+         "site_url" : "http://jeremyproduccionesradionline.tk/",
+         "radio_url" : "http://107.161.124.122:10304/;",
+         "description" : "Somos Una Radio Online De Musíca Variada"
+      },
+      {
+         "name" : "Rocafiel Radio",
+         "image" : "79953.v5.png",
+         "site_url" : "http://www.rocafiel.org/",
+         "radio_url" : "http://95.154.196.33:36590/;stream.nsv",
+         "description" : "La Congregación Cristiana 'ROCAFIEL' es una organización cristiana evangélica sin fines de lucro, constituída por el conjunto de iglesias locales, instituciones de ayuda al prójimo y ministerios afiliados."
+      },
+      {
+         "name" : "Radio Markasa",
+         "image" : "73324.v1.png",
+         "site_url" : "https://radiomarkasa.blogspot.com/",
+         "radio_url" : "http://stm8.srvstm.com:24176/;",
+         "description" : "Sof Bolivia"
+      },
+      {
+         "name" : "Radio del Chaco",
+         "image" : "73260.v2.png",
+         "site_url" : "http://www.radiodelchaco.com/web/",
+         "radio_url" : "http://www.boliviastreaming.com:7032/;",
+         "description" : "Noticias de Camiri y todo el Chaco Boliviano, Radio del Chaco transmite desde la capital petrolero de Bolivia."
+      },
+      {
+         "name" : "Radio CEPRA Satelital",
+         "image" : "37879.v2.png",
+         "site_url" : "http://www.ceprabolivia.org/",
+         "radio_url" : "http://192.190.87.194:9396/stream",
+         "description" : "Radio CEPRA Satelital Bolivia es una emisora de radio por internet de Cochabamba, Bolivia que ofrece música en español, educativa, española."
+      },
+      {
+         "name" : "Radio Fútbol",
+         "image" : "74926.v2.png",
+         "site_url" : "http://www.radiofutbolcotoca.com/",
+         "radio_url" : "http://195.154.182.222:25828/;stream.mp3",
+         "description" : "Radio Fútbol Cotoca, es una estación de radio de la Escuela de Fútbol Cotoca, transmite vía Internet desde el Municipio de Cotoca, Provincia Andrés Ibáñez del Departamento de Santa Cruz."
+      }
+   ]
+}

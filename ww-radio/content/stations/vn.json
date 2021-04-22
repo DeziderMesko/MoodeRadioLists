@@ -1,0 +1,60 @@
+{
+   "vn" : [
+      {
+         "name" : "VOV 5",
+         "image" : "23600.png",
+         "site_url" : "http://vovworld.vn/",
+         "radio_url" : "https://static.vovworld.vn/Uploaded/kimlan/2016_07_23/lan_het.mp3",
+         "description" : "The English-language voice of the Vietnamese Party, Government, and people Broadcasting the aspirations and image of Vietnam to friends around the world"
+      },
+      {
+         "name" : "Quran in Vietnamese",
+         "image" : "23777.png",
+         "site_url" : "http://www.qurantranslations.net/index.php?id=21",
+         "radio_url" : "https://www.qurantranslations.net/sound/English/AbdulBaset_AbdulSamad/002.mp3?type=.mp3/;stream.mp3",
+         "description" : "Thiên кинь Коран với фургоне xuôi gieo VAN độc đáo với Nội помет VO Cung Фонг Phú Lam чо người Nghe говорят мне. Коран là MOT Kiet Tac VO địch mÀ không MOT nhà văn Hao сена Тхи Нян A-RAP Нао có Санг Tac Noi MOT Tac Фам Туонг tự."
+      },
+      {
+         "name" : "VOV 3",
+         "image" : "29236.v3.png",
+         "site_url" : "http://vov3.vov.vn/Default.aspx",
+         "radio_url" : "https://5a6872aace0ce.streamlock.net/nghevov3/vov3.stream_aac/playlist.m3u8",
+         "description" : "VOV3Hệ âm nhạc - Thông tin - Giải trí"
+      },
+      {
+         "name" : "VOH",
+         "image" : "31594.v4.png",
+         "site_url" : "http://www.voh.com.vn/radio/fm-99-9-mhz-2.html",
+         "radio_url" : "https://strm.voh.com.vn/radio/channel3/playlist.m3u8",
+         "description" : "Thông tin hữu ích, tin tức và âm nhạc tốt 24 giờ một ngày cho bạn"
+      },
+      {
+         "name" : "VOV 1",
+         "image" : "29239.v3.png",
+         "site_url" : "http://vov1.vov.vn/Default.aspx",
+         "radio_url" : "https://5a6872aace0ce.streamlock.net/nghevov1/vov1.stream_aac/playlist.m3u8",
+         "description" : "VOV1 Hệ thời sự - Chính trị- Tổng hợp"
+      },
+      {
+         "name" : "VOV 2",
+         "image" : "29237.v3.png",
+         "site_url" : "http://vov2.vov.vn/Default.aspx",
+         "radio_url" : "https://5a6872aace0ce.streamlock.net/nghevov2/vov2.stream_aac/playlist.m3u8",
+         "description" : "VOV2 Hệ văn hóa - Đời sống - Khoa giáo"
+      },
+      {
+         "name" : "VOV 4",
+         "image" : "29241.v1.png",
+         "site_url" : "http://vov4.vov.vn/Default.aspx",
+         "radio_url" : "http://118.69.211.87:1935/vovtaybac/vovtaybac.stream_aac/chunklist_w540815888.m3u8",
+         "description" : "VOV1 Hệ thời sự - Chính trị- Tổng hợp"
+      },
+      {
+         "name" : "Xone FM",
+         "image" : "72112.v3.png",
+         "site_url" : "https://www.xonefm.com/",
+         "radio_url" : "http://118.69.80.90:8000/live/",
+         "description" : "Sứ mạng của XONE là kênh cung cấp nội dung sáng tạo hàng đầu Việt Nam. Là kênh radio thương mại đầu tiên tại Việt Nam, thành lập từ 2006 trong bối cảnh rất cần những chương trình đột phá, Xone đã dẫn đầu thành công trong việc sản xuất các nội dung giải trí hiện đại, thú vị, hấp dẫn. Xone vẫn luôn giữ vững vị trí tiên phong trong và không ngừng mang đến những xu hướng âm nhạc và giải trí tại Việt Nam cho thính giả nghe đài"
+      }
+   ]
+}

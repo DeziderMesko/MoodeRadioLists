@@ -1,0 +1,662 @@
+{
+   "th" : [
+      {
+         "name" : "THAI MUSIC RADIO",
+         "image" : "thai_music_radio.png",
+         "site_url" : "http://www.thaimusic.me",
+         "radio_url" : "http://s2.mail89.fr/tunein/128k.mp3",
+         "description" : "Thai music culture for everyone, since 2015!"
+      },
+      {
+         "name" : "COOL 93 Fahrenheit",
+         "image" : "10531.png",
+         "site_url" : "http://www.coolism.net/",
+         "radio_url" : "http://111.223.51.7:8000/;",
+         "description" : "COOL 93 Fahrenheit FM 93.5 is a broadcast Radio station from Bangkok, Thailand, providing Adult Contemporary, Easy Listening Music."
+      },
+      {
+         "name" : "Voice of the Lizard",
+         "image" : "13527.png",
+         "site_url" : "http://www.voiceofthelizard-online.com/",
+         "radio_url" : "http://119.81.51.226:9998/;stream.nsv",
+         "description" : "VOICE OF THE LIZARD is set in one of the most beautiful spots on the globe. It is also where a multitude of horizons meet and blend. Our purpose is to reflect the richness of cultures and people. With a melting pot of music from all over the world, VOTL is a journey through time and space, mixing south and north, old and new, very familiar and the unknown. It is the pulse of Phuket’s multi-cultural, borderless and crazy global mix.VOTL is one amongst numerous media projects from Phuket’s TWINPALMS GROUP, initiator of iconic venues such as Catch Beach Club and Bimi Beach Club."
+      },
+      {
+         "name" : "Sukson Radio",
+         "image" : "13522.png",
+         "site_url" : "http://radio.sukson.com/",
+         "radio_url" : "http://stream.pjcdn.com:9000/SuksonRadio?t=1461247913065",
+         "description" : "เราพร้อมเสิร์ฟทุกความสดใหม่ของข้อมูล ไม่ว่าจะเป็นข่าว เพลงใหม่ หนังใหม่ โปรแกรมใหม่ๆ อัพเดทกันทุกวัน"
+      },
+      {
+         "name" : "WatPakBo",
+         "image" : "12029.png",
+         "site_url" : "http://www.watpakbo.com/",
+         "radio_url" : "http://radio1.siamlivehost.com:8001/;",
+         "description" : "WatPakBo FM 91.75 is a broadcast radio station in Bangkok, Thailand, providing Buddhist Talk."
+      },
+      {
+         "name" : "Phuket Live Radio 89.5",
+         "image" : "11018.png",
+         "site_url" : "http://www.thephuketnews.com/radio/",
+         "radio_url" : "http://myradio.plathong.net:8020/;",
+         "description" : "LIVE 89.5. Phuket's english-speaking FM radio station with lots of local news and info and the hits from the 80s, 90s, 00s and now. BBC and local news."
+      },
+      {
+         "name" : "WatNaiRong",
+         "image" : "12756.png",
+         "site_url" : "http://www.watnairong.net/",
+         "radio_url" : "http://103.7.56.219:4106/;",
+         "description" : "เอฟเอ็ม 94.75 WatNaiRong เป็นสถานี วิทยุกระจายเสียง จากกรุงเทพมหานครประเทศไทย ให้ ทางพุทธศาสนา พูดคุย , ข้อมูล, แสดงสด และเพลง"
+      },
+      {
+         "name" : "Capitol.fm",
+         "image" : "11054.png",
+         "site_url" : "http://www.capitol.fm/",
+         "radio_url" : "http://atlanticthai.primcast.com:5898/;",
+         "description" : "Capitol.fm Hitz BANGKOK is now one of the most popular music radio stations on the internet. Broadcasting from Muang Thong Thani, the worldwide sound of Bangkok drives the day in homes and offices throughout Europe, the United States and Worldwide."
+      },
+      {
+         "name" : "City Radio Pattaya",
+         "image" : "11019.v1.png",
+         "site_url" : "http://www.cityradiopattaya.com/",
+         "radio_url" : "https://stream.radiojar.com/493e3018b9quv",
+         "description" : "Popular and asian music from Pattaya! Stay tuned!"
+      },
+      {
+         "name" : "CityLife 93.75 FM",
+         "image" : "12631.v1.png",
+         "site_url" : "http://www.citylifefm.net/",
+         "radio_url" : "http://onair.onair.network:8076/;",
+         "description" : "City Life 93.75 FM Great Society เพลงดี สังคมดี สถานีวิทยุของคนเมือง ที่รวบรวมทั้งสาระ ความบันเทิง เพื่อเป็นประโยชน์ต่อสังคม"
+      },
+      {
+         "name" : "Pongpan Radio 100.75 FM",
+         "image" : "12761.v1.png",
+         "site_url" : "http://www.pongpanradio.com/",
+         "radio_url" : "http://radio.portradiothai.com:8000/;stream.nsv",
+         "description" : "Pongpan Radio is bringing the best Asian music, top 40 and pop music to all listeners in Thailand. It transmits live at local frequency of 100.75 FM and online."
+      },
+      {
+         "name" : "Met 107 Fm",
+         "image" : "12618.png",
+         "site_url" : "http://mcot-web.mcot.net/met107/",
+         "radio_url" : "https://met107.mcot.net/live",
+         "description" : "เป็นครั้งแรก ที่จะนำ เพลง ฮิต ล่าสุด ระหว่างประเทศ และการปรับปรุง วิถีการดำเนินชีวิต อินเทรนด์ กับลำโพง ของคุณที่นี่ ใน กรุงเทพฯ , ประเทศไทย !!"
+      },
+      {
+         "name" : "Radio Thailand",
+         "image" : "10971.v2.png",
+         "site_url" : "http://nbt.prd.go.th/home.html",
+         "radio_url" : "http://prdonline.prd.go.th:8202/;stream.mp3",
+         "description" : "Radio Thailand (Sathani Witthayu Krachaisiang Haeng Prathet Thai) is the public radio station in Thailand, owned by the National Broadcasting Services of Thailand. The station has six FM national radio, 65 FM provincial radio, 4 AM national radio, 46 AM provincial radio and World Service. Some Radio Thailand provincial radio stations can be received in neighbor countries of Thailand like Malaysia, Laos and Myanmar."
+      },
+      {
+         "name" : "FM96.5",
+         "image" : "11058.png",
+         "site_url" : "http://mcot-web.mcot.net/fm965/",
+         "radio_url" : "https://mcotdigital-9ksau4.cdn.byteark.com/radiocdn_edge/fm965.stream_aac/playlist.m3u8",
+         "description" : "FM96.5 is a broadcast radio station from Bangkok, Thailand providing News, Information, Music and Entertainment."
+      },
+      {
+         "name" : "IC Radio",
+         "image" : "10566.png",
+         "site_url" : "http://www.icradio.net/",
+         "radio_url" : "http://radio1.serverradio.net:8278/;",
+         "description" : "IC Radio Ayutthaya is an Internet Radio station from Thailand, playing Top 40/Pop music."
+      },
+      {
+         "name" : "Psu Radio 88",
+         "image" : "13436.v1.png",
+         "site_url" : "http://www.psuradio88.com/",
+         "radio_url" : "http://radio2.thzhost.com:4066/;stream.nsv",
+         "description" : "สถานีวิทยุ ม.อ.หาดใหญ่ FM 88.0 MHz"
+      },
+      {
+         "name" : "Phuket Island Radio",
+         "image" : "11042.v1.png",
+         "site_url" : "http://www.phuketfmradio.com/",
+         "radio_url" : "https://stream.phuketfmradio.com/pfmMP3",
+         "description" : "Radio, FM Radio and in particular Phuket FM Radio is a ever changing media format, whilst radio has been around for a long time with thousands of radio stations around the world. In Phuket it only started to change about 3 years ago as Thailand Radio licensing regulations were relaxed."
+      },
+      {
+         "name" : "Mun FM",
+         "image" : "13559.png",
+         "site_url" : "http://munfm.com/",
+         "radio_url" : "http://103.246.18.3:4018/;stream.nsv",
+         "description" : "MUNFM 104.75 is a broadcast radio station from Thailand, providing DJ music and Entertainment."
+      },
+      {
+         "name" : "Happy Radio 98.5FM",
+         "image" : "69015.png",
+         "site_url" : "http://hotspotmediaasia.com/",
+         "radio_url" : "http://s1.chiliradiothailand.com:8010/chilipop",
+         "description" : "Happy Radio 98.5FM is owned by K. Dom and has been on the air for 36 years! It now has a fresh new sound. The station know has a diet of great music and BBC News every hour. The plan is to build on the concept over the next few months and introduce other features. It already has the Asia Pop 40 and some other exclusive shows to the region. Chiang Mai is a very industrious growing part of Thailand and it’s population is renowned hard working business people. Happy Radio 98.5FM compliments this vibrant city with it’s up to date information and entertainment."
+      },
+      {
+         "name" : "DontreeSeason Modern 9875 FM",
+         "image" : "12819.png",
+         "site_url" : "http://www.dseason.net/",
+         "radio_url" : "http://radio01.hostrang.com:1460/;",
+         "description" : "สถานี ที่ให้ เพลงที่ดี ตลอด 24 ชั่วโมง ... โมเดิร์น 98.75 ออนไลน์!"
+      },
+      {
+         "name" : "Radio Thailand Lampang",
+         "image" : "13446.png",
+         "site_url" : "http://lampang.prdnorth.in.th/",
+         "radio_url" : "http://202.129.35.2:8018/;stream.mp3",
+         "description" : "สถานีวิทยุกระจายเสียงแห่งประเทศไทยจังหวัดลำปาง  จะเป็นผู้นำในการใช้สื่อวิทยุกระจายเสียง เผยแพร่ ข้อมูล ข่าวสาร ความรู้ ความบันเทิงที่ถูกต้อง ทันต่อเหตุการณ์และสอดคล้องกับความต้องการของท้องถิ่น"
+      },
+      {
+         "name" : "Looktung Eingdoi Station เพลงลูกทุ่ง Thailand",
+         "image" : "67557.v2.png",
+         "site_url" : "http://eingdoi.com/looktung.html",
+         "radio_url" : "https://inter1.plathong.net/7034/;",
+         "description" : "Popular Music Channels For life 24 hours"
+      },
+      {
+         "name" : "Radio Thailand Trang",
+         "image" : "12001.v2.png",
+         "site_url" : "http://www.trangradio.net/",
+         "radio_url" : "http://202.129.49.10:8030/;",
+         "description" : "Radio Thailand Trang, FM 91.25, Trang. Listen live plus station schedule, song playlist, location and contact information online."
+      },
+      {
+         "name" : "Sunshine Radio",
+         "image" : "11989.png",
+         "site_url" : "http://www.sunshinefm.com/",
+         "radio_url" : "http://icecast.piesoft.net:8000/pat128",
+         "description" : "Sunshine Radio is a community radio station in Thailand which plays Thai adult contemporary music. It broadcasts in Pattaya, Hat Yai and Phuket. Its slogan is 'Good Life, Good Music'."
+      },
+      {
+         "name" : "SURF 93.5 FM",
+         "image" : "13525.png",
+         "site_url" : "http://www.surf935.com/",
+         "radio_url" : "http://112.121.150.133:9626/;",
+         "description" : "ฟังวิทยุออนไลน์ ฟังเพลงเพราะหลากแนว ให้คุณใช้ความรู้สึกให้เต็มที่ ปลดปล่อยทุกอารมณ์ไปกับเพลงโปรดพร้อมอัพเดตเรื่องราวสุดฮิต เรื่องกิน เที่ยว ช็อป ตลอด 24 ชั่วโมง"
+      },
+      {
+         "name" : "Chiang Mai Radio 93.75",
+         "image" : "11980.v1.png",
+         "site_url" : "http://chiangmairadio.com/",
+         "radio_url" : "http://112.121.151.133:8124/live",
+         "description" : "เชียงใหม่เรดิโอ เอฟเอ็ม 93.75 MHz.' Chiang Mai Radio 4 Fun - The one of Entertain '"
+      },
+      {
+         "name" : "Number One Radio",
+         "image" : "11985.png",
+         "site_url" : "http://www.passionfm.asia/",
+         "radio_url" : "http://str04.fluidstream.net/rn1.mp3",
+         "description" : "Number One Radio 103.5 FM is a broadcast radio station from Pattaya, Thailand, providing Top 40-Pop music."
+      },
+      {
+         "name" : "Mazz Radio",
+         "image" : "13428.v1.png",
+         "site_url" : "http://www.niyamedia.com/",
+         "radio_url" : "http://radio1.comgig.com:4096/;stream.m4a",
+         "description" : "Mazz Radio 107.75 ขวาสุดLiked Music… Right Station! เพลงที่ชอบ... กับคลื่นที่ใช่!"
+      },
+      {
+         "name" : "Wow Radio THAILAND",
+         "image" : "68745.v2.png",
+         "site_url" : "http://wowradio.com/",
+         "radio_url" : "http://radio10.plathong.net/7326/;",
+         "description" : "WOW Radio สถานีเพลงเพราะ ตลอด24ชั่วโมง สื่อทุกอารมณ์ของคนฟังเพลง"
+      },
+      {
+         "name" : "GSSM",
+         "image" : "13530.v1.png",
+         "site_url" : "http://www.gssm9175.com/",
+         "radio_url" : "http://112.121.151.133:8274/;*.mp3",
+         "description" : "ได้ดำเนินการก่อตั้งขึ้นเมื่อวันที่ 9 กุมภาพันธ์ พ.ศ. 2549 โดย นายภูษิต ธัญชัยฤทธิ์ ดำเนินงานทางด้านสื่อสารมวลชนกระแสหลักไม่ว่าจะเป็น หนังสือพิมพ์ วิทยุ รายการทีวีและสื่อกิจกรรมเป็นเวลากว่า 9 ปี ซึ่งได้รับการยอมรับด้วยดีจากสื่อมวลชนและองค์กรต่างๆมาอย่างต่อเนื่อง       91.75 gssm สถานีข่าวและบันเทิงเชียงใหม่ จัดตั้งขึ้นเพื่อตอบสนองความต้องการของประชาชน ที่ต้องการบริโภคข่าวสารและความบันเทิงที่มีคุณภาพ ถึงแม้ว่าในจังหวัดเชียงใหม่นั้น มีสถานีวิทยุชุมชนอยู่เป็นจำนวนมากก็ตาม แต่สถานีวิทยุที่ดำเนินการโดยเน้นคุณภาพ และตอบสนองความต้องการของประชาชนชาวเชียงใหม่ยังมีน้อยมาก       ดังนั้นสถานีวิทยุชุมชน 91.75 gssm สถานีข่าวและบันเทิงเชียงใหม่ จะเป็นสถานีวิทยุที่ดำเนินการแบบมืออาชีพ มีมาตรฐานตามหลักการดำเนินการสถานีวิทยุและมาตรฐานของสื่อสารมวลชนที่ดี พร้อมกับรายการที่สามารถตอบสนองความต้องการของประชาชนชาวเชียงใหม่ ทั้งทางด้านข่าวสารที่ทันเหตุการณ์ และรายการบันเทิงที่ทันสมัย เทียบเท่ากับสถานีวิทยุหลักที่มีอยู่ในจังหวัดเชียงใหม่ในปัจจุบัน       กลุ่มเป้าหมาย ของ 91.75 gssm เป็นกลุ่มทั่วไปที่ต้องการรับรู้ข่าวสารและบันเทิงในจังหวัดเชียงใหม่ ช่วงกลางวันเน้นกลุ่มผู้ฟังที่ฟังวิทยุในที่ทำงาน ที่บ้าน หรือในรถยนต์ ในช่วงเวลากลางคืนจะเน้นกลุ่มผู้ฟังทั่วไปและกลุ่มผู้ฟังวัยรุ่น ทั้งนี้จะเป็นกลุ่มผู้ฟังในพื้นที่อำเภอเมืองเชียงใหม่เป็นหลักและรองลงไปเป็นกลุ่มผู้ฟังในพื้นที่รอบๆ อำเภอเมืองเชียงใหม่หรือในรัศมีที่สถานีวิทยุส่งกระจายเสียงไปถึง"
+      },
+      {
+         "name" : "T.a.b. radio",
+         "image" : "12655.png",
+         "site_url" : "http://radio.tab.or.th/",
+         "radio_url" : "http://103.22.182.145:8400/tabradio",
+         "description" : "T.a.b. วิทยุ เป็นสถานี วิทยุกระจายเสียง จากกรุงเทพมหานครประเทศไทย ให้ พูดคุย , การศึกษา , ข่าว และโปรแกรม วัฒนธรรม"
+      },
+      {
+         "name" : "Yesterday",
+         "image" : "13528.png",
+         "site_url" : "http://www.niyamedia.com/",
+         "radio_url" : "http://radio2.comgig.com:4122/;stream.mp4",
+         "description" : "Good Music… Good Memory…เพลงดีดี... ความทรงจำดีดี...Yesterday 106.5 FM ภูเก็ต"
+      },
+      {
+         "name" : "Hmong World Radio",
+         "image" : "10981.v1.png",
+         "site_url" : "http://hmongworldradio.com/",
+         "radio_url" : "http://199.195.194.94:8151/;stream.mp3",
+         "description" : "Hmong World Radio is an Internet Radio station broadcasting from Bangkok, Thailand, providing News, Information, Entertainment and Cultural programs."
+      },
+      {
+         "name" : "Fabulous 103 FM",
+         "image" : "11015.png",
+         "site_url" : "http://pattaya103.com/",
+         "radio_url" : "http://thai-host.com:8100/pattaya103.ogg",
+         "description" : "Pattaya's first English speaking radio station, with the best music, local and national news from Thailand and International news too. Recently re-launched by Pattaya's favourite radio presenter... Sir. Tommy Dee"
+      },
+      {
+         "name" : "fungfungfung.com",
+         "image" : "13422.v1.png",
+         "site_url" : "http://www.fungfungfung.com/",
+         "radio_url" : "http://link2.onair.network:8006/;",
+         "description" : "fungfungfung.com:เติมความสุขด้วยเพลงเพราะ24ชม."
+      },
+      {
+         "name" : "Active Radio",
+         "image" : "12893.png",
+         "site_url" : "http://mcot-web.mcot.net/fm99/",
+         "radio_url" : "https://fm99activeradio.mcot.net/index",
+         "description" : "คลื่นเมืองไทยแข็งแรง"
+      },
+      {
+         "name" : "Traffic pro",
+         "image" : "13560.png",
+         "site_url" : "http://www.fm91bkk.com/",
+         "radio_url" : "http://122.155.16.48:8955/;stream.mp3",
+         "description" : "สถานีวิทยุหลักเพื่อการจราจรและความปลอดภัยในชีวิตและทรัพย์สิน ตลอด 24 ชั่วโมง 365 วันแห่งการให้"
+      },
+      {
+         "name" : "Anurak Radio",
+         "image" : "12755.v1.png",
+         "site_url" : "http://www.anurakradio.com/",
+         "radio_url" : "http://112.121.150.133:8143/live",
+         "description" : "Anurak withyu s̄t̄hānī withyu xxnlịn̒ rah̄ẁāng pratheṣ̄ lèn phelng yxd niym 40/ ṕxp s̄ảh̄rạb p̄hū̂ chm thạ̀w lok Anurak withyu s̄t̄hānī thorthạṣ̄n̒ xis̄ra s̄ảh̄rạb khn rùn xxnlịn̒ thī̀ cheụ̄̀xm t̀x p̄hū̂ thī̀ mī kār cheụ̄̀xm t̀x thī̀ k̄hæ̆ngkær̀ng kạb krungthephmh̄ānkhr, pratheṣ̄thịy"
+      },
+      {
+         "name" : "Vipak radio",
+         "image" : "12625.v2.png",
+         "site_url" : "http://www.vipakradio.com/",
+         "radio_url" : "http://103.22.182.105:7068/;stream.mp3",
+         "description" : "แหล่งจำหน่าย XAT DAY POWER เจ้าแรก และ ใหญ่ที่สุด ในประเทศไทย ติดต่อ พี่ภาค"
+      },
+      {
+         "name" : "Chiang Mai Live FM",
+         "image" : "13561.png",
+         "site_url" : "http://www.radio.cmru.ac.th/",
+         "radio_url" : "http://202.29.60.203:8000/;",
+         "description" : "A local radio station is broadcasting news and entertainment at 88.5 FM in the province of Chiangmai."
+      },
+      {
+         "name" : "Quality News Station",
+         "image" : "11203.png",
+         "site_url" : "http://www.97qfm.com/",
+         "radio_url" : "http://prdonline.prd.go.th:8208/;",
+         "description" : "97 สถานีข่าวคุณภาพ. 48/5-6 ชั้น8 ซอยรุ่งเรือง ถนนรัชดาภิเษก แขวงสามเสนนอก เขตห้วยขวาง กรุงเทพ 10310"
+      },
+      {
+         "name" : "Mercigod Radio",
+         "image" : "13248.v1.png",
+         "site_url" : "http://radio.mercigod.com/",
+         "radio_url" : "http://122.155.0.201:9000/;stream.mp3",
+         "description" : "รวมพลคนชอบฟังเพลง ขณะนี้คุณกำลังฟัง MerciGod Music (แม๊กซี่ก๊อต มิวสิค) สถานีเพลงเพราะ ส่งเพลงเพราะถึงคุณตลอด 24 ชั่วโมง โดยไม่มีโฆษณา เพลงเพราะต่อเนื่องที่สุดในโลก"
+      },
+      {
+         "name" : "FM 100.5 MCOT News Network",
+         "image" : "12754.png",
+         "site_url" : "http://mcot-web.mcot.net/fm1005/",
+         "radio_url" : "http://rstream.mcot.net:8000/fm1005",
+         "description" : "ผู้นำสื่อวิทยุคลื่นข่าวคุณภาพเครือข่ายระดับชาติ' MCOT Radio Network'สังคมสร้างสรรค์ ด้วยปัญญา"
+      },
+      {
+         "name" : "MCOT Radio Chiangmai",
+         "image" : "11026.png",
+         "site_url" : "http://www.mcotcm.com/",
+         "radio_url" : "http://rstream.mcot.net:9066/;",
+         "description" : "This radio station provides local and international news, music and entertainment. It broadcasts in the area of Chiangmai.Main Programs:E-news, Sports 100.75 FM, World News, Politics"
+      },
+      {
+         "name" : "Family Radio",
+         "image" : "12911.v1.png",
+         "site_url" : "http://www.nonthaburee.com/",
+         "radio_url" : "https://radio14.plathong.net/7298/;stream.mp3?type=http",
+         "description" : "คลื่นข่าวสาร สาระบันเทิง เพื่อชุมชนเข้มแข็ง ครอบครัวอยู่ดีมีสุข"
+      },
+      {
+         "name" : "Eingdoi Radio Thailand",
+         "image" : "67447.v3.png",
+         "site_url" : "http://www.eingdoi.com/",
+         "radio_url" : "http://ohmi-design.com:8170/;",
+         "description" : "สถานีเพลงสตริงเก่าออนไลน์ 24 ชั่วโมง ฟังเพลงฮิตในอดีตที่คิดถึงตามคำขอ"
+      },
+      {
+         "name" : "Buddy Radio",
+         "image" : "12047.png",
+         "site_url" : "http://www.buddyyala.com/",
+         "radio_url" : "https://apps4.mcot.net/stream579.aac",
+         "description" : "บัดดี้เรดิโอ 104.5 MHz. สถานีวิทยุเพื่อความมั่นคง จ.ยะลา"
+      },
+      {
+         "name" : "Huahin Radio",
+         "image" : "72077.v3.png",
+         "site_url" : "https://huahinmusicradio.blogspot.com/",
+         "radio_url" : "https://inter1.plathong.net/7008/;",
+         "description" : "หัวหินเรดิโอลูกทุ่งเพื่อชีวิต"
+      },
+      {
+         "name" : "Chill FM",
+         "image" : "71564.v4.png",
+         "site_url" : "https://chill.atimeonline.com/",
+         "radio_url" : "https://real3.atimemedia.com/live/chill.sdp/playlist.m3u8",
+         "description" : "Chill FM 'เพลงเพราะ...ร้องตามได้ทั้งวัน'"
+      },
+      {
+         "name" : "Manager Radio",
+         "image" : "12885.v3.png",
+         "site_url" : "http://radio.manager.co.th/",
+         "radio_url" : "http://202.142.203.23:1935/radiomanager/radio_9000.stream/playlist.m3u8",
+         "description" : "ผู้จัดการ วิทยุ - หลัก เป็นช่องทาง วิทยุ สถานีวิทยุ Internet Radio ผู้จัดการ จากกรุงเทพฯ , ประเทศไทย ให้ข่าว สาธารณะ พูดคุย สารสนเทศและ เพลง"
+      },
+      {
+         "name" : "Love Radio",
+         "image" : "11983.v1.png",
+         "site_url" : "http://www.luvradio.co/",
+         "radio_url" : "https://streamingv2.shoutcast.com/-LoveRadio",
+         "description" : "Love Radio playing just great songs about love, romance and relationships. We’re on air and online 24hrs a day with the perfect soundtrack for your life."
+      },
+      {
+         "name" : "Buzzin Radio Pattaya",
+         "image" : "12390.v3.png",
+         "site_url" : "https://www.asiaafterdark.net/",
+         "radio_url" : "https://streams.radio.co/s102cd33bc/listen",
+         "description" : "Buzzin Radio Pattaya is an Internet Radio station broadcasting from Pattaya, Thailand, providing the best mix of music, entertainment, events, local and world news with some of the best known DJ's."
+      },
+      {
+         "name" : "Mellow 97.5",
+         "image" : "53072.v10.png",
+         "site_url" : "https://mellow975.mcot.net/",
+         "radio_url" : "https://mellow975.mcot.net/home",
+         "description" : "KEEP IT MELLOW 97.5Good for your heart radio stationดีต่อคุณ ดีต่อใจ"
+      },
+      {
+         "name" : "Radio Thailand",
+         "image" : "10988.v3.png",
+         "site_url" : "http://nbt.prd.go.th/",
+         "radio_url" : "https://cld-streaming.prd.go.th/live/192_8190.stream/playlist.m3u8",
+         "description" : "Radio Thailand Phetchabun AM 819 is a broadcast radio station from Phetchabun, Thailand, providing Government programs, News, and Politics."
+      },
+      {
+         "name" : "Happy Family Radio",
+         "image" : "84881.v2.png",
+         "site_url" : "https://nbt.prd.go.th/radio-online/",
+         "radio_url" : "https://cld-streaming.prd.go.th/live/192_1050.stream/playlist.m3u8",
+         "description" : "สถานีวิทยุเพื่อครอบครอบครัว.."
+      },
+      {
+         "name" : "Surf 102.5 FM",
+         "image" : "12887.v10.png",
+         "site_url" : "https://surf1025.com/",
+         "radio_url" : "http://206.189.157.88:8000/surf1025",
+         "description" : "Surf 102.5 FM เอฟเอ็ม เป็นเพียง สถานีวิทยุ หัวหิน ภาษาอังกฤษ พูด ออกอากาศ ตลอด 24 ชั่วโมงผู้ชม target รวมถึง ชาวต่างชาติ ร้อยละขนาดใหญ่ ทั้ง ที่อยู่อาศัย และการเดินทาง ในพื้นที่Surf FM เป็น สถานีวิทยุที่ ท่องเที่ยวยอดนิยมของ การเล่น เพลง จังหวะ จากการเลือกที่ กว้างของ แนวดนตรี ที่มีการปรับปรุง ข่าว บ่อย ข่าวจากบีบีซี."
+      },
+      {
+         "name" : "Happy Time",
+         "image" : "71579.v6.png",
+         "site_url" : "http://www.935hd1.com/",
+         "radio_url" : "http://radio99.servradio.com:9336/;",
+         "description" : "RADIO Happy Time FM / 935HD1 (ประเทศไทย)"
+      },
+      {
+         "name" : "Virgin HitZ",
+         "image" : "71583.v8.png",
+         "site_url" : "http://hitz955.becteroradio.com/",
+         "radio_url" : "https://wzorigin.becteroradio.com/Hitz/Hitz-Listen-Med/playlist.m3u8",
+         "description" : "คลื่นฮิตซ์อันดับ 1 ของคนกรุงเทพ Bangkok's No. 1 Hit Music Station"
+      },
+      {
+         "name" : "97 Tourist Station",
+         "image" : "11038.v6.png",
+         "site_url" : "http://97pattaya.com/",
+         "radio_url" : "http://link.onair.network:8058/;audio.mp3",
+         "description" : "97 Tourist Station is an Internet Radio station broadcasting from Pattaya, Thailand, provides Top 40/Pop music."
+      },
+      {
+         "name" : "Thai Muslim Radio",
+         "image" : "12400.v2.png",
+         "site_url" : "https://muslim.fm/",
+         "radio_url" : "http://radio.portradiothai.com:6030/;",
+         "description" : "วิทยุสาธารณะ เสียงอิสลาม Live Radio FM 104.25 MHz.ThaiMuslimRadioออกอากาศตลอด 24 ชั่วโมง"
+      },
+      {
+         "name" : "Wow Radio Phrae",
+         "image" : "73027.v6.png",
+         "site_url" : "http://wowradiothailand.blogspot.com/",
+         "radio_url" : "http://43.229.149.109:8003/;stream.mp3",
+         "description" : "WOW Radio สถานีเพลงเพราะ ตลอด24ชั่วโมง สื่อทุกอารมณ์ของคนฟังเพลง"
+      },
+      {
+         "name" : "Radio Thailand",
+         "image" : "71547.v4.png",
+         "site_url" : "https://nbt.prd.go.th/radio-online/",
+         "radio_url" : "http://prdonline.prd.go.th:8200/;stream.mp3",
+         "description" : "Radio Thailand World Service started its foreign language services under the call-sign HSK-9 on the 20th of October 1938"
+      },
+      {
+         "name" : "Wink.in.th",
+         "image" : "13231.v1.png",
+         "site_url" : "http://www.wink.in.th/",
+         "radio_url" : "http://radio.wink.in.th/;",
+         "description" : "สถานีเพลงออนไลน์ 24 ชั่วโมง www.wink.in.th กรุณากด Like Page ของเจได ด้านล่างนี่ด้วยนะครับ"
+      },
+      {
+         "name" : "Thai Love Lovers 90",
+         "image" : "71566.v2.png",
+         "site_url" : "http://www.90rakthai.com/",
+         "radio_url" : "http://radio11.plathong.net:8896/;",
+         "description" : "ชอบฟังเพลงลูกทุ่ง 100% อันดับ 1 หมุน FM90 แล้วฝากกด like กด share ด้วยคะ"
+      },
+      {
+         "name" : "Like FM",
+         "image" : "71631.v5.png",
+         "site_url" : "http://www.103likefm.com/",
+         "radio_url" : "http://103likefm.plathong.net:7064/;stream",
+         "description" : "Like satellite ฟังเพลงเพราะตลอด 24 ชั่วโมง พร้อมกันทั่วประเทศ"
+      },
+      {
+         "name" : "94 Bangkok Smile",
+         "image" : "71581.v6.png",
+         "site_url" : "http://www.tv5.co.th/web-2018/RadioliveHD3.php",
+         "radio_url" : "http://fm94.tv5.co.th:8000/fm94ch3",
+         "description" : "94 บางกอกสไมล์คลื่นพรีเมี่ยม แอนด์ มิ๊กซ์ ของทุกคน."
+      },
+      {
+         "name" : "Olleke Bolleke Radio",
+         "image" : "79456.v1.png",
+         "site_url" : "http://ollekebolleke.info/",
+         "radio_url" : "http://142.44.131.253:8427/;stream.nsv",
+         "description" : "The first Dutch expat radiostation in Asia for the Dutch & Belgian community with news from the region."
+      },
+      {
+         "name" : "Great 93",
+         "image" : "11998.v13.png",
+         "site_url" : "http://great93.jimdo.com/",
+         "radio_url" : "http://78.129.193.82:9895/;stream.mp3",
+         "description" : "The No.1 radio for Adult Contemporary The Coolest & The Hottest"
+      },
+      {
+         "name" : "UB Radio",
+         "image" : "12619.v2.png",
+         "site_url" : "http://www.ubradio.net/",
+         "radio_url" : "http://centova.ubradio.net:8300/stream?",
+         "description" : "สด 24/7 radiostream ดาวน์โหลด ผสม ฟรีกรุงเทพฯ รายชื่อเหตุการณ์ เพลง UB Radio จากหัวใจ ดรัมแอนด์ เบส , Hip Hop, Electro , บ้าน, เทคโน ... เพลง ที่ดีเพียง"
+      },
+      {
+         "name" : "Kiss FM",
+         "image" : "12805.v3.png",
+         "site_url" : "https://kissdancenetwork.com/",
+         "radio_url" : "http://s1.thailandstreaming.net:8020/;stream.nsv",
+         "description" : "ยินดีต้อนรับสู่ สถานี ที่ 1 เพลง ของพัทยา. KissFMกับข่าว ในและต่างประเทศ ทุกชั่วโมง เรา ให้คุณปรับปรุง คืออะไรเกิดขึ้น ที่นี่ใน เมืองพัทยาและ ทั่วโลก!"
+      },
+      {
+         "name" : "Voice of Navy",
+         "image" : "71549.v5.png",
+         "site_url" : "https://www.voiceofnavy.com/",
+         "radio_url" : "https://radio12.plathong.net/7346/;",
+         "description" : "Radio Voice of Navy 88.5 FM is a broadcast radio station from Thailand Bangkok providing World. Playlist radio Voice of Navy."
+      },
+      {
+         "name" : "Radio Thailand World Service",
+         "image" : "71546.v3.png",
+         "site_url" : "http://www.hsk9.org/",
+         "radio_url" : "http://112.121.150.133:8228/stream",
+         "description" : "Radio Thailand World Service started its foreign language services under the call-sign HSK-9 on the 20th of October 1938"
+      },
+      {
+         "name" : "SMM Sport Radio",
+         "image" : "71585.v5.png",
+         "site_url" : "https://www.smmsport.com/radio/",
+         "radio_url" : "http://media.login.in.th:8550/stream",
+         "description" : "ข่าวฟุตบอลเร็วทันใจ ผลกีฬาครบทั่วโลก ครบเรื่องวอลเลย์บอล เว็บเดียวจบ...ครบทุกกีฬา"
+      },
+      {
+         "name" : "Siangdham",
+         "image" : "71632.v3.png",
+         "site_url" : "http://www.siangdham.com/",
+         "radio_url" : "http://202.142.203.28:8000/siangdham.mp3",
+         "description" : "ปฏิปทา คือ ข้อปฏิบัติที่หลวงปู่มั่นพาดำเนินมาเพื่อเป็นเครื่องบำเพ็ญทั้งทางกายทางใจ"
+      },
+      {
+         "name" : "Radio 981",
+         "image" : "71634.v4.png",
+         "site_url" : "http://www.radio981.tu.ac.th/",
+         "radio_url" : "http://203.131.210.196:8000/stream1/stream_live;",
+         "description" : "สถานีวิทยุกระจายเสียงมหาวิทยาลัยธรรมศาสตร์ AM 981 KHz"
+      },
+      {
+         "name" : "Radio Thailand",
+         "image" : "10568.v3.png",
+         "site_url" : "http://region3.prd.go.th/",
+         "radio_url" : "http://prdonline.prd.go.th:8118/;stream.nsv",
+         "description" : "Radio Thailand Chiangmai FM 93.25 is a public broadcast radio station from Chiang Mai, Thailand, providing news, information, culture, and entertainment as part of Radio Thailand network of radio stations in Thailand."
+      },
+      {
+         "name" : "GF Radio",
+         "image" : "12621.v1.png",
+         "site_url" : "http://www.gfcom.info/gf/gfradio.asp",
+         "radio_url" : "http://www.gfcom.info:8000/;",
+         "description" : "GF วิทยุ สถานีวิทยุ ออนไลน์ จากประเทศไทย ให้ อะนิเมะ"
+      },
+      {
+         "name" : "AM 1494",
+         "image" : "71643.v4.png",
+         "site_url" : "http://radio.mcot.net/",
+         "radio_url" : "http://rstream.mcot.net:8000/am1494",
+         "description" : "ฟังวิทยุออนไลน์ AM 1494 คลื่นความรู้คู่คุณธรรม"
+      },
+      {
+         "name" : "Fat 93 Radio Thailand",
+         "image" : "12391.v1.png",
+         "site_url" : "https://www.fat93.com/",
+         "radio_url" : "http://112.121.151.133:8272/stream",
+         "description" : "FAT 93 RADIO THAILAND คลื่นเพลงฮิตอันดับหนึ่งของจังหวัดเชียงรายโดยคุณวิภาส-คุณกฤษณา เพียราธิสิทธิ์ ตั้งแต่ปี พ.ศ. 2551"
+      },
+      {
+         "name" : "Radio Trip Phuket 89.75",
+         "image" : "12005.v1.png",
+         "site_url" : "http://www.radiotripphuket.com/",
+         "radio_url" : "http://media.login.in.th:1150/;stream.nsv",
+         "description" : "คลื่นแห่งการเดินทางและท่องเที่ยวRadio Trip 89.75 FMร่วมกันเป็นเจ้าบ้านที่ดี ในการต้อนรับนักท่องเที่ยวกับเราที่นี่..."
+      },
+      {
+         "name" : "Lifeup Music",
+         "image" : "12397.v1.png",
+         "site_url" : "http://www.lifeupmusic.com/",
+         "radio_url" : "http://server1.thairadioservice.com:8202/;",
+         "description" : "Lifeup Music is an internet radio station from Bangkok, providing Acoustic, Country, Folk and Oldies music."
+      },
+      {
+         "name" : "ฟังเพลง 24 ชั่วโมง X-Radio 99.5 PHARE",
+         "image" : "82878.v3.png",
+         "site_url" : "http://jpmb.online/",
+         "radio_url" : "http://43.229.149.109:8001/;stream.nsv",
+         "description" : "ฟังเพลงลูกทุ่ง 24 ชั่วโมง X-Radio"
+      },
+      {
+         "name" : "Radio BTR",
+         "image" : "76779.v4.png",
+         "site_url" : "http://www.radiobtr.com/",
+         "radio_url" : "http://69.46.24.226:7056/;",
+         "description" : "Radio web per offrirti il meglio della musica e per ricordare la mitica radio BTR degli anni '70. Da Pattaya, Thailandia"
+      },
+      {
+         "name" : "Radio TMD",
+         "image" : "71642.v3.png",
+         "site_url" : "http://www.radio.tmd.go.th/",
+         "radio_url" : "http://www.radio.tmd.go.th:8014/;",
+         "description" : "เว็บฟังวิทยุออนไลน์ ฟังข่าวพยากรณ์อากาศกรมอุตุนิยมวิทยา ฟังวิทยุย้อนหลังข่าวพยากรณ์อากาศเตือนภัย ฟังข่าวคลื่นลม สถานีวิทยุกระจายเสียง กรมอุตุนิยมวิทยา AM 1287 KHz."
+      },
+      {
+         "name" : "PopRadio",
+         "image" : "12013.v1.png",
+         "site_url" : "http://popradio.co/",
+         "radio_url" : "https://streamingv2.shoutcast.com/-PopRadio",
+         "description" : "PopRadio is a broadcast radio station in Bangkok, Thailand, providing Top 40 Adult Contemporary Pop and R&B music (international)."
+      },
+      {
+         "name" : "OnAir.Network",
+         "image" : "51037.v7.png",
+         "site_url" : "http://www.onair.network/",
+         "radio_url" : "http://onair22.onair.network:8074/1/stream.mp3",
+         "description" : "ผู้ให้บริการระบบสถานีวิทยุออนไลน์กระจายเสียงบนเครือข่ายอินเตอร์เนท และให้บริการผลิตรายการวิทยุกระจายเสียง ผลิตสื่อโฆษณา วางแผนการใช้สื่อโฆษณา"
+      },
+      {
+         "name" : "AM 1143",
+         "image" : "71635.v4.png",
+         "site_url" : "http://radio.mcot.net/",
+         "radio_url" : "http://rstream.mcot.net:8000/am1143",
+         "description" : "ฟังเพลงสตริง ฟังเพลงสากล ฟังเพลงเกาหลี ฟังเพลงลูกทุ่ง ฟังเพลงเพื่อชีวิต ฟังเพลงแดนซ์ ฟังเพลงสด ดีเจสด ขอเพลง รายการสด"
+      },
+      {
+         "name" : "Love Radio 93 FM",
+         "image" : "12409.v2.png",
+         "site_url" : "http://www.greater.co.th/page/?page_id=20",
+         "radio_url" : "http://onair.onair.network:8060/stream",
+         "description" : "คลื่นที่มีเพลงรักให้คุณฟังได้ทั้งวัน ขอเพลง 073-350351 Sms พิมพ์ L 4221455"
+      },
+      {
+         "name" : "102 Radio",
+         "image" : "71630.v3.png",
+         "site_url" : "http://www.102radio.net/",
+         "radio_url" : "http://media.login.in.th:1100/;",
+         "description" : "สถานีวิทยุกระจายเสียง ขส.ทบ."
+      },
+      {
+         "name" : "558channel",
+         "image" : "71633.v5.png",
+         "site_url" : "http://radio.prd.go.th/kanchanaburi/main.php?fbclid=IwAR2A6PpJN51aKCgs3a24OFqE72oOtPy1BewbSThlG39i0TZuJeQSl2b66hg&filename=index",
+         "radio_url" : "http://prdonline.prd.go.th:8006/;",
+         "description" : "สวท.​กาญจนบุรี​ สื่อ​ประชา​สัมพันธ์​ของ​รัฐ​ เพื่อให้ข้อมูล​ข่าวสาร​และบริการ​ท้องถิ่น​"
+      },
+      {
+         "name" : "I AM Radio 89 FM",
+         "image" : "12883.v3.png",
+         "site_url" : "http://www.fmlopburi.com/",
+         "radio_url" : "http://link.onair.network:8054/stream/1/?1534418634304",
+         "description" : "สถานีวิทยุ กระจายเสียง แห่งนี้ตั้ง อยู่ที่ 89.0 เอฟเอ็ม ในเมือง ลพบุรี มันมี เพลง ภาษาอังกฤษ ออนไลน์ที่ดีที่สุด"
+      },
+      {
+         "name" : "Pattaya One",
+         "image" : "84045.v3.png",
+         "site_url" : "https://pattayaone.news/",
+         "radio_url" : "http://91.121.155.140:22586/;",
+         "description" : "Welcome to Pattaya One Radio , we are online 24/7 we play some of the biggest and best music around from the 60s -to today"
+      },
+      {
+         "name" : "Radio Thailand",
+         "image" : "84880.v5.png",
+         "site_url" : "https://nbt.prd.go.th/station_data/am-918-khz/",
+         "radio_url" : "http://prdonline.prd.go.th:8218/;stream.mp3",
+         "description" : "Radio Thailand (Sathani Witthayu Krachaisiang Haeng Prathet Thai) is the public radio station in Thailand, owned by the National Broadcasting Services of Thailand. The station has six FM national radio, 65 FM provincial radio, 4 AM national radio, 46 AM provincial radio and World Service. Some Radio Thailand provincial radio stations can be received in neighbor countries of Thailand like Malaysia, Laos and Myanmar."
+      },
+      {
+         "name" : "Friend",
+         "image" : "84097.v2.png",
+         "site_url" : "https://www.dseason.net/friend/",
+         "radio_url" : "http://112.121.150.133:8271/live",
+         "description" : "FRIEND 102.5 เพราะเรา เพื่อนกัน"
+      }
+   ]
+}

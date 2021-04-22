@@ -1,0 +1,1572 @@
+{
+   "gh" : [
+      {
+         "name" : "Radio Gold",
+         "image" : "1783.png",
+         "site_url" : "http://myradiogoldlive.com/",
+         "radio_url" : "http://198.27.83.198:5194/stream/;",
+         "description" : "Radio Gold 90.5 is a broadcast Radio station from Accra, Ghana, providing Latest Political, Sports, Business, Entertainment and General News programs."
+      },
+      {
+         "name" : "Metro FM",
+         "image" : "1978.png",
+         "site_url" : "http://metrofmonline.com/",
+         "radio_url" : "http://s7.voscast.com:9700/;",
+         "description" : "Metro 94.1 FM is a broadcast Radio station from Kumasi, Ghana. Provides Politics, Sports News, Information Programs."
+      },
+      {
+         "name" : "Markk Radio",
+         "image" : "7119.v5.png",
+         "site_url" : "http://www.markkmultimedia.com/",
+         "radio_url" : "http://162.244.80.106:8062/7n-ORyvY5n7R-6dj",
+         "description" : "Markkradio is an internet radio based in Accra - Ghana and it has come to entertain, educate and inform people all over the world"
+      },
+      {
+         "name" : "Citi FM",
+         "image" : "6980.png",
+         "site_url" : "http://www.citifmonline.com/",
+         "radio_url" : "https://stream.zenolive.com/6gty30d3v3duv",
+         "description" : "Most comprehensive and credible Political, Business, Sports, Entertainment, Lifestyle, Health and General news website in Ghana."
+      },
+      {
+         "name" : "Ghana Music Radio",
+         "image" : "7042.png",
+         "site_url" : "http://www.ghanamusicradio.com/",
+         "radio_url" : "https://streaming.radio.co/s92f890821/listen",
+         "description" : "Ghana Music Radio is an internet radio station from Accra, Ghana providing latest, hot and classic hits from Ghana and music information."
+      },
+      {
+         "name" : "Starr FM",
+         "image" : "6993.v1.png",
+         "site_url" : "http://www.starrfmonline.com/",
+         "radio_url" : "https://stream.zenolive.com/ncwsgzh7hewtv",
+         "description" : "STARR FM 103.5 FM is an urban, lifestyle radio station, which focuses on the delivery of compelling programmes through good music, entertainment/lifestyle- led talk programmes and sports for its target audience."
+      },
+      {
+         "name" : "Adom FM",
+         "image" : "1769.v19.png",
+         "site_url" : "http://www.adomonline.com/",
+         "radio_url" : "http://mmg.streamguys1.com/AdomFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f",
+         "description" : "Adom FM is a broadcast radio station in Tema, Ghana. Providing local news, sports, information and entertainment."
+      },
+      {
+         "name" : "Peace FM",
+         "image" : "1775.v4.png",
+         "site_url" : "http://www.peacefmonline.com/streaming/win/",
+         "radio_url" : "http://peacefm.atunwadigital.streamguys1.com/peacefm",
+         "description" : "Peace FM is a broadcast radio station in Accra, Ghana. Providing News, Commnity Information and African Entertainment."
+      },
+      {
+         "name" : "Nhyira FM",
+         "image" : "1780.v7.png",
+         "site_url" : "http://www.myjoyonline.com/",
+         "radio_url" : "http://mmg.streamguys1.com/NhyiraFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f",
+         "description" : "Nhyira FM 104.5 is a broadcast radio station from Kumasi, Ghana. Providing Community News, Information and African Entertainment."
+      },
+      {
+         "name" : "Kessben FM",
+         "image" : "7002.v2.png",
+         "site_url" : "http://www.kessbenfm.com/",
+         "radio_url" : "https://stream.zenolive.com/8eh07wgyv3duv",
+         "description" : "Kessben 93.3 FM offers a good blend of on-air and outdoor programming which is well targeted for the benefit of our audience and advertisers."
+      },
+      {
+         "name" : "Joy FM",
+         "image" : "1779.v8.png",
+         "site_url" : "http://www.myjoyonline.com/",
+         "radio_url" : "http://mmg.streamguys1.com/JoyFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f",
+         "description" : "Joy FM 99.7 is a broadcast Radio station from Accra, Ghana. Providing best in adult contemporary music and country's most authoritative news source."
+      },
+      {
+         "name" : "Asempa FM",
+         "image" : "1778.v3.png",
+         "site_url" : "http://www.myjoyonline.com/",
+         "radio_url" : "http://mmg.streamguys1.com/AsempaFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f",
+         "description" : "Asempa 94.7 FM is a broadcast radio station in Accra, Ghana. Providing Sports, Talk, and Current Affairs."
+      },
+      {
+         "name" : "Alpha Radio",
+         "image" : "6999.v1.png",
+         "site_url" : "http://alpharadioonline.com/",
+         "radio_url" : "http://192.99.13.189:9824/;",
+         "description" : "The radio station broadcasting the finest news,sports,entertainment and the best African music."
+      },
+      {
+         "name" : "Hot FM",
+         "image" : "7123.v4.png",
+         "site_url" : "http://hotfmonlinegh.com/",
+         "radio_url" : "https://stream.zenolive.com/k7v9k6yn944tv",
+         "description" : "Radio station, which broadcasts the ultimate music from Accra, Ghana."
+      },
+      {
+         "name" : "Agoo FM",
+         "image" : "7027.png",
+         "site_url" : "http://www.agoofmonline.com/",
+         "radio_url" : "https://stream.zenolive.com/ap9cvgxyd0quv",
+         "description" : "AGOO 96.9 Fm is a private owned commercial Radio Station based at Nkawkaw in the Kwahu West Municipality of the Eastern Region of Ghana."
+      },
+      {
+         "name" : "Sankofa Radio",
+         "image" : "7008.png",
+         "site_url" : "http://www.sankofaradio.com/",
+         "radio_url" : "http://s2.nexuscast.com:8068/;",
+         "description" : "Sankofa is an akan word that literally means 'Go back and fetch it'. It is an African wise saying that symbolizes learning from the past to build the future. A subsidiary of Sankofa Media Group, Sankofa Radio seeks to cater for the evolving needs of our listeners and the changing landscape of the media market. We will engage in stimulating and thought provoking conversations on issues affecting our community."
+      },
+      {
+         "name" : "Zaa Radio",
+         "image" : "7038.png",
+         "site_url" : "http://zaaradio.com/",
+         "radio_url" : "http://stream.zaaradio.com:60700/Zaa",
+         "description" : "This radio station is broadcasting in Ghana. Providing latest local news, sports, politics, business, education, opinion health and so much more. It can heard at local frequency of 99.3 FM and online."
+      },
+      {
+         "name" : "HighLife Radio",
+         "image" : "6984.png",
+         "site_url" : "http://hiliferadio.com/",
+         "radio_url" : "http://radio.citrus3.com:8676/stream?type=http&nocache=510",
+         "description" : "Highlife Radio is a US based Ghanaian community online radio station dedicated to providing diverse, stimulating and high quality programming to the Ghanaian Diaspora. HighLife Radio was created as a medium to bring about a sense of community"
+      },
+      {
+         "name" : "Rainbow Radio",
+         "image" : "6991.v1.png",
+         "site_url" : "http://www.rainbowradioonline.com/",
+         "radio_url" : "https://stream.zenolive.com/erfqvd71nd5tv",
+         "description" : "Rainbow Radio is a radio broadcaster located in Accra, Ghana. It can be listened both on 87.5 FM and online. It features the latest national and international news as well as sports, entertainment and much more."
+      },
+      {
+         "name" : "Sunsum FM",
+         "image" : "7011.png",
+         "site_url" : "http://sunsumfmonline.com/",
+         "radio_url" : "http://192.99.13.189:9822/;",
+         "description" : "Christian gospel radio station in Kumasi, broadcasting in the local Akan language. We cover News, Talk, Sports and Christian Music."
+      },
+      {
+         "name" : "Vision1 FM",
+         "image" : "7086.v1.png",
+         "site_url" : "http://vision1gh.com/",
+         "radio_url" : "http://41.215.162.91:1640/stream",
+         "description" : "Trusted Ghanaian informative and News radio station, which broadcasts from Accra."
+      },
+      {
+         "name" : "Truth Radio",
+         "image" : "58378.v1.png",
+         "site_url" : "http://truthtoheaven.org/",
+         "radio_url" : "http://192.99.13.189:9344/;",
+         "description" : "Truth to Heaven Ministry seeks to preach the undiluted message, warn everyone and teach every man in all knowledge and wisdom and truth"
+      },
+      {
+         "name" : "Ability OFM Radio",
+         "image" : "7092.png",
+         "site_url" : "http://ofm-tv.com/",
+         "radio_url" : "https://listen.openstream.co/4357/audio?ability.mp3",
+         "description" : "Ability OFM Radio is an internet radio station from Ghana, providing African, Local genre of music from Ghana, Kenya (Swahili ), Uganda, Nigeria, Togo, South Africa etc, Polish and International music."
+      },
+      {
+         "name" : "TIME FM",
+         "image" : "7012.png",
+         "site_url" : "http://www.timefmghana.com/",
+         "radio_url" : "http://109.169.23.22:36357/;stream.nsv",
+         "description" : "Time 96.9 FM is a broadcast Radio station from Obuasi, Ashanti, Ghana, providing Local News, Politics, Busineb, Sports, Entertainment, Health, Education, Foreign News programs."
+      },
+      {
+         "name" : "ASHH FM",
+         "image" : "7034.v1.png",
+         "site_url" : "http://www.myashhonline.com/",
+         "radio_url" : "http://ashhfm.atunwadigital.streamguys1.com/ashhfm",
+         "description" : "Ashh FM is a radio station that broadcasts from Kumasi. It is available both on 101.1 FM and online. This radio station is on air 24 hours a day, 7 days a week, featuring music of various genres."
+      },
+      {
+         "name" : "Oliv Radio",
+         "image" : "43106.png",
+         "site_url" : "http://www.olivradio.com/",
+         "radio_url" : "http://s1.voscast.com:8920/;stream1482328863473/1",
+         "description" : "Welcome to Oliv Radio, your no.1 radio station broadcasting from the Dansoman suburb, and online @ wwww.olivradio.com. We are dedicated to bringing you the best in entertainment, news and sports. We take great pride in bringing you all events and happenings in our community and the country as a whole. We are particularly aware of the needs of our listeners and we provide a number of services for moderate charges. These include advertisements, public announcements, and most importantly, upcoming events."
+      },
+      {
+         "name" : "Ghana Waves Radio",
+         "image" : "7037.v5.png",
+         "site_url" : "http://ghanawaves.com/",
+         "radio_url" : "https://stream.zeno.fm/yp9sds3kkq5tv",
+         "description" : "On air for almost 10 years, this is an online radio station that aims to serve the Ghanaian community spread across the country. It broadcasts a great variety of contents, including news, information, lifestyle, sports and much more."
+      },
+      {
+         "name" : "Ghana Islamic Radio",
+         "image" : "7041.v3.png",
+         "site_url" : "http://islamicradiogh.com/",
+         "radio_url" : "http://5.39.71.159:8786/stream",
+         "description" : "Ghana Islamic Radio is an Internet Radio station broadcasting from Accra, Ghana, providing the true message of Islam by means of the latest possible ways. Station's aims to broadcast lectures, interviews, Learning Sessions, Islamic songs, News in the Zongo communities and much more."
+      },
+      {
+         "name" : "Neat FM",
+         "image" : "1777.v5.png",
+         "site_url" : "http://www.peacefmonline.com/",
+         "radio_url" : "http://neatfm.atunwadigital.streamguys1.com/neatfm",
+         "description" : "Neat FM 100.9 is a broadcast radio station from Ghana. Providing Community News, Information and African Entertainment."
+      },
+      {
+         "name" : "Oman FM",
+         "image" : "1916.v3.png",
+         "site_url" : "http://www.omanfm1071.com/",
+         "radio_url" : "http://omanfm.atunwadigital.streamguys1.com/omanfm",
+         "description" : "Oman FM 107.1 is a Ghanaian based Radio station. We stand for the truth and nothing but the truth. We stand to shape the nation as our slogan goes, SHAPING THE NATION."
+      },
+      {
+         "name" : "Fox FM",
+         "image" : "7032.v4.png",
+         "site_url" : "http://fox979.com/",
+         "radio_url" : "http://foxfm.atunwadigital.streamguys1.com/foxfm",
+         "description" : "This is a multilingual radio station that broadcasts from Garden City, Oseikrom, Ghana, and can be listened both on 97.9 FM and online. Fox Fm plays the best music 24 hours a day, 7 days a week."
+      },
+      {
+         "name" : "Buzy Fm",
+         "image" : "69690.v7.png",
+         "site_url" : "http://www.musicblust.com/",
+         "radio_url" : "http://91.121.222.81:8556/stream",
+         "description" : "Buzy Fm App Provides Live Radio Streaming of Local and Foreign Entertainment, Ghana Sports, Ghana News, Ghana Politics & Many More."
+      },
+      {
+         "name" : "Roakus FM",
+         "image" : "7118.png",
+         "site_url" : "http://www.roakusfm.com/",
+         "radio_url" : "http://206.190.150.90:8415/;stream.mp3",
+         "description" : "Roakus FM the premier licensed Ghanaian/African commercial radio in the Spain, was conceived on the 14 May 2008, Just a year ago to provide voice for the voiceless, hope for the hopeless, knowledge for the ignorant, future for the youth and entertainment for all in an African context."
+      },
+      {
+         "name" : "GhanaSky.com",
+         "image" : "46825.png",
+         "site_url" : "http://ghanasky.com/",
+         "radio_url" : "http://198.7.63.116:8028/;ghanasky.mp3",
+         "description" : "GhanaSky.com - the sky is our limit."
+      },
+      {
+         "name" : "Otec FM",
+         "image" : "7006.v4.png",
+         "site_url" : "http://otecfmghana.com/",
+         "radio_url" : "https://stream.zenolive.com/43qyhcq7bq5tv",
+         "description" : "The premier private radio station in the Ashanti Region, which is still the pride of Ashanti, Ghana, Africa and beyond."
+      },
+      {
+         "name" : "EndTime Prayer Radio",
+         "image" : "46738.png",
+         "site_url" : "http://endtimeprayerradio.com/",
+         "radio_url" : "http://198.7.63.116:8024/;endtime.mp3",
+         "description" : "EndTime Prayer Radio - Ɛyɛ Ogya!, it is FIRE!"
+      },
+      {
+         "name" : "Aseda Radio",
+         "image" : "7040.v3.png",
+         "site_url" : "http://asedaradio.com/",
+         "radio_url" : "http://37.59.32.115:6148/;",
+         "description" : "Aseda Radio is an internet radio station from Accra, Ghana providing education, entertainment and informationabout local, national and international issues and events affecting the Ghanaian Community."
+      },
+      {
+         "name" : "A1 Radio",
+         "image" : "7028.v4.png",
+         "site_url" : "https://www.a1radioonline.com/",
+         "radio_url" : "http://198.50.158.92:9481/;",
+         "description" : "A1 Radio is an FM station transmitting on 101.1 MHZ; aims at developing northern Ghana through excellent informative services and through modern equipment and top notch professionals."
+      },
+      {
+         "name" : "RFI Afrique",
+         "image" : "6992.v1.png",
+         "site_url" : "http://www.rfi.fr/",
+         "radio_url" : "http://live02.rfi.fr/rfiafrique-64.mp3",
+         "description" : "Radio France Internationale est une radio publique d'information destinée à être écoutée ou lue dans le monde entier. Elle émet en français et dans la plupart des langues étrangères majeures."
+      },
+      {
+         "name" : "Lens Radio",
+         "image" : "57813.v8.png",
+         "site_url" : "https://www.lensradio.com/",
+         "radio_url" : "http://91.121.222.81:8536/stream",
+         "description" : "Lens Radio,is an Award Winning Online Radio, and the radio for the unheard artists, station based in Ghana. a member of the Swanzy Multimedia Network. “Our broadcasting Networks covers the World at large. Lens Radio is known for creating exciting programming with spectacular content, superior products and formidable presence in the broadcasting that provides the best radio experience to the World. We offer a variety of Programmes like Music, News, Educational and Entertainment and more."
+      },
+      {
+         "name" : "ASSPA Radio",
+         "image" : "61261.v8.png",
+         "site_url" : "http://www.asspa.net/",
+         "radio_url" : "https://stream.zenolive.com/kencqb14wd5tv",
+         "description" : "ASSPA - Association Of Sincere Parents. We are a few number of people seeking to see peace on earth come what may. To see the end of poverty, To see the end of tribalism, to see the end of political conflicts to see the end of religious conflict for we are one and we are to know no Race, Tribe or Creed for one is our Father and we are all Brethren; to see every man as our Brother, every woman as our sister, every child our child."
+      },
+      {
+         "name" : "Hitz FM",
+         "image" : "1782.v2.png",
+         "site_url" : "http://www.myjoyonline.com/",
+         "radio_url" : "http://mmg.streamguys1.com/HitzFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f",
+         "description" : "Hitz 103.9 Fm is your No.1 Entertainment Station...The Station Your Favorite Stars Call home!!!"
+      },
+      {
+         "name" : "Focus FM",
+         "image" : "7090.png",
+         "site_url" : "http://focusfmonline.com/",
+         "radio_url" : "https://stream.zenolive.com/w5h08t2e48vtv",
+         "description" : "Official radio station of the Kwame Nkrumah University of Science and Technology (KNUST)."
+      },
+      {
+         "name" : "GHRadio1",
+         "image" : "6922.png",
+         "site_url" : "http://www.ghradio1.com/",
+         "radio_url" : "http://radioservers.biz:9946/;",
+         "description" : "GHRadio1 is Ghana's finest online Radio based in Ghana- Kumasi.OUR GOAL:To Project Ghana & Its Music to the world."
+      },
+      {
+         "name" : "Top FM",
+         "image" : "6994.v1.png",
+         "site_url" : "http://topfmonline.com/",
+         "radio_url" : "http://184.154.43.106:8267/live",
+         "description" : "Top Radio 103.1 FM is a well-known radio station broadcasting from Accra, Ghana. It plays Variety range of music genres all day long. It also provides educational, informative programs, talk shows, news and sports updates for the listeners. Top Radio is very concerned about listeners’ demand and try to fulfill them by developing its playlist."
+      },
+      {
+         "name" : "GhanaPa.com",
+         "image" : "46824.png",
+         "site_url" : "http://WWW.GHANAPA.COM/",
+         "radio_url" : "http://198.7.63.116:8028/;ghanapa.mp3",
+         "description" : "GhanaPa is about all Ghana Radio Stations and Goodness News Portal."
+      },
+      {
+         "name" : "Resurrection Radio",
+         "image" : "63752.v7.png",
+         "site_url" : "http://resurrectiontv.org/",
+         "radio_url" : "https://stream.zeno.fm/6h6kasnqm4duv",
+         "description" : "Come to Me,all you who are weary and burdened,and I will give you rest Take My yoke upon you and learn from Me;for I am gentle and humble in heart,and you will find rest for your souls."
+      },
+      {
+         "name" : "Okay FM",
+         "image" : "1772.v2.png",
+         "site_url" : "http://www.peacefmonline.com/",
+         "radio_url" : "http://okayfm.atunwadigital.streamguys1.com/okayfm",
+         "description" : "Okay FM 101.7 is a broadcast radio station in Accra, Ghana. Providing African music and talk."
+      },
+      {
+         "name" : "Bryt Fm",
+         "image" : "6978.png",
+         "site_url" : "http://www.brytfmonline.com/",
+         "radio_url" : "http://s19.myradiostream.com:5758/;",
+         "description" : "Bryt FM is the newest FM radio station based in Koforidua in the Eastern Region. Its main objective is giving listeners the best in entertainment and Information."
+      },
+      {
+         "name" : "Kings Radio",
+         "image" : "7125.v1.png",
+         "site_url" : "http://www.kingsradioonline.com/",
+         "radio_url" : "http://sp1001.space.com.gh:8006/stream",
+         "description" : "The radio station, which is broadcasting the variety of programs and music from Konongo, the Ashsnti region."
+      },
+      {
+         "name" : "Ghana Wish Radio",
+         "image" : "7085.png",
+         "site_url" : "http://www.ghanawish.com/",
+         "radio_url" : "http://s10.voscast.com:9754/;audio.mp3",
+         "description" : "Ghana Wish Radio is dedicated to providing diverse African music, educative talk shows, news, politics and entertainment."
+      },
+      {
+         "name" : "ACCRA24.COM",
+         "image" : "46737.v1.png",
+         "site_url" : "http://www.accra24.com/",
+         "radio_url" : "https://listen.openstream.co/4362/audio",
+         "description" : "ACCRA24.COM is Ghana's Number One Capital News portal that communicate and publish daily Capital News via Audio, Text, Video, Radio and Live Music. 'We speak the capital!' Breaking News from Ghana with capital city of Ghana as our impetus. Accra24.com plays Africa-local genre of music from Ghana, Kenya-Swahili, Uganda, Nigeria, Togo, South Africa etc . Also Live Worship and International music."
+      },
+      {
+         "name" : "Hello FM",
+         "image" : "1776.v2.png",
+         "site_url" : "http://www.peacefmonline.com/",
+         "radio_url" : "http://hellofm.atunwadigital.streamguys1.com/hellofm",
+         "description" : "Hello FM 101.3 is a broadcast radio station from Kumasi, Ghana. Providing Community News, Information and African Entertainment."
+      },
+      {
+         "name" : "RAANOD Radio",
+         "image" : "67598.png",
+         "site_url" : "http://www.raanod.com/",
+         "radio_url" : "https://stream.zenolive.com/g5vaexf01vduv",
+         "description" : "RAANOD Radio is a credible & influential global online radio station broadcasting 24/7 in English, Ga, Twi and Hausa."
+      },
+      {
+         "name" : "Anidaso FM",
+         "image" : "7030.v1.png",
+         "site_url" : "http://www.anidasofm.com/",
+         "radio_url" : "http://91.121.222.81:8548/stream",
+         "description" : "ANIDASOO FM is a commercial private radio station based in Japekrom in the Brong Ahafo Region."
+      },
+      {
+         "name" : "ANANSE RADIO",
+         "image" : "57265.v1.png",
+         "site_url" : "http://www.akanamen-ra.com/",
+         "radio_url" : "https://stream.zenolive.com/011t6b2vgg5tv",
+         "description" : "ANANSE RADIO provide informative and entertaining value, Clothing, Arts and Crafts, Books and other products that are produced locally in Afrika, creating awareness of various social issues and attempting to gain recognition in order to promote the Afrikan(Black's) cultural heritage."
+      },
+      {
+         "name" : "Ultimate",
+         "image" : "7013.v1.png",
+         "site_url" : "http://www.ultimate1069.com/",
+         "radio_url" : "https://stream.zeno.fm/ac28vs4s6gwtv",
+         "description" : "Totally different from the status quo!!! Easy adult listening, plenty of mid - tempo, R&B/Pop/ Soft Rock/Jazz/African (Authentic Ghanaian Highlife) music and less 'pointless' talk."
+      },
+      {
+         "name" : "Asem Radio",
+         "image" : "7093.png",
+         "site_url" : "http://asemradio.com/",
+         "radio_url" : "http://92.48.231.66/asemradio",
+         "description" : "Asem Radio is online Ghanaian radio station ,integrates credible Ghanaian content and perspectives. Asem Radio broadcast 24 hours a day seven days a week all kinds of motivation, news, sports etc."
+      },
+      {
+         "name" : "LIVE FM",
+         "image" : "6986.png",
+         "site_url" : "http://www.livefmghana.com/",
+         "radio_url" : "https://stream.zenolive.com/08kxcwrt6gwtv",
+         "description" : "LIVE 91.9 FM is fresh, innovative, daring, fashionable, tech savvy, out going, and curious. We are also mature, experienced, networked, have a taste for quality, and enjoy to reminisce on occasion...Its all in our programming."
+      },
+      {
+         "name" : "Shaft FM",
+         "image" : "7009.png",
+         "site_url" : "http://shaftfmonline.com/",
+         "radio_url" : "http://178.32.62.154:8006/;",
+         "description" : "Shaft FM welcome all of you to the house of entertainment that has been designed to give you the best radio experience no matter wheather you are living in Obuasi, AH, Ghana or anywhere else in the world. With songs from the popular music artists of Obuasi, AH, Ghana and from the whole world Shaft FM is all set to take you to a musical world where you are gonna come again and again."
+      },
+      {
+         "name" : "Ahomka FM",
+         "image" : "7016.v1.png",
+         "site_url" : "http://ahomkafm.com/",
+         "radio_url" : "http://31.14.40.163:8016/;",
+         "description" : "Ahomka FM 99.5 is a broadcast radio station from Elmina, Ghana providing News, Education, Information and Entertainment to the general public."
+      },
+      {
+         "name" : "Wagoods Radio",
+         "image" : "7117.png",
+         "site_url" : "http://www.wagoodsradio.com/",
+         "radio_url" : "http://s3.voscast.com:7666/;",
+         "description" : "WagoodsRadio is an internet radio station from Ghana, providing Ghanian Community information, Culture and music."
+      },
+      {
+         "name" : "Hedjorle Online Radio",
+         "image" : "7105.v1.png",
+         "site_url" : "http://www.hedjorleonlineradio.com/",
+         "radio_url" : "http://31.14.40.163:8021/;",
+         "description" : "Hedjorle Online Radio is an internet radio station from Accra, Ghana providing adult/youth contemporary music, incredible and comprehensive news, innovative and superior quality programmes for Africa and beyond."
+      },
+      {
+         "name" : "Medeamaa",
+         "image" : "6996.png",
+         "site_url" : "http://medeamaafmonline.com/",
+         "radio_url" : "http://st2.zenorad.io:13366/;",
+         "description" : "Medeamaa 92.9 FM is a broadcast Radio station from Tarkwa, Western Ghana. Providing best in music,news,sports and entertainment."
+      },
+      {
+         "name" : "AdomFie.com",
+         "image" : "69172.v2.png",
+         "site_url" : "http://www.adomfie.com/",
+         "radio_url" : "https://listen.openstream.co/4469/audio?adomfie.mp3",
+         "description" : "Adom Fie Nkoaa!!!AdomFie.com is a privately owned Ghanaian radio station in Ghana's Capital City, East Legon Hills, Accra – Ghana. The station is owned and run by the OFMcomputerWorld.com group of companies based in Ghana & Europe. The word Adom Fie in the Twi dialect means Home of Grace OR House of Grace."
+      },
+      {
+         "name" : "Afrik Best Radio",
+         "image" : "65688.v3.png",
+         "site_url" : "http://www.afrikbestradio.online/",
+         "radio_url" : "https://str2b.openstream.co/571",
+         "description" : "Best Music From Africa And Worldwide Under Ground Artist And Popular Artist, Shabaut Service, Promotions. Afrik Best Radio Is Producing original audio and video content, live events and exclusive programming broadcast via on-air, online and mobile platforms.Will launch your products on most of these platforms. Unlimited Listeners, Worldwide, Plays On Website, Plays In Cars, Google PLAY Android App."
+      },
+      {
+         "name" : "Melody FM",
+         "image" : "7026.v1.png",
+         "site_url" : "http://melodyfmonline.com/",
+         "radio_url" : "http://198.255.36.2:8032/;",
+         "description" : "MELODY FM based in Takoradi. Western Region reflects the lives of the upscale listener, living in Ghana’s most rapidly growing region, the Western Region. Our programming is targeted at the ambitious young adult, middle aged professionals between ages 18 and 45."
+      },
+      {
+         "name" : "Royale FM",
+         "image" : "79888.v2.png",
+         "site_url" : "http://www.royalmediacollegegh.com/",
+         "radio_url" : "https://stream.zenolive.com/dqn2gt8hg6quv",
+         "description" : "Is an online radio"
+      },
+      {
+         "name" : "YFM",
+         "image" : "73059.v6.png",
+         "site_url" : "http://www.yfmghana.com/",
+         "radio_url" : "https://stream.zeno.fm/ykyagk58reruv",
+         "description" : "Y 107.9 FM is The official radio station for the Young and young at heart. 107.9 YFM is Ghana's #1 Hit Music Station!"
+      },
+      {
+         "name" : "Schwar FM",
+         "image" : "79929.v2.png",
+         "site_url" : "http://schwarfm.com/",
+         "radio_url" : "https://stream.zeno.fm/xxt73c7595quv",
+         "description" : "is an online radio based in Ghana"
+      },
+      {
+         "name" : "Tona Radio",
+         "image" : "73826.v3.png",
+         "site_url" : "http://www.tonaradiogh.com/",
+         "radio_url" : "https://stream.zeno.fm/zx27mvh1geruv",
+         "description" : "To promote good music"
+      },
+      {
+         "name" : "KASAPA FM",
+         "image" : "6985.v3.png",
+         "site_url" : "http://www.kasapafmonline.com/",
+         "radio_url" : "https://stream.zenolive.com/khacm7nv6gwtv",
+         "description" : "KASAPA FM is an urban, lifestyle radio station, which focuses on the delivery of compelling programmes through good music, entertainment/lifestyle- led talk programmes and sports for its target audience."
+      },
+      {
+         "name" : "The Original Word Radio",
+         "image" : "73012.v3.png",
+         "site_url" : "http://theoriginalwordradio.com/",
+         "radio_url" : "https://eu8.fastcast4u.com/proxy/emmazy3?mp=/1",
+         "description" : "The Original Word is a pure gospel radio that has been set up to give good gospel music to listeners all around the globe. Endless gospel music and sermons"
+      },
+      {
+         "name" : "Empire FM",
+         "image" : "7017.v2.png",
+         "site_url" : "http://empirefmonline.com/",
+         "radio_url" : "https://stream.zenolive.com/q3391atq0twtv",
+         "description" : "Empire 102.7 Fm is an Entertainment & Lifestyle inclined radio station located in the Oil City of Ghana (Takoradi) and owned by EIB Network."
+      },
+      {
+         "name" : "Base Radio",
+         "image" : "59281.v12.png",
+         "site_url" : "http://www.speedvisiongh.com/",
+         "radio_url" : "https://streamingv2.shoutcast.com/TheBaseRadio",
+         "description" : "Ever thought of the one Radio Station you could click to get the very best of African flavor in terms of Music, then all you might just need is THE BASE RADI. With THE BASE RADIO you get to experience every African culture you've ever dreamed of here through our authentic genre of music."
+      },
+      {
+         "name" : "The IM Radio",
+         "image" : "78542.v2.png",
+         "site_url" : "https://zeno.fm/TheImShow",
+         "radio_url" : "https://stream.zenolive.com/b9wprxm3v2quv",
+         "description" : "The IM Radio is a multi platform digital radio combining the power of the traditional online with mobile and social media to reach a wider community of businesses, corporate organisations, entrepreneurs, venture capitalist, investors and Tech Entrepreneurs."
+      },
+      {
+         "name" : "Aseda Lutheran Radio",
+         "image" : "80186.v4.png",
+         "site_url" : "https://asedaluttheranradio.com/",
+         "radio_url" : "https://stream.zeno.fm/qaa6tew1v8quv",
+         "description" : "Aseda Luttheran Radio is the best online radio in ghana"
+      },
+      {
+         "name" : "Kente Radio",
+         "image" : "77106.v4.png",
+         "site_url" : "https://www.kenteradio.com/",
+         "radio_url" : "https://streamer.radio.co:80/s362651905/listen",
+         "description" : "We serve Ghana's authentic and original music highlife music to the world"
+      },
+      {
+         "name" : "Gyasi Radio",
+         "image" : "76300.v4.png",
+         "site_url" : "http://www.gyasiradioonline.com/",
+         "radio_url" : "https://stream.zeno.fm/3z1g50qkthruv",
+         "description" : "To promote good music, educate people etc"
+      },
+      {
+         "name" : "Obra Pa 106.9 FM",
+         "image" : "75506.v8.png",
+         "site_url" : "http://www.otmediaonline.com/",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM08AAC063_SC",
+         "description" : "OTMedia represents Obra Pa 106.9 Fm- Ghana and Topical Radio- Hamburg – Germay. They are two subsidiaries that exchange signals and feeds to expand the broadcast range beyond the primary coverage area for the purpose to improve services in a part of the main coverage area and to inform and transform through information to others who might receive a poor signal due to geographical constraints by the use of FM to establish a presence on the other band and to serve as a high grants of platform for advertisers to build upon their range of maximising revenue."
+      },
+      {
+         "name" : "Sureway Radio",
+         "image" : "78958.v1.png",
+         "site_url" : "https://surewayradio.com/",
+         "radio_url" : "https://stream.zenolive.com/fkhupkecbpeuv",
+         "description" : "Jesus is the only Sureway"
+      },
+      {
+         "name" : "Akoma FM",
+         "image" : "80800.v3.png",
+         "site_url" : "https://www.3news.com/",
+         "radio_url" : "https://stream.zenolive.com/h6y04t42u8quv",
+         "description" : "We strive for greatness and to be the best radio station for you, so expect the best in music, latest news, sports, entertainment, business, arts and culture"
+      },
+      {
+         "name" : "Enlighten Radio",
+         "image" : "75177.v4.png",
+         "site_url" : "https://www.radionomy.com/en/radio/enlightenradio/index",
+         "radio_url" : "https://streamingv2.shoutcast.com/EnlightenRadio",
+         "description" : "We educate on all sectors (especially the unknown) to gradually impart knowledge or skill to our listeners.Be Enlighten on Belief System, Nature,s Energy, Limitless Prosperity, Spirituality ,leadership and Goal Sitting Good Music."
+      },
+      {
+         "name" : "Christ Radio Online",
+         "image" : "81212.v2.png",
+         "site_url" : "https://christ-radio.com/",
+         "radio_url" : "https://stream.radio.co/saf4d78c25/listen",
+         "description" : "Journey to Heaven"
+      },
+      {
+         "name" : "Jet Radio Online",
+         "image" : "78680.v5.png",
+         "site_url" : "https://myjetmedia.com/",
+         "radio_url" : "https://stream.zenolive.com/9564yrw5v2quv",
+         "description" : "Jet Radio Online gives you good entertainment, stories as it happens, and spiritual needs.We pledge to satisfy our listeners in every way."
+      },
+      {
+         "name" : "Dj Ziggy Bee pro",
+         "image" : "81992.v2.png",
+         "site_url" : "http://www.djziggybee.com/",
+         "radio_url" : "https://stream.zeno.fm/rgmeh78k6gruv",
+         "description" : "It's online radio for the people"
+      },
+      {
+         "name" : "Triples Digital Radio",
+         "image" : "76664.v5.png",
+         "site_url" : "https://www.triplesmedia.net/",
+         "radio_url" : "https://stream.zenolive.com/uscwxqst9rquv",
+         "description" : "Triples Digital Radio....Refreshing the airwaves...We are committed to delivering 247 quality radio programming which seeks to serve our cherished listeners!!"
+      },
+      {
+         "name" : "Apostolic Fire Radio",
+         "image" : "84470.v2.png",
+         "site_url" : "https://apostolicfirecrusadersministries.com/",
+         "radio_url" : "https://stream.zeno.fm/hwmqc2yz2mzuv",
+         "description" : "We are the champion!!!"
+      },
+      {
+         "name" : "Happy 98.9 FM",
+         "image" : "73048.v6.png",
+         "site_url" : "http://happyghana.com/",
+         "radio_url" : "https://stream.zeno.fm/pcyedn08reruv",
+         "description" : "Happy FM,Ghana's No.1 Sports Station was established in September 2003 and has become Ghana's Best in Sports Broadcasting."
+      },
+      {
+         "name" : "Price FM",
+         "image" : "7007.v1.png",
+         "site_url" : "http://www.pricefm.com/",
+         "radio_url" : "https://stream.zeno.fm/whaba8v8d4duv",
+         "description" : "The radio station providing the best music of such genres as electro,house and dance."
+      },
+      {
+         "name" : "JET RADIO ONLINE",
+         "image" : "67842.v3.png",
+         "site_url" : "https://myjetmedia.com/",
+         "radio_url" : "https://stream.zeno.fm/9564yrw5v2quv",
+         "description" : "JET RADIO ONLINE gives you good entertainment, stories as it happens, and spiritual needs.We pledge to satisfy our listeners in every way."
+      },
+      {
+         "name" : "1Figure Radio",
+         "image" : "75336.v1.png",
+         "site_url" : "http://www.1figureradiogh.com/",
+         "radio_url" : "https://stream.zenolive.com/as3t23bqkueuv",
+         "description" : "Radio station for Good music, Education and Entertainment"
+      },
+      {
+         "name" : "Radio Big",
+         "image" : "70905.v12.png",
+         "site_url" : "http://www.bigsammy.22web.org/",
+         "radio_url" : "https://stream.zenolive.com/wg8dqffxqceuv",
+         "description" : "Radio BIG is noted for relevant events like the Sports, Preachings and Big Drive etc."
+      },
+      {
+         "name" : "Gospel XplosivesGh Radio",
+         "image" : "77672.v1.png",
+         "site_url" : "http://gospelxplosivesradioonline.com/",
+         "radio_url" : "https://stream.zenolive.com/bgu3tfy3vxquv",
+         "description" : "To promote Gospel music"
+      },
+      {
+         "name" : "Beats Radio Gh",
+         "image" : "73061.v6.png",
+         "site_url" : "https://www.beatsradiogh.com/",
+         "radio_url" : "https://stream.zeno.fm/kfvccfncb4duv",
+         "description" : "Beats Radio Gh broadcasts 24 hours a day, seven days a week with high quality programmes with and exciting Entertainment,African music and talk shows."
+      },
+      {
+         "name" : "Bohye FM",
+         "image" : "7000.v3.png",
+         "site_url" : "https://bohyemultimedia.com/radio/",
+         "radio_url" : "https://stream.zenolive.com/qdpch13x5f5tv",
+         "description" : "Bohye FM 95.3 is noted for relevant events like the Sports, Preachings and Bohye Drive etc."
+      },
+      {
+         "name" : "Sofo Amoateng Radio",
+         "image" : "78790.v2.png",
+         "site_url" : "http://sofoamoateng.com/",
+         "radio_url" : "https://stream.zeno.fm/v16pqgbu82quv",
+         "description" : "To promote the word of God"
+      },
+      {
+         "name" : "Price 107.3 FM",
+         "image" : "83017.v1.png",
+         "site_url" : "http://www.price107.3fmonline.com/",
+         "radio_url" : "https://stream.zeno.fm/de6pd6v6dnruv",
+         "description" : "To promote  education, information and entertainment"
+      },
+      {
+         "name" : "Zionite Online Radio",
+         "image" : "73389.v2.png",
+         "site_url" : "https://zioniteonline.com/",
+         "radio_url" : "https://stream.zenolive.com/av3h7fdggceuv",
+         "description" : "Voice for the youth,  vision for the youth."
+      },
+      {
+         "name" : "Paedmondo Radio",
+         "image" : "74024.v8.png",
+         "site_url" : "https://www.radionomy.com/en/radio/paedmondoradio/index",
+         "radio_url" : "https://streamingv2.shoutcast.com/paedmondo-radio",
+         "description" : "Paedmondo Radio  Is your news, exclusives, entertainment, live streams radio website. We provide you with the latest breaking news and videos around the world."
+      },
+      {
+         "name" : "Kok Radio",
+         "image" : "75523.v1.png",
+         "site_url" : "http://www.kokradiogh.com/",
+         "radio_url" : "https://stream.zenolive.com/z5xgdb10tueuv",
+         "description" : "To promote the word of God"
+      },
+      {
+         "name" : "Kobbyros Radio",
+         "image" : "81700.v9.png",
+         "site_url" : "https://zeno.fm/kobbyros-radio",
+         "radio_url" : "https://stream.zeno.fm/xwggnzcgk0quv",
+         "description" : "Created via API"
+      },
+      {
+         "name" : "Infinity Radio GH",
+         "image" : "79866.v2.png",
+         "site_url" : "http://www.infinityradioonline.com/",
+         "radio_url" : "https://stream.zeno.fm/5bpw8cyuvueuv",
+         "description" : "Radio station to promote the word of God"
+      },
+      {
+         "name" : "Osomafo Fm",
+         "image" : "83717.v4.png",
+         "site_url" : "https://zeno.fm/osomafo-fm",
+         "radio_url" : "https://stream.zeno.fm/uzac6ucm4qruv",
+         "description" : "Osomafo Fm - Kumasi - Ghana"
+      },
+      {
+         "name" : "Safoa FM",
+         "image" : "82048.v2.png",
+         "site_url" : "https://zeno.fm/safoa-fm",
+         "radio_url" : "https://stream.zeno.fm/4enhykmf5gruv",
+         "description" : "Safoa FM is  a broadcast radio station from Accra Ghana."
+      },
+      {
+         "name" : "NK Radio",
+         "image" : "83557.v2.png",
+         "site_url" : "https://nkpromogh.com/",
+         "radio_url" : "https://stream.zeno.fm/3dxabmy3enruv",
+         "description" : "Wo b3 hw3 a feeli!!"
+      },
+      {
+         "name" : "Mispa Radio",
+         "image" : "82194.v3.png",
+         "site_url" : "https://zeno.fm/mispa-radio",
+         "radio_url" : "https://stream.zeno.fm/2gn6yd8sehruv",
+         "description" : "The Great Fire Pentecostal International Ministry located at Kasoa Toll Booth in Accra and headed by popular pastor Bishop Bonegas owns an online radio station"
+      },
+      {
+         "name" : "Obediah Radio",
+         "image" : "84400.v1.png",
+         "site_url" : "https://obediahradioandtv.com/",
+         "radio_url" : "https://stream.zeno.fm/uce346811mzuv",
+         "description" : "Obediah Radio is an internet radio station that broadcasts in Ghana. It features entertainment, music and much more."
+      },
+      {
+         "name" : "True Love Radio Online",
+         "image" : "82356.v2.png",
+         "site_url" : "https://www.zeno.fm/true-love-radio-online",
+         "radio_url" : "https://stream.zeno.fm/1g7sr3v1phruv",
+         "description" : "This is a gospel station in Accra Ghana"
+      },
+      {
+         "name" : "Kristos Radio",
+         "image" : "76911.v4.png",
+         "site_url" : "http://www.kristosradioonline.com/",
+         "radio_url" : "https://stream.zenolive.com/y2796segwuquv",
+         "description" : "To promote good music"
+      },
+      {
+         "name" : "Smart Gospels Radio",
+         "image" : "82149.v3.png",
+         "site_url" : "http://smartgospelsradioonline.com/",
+         "radio_url" : "https://stream.zeno.fm/qhqfhyguchruv",
+         "description" : "To promote gospel music"
+      },
+      {
+         "name" : "Limitlesslive Radio",
+         "image" : "75942.v5.png",
+         "site_url" : "https://www.radionomy.com/en/radio/limitlessliveradio/index",
+         "radio_url" : "https://streamingv2.shoutcast.com/limitlesslive-radio",
+         "description" : "News, exclusives, entertainment, 24/7 live streams radio online .We provide you with the latest breaking news and videos around the world."
+      },
+      {
+         "name" : "O2 Radio",
+         "image" : "84488.v11.png",
+         "site_url" : "http://capitalo2.com/",
+         "radio_url" : "https://stream.zeno.fm/pharhbsdanzuv",
+         "description" : "Your number one Christian and health radio station."
+      },
+      {
+         "name" : "Life FM",
+         "image" : "83034.v2.png",
+         "site_url" : "https://www.lifefmonline.com/",
+         "radio_url" : "https://stream.zeno.fm/qta66dptrhruv",
+         "description" : "Life FM is a broadcast radio station in Nkawkaw, Ghana. Providing local news, sports, information and entertainment."
+      },
+      {
+         "name" : "Salt FM",
+         "image" : "83963.v3.png",
+         "site_url" : "https://zeno.fm/salt-fm/",
+         "radio_url" : "https://stream.zeno.fm/7wrx4nqgfrruv",
+         "description" : "Salt FM - adepa aba fie"
+      },
+      {
+         "name" : "Magyk Radio",
+         "image" : "69994.v6.png",
+         "site_url" : "https://www.magykradioonline.com/",
+         "radio_url" : "https://stream.zenolive.com/y4dpmpf46wquv",
+         "description" : "To promote good music in the world."
+      },
+      {
+         "name" : "Sofo Duah Radio",
+         "image" : "83906.v2.png",
+         "site_url" : "http://www.sofoduahradioonline.com/",
+         "radio_url" : "https://stream.zeno.fm/pu0yyewucrruv",
+         "description" : "Sofo Duah Radio - gospel radio station from Ghana"
+      },
+      {
+         "name" : "Radio Village Ghana",
+         "image" : "83775.v2.png",
+         "site_url" : "https://islamicdaawahvillage.wordpress.com/",
+         "radio_url" : "https://stream.zeno.fm/qzm0qemyphruv",
+         "description" : "Islamic daawah village is an islamic organization base in ghana. With the aim of spreading the word of allah and presenting islam to the non muslims worldwide .We propagate islam through the internet,social media,public daawah and debates, and on radio and television stations on ghana and beyond..We have an online radio on the inertnet"
+      },
+      {
+         "name" : "Atenmuda Radio",
+         "image" : "83586.v1.png",
+         "site_url" : "http://www.atenmudaradioonline.com/",
+         "radio_url" : "https://stream.zeno.fm/avvza21np3quv",
+         "description" : "To promote the word of God"
+      },
+      {
+         "name" : "Mabesh Radio",
+         "image" : "75115.v2.png",
+         "site_url" : "http://mabeshtv.com/",
+         "radio_url" : "https://stream.zenolive.com/k32bur3kcseuv",
+         "description" : "Mabesh TV produces a variety of original Christian programs, such as gospel music concerts, live coverage of major Christian events, talk shows"
+      },
+      {
+         "name" : "Konadu Radio",
+         "image" : "83955.v3.png",
+         "site_url" : "http://www.konaduradioonline.com/",
+         "radio_url" : "https://stream.zeno.fm/16e3zy8efrruv",
+         "description" : "To promote good music"
+      },
+      {
+         "name" : "PDJ Radio",
+         "image" : "84828.v4.png",
+         "site_url" : "http://jesusgloryprayerministryint.org/",
+         "radio_url" : "https://stream.zeno.fm/fk75cbf5anzuv",
+         "description" : "Teaching the lost souls, the way to Christ Jesus"
+      },
+      {
+         "name" : "Glory Radio International",
+         "image" : "73086.v5.png",
+         "site_url" : "http://www.gloryradiointernational.com/?i=2",
+         "radio_url" : "https://stream.zenolive.com/2u9xeq6thfeuv",
+         "description" : "Christian Radio Network"
+      },
+      {
+         "name" : "Akc Radio",
+         "image" : "79969.v1.png",
+         "site_url" : "https://akcradio.com/",
+         "radio_url" : "https://stream.zeno.fm/u7bgm17fh6quv",
+         "description" : "is an online radio"
+      },
+      {
+         "name" : "Mex Radio",
+         "image" : "79874.v1.png",
+         "site_url" : "https://mediaexcellencetv.com/",
+         "radio_url" : "https://s3.radio.co/s66936a46e/listen",
+         "description" : "Mex TV and Radio is an educational media company with content related to youths on views about Education, Entertainment, Society, Christianity, Politics, Science, and Technology to students, faculty members, and everyone who has access to the Internet. We also seek to give platform to young talents that have ideas of TV and radio shows to bring them out and become best at what they do by adding value."
+      },
+      {
+         "name" : "M48 Radio",
+         "image" : "83587.v1.png",
+         "site_url" : "http://www.m48radioonline.com/",
+         "radio_url" : "https://stream.zeno.fm/g35y1eyhvqruv",
+         "description" : "To promote education,information and entertainment"
+      },
+      {
+         "name" : "Nimdee FM 95.1",
+         "image" : "79149.v4.png",
+         "site_url" : "https://nimdeeonline.com/",
+         "radio_url" : "https://stream.zenolive.com/2fgbmk5529duv",
+         "description" : "Nimdeɛ FM is a radio station with the sole aim of impacting knowledge and information for the benefit of all We deliver accurate information, entertainment, sports, political discourse, good music and on time delivery of the news as it breaks"
+      },
+      {
+         "name" : "Kwahu Online Radio",
+         "image" : "75716.png",
+         "site_url" : "https://kwahuonlineradio.com/",
+         "radio_url" : "https://stream.zenolive.com/g7kmkpsrgvduv",
+         "description" : "Kwahu Online Radio is surely an intercontinental online radio section participating in a whole new music for a world wide viewers. Kwahu Online Radio"
+      },
+      {
+         "name" : "Digi Radio",
+         "image" : "82046.v2.png",
+         "site_url" : "https://zeno.fm/digi-radio",
+         "radio_url" : "https://stream.zeno.fm/r1ex4rm88gruv",
+         "description" : "Digi Radio is a broadcast radio station in East Legon, Ghana."
+      },
+      {
+         "name" : "Spirit Fm",
+         "image" : "85181.v3.png",
+         "site_url" : "http://www.spiritfmonline.com/",
+         "radio_url" : "https://stream.zeno.fm/x0wuqg58vqzuv",
+         "description" : "Spirit FM is a radio station that broadcasts a wide variety of contents, including news, sports, politics, business, entertainment, lifestyle, education and much more."
+      },
+      {
+         "name" : "Zepp Radio",
+         "image" : "74680.v2.png",
+         "site_url" : "http://www.zeppradio.com/",
+         "radio_url" : "https://stream.zenolive.com/nsta4q8qrs5tv",
+         "description" : "to promote good music and education around the world"
+      },
+      {
+         "name" : "Radio Nambe",
+         "image" : "66997.v3.png",
+         "site_url" : "http://nambetv.blogspot.com/",
+         "radio_url" : "https://stream.zenolive.com/nyhqh1yuevduv",
+         "description" : "Radio Nambe seeks to promote quality and trustable content across the globe."
+      },
+      {
+         "name" : "Angelic Radio",
+         "image" : "82047.v1.png",
+         "site_url" : "https://zeno.fm/angelic-radio",
+         "radio_url" : "https://stream.zeno.fm/keaew02g6gruv",
+         "description" : "Angelic Radio is a broadcast online radio station from Tema."
+      },
+      {
+         "name" : "Pink96.9fm",
+         "image" : "73537.v2.png",
+         "site_url" : "http://pinkfmonlinegh.com/",
+         "radio_url" : "Http://sp1001.space.com.gh:8005/stream",
+         "description" : "We are a music-oriented station with a touch of credible news content"
+      },
+      {
+         "name" : "ChanaBeats Radio",
+         "image" : "73079.v5.png",
+         "site_url" : "http://www.ghanabeatsradio.com/",
+         "radio_url" : "https://ice41.securenetsystems.net/GBEATS",
+         "description" : "The Radio and Television has been a major tool for communication worldwide and due to this many people do take much interest in sourcing for information from these media. In an age of innovation and savvy use of technology, Ghanabeats brings onto the Ghanaian stage a medium that is the best at what it does- connecting the Ghanaian people across the globe."
+      },
+      {
+         "name" : "Lord J Radio",
+         "image" : "82372.v4.png",
+         "site_url" : "http://lordjradio.com/",
+         "radio_url" : "https://stream.zeno.fm/k7vn8dxuqhruv",
+         "description" : "Lord J Radio is a broadcast radio station in Ghana."
+      },
+      {
+         "name" : "West End Radio",
+         "image" : "85267.v4.png",
+         "site_url" : "http://www.westendfmonline.com/",
+         "radio_url" : "https://stream.zeno.fm/47nz3zut26duv",
+         "description" : "Community Radio station"
+      },
+      {
+         "name" : "EL Goshen Radio",
+         "image" : "68911.v2.png",
+         "site_url" : "http://nambetv.blogspot.com/",
+         "radio_url" : "https://stream.zenolive.com/g1bc4rv5zvduv",
+         "description" : "EL-Goshen Gospel Tabernacle is a sovereign non-denominational Christian Church located in Techiman, Ghana."
+      },
+      {
+         "name" : "WizRadio GH",
+         "image" : "84468.v3.png",
+         "site_url" : "https://www.wizradiogh.socialmediagh.com/",
+         "radio_url" : "https://stream.zeno.fm/03uwxyf31mzuv",
+         "description" : "The best online radio station serving Ghana and the diaspora"
+      },
+      {
+         "name" : "Log Radio Gh",
+         "image" : "84603.v3.png",
+         "site_url" : "http://logoradiogh.com/",
+         "radio_url" : "https://stream.zeno.fm/9ax1erzk8mzuv",
+         "description" : "We serve Ghana's authentic and original music highlife music to the world"
+      },
+      {
+         "name" : "Radio XYZ",
+         "image" : "6990.v5.png",
+         "site_url" : "http://myxyzonline.com/category/general/",
+         "radio_url" : "https://stream.zenolive.com/21wv4hn4f3quv",
+         "description" : "Radio station offering fair, balanced, credible news, sports, entertainment."
+      },
+      {
+         "name" : "Sweet Melodies FM",
+         "image" : "7031.v3.png",
+         "site_url" : "http://www.sweetmelodiesfm.com/",
+         "radio_url" : "https://stream.zenolive.com/nnn4675we0quv",
+         "description" : "Sweet Melodies FM is a Christian radio station that is based in Accra, Ghana. It has been on air since 2009 broadcasting contemporary Christian music as well as preaching, teaching and other religious contents."
+      },
+      {
+         "name" : "Angel FM 96.1",
+         "image" : "83907.v1.png",
+         "site_url" : "https://angelfmonlinegh.com/",
+         "radio_url" : "http://angelfm.atunwadigital.streamguys1.com/angelfm",
+         "description" : "On air since 2007, Angel FM is located in Kumasi and serves the region of Ashanti and its surroundings. This is a very popular radio that features music, entertainment, information and news."
+      },
+      {
+         "name" : "Pure 95.7 FM",
+         "image" : "78021.v1.png",
+         "site_url" : "http://www.mypurefmonline.com/",
+         "radio_url" : "http://purefm.atunwadigital.streamguys1.com/purefm",
+         "description" : "Pure FM is an operational business division of Angel Broadcasting Network (ABN). Officially incorporated in 2018 to broadcast lifestyle to our community."
+      },
+      {
+         "name" : "Luv FM",
+         "image" : "7003.v3.png",
+         "site_url" : "http://www.multimediaghana.com/",
+         "radio_url" : "http://mmg.streamguys1.com/LuvFM-mp3?key=93fe20a16f78c70991fa726b9ca9c19c49f7329a3ad6144500e8fe7f3b8dadbafa6e84e66e84f9d149b17181fcf7194f",
+         "description" : "Owned and operated by Multimedia Group Limited, Luv FM is a radio station located in Kumasi, in the Ashanti region. It broadcasts local news, information, talk shows and music in English."
+      },
+      {
+         "name" : "Akomapa FM",
+         "image" : "7084.v1.png",
+         "site_url" : "http://akomapafmoline.com/",
+         "radio_url" : "http://mounthoreb1.primcast.com:8210/;",
+         "description" : "Akomapa FM is a christian Service radio station founded by Evangelist Bright with the aim of spreading the good news of Jesus Christ."
+      },
+      {
+         "name" : "GBC Uniiq FM",
+         "image" : "6982.v4.png",
+         "site_url" : "http://www.gbcghana.com/",
+         "radio_url" : "http://173.249.50.205:8004/;",
+         "description" : "Ghana Broadcasting Corporation (GBC) is a Public Service Broadcaster and the State Radio and Television Network."
+      },
+      {
+         "name" : "Boss FM",
+         "image" : "3757.v7.png",
+         "site_url" : "http://bossfmghana.com/",
+         "radio_url" : "http://178.32.62.154:9600/;?1466853903297.mp3",
+         "description" : "Boss 93.7 FM is a private radio station that commenced on the first day of June 2008. The station has an array of competent professionals who aspire to make a name not only for themselves but the broadcast industry as a whole."
+      },
+      {
+         "name" : "Jaman 103.7 FM",
+         "image" : "80002.v1.png",
+         "site_url" : "https://jamanfmonline.com/",
+         "radio_url" : "http://158.69.196.254:4036/;",
+         "description" : "Jaman 103.7 MHz core responsibility is to serve the people of Jaman better through Entertainment, Politics,  Education, Health and developmental issues. Jaman 103.7MHz is the Newest Sensation in communication in Jaman South Municipality, Jaman Radio is second to none.  Jaman Radio--- Asomdwe Nkoaaa."
+      },
+      {
+         "name" : "Yang Radio Ghana",
+         "image" : "70904.v16.png",
+         "site_url" : "https://www.yangradioonline.com/",
+         "radio_url" : "http://78.129.193.82:23393/;stream.nsv",
+         "description" : "Station With Creativity & Attitude"
+      },
+      {
+         "name" : "Netbuzz Radio",
+         "image" : "64532.v10.png",
+         "site_url" : "https://netbuzzafrica.com/music",
+         "radio_url" : "http://184.164.135.70:8165/;stream.mp3",
+         "description" : "Telling stories from Africa and beyond"
+      },
+      {
+         "name" : "Destiny FM",
+         "image" : "77082.v4.png",
+         "site_url" : "http://destinymediaghana.com/",
+         "radio_url" : "http://142.4.217.133:8819/;stream.nsv",
+         "description" : "A radio station based in Tema, Ghana that inform, educate and entertain the masses through good music. Follow us on all our socials to experience the best side of radio"
+      },
+      {
+         "name" : "Sky FM",
+         "image" : "7021.v2.png",
+         "site_url" : "http://www.skyfmonline.com/",
+         "radio_url" : "http://skylive.afrointel.com:7252/;",
+         "description" : "Urban radio station based in Sunyani; the capital of the Brong Ahafo region in Ghana -West Africa. The station transmits on the frequency modulation 96.7 MHz and has been in existence from 1997 till now through out the years with its dynamic music delivery and comprehensive analysis, it has established itself as the most authoritative and credible radio station in the region."
+      },
+      {
+         "name" : "Ark FM",
+         "image" : "7035.v3.png",
+         "site_url" : "http://www.myarkfmonline.com/",
+         "radio_url" : "http://67.212.165.106:8247/;audio.mp3",
+         "description" : "Based in Sunyani, Brong Ahafo, this is a private radio station that started broadcasting in 2007. Its programmes are in English and include various contents, including news, talk shows and contemporary music."
+      },
+      {
+         "name" : "Obuoba FM",
+         "image" : "7023.v2.png",
+         "site_url" : "http://www.obuobafm.com/",
+         "radio_url" : "http://s8.myradiostream.com:8950/;",
+         "description" : "Eastern's finest radio station broadcasting from Nkawkaw to over 7 REGIONS in Ghana."
+      },
+      {
+         "name" : "Bishara Radio",
+         "image" : "76544.v2.png",
+         "site_url" : "http://bisharafmonline.com/",
+         "radio_url" : "http://178.32.62.154:8371/;stream.nsv",
+         "description" : "Exploding The Airwaves; The best station in the Northern Ghana Tamale."
+      },
+      {
+         "name" : "Titanic Radio",
+         "image" : "78805.v1.png",
+         "site_url" : "http://titanicradiogh.blogspot.com/",
+         "radio_url" : "https://stream.zenolive.com/3dcvgf2452quv",
+         "description" : "Transmitting Live from Tema C/11, Titanic Radio is here to serve you with the best in social and political shows."
+      },
+      {
+         "name" : "Okokroko FM",
+         "image" : "76918.v4.png",
+         "site_url" : "https://www.okokrokofmonline.com/",
+         "radio_url" : "http://us5.internet-radio.com:8077/live",
+         "description" : "The Heart of the Coast"
+      },
+      {
+         "name" : "Onua FM",
+         "image" : "76092.v2.png",
+         "site_url" : "https://www.3news.com/",
+         "radio_url" : "http://176.31.118.39:16224/;",
+         "description" : "Onua FM 95.1 is broadcasting from Ghana and it is a very prominent online radio station for their listeners. With Onua FM 95.1 listeners can easily enjoy the kind of programs lots of other radios are missing. Onua FM 95.1 target listeners are the small scale business, the market women, and the Mass market as a whole."
+      },
+      {
+         "name" : "Supreme Africa",
+         "image" : "50998.v3.png",
+         "site_url" : "http://www.supremeafricagh.org/",
+         "radio_url" : "http://217.147.94.171/listen2myradio1/index.php?ip=217.147.94.171&port=29995&kind=1;stream.nsv;stream.nsv;stream.nsv",
+         "description" : "Supreme Africa is an online radio based in Kasoa , it is part of our modules as a company. We stand for entertainment and help in promoting talent."
+      },
+      {
+         "name" : "Phila Radio",
+         "image" : "81357.v3.png",
+         "site_url" : "http://www.philaradiogh.com/",
+         "radio_url" : "http://162.244.80.106:8081/YxzPmuSM2VPsDbPS15dj",
+         "description" : "Phila Radio is a online radio station that is located at Accra Ghana"
+      },
+      {
+         "name" : "Xlive Africa",
+         "image" : "6995.v2.png",
+         "site_url" : "http://www.xliveafrica.com/",
+         "radio_url" : "http://108.178.13.122:8114/;",
+         "description" : "Located in Osu, Accra, X Live Africa is a radio station that started broadcasting in 2009. This is an entertainment radio that features some of the following programmes: Crazi X Show, Crazi X Show, Nite Xpress, Press Play and X-Heal."
+      },
+      {
+         "name" : "GBC Volta Star",
+         "image" : "15806.v3.png",
+         "site_url" : "http://www.gbcghana.com/",
+         "radio_url" : "http://173.249.50.205:8008/;",
+         "description" : "Volta Star FM es una de las emisoras de FM regionales en Ghana Broadcasting Corporation con sede en la capital regional de Volta, Ho. Propocióna a sus escuchantes la música más popular, noticias y deporte."
+      },
+      {
+         "name" : "PS Radio",
+         "image" : "71420.v4.png",
+         "site_url" : "http://prosalms.com/",
+         "radio_url" : "http://radio.masterdigitalmedia.com:8000/psradio",
+         "description" : "PS RADIO is online Christian radio station based in Accra"
+      },
+      {
+         "name" : "City FM",
+         "image" : "73047.v5.png",
+         "site_url" : "https://citinewsroom.com/radio/",
+         "radio_url" : "https://stream.zeno.fm/g6zrd965puquv",
+         "description" : "97.3 Citi fm offers a good blend of on-air and outdoor programming which is well targeted for the benefit of our audience and advertisers."
+      },
+      {
+         "name" : "Radio View",
+         "image" : "82652.v3.png",
+         "site_url" : "https://www.titanicradio.ga/",
+         "radio_url" : "https://stream.zeno.fm/4eghw7ee1mruv",
+         "description" : "Radio View is an online radio station affiliated to Titanic Radio and Radio View in Ghana-Tema operating under SALMA MULTIMEDIA."
+      },
+      {
+         "name" : "O FM",
+         "image" : "7005.v6.png",
+         "site_url" : "https://ofmghana.com/",
+         "radio_url" : "http://s3.free-shoutcast.com:18056/;stream.nsv",
+         "description" : "O FM 107.7 Lifestyle Urban Contemporary Radio, driven by Music with an eclectic mix of relevant News/Talk and Sports........The Lifestyle Radio."
+      },
+      {
+         "name" : "Connect FM",
+         "image" : "76093.v4.png",
+         "site_url" : "https://www.3news.com/",
+         "radio_url" : "http://5.135.154.72:20102/;",
+         "description" : "Connect FM 97.1 is a very intuitive radio station with some of the country’s leading radio programs in their day long programs schedules. They have got some programs which are popular across the country with traffic from thousands of listeners which makes Connect FM 97.1 a definitly popular radio station in the nation."
+      },
+      {
+         "name" : "Ewiase FM",
+         "image" : "84821.v5.png",
+         "site_url" : "http://ewiasefm.com/",
+         "radio_url" : "http://198.50.156.92:9029/stream",
+         "description" : "Ewiase 95.7 FM is the modern radio station with a state of the art working and human staff dedicated to proving great music, sports, politics, entertainment, and reality shows for the betterment of the people.Ewiase 95.7 FM seeks to report, produce, acquire and distribute news, information and other relevant content that upholds the highest standards of public service in journalism and cultural expression."
+      },
+      {
+         "name" : "Zion Fm",
+         "image" : "83604.v10.png",
+         "site_url" : "https://zionfmonline.wordpress.com/",
+         "radio_url" : "http://s24.myradiostream.com:14430/;stream.nsv",
+         "description" : "Zion FM is a broadcast radio station in Kumasi Ghana,Tanoso  Providing local &foreign news, sports, information, culture and entertainment"
+      },
+      {
+         "name" : "Honi Radio",
+         "image" : "82237.v2.png",
+         "site_url" : "http://www.honiradio.com/",
+         "radio_url" : "http://38.96.148.28:12880/stream",
+         "description" : "Honi radio is a broadcast radio station in Accra, Ghana. providing African music,news,sports and entertainment."
+      },
+      {
+         "name" : "ABC RADIO",
+         "image" : "73386.v5.png",
+         "site_url" : "https://abcradioonline.com/",
+         "radio_url" : "http://78.129.193.82:32336/;stream.nsv",
+         "description" : "ABC RADIO 1`00.9 Lifestyle Urban Contemporary Radio, driven by Music with an eclectic mix of relevant News/Talk and Sports........The Lifestyle Radio."
+      },
+      {
+         "name" : "Air Radio",
+         "image" : "75745.v2.png",
+         "site_url" : "http://www.airradio.com/",
+         "radio_url" : "http://69.162.125.2:8168/stream",
+         "description" : "Public Radio"
+      },
+      {
+         "name" : "3FM",
+         "image" : "76091.v4.png",
+         "site_url" : "https://www.3news.com/",
+         "radio_url" : "http://37.59.40.90:13280/;",
+         "description" : "3 FM is a privately owned radio station in Accra, the capital of Ghana.  The radio station is owned by Media General Radio Limited which forms part of Media General, a media and communications company which owns several television and radio stations in Ghana."
+      },
+      {
+         "name" : "Trust FM",
+         "image" : "84924.v3.png",
+         "site_url" : "http://www.trustmediaghana.wordpress.com/",
+         "radio_url" : "http://s34.myradiostream.com:14204/;stream.nsv",
+         "description" : "Trust FM is a broadcast radio station from Accra, Ghana. providing local news, sports, information, good music with relevant talks and Entertainment."
+      },
+      {
+         "name" : "Spice",
+         "image" : "7022.v2.png",
+         "site_url" : "http://www.spicefmonline.com/",
+         "radio_url" : "http://sp0001.letslink.pro:8006/stream",
+         "description" : "Spice 91.9 FM is the no 1 Fante/Twi station in the region.SPICE 91.9 FM Waaye Dew!"
+      },
+      {
+         "name" : "Bishop Tsetse Radio",
+         "image" : "73060.v5.png",
+         "site_url" : "http://bishoptsetse.radiostream321.com/",
+         "radio_url" : "http://87.117.197.33/stream.mp3?ipport=87.117.197.33_16767",
+         "description" : "Bishop Tsetse radio is an online radio based in Accra -Ghana and the vision is to outreach for Christ."
+      },
+      {
+         "name" : "The Word Radio",
+         "image" : "61499.v6.png",
+         "site_url" : "http://www.evangelistzigah.org/",
+         "radio_url" : "http://41.189.178.35:8000/thewordradio",
+         "description" : "Gospel online radio station. There is a living God Almighty."
+      },
+      {
+         "name" : "EGO",
+         "image" : "70441.png",
+         "site_url" : "http://ego.mypressonline.com/",
+         "radio_url" : "http://s37.myradiostream.com:11880/;stream.nsv",
+         "description" : "Fully gospel and evangelism framework"
+      },
+      {
+         "name" : "Kapital Radio",
+         "image" : "7001.png",
+         "site_url" : "http://www.kapital971.com/",
+         "radio_url" : "http://kapitalfm2.primcast.com:7958/;",
+         "description" : "Kapital Radio is a market leader in radio broadcasting in Ghana."
+      },
+      {
+         "name" : "E-way Radio",
+         "image" : "78375.v2.png",
+         "site_url" : "http://www.scoutradio.net/",
+         "radio_url" : "http://hubble.shoutca.st:8096/;stream.nsv",
+         "description" : "Listen to good music on E way radio"
+      },
+      {
+         "name" : "Ice FM GH",
+         "image" : "78515.v3.png",
+         "site_url" : "http://icefmgh.mypressonline.com/",
+         "radio_url" : "http://s37.myradiostream.com:14014/;stream.nsv",
+         "description" : "Ice FM Ghana - Your own station"
+      },
+      {
+         "name" : "Wonder City Radio",
+         "image" : "80641.v5.png",
+         "site_url" : "https://wondercitytv.com/",
+         "radio_url" : "https://stream.zenolive.com/3tw3c08fhbruv",
+         "description" : "It is a 24-hours live online radio streaming program and its accessible from any part of the world with a suitable internet connection available."
+      },
+      {
+         "name" : "Elite FM",
+         "image" : "79253.v7.png",
+         "site_url" : "http://www.elitefmonline.com/",
+         "radio_url" : "http://82.145.59.200:25097/;stream.nsv",
+         "description" : "Elite Radio is a online radio station that is located at Accra Ghana"
+      },
+      {
+         "name" : "Get FM",
+         "image" : "82684.v2.png",
+         "site_url" : "https://www.titanicradio.ga/",
+         "radio_url" : "https://stream.zeno.fm/29n91nnyqhruv",
+         "description" : "Get FM is an online radio station affiliated to Titanic Radio and Radio View in Ghana-Tema operating under SALMA MULTIMEDIA."
+      },
+      {
+         "name" : "Vicks Radio",
+         "image" : "73771.v1.png",
+         "site_url" : "http://www.vicksradio.com/",
+         "radio_url" : "http://87.117.208.118:34865/;stream.mp3",
+         "description" : "Vick's Radio a Media House and Radio Station under Zelda Technology."
+      },
+      {
+         "name" : "Ghana Christian Radio",
+         "image" : "7039.png",
+         "site_url" : "http://www.ghanachristianbroadcasting.org/",
+         "radio_url" : "http://108.60.217.38:2199/tunein/ghanaradio.pls",
+         "description" : "Ghana Christian Broadcasting Network promotes Christian values and leadership in society in partnership with public, private, voluntary, community sectors, churches and Christian organisations for the benefit of the public."
+      },
+      {
+         "name" : "Blezz Fm",
+         "image" : "83126.v1.png",
+         "site_url" : "http://www.blezzfm.com/",
+         "radio_url" : "http://95.154.196.33:8449/;stream.nsv",
+         "description" : "A private Radio Station targeting the general public through a blend of quality music, sports, lifestyle programs and events.we are also in music promotion and online content.A private Radio Station targeting the general public through a blend of quality music, sports, lifestyle programs and events"
+      },
+      {
+         "name" : "Mothers FM",
+         "image" : "76437.v18.png",
+         "site_url" : "http://mothersfmonline.ga/",
+         "radio_url" : "http://109.169.23.22:9297/;stream.nsv",
+         "description" : "Mother of all stations"
+      },
+      {
+         "name" : "Radio Omega Ge",
+         "image" : "65240.v10.png",
+         "site_url" : "http://www.omegageradio.blogspot.com/",
+         "radio_url" : "https://stream.zenolive.com/puwca5c8hkeuv",
+         "description" : "Building a Stylish Generation! Radio Omega GE radio is the most listen and popular online radio which educate, entertain and inform. We play your favorite music both local and foreign. We also host both talk and magazine shows.. Omega GE radio - building a stylish generation."
+      },
+      {
+         "name" : "BM Radio",
+         "image" : "84579.v6.png",
+         "site_url" : "https://bestmultimediagh.com/",
+         "radio_url" : "https://stream.zenolive.com/gb0wn743krquv",
+         "description" : "BM Radio is a privately owned online  radio station in Nkwanta. The station is a highly comprehensive online medium and a source for all the latest happenings within the Country. The station delivers services to all Ghanaians on platforms ranging from news, online radio and audio on demand."
+      },
+      {
+         "name" : "Angel FM Takoradi",
+         "image" : "82870.v8.png",
+         "site_url" : "http://www.angelfmghana.com/",
+         "radio_url" : "http://109.169.37.137:36941/;stream.nsv",
+         "description" : "The finest Radio"
+      },
+      {
+         "name" : "Page Radio",
+         "image" : "79858.v3.png",
+         "site_url" : "https://pageradioonline.com/",
+         "radio_url" : "http://91.121.222.81:8544/stream",
+         "description" : "Page Radio Online is not just an ordinary Internet radio station, but to uplift, inspire and entertain its target audience and we introduce new talents every week.Page Radio Online.The True Chapters Of Music..."
+      },
+      {
+         "name" : "Attractive Radio",
+         "image" : "70717.v14.png",
+         "site_url" : "http://Attractivemusik.blogspot.com/",
+         "radio_url" : "http://78.129.189.182:18520/;",
+         "description" : "promote up and coming artist on they musik upload,air play,online play,interview and more"
+      },
+      {
+         "name" : "Ghlife Radio",
+         "image" : "84498.v12.png",
+         "site_url" : "http://www.ghlifetv.com/",
+         "radio_url" : "http://78.129.224.21:23589/;stream.nsv",
+         "description" : "GhLife Radio, real life in radio!"
+      },
+      {
+         "name" : "Okwawu FM",
+         "image" : "83253.v3.png",
+         "site_url" : "https://okwawufm.com/",
+         "radio_url" : "http://5.135.154.69:14510/;stream.nsv",
+         "description" : "OKWAWU 96.3 FM is an oriented business station which is to Promote, Entertain, Educate and Inform it's loyal listeners in and around Kwahu and Nkawkaw"
+      },
+      {
+         "name" : "My Voice of Hope Online Radio",
+         "image" : "73002.v3.png",
+         "site_url" : "http://www.voiceofhopemedia.com/",
+         "radio_url" : "http://radio.masterdigitalmedia.com:8000/voiceofhope",
+         "description" : "This is purely an online Christian Radio station in Ghana"
+      },
+      {
+         "name" : "Rock FM - the Voice of Truth",
+         "image" : "73088.v3.png",
+         "site_url" : "http://www.rockfmonline.com/",
+         "radio_url" : "http://108.178.13.122:8017/stream",
+         "description" : "Rock FM is a christian inspired radio station that is solely dedicated to the broadcast of christian music, preaching and motivation messages for the edification of the christian."
+      },
+      {
+         "name" : "Best Radio Online",
+         "image" : "81636.v3.png",
+         "site_url" : "https://bestradiogh.com/",
+         "radio_url" : "http://91.121.222.81:8228/;stream.nsv",
+         "description" : "Best radio plays the best of African music mainly with a drop of comedy, making us your number one entertainment hub."
+      },
+      {
+         "name" : "Vision FM",
+         "image" : "83802.v1.png",
+         "site_url" : "http://visionfmga.myl2mr.com/",
+         "radio_url" : "http://95.154.196.33:18364/;stream.nsv",
+         "description" : "A private Radio Station targeting the general public through a blend of quality music, sports, lifestyle programs and events.we are also in music promotion and online content.A private Radio Station targeting the general public through a blend of quality music, sports, lifestyle programs and events"
+      },
+      {
+         "name" : "Divine Zone Radio",
+         "image" : "81758.v1.png",
+         "site_url" : "https://divinezoneradio.com/",
+         "radio_url" : "http://91.121.222.81:8630/;stream.nsv",
+         "description" : "Divine Zone Radio, communicate the Gospel of Jesus Christ to the world, Using modern technologies to share and serve the Gospel to the Christian Community and strengthen the local church and family unit as we provide spiritual encouragement and a personal challenge with a Christ centered focus, through Biblical teaching, relevant information and uplifting music to the Glory of God."
+      },
+      {
+         "name" : "Sompa FM",
+         "image" : "7025.png",
+         "site_url" : "http://www.sompafm.com/",
+         "radio_url" : "http://31.177.57.51:8044/stream",
+         "description" : "Radio Station Based In Cape Coast, Central Region, Ghana."
+      },
+      {
+         "name" : "Ghanansem FM",
+         "image" : "7122.v1.png",
+         "site_url" : "http://www.ghanansem.net/",
+         "radio_url" : "http://38.96.148.254:8878/;",
+         "description" : "Ghana internet radio online, broadcasting the latest news,sports, entertainment and much more."
+      },
+      {
+         "name" : "AudioJuice - Euro Dance Radio",
+         "image" : "7104.png",
+         "site_url" : "http://audiojuice.net/",
+         "radio_url" : "http://50.7.53.2/dance_hi",
+         "description" : "Enjoy a great variety in house, progressive trance, vocal trance, world music, chillout lounge, ambient, jazz, downtempo, trip hop, musicals, disco classics and 80s-90s dance party hits."
+      },
+      {
+         "name" : "One FM Ghana",
+         "image" : "81451.v1.png",
+         "site_url" : "http://www.onefmghana.com/",
+         "radio_url" : "http://91.121.222.81:8662/;stream.nsv",
+         "description" : "Listen to One FM, its an online radio streams and station, the home of the good music, and talk shows, with greatest DJs and Presenters to entertain, inform, educate and inspire you."
+      },
+      {
+         "name" : "DE Broadcaster",
+         "image" : "85094.v6.png",
+         "site_url" : "http://www.skdebroadcaster.com/",
+         "radio_url" : "http://109.169.23.22:20220/;stream.nsv",
+         "description" : "DE Broadcaster  Radio is an internet radio station from Accra, DE Broadcaster providing latest, hot and classic hits from Ghana and music information.It is an African wise saying that symbolizes learning from the past to build the future. A subsidiary of SOKA INVESTIGATORS  Media Group, DE Broadcaster Radio seeks to cater for the evolving needs of our listeners and the changing landscape of the media market. We will engage in stimulating and thought provoking conversations on issues affecting our community."
+      },
+      {
+         "name" : "Alive Ghana News",
+         "image" : "67103.v2.png",
+         "site_url" : "http://www.aliveghananews247.com/",
+         "radio_url" : "http://188.165.232.7:8177/aliveghananews",
+         "description" : "By covering most of the genres an online radio that intends to entertain their listeners should cover and at the same time also broadcasting the biggest hits around the world Alive Ghana News is becoming more and more popular among their listeners for their job and presentation of beautiful programs."
+      },
+      {
+         "name" : "Hour of Glory",
+         "image" : "82211.v2.png",
+         "site_url" : "http://hourofgloryradio.com/",
+         "radio_url" : "http://wss1.mawxoft.com:9000/stream",
+         "description" : "Hour of Glory Radio aim is to transform lives globally by providing a platform for people to connect and experience the ministry of Rev. Jonathan Ekuban with no time barrier. Hour of Glory radio is live 24 hours 7 days a week and it creates an avenue for those who want to grow in the things of God regardless of denomination, culture, age, gender, and background. Enjoy different music genres and sermons from one of the world’s most anointed men and may you be blessed as you listen."
+      },
+      {
+         "name" : "Peace Radio",
+         "image" : "83801.v1.png",
+         "site_url" : "http://peaceradio.myl2mr.com/",
+         "radio_url" : "http://78.129.193.82:15333/;stream.nsv",
+         "description" : "A private Radio Station targeting the general public through a blend of quality music, sports, lifestyle programs and events.we are also in music promotion and online content.A private Radio Station targeting the general public through a blend of quality music, sports, lifestyle programs and events"
+      },
+      {
+         "name" : "GTOP Radio (Ghana Top Radio)",
+         "image" : "74803.v5.png",
+         "site_url" : "http://www.gtopradio.com/",
+         "radio_url" : "http://s4.stream-cast.com:11502/;stream.nsv",
+         "description" : "Connecting people, building better communities with Information. Our views ours and RT, not endorsement."
+      },
+      {
+         "name" : "Body of Christ Radio",
+         "image" : "85549.v2.png",
+         "site_url" : "https://www.repentandpreparetheway.org/",
+         "radio_url" : "http://78.129.222.62:14373/;stream.nsv",
+         "description" : "The aims of ministry of repentance and holiness shall be in accordance with the preamble above and shall be as follows...-To evangelize the gospel of our LORD JESUS CHRIST with an intention of winning souls for the kingdom of God.-To make disciples/believers of all people who shall belief in JESUS CHRIST through the gospel of the kingdom of God who shall herein be called 'members'-To nurture the spiritual lives of its members-To teach,disciple and prepare its members to evangelize the gospel of the kingdom of God."
+      },
+      {
+         "name" : "Echosoundz Radio",
+         "image" : "76167.v1.png",
+         "site_url" : "http://www.echosoundz.com/",
+         "radio_url" : "http://echosoundz.atunwadigital.streamguys1.com/echosoundz",
+         "description" : "Listen to the best music, programs and much more. From Ghana."
+      },
+      {
+         "name" : "Yice FM",
+         "image" : "83124.v3.png",
+         "site_url" : "http://www.yicefm.com/",
+         "radio_url" : "http://78.129.224.21:15185/;stream.nsv",
+         "description" : "A private Radio Station targeting the general public through a blend of quality music, sports, lifestyle programs and events.we are also in music promotion and online content.A private Radio Station targeting the general public through a blend of quality music, sports, lifestyle programs and events"
+      },
+      {
+         "name" : "Nadom Radio",
+         "image" : "81367.png",
+         "site_url" : "http://nadom.radio12345.com/",
+         "radio_url" : "http://78.129.193.127:12658/;stream.nsv",
+         "description" : "Find Nadom Radio, modern Ghana radio, Ghana radios app...we have good dj`s to give you good ghanaian music....gosple music..highliife music...hiplife music...hiphop music..azonto music music...francophone music....cools: we do politics,sports,talk shows......"
+      },
+      {
+         "name" : "Mam Radio 1",
+         "image" : "78250.v3.png",
+         "site_url" : "http://mamghonline.org/",
+         "radio_url" : "http://uk5.internet-radio.com:8160/live",
+         "description" : "online islamic radio, TV, website and Publication(newspaper & magazine) for propagating islam and spreading the words of Allah"
+      },
+      {
+         "name" : "Kad FM",
+         "image" : "84028.v2.png",
+         "site_url" : "http://www.kadfm.ga/",
+         "radio_url" : "http://130.185.144.199:30617/stream",
+         "description" : "A private Radio Station targeting the general public through a blend of quality music, sports, lifestyle programs and events.we are also in music promotion and online content.A private Radio Station targeting the general public through a blend of quality music, sports, lifestyle programs and events"
+      },
+      {
+         "name" : "Ahocfe Radio",
+         "image" : "85072.v2.png",
+         "site_url" : "https://djahocfe.simplesite.com/",
+         "radio_url" : "http://78.129.222.62:17401/;stream.nsv",
+         "description" : "DjAhocfe Radio is a privately owned online radio station set up  “to educate, entertain and unite the World to make a difference."
+      },
+      {
+         "name" : "Wonda FM",
+         "image" : "83125.v1.png",
+         "site_url" : "http://www.wondafm.ga/",
+         "radio_url" : "http://78.129.224.21:33345/stream",
+         "description" : "A private Radio Station targeting the general public through a blend of quality music, sports, lifestyle programs and events.we are also in music promotion and online content."
+      },
+      {
+         "name" : "Breeze",
+         "image" : "6976.png",
+         "site_url" : "http://www.breezefmghana.com/",
+         "radio_url" : "http://zenorad.io:12750/;",
+         "description" : "Radio station with a difference providing quality entertainment and set to deliver relevant information and education. It's certainly your comfort zone."
+      },
+      {
+         "name" : "Alivefm",
+         "image" : "7091.v1.png",
+         "site_url" : "http://alivefmonline.com/",
+         "radio_url" : "http://37.59.28.208:8474/stream",
+         "description" : "An inspiring, educative and a Christian based Internet radio."
+      },
+      {
+         "name" : "Cape Fm",
+         "image" : "73078.v7.png",
+         "site_url" : "http://www.cape933.com/",
+         "radio_url" : "http://5.133.182.164:15908/",
+         "description" : "Redefining Radio in the Central Region,Cape 93.3 the coastal vibe.Cape 93.3 It's a refreshing new attitude."
+      },
+      {
+         "name" : "Kumasi Online Radio",
+         "image" : "45930.png",
+         "site_url" : "http://kumasionline.net/",
+         "radio_url" : "http://sp1001.space.com.gh:8002/stream",
+         "description" : "News and More...."
+      },
+      {
+         "name" : "Truth4Life Radio",
+         "image" : "7102.v1.png",
+         "site_url" : "http://t4lradio.com/",
+         "radio_url" : "http://s2.voscast.com:8384/;",
+         "description" : "Truth4Life Radio is established to develop and provide outstanding radio programming and resources for Christian listeners around the world. Truth4Life Radio serves the needs of Christians through intensive inspiration, talk shows and music 24 hours a day, 7 days a week."
+      },
+      {
+         "name" : "Gye Nyame 94.5 FM",
+         "image" : "69065.v1.png",
+         "site_url" : "https://www.gyenyamefm.com/",
+         "radio_url" : "https://stream.zenolive.com/0ay29xcyv3duv",
+         "description" : "Programs of Gye Nyame 94.5 FM are often considered by analyzing the preferences and emotions of their listeners regarding the music. It's the radio that will be talked by their listeners as the masterclass one for their sheer presence in their listeners mind and heart with the presentation and programs."
+      }
+   ]
+}

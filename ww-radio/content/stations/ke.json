@@ -1,0 +1,487 @@
+{
+   "ke" : [
+      {
+         "name" : "HBR",
+         "image" : "7187.png",
+         "site_url" : "http://hbr.co.ke/",
+         "radio_url" : "http://91.121.165.88:8116/stream/;",
+         "description" : "Homeboyz Radio is a broadcast radio station from Nairobi, Kenya providing Urban, R&B, Hip Hop, Soul music, information on lifestyle, latest news, sports and entertainment."
+      },
+      {
+         "name" : "Pilipili FM",
+         "image" : "7203.png",
+         "site_url" : "http://www.pilipilifm.co.ke/",
+         "radio_url" : "https://stream.zenolive.com/4vx9zbkqtceuv",
+         "description" : "Pilipili FM is Award Winning, Kenya’s fresh, modern and state of the art Swahili radio station from Mombasa, Kenya, aiming to enrich the lives of listeners with programmes and services that inform, educate and entertain."
+      },
+      {
+         "name" : "Radio Waumini",
+         "image" : "7174.v3.png",
+         "site_url" : "http://www.radiowaumini.org/",
+         "radio_url" : "https://stream.zenolive.com/nshu49seh1duv",
+         "description" : "Radio Waumini FM 88.3 is a broadcast radio station from Nairobi, Kenya providing Catholic music and program."
+      },
+      {
+         "name" : "Hope FM",
+         "image" : "7128.v3.png",
+         "site_url" : "http://www.hopefm.org/",
+         "radio_url" : "https://stream.zenolive.com/sxctyw98h3mtv",
+         "description" : "This is your leading Christian radio station that brings you Hope each and every day of your life!Hope FM is a broadcast radio station based in Nairobi, Kenya, providing Christian Education, News and Entertainment. Hope FM went on air in April 2003 and now broadcasts on 93.3 FM in Nairobi; Mombasa on 101.9 FM; Western Kenya and Rift Valley on 93.8 FM."
+      },
+      {
+         "name" : "KIU FM",
+         "image" : "7193.png",
+         "site_url" : "http://www.kiufm.com/",
+         "radio_url" : "http://radio.domint.net:8114/;",
+         "description" : "KIU FM is a broadcast radio station from Nairobi, Kenya providing Bongo and Reggae music."
+      },
+      {
+         "name" : "Baraka FM",
+         "image" : "7180.png",
+         "site_url" : "http://www.barakafm.org/",
+         "radio_url" : "http://s2.myradiostream.com:5788/;stream.nsv",
+         "description" : "Baraka FM is a regional media house serving the Kenya’s Coast region through broadcasting on 95.5 FM, on-line via www.barakafm.org and Baraka FM Events."
+      },
+      {
+         "name" : "Ghetto Radio",
+         "image" : "7275.v1.png",
+         "site_url" : "http://ghettoradio.co.ke/",
+         "radio_url" : "http://45.79.138.31:8002/stream",
+         "description" : "This is an urban radio station located in Nairobi. Ghetto Radio Nairobi was established in 2007 and is currently a popular station among the youngsters. It broadcasts news, information, sports and lifestyle programmes."
+      },
+      {
+         "name" : "Kameme FM",
+         "image" : "7127.v1.png",
+         "site_url" : "http://kameme.co.ke/",
+         "radio_url" : "https://stream.zenolive.com/wxn43ghqtceuv",
+         "description" : "Kameme FM is a broadcast radio station in Nairobi, Kenya, providing News, Sports, Talk and Entertainment."
+      },
+      {
+         "name" : "Family Radio 316",
+         "image" : "7279.png",
+         "site_url" : "http://www.radio316.net/",
+         "radio_url" : "https://icy-e-05-gos.sharp-stream.com/familymedia.mp3",
+         "description" : "Thr radio station, which is bringing to you contemporary Christian Music 24/7 from all over the world!"
+      },
+      {
+         "name" : "Meru Radio",
+         "image" : "7204.png",
+         "site_url" : "http://www.merufm.co.ke/",
+         "radio_url" : "https://stream.zenolive.com/6fvassmqtceuv",
+         "description" : "Meru FM 88.3 is a broadcast radio station from Meru, Kenya, providing sports, news, talk shows and business news programs."
+      },
+      {
+         "name" : "Supernova",
+         "image" : "7202.v2.png",
+         "site_url" : "http://www.supernovaradio.org/",
+         "radio_url" : "http://50.22.253.46/supernovaradio",
+         "description" : "Supernova is an Internet Radio station broadcasting from Kenya, playing the best mixes in trance, dance, house, electro and dubstep. Tune in for happy music."
+      },
+      {
+         "name" : "Truth FM",
+         "image" : "7182.png",
+         "site_url" : "http://truthfm.org/",
+         "radio_url" : "http://uk1-vn.mixstream.net:9960/;",
+         "description" : "TRUTH F.M is a radio ministry of Africa Inland Church (AIC-Kenya).TRUTH FM is tailored to propagate the gospel of Jesus Christ and impact the community with good moral fabric. Truth F.M endeavors to assist our partners in reaching their target audience through their wide coverage Network within the country, beyond and Online Streaming."
+      },
+      {
+         "name" : "Fountain Radio",
+         "image" : "49560.png",
+         "site_url" : "http://www.fountainnews.co.ke/",
+         "radio_url" : "http://50.22.253.45:80/fountainradio",
+         "description" : "Fountain Radio is an internet based online radio broadcasting from Nairobi, Kenya. It provides varieties of music genres for the people all around the world. It also covers news updates, entertainment, talk shows, informative programs 24/7."
+      },
+      {
+         "name" : "Biblia Husema",
+         "image" : "7206.png",
+         "site_url" : "http://bibliahusema.org/",
+         "radio_url" : "http://uk1-vn.mixstream.net:9958/;",
+         "description" : "Biblia Husema 96.7 is a broadcast radio station from Nairobi, Kenya, providing quality programs, through media broadcasts of Biblical teaching, Christian music, and relevant public information, reaching a local and international audience."
+      },
+      {
+         "name" : "Kass FM",
+         "image" : "7168.png",
+         "site_url" : "http://kassfm.co.ke/",
+         "radio_url" : "http://media.kassfm.co.ke:8006/live",
+         "description" : "Kass FM is a broadcast radio station in Nairobi, Kenya, providing Community News, Information and Entertainment. Kass FM broadcasts in Kalenjin, currently broadcasting in Nairob, including Machakos, Thika, Kiambu and Limuru; in the Rift Valley, including Nakuru, Eldoret, Kitale, Baringo, Kapenguria, Timboroa, Gilgill, Naivasha, Bomet, Litein and Kericho; on the Coast region, including Mombasa, Malindi, Mtwapa, Changamwe, Ukunda and Kilifi; and in parts of Western and Nyanza including Kakamega, Kisumu and Kisii."
+      },
+      {
+         "name" : "Heaven96 Radio",
+         "image" : "7307.v1.png",
+         "site_url" : "http://www.heaven96.com/",
+         "radio_url" : "http://streaming.radionomy.com/Heaven96Radio",
+         "description" : "The radio station which broadcasts the best variety of chart-topping gospel songs. From the latest Chart-topping hits to some of the biggest songs of the past year, Heaven96 Radio is where the inspiration is at."
+      },
+      {
+         "name" : "Metro FM KBC",
+         "image" : "7189.v2.png",
+         "site_url" : "http://karnaval.com/metrofm",
+         "radio_url" : "http://www.iftiinfm.co.ke/",
+         "description" : "METRO FM is the station that gives the local citizen a voice. Metro fm is a Public Sector fm station in kenya set up in april 1996. Relaunched as a 24 hour reggae radio station on 1st august 2005. Since its relaunch, with a core staff of 15 officers, metro fm has become a big player on the entertainment scene."
+      },
+      {
+         "name" : "NBO Radio",
+         "image" : "7299.v1.png",
+         "site_url" : "http://nboradio.co.ke/",
+         "radio_url" : "http://streaming.radionomy.com/Laid-Back-Radio",
+         "description" : "NBO Radio is Nairobi's open platform radio station for Djs and record collectors to share their findings. Expect eclectic sounds from soul, funk and jazz to hip hop, electronic and more."
+      },
+      {
+         "name" : "SkyRish Radio",
+         "image" : "7201.png",
+         "site_url" : "http://www.skyrishradio.com/",
+         "radio_url" : "https://stream.zenolive.com/u7z9kqrde0mtv",
+         "description" : "SkyRish Radio is one of the largest and the leading African Internet Radio platform in the world across radio, website, mobile and social media."
+      },
+      {
+         "name" : "Sound Asia FM",
+         "image" : "7207.v1.png",
+         "site_url" : "http://www.soundasiafm.com/",
+         "radio_url" : "http://41.72.210.222:88/stream?type=.mp3",
+         "description" : "Sound Asia FM 88.0 is an internet station from Nairobi, Kenya, providing newly released music from Bollywood and other local & international Asian artists. The music also includes a mix of the golden oldies, the late 80's & early 90's which is appreciated by the older generation."
+      },
+      {
+         "name" : "Suda Online Radio",
+         "image" : "7196.v1.png",
+         "site_url" : "http://www.sudaonlineradio.com/",
+         "radio_url" : "http://zenorad.io:12856/;",
+         "description" : "Suda Online Radio is One Of The Largest And The Leading African Internet Radio Platform In The World Across Radio, website, mobile and social media."
+      },
+      {
+         "name" : "Utheri Radio",
+         "image" : "80205.v6.png",
+         "site_url" : "https://utheriradio.wixsite.com/website",
+         "radio_url" : "https://c16.radioboss.fm:18092/stream",
+         "description" : "nyimbo cia ihinda. ceceni iria iguthikagiriria. tabarira cia gugucanjamura na gugwaka kiroho."
+      },
+      {
+         "name" : "Mayian FM",
+         "image" : "7205.v7.png",
+         "site_url" : "http://www.mediamaxnetwork.co.ke/mayian-radio/",
+         "radio_url" : "https://stream.zenolive.com/aueufkkqtceuv",
+         "description" : "Mayian FM is the leading maasai radio station in Kenya."
+      },
+      {
+         "name" : "MIZizi Radio",
+         "image" : "84979.v2.png",
+         "site_url" : "https://mizizi.relax103.com/",
+         "radio_url" : "https://c16.radioboss.fm:18156/stream",
+         "description" : "Roots and culture music"
+      },
+      {
+         "name" : "SmashJam Radio",
+         "image" : "76968.v5.png",
+         "site_url" : "https://zeno.fm/smashjam",
+         "radio_url" : "https://stream.zeno.fm/gfds6bn5mceuv",
+         "description" : "Smash Jam is dedicated to unleash a variety of Smashing New Skool and Nolstagic Old Skool Music"
+      },
+      {
+         "name" : "Cambridge Radio",
+         "image" : "77425.v4.png",
+         "site_url" : "https://www.cambridge.co.ke/",
+         "radio_url" : "https://stream.zeno.fm/wcp775f975quv",
+         "description" : "Cambridge Radio broadcasting live from Eldoret, Kenya at Cambridge Universal College. It majorly targets the youths among other groups with informative and entertaining programs with an international outreach"
+      },
+      {
+         "name" : "Útúúro Radio",
+         "image" : "75322.v16.png",
+         "site_url" : "https://zeno.fm/utuuro-radio",
+         "radio_url" : "https://stream.zeno.fm/gghtw6fgp3quv",
+         "description" : "All that pertains to....targible and intargible Gìkùyù cultural heritage including traditional ecological knowledge"
+      },
+      {
+         "name" : "Hero Fm",
+         "image" : "77685.v11.png",
+         "site_url" : "http://www.hero.co.ke/",
+         "radio_url" : "https://stream.zeno.fm/mbpgmuumubruv",
+         "description" : "Located in Nakuru, Hero Radio is a a broadcaster that was established in 2010. Its programming includes a wide variety of contents such as national and international news, sports and lifestyle."
+      },
+      {
+         "name" : "Mugambo Wa Mugikuyu FM",
+         "image" : "81285.v2.png",
+         "site_url" : "http://fm.mugambowamugikuyu.co.ke/",
+         "radio_url" : "https://stream.zeno.fm/47e5brvztfeuv",
+         "description" : "This is a brooke of goodness. Kuhumo kia wega"
+      },
+      {
+         "name" : "Bloom Radio KE",
+         "image" : "7300.v4.png",
+         "site_url" : "http://bloomradio.co.ke/",
+         "radio_url" : "https://www.radioking.com/play/urban-gospel-radio-1",
+         "description" : "We exist to remind you of God's gift of life through Jesus. Walk in faith, be filled with hope, love God and people."
+      },
+      {
+         "name" : "Thegi Radio",
+         "image" : "83711.v4.png",
+         "site_url" : "https://www.thegimedia.com/",
+         "radio_url" : "https://listen.radioking.com/radio/263626/stream/308785",
+         "description" : "Thegi Radio is an Online Radio Station broadcasting from Nairobi, Kenya. It has combined a diversity of Kenyan local content  broadcasted through social networks in Kikuyu Language. Music, News, Talk Show, Business, Inspiration, Culture and much more."
+      },
+      {
+         "name" : "Makinika Radio",
+         "image" : "74523.v14.png",
+         "site_url" : "https://zeno.fm/makinika-radio",
+         "radio_url" : "https://stream.zenolive.com/cwvcxf2gp3quv",
+         "description" : "Fo the love of Africa"
+      },
+      {
+         "name" : "Mwangaza Wa Neno Fm",
+         "image" : "81623.v4.png",
+         "site_url" : "http://mwangazawanenofm.co.ke/",
+         "radio_url" : "https://stream.zeno.fm/e34h1cbrmeruv",
+         "description" : "This is one of the fastest growing christian stations that is aimed at shedding more light in Kenya and to the world about the word of God.categories"
+      },
+      {
+         "name" : "Moroni Gospel Online Radio Africa",
+         "image" : "78780.v7.png",
+         "site_url" : "https://moroni-radio-africa.webnode.com/",
+         "radio_url" : "https://stream.zeno.fm/ey4xepfss0quv",
+         "description" : "We are a Christian Radio broadcasting live Kenya"
+      },
+      {
+         "name" : "Chania FM",
+         "image" : "82105.v2.png",
+         "site_url" : "https://www.chaniafm.co.ke/",
+         "radio_url" : "https://servidor27.brlogic.com:8816/live",
+         "description" : "Chania FM, Kenya plays the best of pure country music."
+      },
+      {
+         "name" : "Adventist Angels Watchman Radio",
+         "image" : "81480.v2.png",
+         "site_url" : "https://adventistangelsradio.wixsite.com/adventistangelswatch",
+         "radio_url" : "https://streamingv2.shoutcast.com/adventist-angels-watchman-radio",
+         "description" : "Welcome to listening present truth, Join us for Christian songs 24 hours with liveshows"
+      },
+      {
+         "name" : "Radio Simba 91.3 FM",
+         "image" : "84415.v2.png",
+         "site_url" : "https://www.radiosimba.co.ke/",
+         "radio_url" : "https://stream.zeno.fm/7nukpsgq3bruv",
+         "description" : "Radio Simba 91.3 FM’ is a commercial Radio station based in Bungoma town, Western part of Kenya, went on air on 1st October 2018. Broadcasting Swahili, Radio Simba targets the largest population of people living in Counties found in Western, Nyanza and Rift valley who are mostly farmers and Business persons. The Radio Station broadcasts variety of programs that include updates, information, entertainment, educational matters, music etc"
+      },
+      {
+         "name" : "Mwaki FM",
+         "image" : "83640.v1.png",
+         "site_url" : "https://mwaki.co.ke/",
+         "radio_url" : "https://stream.zeno.fm/9x7dsdunknruv",
+         "description" : "MWAKI FM is a Kamba radio station owned by Balindiway Media.  Here, we play music that will relax your soul and make you forget your problem."
+      },
+      {
+         "name" : "Smash Jam Radio",
+         "image" : "84119.v2.png",
+         "site_url" : "https://www.smashjam.co.ke/",
+         "radio_url" : "https://stream.zeno.fm/c0258bn5mceuv",
+         "description" : "Your smashing hit music station"
+      },
+      {
+         "name" : "Manene Radio",
+         "image" : "80953.v3.png",
+         "site_url" : "http://www.maneneradio.com/",
+         "radio_url" : "https://servidor29-1.brlogic.com:8784/live",
+         "description" : "The goal of Manene Radio is to maintain traditional and ancestral knowledge of our elder generation. We also inform of current affairs related to the environment and other important matters to the community locally and internationally"
+      },
+      {
+         "name" : "Xpress Radio",
+         "image" : "85176.v5.png",
+         "site_url" : "https://xpressfm.co.ke/",
+         "radio_url" : "https://eu8.fastcast4u.com/proxy/patricks?mp=/1",
+         "description" : "Fast Growing internet Radio station in Kenya,Listen live anywhere,support us kindly"
+      },
+      {
+         "name" : "Classic 105",
+         "image" : "7188.png",
+         "site_url" : "http://classic105.com/",
+         "radio_url" : "http://streams.radioafricagroup.co.ke:88/broadwave.mp3?src=5&rate=1&kbps=128",
+         "description" : "Classic 105 is a broadcast radio station in Nairobi, Kenya, providing News and Talk shows combined with Classic Rock, Pop and R&B Hits music."
+      },
+      {
+         "name" : "Relax 103 Fm",
+         "image" : "79309.v15.png",
+         "site_url" : "https://relax103.com/",
+         "radio_url" : "https://c16.radioboss.fm:18098/stream",
+         "description" : "The bigger the hair, the bigger the hits, Relax 103 Fm"
+      },
+      {
+         "name" : "Jesus is Lord Radio",
+         "image" : "77895.v2.png",
+         "site_url" : "https://jesusislordradio.info/",
+         "radio_url" : "https://s3.radio.co/s97f38db97/listen",
+         "description" : "Your one and only end time radio station preparing the way for the Lord Jesus."
+      },
+      {
+         "name" : "Radio Jambo",
+         "image" : "7195.v2.png",
+         "site_url" : "https://radiojambo.co.ke/",
+         "radio_url" : "http://streams.radioafricagroup.co.ke:88/broadwave.mp3",
+         "description" : "Radio Jambo FM is a broadcast radio station from Nairobi, Kenya, providing Sports, Talk shows and African music."
+      },
+      {
+         "name" : "Kiss 100 Kenya",
+         "image" : "7175.png",
+         "site_url" : "https://kiss100.co.ke/",
+         "radio_url" : "http://streams.radioafricagroup.co.ke:88/broadwave.mp3?src=4&rate=1&kbps=128",
+         "description" : "KISS 100 FM is broadcast radio station in Nairobi, Kenya, providing Top 40 Adult Contemporary, Pop, Rock and Reggae music."
+      },
+      {
+         "name" : "Milele FM",
+         "image" : "7169.v6.png",
+         "site_url" : "http://www.mediamaxnetwork.co.ke/milele-radio/",
+         "radio_url" : "https://stream.zenolive.com/ur6rs3kqtceuv",
+         "description" : "Welcome to Milele FM,The home of African hits. The future inspires us. Milele, exists to inspire."
+      },
+      {
+         "name" : "NRG Radio",
+         "image" : "77349.v1.png",
+         "site_url" : "https://nrg.radio/",
+         "radio_url" : "http://net1.citrus3.com:8552/;stream.mp3?ver=753050",
+         "description" : "We are an Urban Contemporary Hit Radio Station broadcasting in Kenya’s Urban cities.We are a multi-platform entertainment experience that embraces digital technology."
+      },
+      {
+         "name" : "Campus Radio Kenya",
+         "image" : "72243.v7.png",
+         "site_url" : "https://www.campusradio.co.ke/",
+         "radio_url" : "https://stream.zeno.fm/9a87d8v1v8quv",
+         "description" : "Live it up"
+      },
+      {
+         "name" : "XFM Kenya",
+         "image" : "7284.v1.png",
+         "site_url" : "http://xfm.co.ke/",
+         "radio_url" : "http://streams.radioafricagroup.co.ke:88/broadwave.mp3?src=2&rate=1",
+         "description" : "105.5 XFM plays rock and alternative music 24/7 and targets an affluent and aspirational urban audience aged 18-45. XFM being a lifestyle station attracts a discerning listener who is well versed with leading trends in technology, current affairs, fashion and travel."
+      },
+      {
+         "name" : "Iganjo Fm",
+         "image" : "78004.v7.png",
+         "site_url" : "https://slopesmedia.co.ke/",
+         "radio_url" : "http://197.232.69.119:8000/stream",
+         "description" : "Iganjo Fm is a Kikuyu vernacular radio station connecting you with a gifted group of  radio presenters hosting shows and programs tailor-made to keep you entertained and well informed of stories making headlines"
+      },
+      {
+         "name" : "Radio Maria",
+         "image" : "7184.v6.png",
+         "site_url" : "http://www.radiomaria.co.ke/",
+         "radio_url" : "http://dreamsiteradiocp.com:8108/stream",
+         "description" : "Radio Maria Kenya FM 88.1 is a broadcast Radio station from Murang'a, Kenya, Provides Evangelical, Christian, Religious and Gospel programs. The main purpose is to teach the Word of God and make His love for humanity known to all."
+      },
+      {
+         "name" : "Lubao FM",
+         "image" : "74679.v9.png",
+         "site_url" : "http://www.lubaofm.co.ke/",
+         "radio_url" : "http://41.90.240.222:88/broadwave.mp3",
+         "description" : "Lubao FM 102.2  Uniting Communities"
+      },
+      {
+         "name" : "Need RadioKe",
+         "image" : "76909.v3.png",
+         "site_url" : "http://www.needradio.co.ke/",
+         "radio_url" : "http://needradioke.out.airtime.pro:8000/needradioke_a",
+         "description" : "Best Radio in town. Playing you only the best hits worldwide and a roaster of the best shows, latest and most entertaining news on the internet."
+      },
+      {
+         "name" : "Radio Bomoko",
+         "image" : "73863.v4.png",
+         "site_url" : "http://bomokomedia.cf/",
+         "radio_url" : "http://stream.streamaudio.de:8000/radio-bomoko",
+         "description" : "The House of Rhumba and Afro hits!"
+      },
+      {
+         "name" : "North Rift Radio",
+         "image" : "78759.v2.png",
+         "site_url" : "https://www.northriftradio.co.ke/",
+         "radio_url" : "http://162.244.80.106:10920/;stream.nsv",
+         "description" : "Broadcasting from North Rift region of Kenya, North Rift Radio airs contemporary content including news, live events, captivating and entertaining programming to listeners all over the world"
+      },
+      {
+         "name" : "LionafriQ Radio",
+         "image" : "78827.v3.png",
+         "site_url" : "https://lionafriqradio.com/",
+         "radio_url" : "http://51.68.155.17:8174/stream",
+         "description" : "Kenya's online Electronic Music Radio. Best of House, Trance, Dubstep, Chillstep and EDM. All day, everyday!"
+      },
+      {
+         "name" : "Taboiyat FM",
+         "image" : "73829.v4.png",
+         "site_url" : "https://www.taboiyatfm.co.ke/",
+         "radio_url" : "http://162.244.80.118:9180/stream",
+         "description" : "For the best fresh , objective ,News, sports, business updates  and entertaining shows , Taboiyat Fm is the place to  be. Karibu nyumbani, Taboiyat Fm  'Kibagenge ko komnot'."
+      },
+      {
+         "name" : "Elwai Centre",
+         "image" : "81691.v4.png",
+         "site_url" : "https://www.internet-radio.com/station/elwaisuswa/",
+         "radio_url" : "http://uk3.internet-radio.com:8151/live",
+         "description" : "We play your best Afro soul, pop and house plus your all time Soul favourites. Music that inspired the new generation of African Music"
+      },
+      {
+         "name" : "Pamoja FM",
+         "image" : "7283.v1.png",
+         "site_url" : "http://www.pamojafmradio.com/",
+         "radio_url" : "http://41.212.105.132:90/broadwave.mp3",
+         "description" : "Pamoja FM 99.9 is a broadcast radio station from Kibera, Kenya, station empowers youth of Kibera and its environs through education & infotainment."
+      },
+      {
+         "name" : "Salaam FM",
+         "image" : "7340.v1.png",
+         "site_url" : "http://www.salaamfm.com/",
+         "radio_url" : "http://radio.securenetsystems.net/v4/index.cfm?stationCallSign=90.7;stream.nsv;stream.nsv;stream.nsv",
+         "description" : "Radio Salaam is a broadcast radio station in Mombasa, Kenya, providing News, Sports, Information and Islamic Talk shows on a variety of frequencies throughout Kenya."
+      },
+      {
+         "name" : "Metro Radio",
+         "image" : "80720.v8.png",
+         "site_url" : "https://zeno.fm/darasaradio",
+         "radio_url" : "https://stream.zenolive.com/2g28317yr5quv",
+         "description" : "Metro Radio plays today’s biggest hits and at the same time the hits of yesterday’s. It’s a complete package for those listeners who have already got bored by searching a radio that plays today’s big hit tracks in music. Once you tune in to Darasa Online Radio you will just have the kind of chill you will remember for a very long time."
+      },
+      {
+         "name" : "ATG Radio",
+         "image" : "7339.png",
+         "site_url" : "http://www.atgdeliveranceministry.com/",
+         "radio_url" : "http://uk1-vn.mixstream.net:10024/;",
+         "description" : "ATG Radio 91.1 is a broadcast radio station from Nairobi, Kenya, providing Christian, religious, motivational talk and gospel programs."
+      },
+      {
+         "name" : "Rubega Radio",
+         "image" : "75114.v4.png",
+         "site_url" : "https://rubegaradio.com/",
+         "radio_url" : "http://178.62.25.40:9302/stream.mp3",
+         "description" : "Rubega Radio is a Live East African Urban Contemporary Music Radio. You can listen online to your favorite East African Music 24/7 from all over the world using 3G, 4G au Wi-Fi internet.The Best Choice of Radio to listen to  East African Music & the world."
+      },
+      {
+         "name" : "LoudTown Radio",
+         "image" : "7199.png",
+         "site_url" : "http://loudtownradio.co.ke/",
+         "radio_url" : "http://hummingraphix.net:8000/live",
+         "description" : "The broadcast station, which plays a great variety of hit songs from the 60s to curr"
+      },
+      {
+         "name" : "My Radio Kenya",
+         "image" : "7191.v1.png",
+         "site_url" : "http://www.myradio.co.ke/",
+         "radio_url" : "http://s5.voscast.com:7226/;",
+         "description" : "My Radio Kenya! is an internet radio station from Nairobi, Kenya providing Top 40 Hits, Hip-Hop, R&B and Urban African from the 90's till Today!"
+      },
+      {
+         "name" : "Bikapkoret Radio",
+         "image" : "7198.png",
+         "site_url" : "http://www.bkfmradio.com/",
+         "radio_url" : "http://184.154.202.243:8080/live",
+         "description" : "A global radio station that informs, educates, entertains and unites."
+      },
+      {
+         "name" : "UPLiFT Radio",
+         "image" : "74862.v5.png",
+         "site_url" : "http://deltamedia.cf/",
+         "radio_url" : "http://192.154.248.74:8098/stream",
+         "description" : "Uplifting Souls to Destiny."
+      },
+      {
+         "name" : "Radio Organix",
+         "image" : "7200.png",
+         "site_url" : "http://www.radioorganix.com/",
+         "radio_url" : "http://www.radioorganix.com/",
+         "description" : "The radio station, which plays cherry-picked selection of Jazz, Hip-hop, Soul and African music."
+      }
+   ]
+}

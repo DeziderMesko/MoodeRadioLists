@@ -1,0 +1,1474 @@
+{
+   "za" : [
+      {
+         "name" : "Jacaranda FM",
+         "image" : "278.v1.png",
+         "site_url" : "http://www.jacarandafm.com/",
+         "radio_url" : "https://edge.iono.fm/xice/jacarandafm_live_medium.aac",
+         "description" : "Jacaranda FM is the biggest independent radio station in South Africa. It broadcasts in a 24/7 mode in both English and Afrikaans. This is the most popular radio station among Afrikaans-speaking listeners and according to some sources its audience reaches approximately 2Mio people a week. Jacaranda FM radio station is owned by Kagiso Media (SA’s media company) and operates from its main studio in Midrand near Johannesburg. But it also has a secondary studio in Johannesburg."
+      },
+      {
+         "name" : "Groot FM",
+         "image" : "871.v1.png",
+         "site_url" : "http://www.grootfm.co.za/",
+         "radio_url" : "http://zas6.ndx.co.za:11000/;?",
+         "description" : "Groot FM is a local community radio station based in Pretoria, South Africa and managed by Media Management Solutions. Formerly known as Radio Rippel, this radio station was re-launched in August 2013 under the name Groot FM on 90.5 FM frequencies. Like many South African radio stations they have no English-speaking version of their website. The language of their current official website is Afrikaans. And so is their broadcasting language."
+      },
+      {
+         "name" : "Bok Radio",
+         "image" : "867.v1.png",
+         "site_url" : "http://www.bokradio.co.za/",
+         "radio_url" : "http://radiostream.co.za:9104/;",
+         "description" : "Bok Radio 98.9 FM is a commercial private radio station in South Africa. It broadcasts from Cape Town 24/7 in Afrikaans. This radio station is dedicated to local community so much that they even have no English-speaking version on their website. They gained popularity in South Africa by delivering professional content to their audience."
+      },
+      {
+         "name" : "LM Radio",
+         "image" : "13451.v2.png",
+         "site_url" : "http://lmradio.net/",
+         "radio_url" : "https://streaming.fabrik.fm/lm-radio/echocast/audio/medium/index.m3u8",
+         "description" : "LM Radio is your happy music station, playing your lifetime memories all day everyday! Relax and enjoy your lifetime memories with a broad range of music from the 50s, 60s, 70s and 80s together with a blend of modern day music in the same style and flavour."
+      },
+      {
+         "name" : "IFM",
+         "image" : "855.v1.png",
+         "site_url" : "http://ifmradio.co.za/",
+         "radio_url" : "http://s7.voscast.com:9538/;stream1529424118219/1",
+         "description" : "The Vaal Triangle's Preferred Choice!"
+      },
+      {
+         "name" : "Smile",
+         "image" : "864.v3.png",
+         "site_url" : "http://www.smile904.fm/",
+         "radio_url" : "https://streaming.fabrik.fm/smile/echocast/audio/index.m3u8",
+         "description" : "Smile 90.4FM is a bilingual radio station that offers entertainment, information and inspiration to the Metropolitan audience of Cape Town."
+      },
+      {
+         "name" : "947",
+         "image" : "11380.v4.png",
+         "site_url" : "http://www.947.co.za/",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/FM947_SC",
+         "description" : "947 (formerly 94.7 Highveld Stereo) is a radio station that broadcasts on the 94.7 FM frequency from Johannesburg, Gauteng, South Africa."
+      },
+      {
+         "name" : "East Coast Radio",
+         "image" : "268.v2.png",
+         "site_url" : "http://www.ecr.co.za/",
+         "radio_url" : "https://edge.iono.fm/xice/ecr_live_medium.aac",
+         "description" : "With over 1.6 million listeners in KZN, East Coast Radio truly is the province's leading commercial music station."
+      },
+      {
+         "name" : "Fine Music Radio",
+         "image" : "1064.v2.png",
+         "site_url" : "http://www.fmr.co.za/",
+         "radio_url" : "https://edge.iono.fm/xice/fmr_live_medium.aac",
+         "description" : "Fine Music Radio 101.3 is a Cape Town based community radio station, focusing on classical and jazz music."
+      },
+      {
+         "name" : "OFM",
+         "image" : "272.v1.png",
+         "site_url" : "http://www.ofm.co.za/",
+         "radio_url" : "https://edge.iono.fm/xice/ofm_live_high.aac",
+         "description" : "OFM is central South Africa's number 1 commercial radio station broadcasting to the Free State, Northern Cape, North West and southern Gauteng."
+      },
+      {
+         "name" : "Mix FM",
+         "image" : "267.v1.png",
+         "site_url" : "http://mixfm.co.za/",
+         "radio_url" : "http://50.7.77.114:8007/;",
+         "description" : "Mix 93.8 Fm is a community radio station which seeks to entertain, inspire and inform."
+      },
+      {
+         "name" : "Housefrequency",
+         "image" : "12109.png",
+         "site_url" : "http://housefrequency.net/",
+         "radio_url" : "http://176.31.107.8:8818/stream/1/",
+         "description" : "JohannesburgSouth AfricaEnglishDeep HouseHouseWorldLoungeMusicFormat: MP3  Stream 128  kbps"
+      },
+      {
+         "name" : "Pretoria FM",
+         "image" : "11485.v1.png",
+         "site_url" : "http://www.pretoriafm.co.za/",
+         "radio_url" : "https://capeant.antfarm.co.za/pretoriafm/pretoriafm.stream/playlist.m3u8",
+         "description" : "Radio Pretoria is a broadcast radio station in Pretoria, South Africa, providing Community News and Cultural programming as a broadcast support system for African farmers on a variety of frequencies throughout South Africa."
+      },
+      {
+         "name" : "Kfm",
+         "image" : "11680.v7.png",
+         "site_url" : "http://www.kfm.co.za/",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/KFM.mp3",
+         "description" : "Kfm 94.5 is where the people of the Western Cape are at home. We play the most music across your day to feel great!"
+      },
+      {
+         "name" : "Radio Pulpit",
+         "image" : "861.v3.png",
+         "site_url" : "http://www.radiopulpit.co.za/",
+         "radio_url" : "https://albert.antfarm.co.za/radiopulpit/radiopulpit.stream/playlist.m3u8",
+         "description" : "Radio Pulpit 657AM has been the daily companion of listeners for more than three decades. We praise God with all our heart with relevant and current talk radio. You can trust us. We deliver a clear Christian message because we are a Christian radio station, inspired by Christian values."
+      },
+      {
+         "name" : "Radio Tygerberg",
+         "image" : "870.v2.png",
+         "site_url" : "http://www.radiotygerberg.co.za/",
+         "radio_url" : "http://zas6.ndx.co.za:8007/stream",
+         "description" : "Tygerberg 104 FM is the largest Christian community radio station in South Africa. It was established in 1993 in Tygerberg and gradually grew and became popular in this region. Due to its religious nature this radio station is quite conservative and supports traditional values."
+      },
+      {
+         "name" : "Lekker FM",
+         "image" : "12068.png",
+         "site_url" : "http://lekkerfm.com/",
+         "radio_url" : "http://zas3.ndx.co.za:8000/stream/",
+         "description" : "LEKKER FM 91.9 is jou nommer een radio stasie in Pretoria en omgewing, maar ook wêreldwyd vir die duisende Suid-Afrikaners wat uit ons pragtige land geëmigreer het en steeds alles wat LEKKER Afrikaans en LEKKER bekend is wil ervaar."
+      },
+      {
+         "name" : "Hillbrow Radio",
+         "image" : "853.v2.png",
+         "site_url" : "http://www.hillbrowradio.co.za/",
+         "radio_url" : "https://streaming.radio.co/s3e7ee29da/listen",
+         "description" : "It is the mission of Hillbrow Radio Station to provide a community-based, non-commercial radio service for the people living in the areas covered by the station's signal, to broadcast programs designed to serve the needs of those not currently served by other broadcast media."
+      },
+      {
+         "name" : "East Rand Stereo",
+         "image" : "850.v2.png",
+         "site_url" : "http://www.939.co.za/",
+         "radio_url" : "http://listenlive-c2d15.ndstream.net:80/;stream.nsv",
+         "description" : "East Rand Stereo is a radio station with community interest that broadcasts in English and Afrikaans from studios in Springs, as well as two satellite studios, one in the Mall@Carnival in Brakpan and the other in Emperors Palace in Kempton Park."
+      },
+      {
+         "name" : "Bush Radio 89.5 FM",
+         "image" : "848.v2.png",
+         "site_url" : "http://www.bushradio.co.za/",
+         "radio_url" : "http://zas4.ndx.co.za/proxy/bushradio?mp=/stream",
+         "description" : "Africa's pioneering community radio station - uniting the diverse communities of the Western Cape through media; ranging from music to talk and a cross of both. Unique and interesting radio and definitely not a juke-box, 89.5fm, the home of dynamic radio."
+      },
+      {
+         "name" : "Skatkis Stereo",
+         "image" : "12115.png",
+         "site_url" : "http://www.skatkisstereo.co.za/",
+         "radio_url" : "http://64.150.176.42:8122/stream?1482659282176.mp3",
+         "description" : "Golden oldies en afrikaans. De Aar, South Africa"
+      },
+      {
+         "name" : "All-Time Radio",
+         "image" : "1318.v1.png",
+         "site_url" : "http://all-timeradio.com/",
+         "radio_url" : "http://stream.radiojar.com/4kyfrywrcewtv",
+         "description" : "Playing all of your hits, all of the time."
+      },
+      {
+         "name" : "PubRocK Radio",
+         "image" : "858.png",
+         "site_url" : "http://www.pubrock.co.za/",
+         "radio_url" : "http://usa14.fastcast4u.com:5072/;stream.nsv",
+         "description" : "PubRock Radio broadcasts LIVE, 24/7 from Cape Town, South Africa. We play Alternative Rock, Grunge, Metal and Indie music from Local and International artists, keeping our playilist updated with the latest songs as they are released, while also remembering yesterdays' classics."
+      },
+      {
+         "name" : "Vuma FM",
+         "image" : "265.png",
+         "site_url" : "http://www.vumafm.co.za/",
+         "radio_url" : "https://edge.iono.fm/xice/77_medium.aac",
+         "description" : "Vuma FM 103.0 is an Isizulu Inspirational Lifestyle commercial radio station in KwaZulu-Natal, South Africa. Its programs includes Lifeystyle, News, Current Affairs, Events and Radioshows, and is inspired by community involvement."
+      },
+      {
+         "name" : "Tuks FM",
+         "image" : "270.v3.png",
+         "site_url" : "http://www.tuksfm.co.za/",
+         "radio_url" : "https://edge.iono.fm/xice/tuksfm_live_medium.aac",
+         "description" : "Tuks FM is a broadcast radio station in Hatfield, South Africa, providing Active Rock and Classic Rock music from the University of Pretoria, South Africa."
+      },
+      {
+         "name" : "Radio Joyful FM",
+         "image" : "62812.v5.png",
+         "site_url" : "https://joyfulfmradio.wordpress.com/",
+         "radio_url" : "http://eu3.radioboss.fm:8063/stream",
+         "description" : "Christian Radio - Proclaiming the Living Word to a dying world. Playing the best of today's and yesterday's Gospel hits. Good Music and Good News all day!"
+      },
+      {
+         "name" : "Durban Youth Radio",
+         "image" : "20095.v3.png",
+         "site_url" : "http://dyr1051.co.za/",
+         "radio_url" : "http://zas4.ndx.co.za/proxy/dyr?mp=/stream",
+         "description" : "Durban Youth Radio 105.1FM DYR - We Rock The City"
+      },
+      {
+         "name" : "New Vision Radio",
+         "image" : "59610.v3.png",
+         "site_url" : "http://www.newvisionradio.co.za/",
+         "radio_url" : "http://sv1.famcast.co.za/nvr",
+         "description" : "New Vision Radio is an online radio (accessible internationally) that has a target market of individuals aged 18-59. The station broadcasts both music and talk. Broadcasting in English 24 hours a day, 7 days a week."
+      },
+      {
+         "name" : "Magic 828 AM",
+         "image" : "32467.v1.png",
+         "site_url" : "http://magic828.co.za/",
+         "radio_url" : "http://zas3.ndx.co.za/proxy/magic828am?mp=/stream",
+         "description" : "Cape based, Cape owned, independent embodiment of all that is memorable in music. Magic 828am plays more than your music; Magic 828am is playing your life."
+      },
+      {
+         "name" : "Impala Radio",
+         "image" : "46085.v2.png",
+         "site_url" : "http://www.impalaradio.net/",
+         "radio_url" : "http://stream.sonixcast.com:9004/listen.mp3",
+         "description" : "We are playing 'golden oldies' 24/7 and include anAfrikaans song every now and then, especially for our South Africanlisteners!"
+      },
+      {
+         "name" : "SFM 90.1",
+         "image" : "863.v2.png",
+         "site_url" : "http://www.sfmstreek.co.za/",
+         "radio_url" : "http://capeant.antfarm.co.za:8000/SFM",
+         "description" : "SFM - Joù Streek Radiostasie! - Vanaf Stilbaai tot Plettenbergbaai en die Karoo - net die beste Afrikaanse musiek en praatjies. Ateljees geleë te George, Hartenbos en Oudtshoorn 24/7 om jou te bekoor."
+      },
+      {
+         "name" : "Treffers Radio",
+         "image" : "46267.v2.png",
+         "site_url" : "http://www.treffers-radio.com/",
+         "radio_url" : "https://stream.radiojar.com/pm9ehnq2v8quv",
+         "description" : "Young professional Internet radio station , Keeping you entertain with the best music 24/7. Broadcasting from South Africa and The Netherlands"
+      },
+      {
+         "name" : "CCFm",
+         "image" : "279.v2.png",
+         "site_url" : "http://www.ccfm.org.za/",
+         "radio_url" : "https://edge.iono.fm/xice/69_medium.aac",
+         "description" : "CCFM (Cape Community FM) is a 24-hour, non-profit, community radio station serving the people of Cape Town. We play a mix of contemporary Christian music, combined with compelling chat, views and interviews."
+      },
+      {
+         "name" : "Kaya FM",
+         "image" : "61634.v2.png",
+         "site_url" : "http://www.kayafm.co.za/",
+         "radio_url" : "https://edge.iono.fm/xhls/82_medium.m3u8",
+         "description" : "Kaya FM Live Streaming Online from South Africa  . Enjoy Listening over 70 South Africa radio stations freely online . Listen to South African Music News 24 by 7 Online . This station reflects the lives of the predominantly black, urban listener between the ages 25 – 49 living in Gauteng. KAYA FM 95.9 broadcasts both music and talk in English on the FM frequency signal 95.9 24 by 7 seven days a week.  It has over 561,000 listeners per average day and 1,353,000 per week."
+      },
+      {
+         "name" : "Waterberg Stereo",
+         "image" : "883.v1.png",
+         "site_url" : "http://www.waterbergstereo.co.za/",
+         "radio_url" : "http://109.123.116.202:8048/;",
+         "description" : "Listen online to WATERBERG STEREO 104.9 in Thabazimbi, South Africa."
+      },
+      {
+         "name" : "Boervolk Radio",
+         "image" : "12056.v2.png",
+         "site_url" : "http://www.boervolkradio.co.za/",
+         "radio_url" : "http://109.123.116.202:8018/;stream.mp3",
+         "description" : "Boervolk Radio is a local radio station broadcasting from Kempton Park in South Africa.South AfricaAfrikaans"
+      },
+      {
+         "name" : "702 Talk Radio",
+         "image" : "11401.v4.png",
+         "site_url" : "http://www.702.co.za/",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_SC",
+         "description" : "A respected platform for spirited conversations, 702 channels give you an opportunity to speak your mind, and in turn, potentially open minds. Listen on 92.7FM in Joburg or 106FM in Pretoria"
+      },
+      {
+         "name" : "CapeTalk",
+         "image" : "11382.v2.png",
+         "site_url" : "http://capetalk.co.za/",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPE_TALK.mp3",
+         "description" : "CapeTalk is Cape Town's talk station covering the stories that the Mother City is talking about. The subjects might be about the City, the country or global news, but they are chosen because they will be relevant to you. It's your talk station and for us to reflect Cape Town talking we need to hear from you. The lines are always open 021 446 0567 or sms 31567 (standard sms rates apply)"
+      },
+      {
+         "name" : "Rainbow FM",
+         "image" : "271.png",
+         "site_url" : "http://www.rainbowfm.co.za/",
+         "radio_url" : "http://listenlive-c2d2.ndstream.net/;",
+         "description" : "Rainbow FM is a broadcast radio station from Johannesburg, South Africa, providing Christian music and program."
+      },
+      {
+         "name" : "Radio Disa",
+         "image" : "860.png",
+         "site_url" : "http://www.radiodisa.com/",
+         "radio_url" : "http://85.25.250.156/;stream.nsv",
+         "description" : "Radio Disa will strive to reconcile our broken and diverse South African rainbow nation and the rest of the world through the message of salvation and the teachings of Christ, the prince of peace and restorer of broken families and communities."
+      },
+      {
+         "name" : "Voice of the Cape",
+         "image" : "269.v1.png",
+         "site_url" : "http://www.vocfm.co.za/",
+         "radio_url" : "http://85.25.164.44/;listen.mp3?1496824106956.mp3",
+         "description" : "Voice of the Cape Radio (VOC Radio) is a broadcast radio station in Cape Town, South Africa, providing Islamic Education, News and Talk."
+      },
+      {
+         "name" : "Radio Hartklop",
+         "image" : "7106.png",
+         "site_url" : "http://www.radiohartklop.com/",
+         "radio_url" : "http://146.185.18.251:8041/stream",
+         "description" : "Internet Gospel Music and Talk radio station playing exclusively Afrikaans Gospel Music and Christian talk radio"
+      },
+      {
+         "name" : "Mmabatho FM",
+         "image" : "11905.png",
+         "site_url" : "http://mmabathofm.com/",
+         "radio_url" : "http://144.217.195.24:9431/;",
+         "description" : "Number 1 Gospel music radio station in Mmabatho.Home of Gospel"
+      },
+      {
+         "name" : "Heart FM",
+         "image" : "61631.v9.png",
+         "site_url" : "http://www.1049.fm/",
+         "radio_url" : "http://capeant.antfarm.co.za:8000/HeartFM",
+         "description" : "Broadcasting to Cape Town’s metropole and surrounding areas, Heart 104.9FM taps into the sexy, sassy, sussed and sincere heart of the city, giving it a genuine Cape Town feel. It is the smartest way to talk to Capetonians, offering affordability and fantastic return on investment."
+      },
+      {
+         "name" : "Rainbow Gospel Radio",
+         "image" : "3479.v1.png",
+         "site_url" : "http://www.rainbowgr.com/",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM08AAC047.mp3",
+         "description" : "Our goal is to reach every nation, every city, every day with the gospel of Jesus Christ"
+      },
+      {
+         "name" : "Vibe FM",
+         "image" : "11883.v1.png",
+         "site_url" : "http://www.vibe947fm.co.za/",
+         "radio_url" : "http://zas3.ndx.co.za/proxy/vibefm?mp=/stream",
+         "description" : "VIBE FM 94.7 is a broadcast Radio station from Durban, South Africa, providing thought provoking content in topic discussions, educational talk oriented content and the station has top presenters for on-air.live"
+      },
+      {
+         "name" : "Wild Coast FM",
+         "image" : "11782.png",
+         "site_url" : "http://www.wildcoastfm.co.za/",
+         "radio_url" : "http://91.109.4.193:8010/;",
+         "description" : "Wild Coast FM is a Community Radio Station and a registered Non Profit Organisation. The Programme will be a wide range of music with news, talk and interest slots catering for the diverse interests found along the East London East Coast going towards the Wild Coast."
+      },
+      {
+         "name" : "Knysna FM",
+         "image" : "875.png",
+         "site_url" : "http://knysnafm.co.za/",
+         "radio_url" : "http://142.4.217.133:8597/stream",
+         "description" : "Knysna FM is Knysna's own commercial radio station, broadcasting 24 hours a day, 7 days a week from the heart of Knysna on 97.0FM and worldwide on the internet"
+      },
+      {
+         "name" : "Radio Helderberg",
+         "image" : "11681.v1.png",
+         "site_url" : "http://radiohelderberg.co.za/",
+         "radio_url" : "https://helderberg.highquality.radiostream.co.za/",
+         "description" : "Radio Helderberg 93.6fm is a community radio station based in the Somerset West area. Radio Helderberg broadcasts a mix of talk and popular music bound together with the aim of uplifting the Helderberg community."
+      },
+      {
+         "name" : "All Jazz Radio ZA",
+         "image" : "12053.png",
+         "site_url" : "http://www.alljazzradio.co.za/",
+         "radio_url" : "http://zas3.ndx.co.za/proxy/alljazzradio?mp=/stream&1548371032240",
+         "description" : "All JazzRadio is where Jazz, Blues & World Latin music lovers of South Africa, Africa & the World meet to share in a common social interest and lifestyle on the World Wide Web, streaming daily from the Jazz Capitol of Africa, The Mother City, Cape Town"
+      },
+      {
+         "name" : "Good News Community Radio",
+         "image" : "11833.v1.png",
+         "site_url" : "http://www.gncr.org.za/",
+         "radio_url" : "http://core2.netdynamix.co.za:8880/;stream.nsv",
+         "description" : "Listen online to Good News Community Radio in South Africa."
+      },
+      {
+         "name" : "TruLight Radio XM",
+         "image" : "10735.v7.png",
+         "site_url" : "http://trulightradioxm.org.za/",
+         "radio_url" : "http://46.105.122.141:9438/;listen.mp3",
+         "description" : "TruLight Radio is on its 4th Year of Broadcast – and our Mission is Still – Being the End Time Radio to the World! Our Vision for our 2nd Year is “Plunder Hell, Populate Heaven!” We are currently Broadcasting on a Shoutcast Server from5;30 am – 10 pm Everyday. 7 Days a Week , a Gospel Christian Radio Services broadcasting from South Africa to the World!"
+      },
+      {
+         "name" : "70vibe-FM",
+         "image" : "7164.v1.png",
+         "site_url" : "http://70vibe-fm.com/",
+         "radio_url" : "http://mark713.serverroom.net:9516/;stream.nsv",
+         "description" : "70vibe-FM is proudly broadcasting from West Beach in the mother City of Cape Town, South Africa. We are primarily composed of voluntary music enthusiasts with a mission to keep the seventies musical artistry alive, remembering and featuring most of the music that was published in the seventies. Our playlists include all genres, may it be funk, disco, punk, pop, progressive or psychedelic rock, Jazz, country, folk, which many performing artists and groups were known for in this era."
+      },
+      {
+         "name" : "Radio NFM",
+         "image" : "11906.v1.png",
+         "site_url" : "http://www.radionfm.co.za/",
+         "radio_url" : "http://188.138.93.53/;",
+         "description" : "Radio Nfm is a community radio station in the heart of Namaqualand. Radio Nfm seeks to empower the Namaqua People through electronic media.The Voice of the Namaqua People"
+      },
+      {
+         "name" : "UB FM LIVE",
+         "image" : "64244.v7.png",
+         "site_url" : "http://ubfmlive.net/",
+         "radio_url" : "http://antenna.hero24.org:8000/ubfmlive",
+         "description" : "UB FM Live (Ubuthebe FM LIVE) is a online Commercial Radio Station based in Nelspruit, South Africa, ... in the Greater Mbombela Municipality Area as well as worldwide via Web streaming."
+      },
+      {
+         "name" : "Overvaal Stereo",
+         "image" : "885.png",
+         "site_url" : "http://www.overvaalstereo.co.za/",
+         "radio_url" : "http://overvaal.serverroom.us:5806/;",
+         "description" : "Ons doen dit deur radioprogramme aan te bied wat gerig is op die Christen-Afrikaner. Ons skep geleenthede vir die mense om self te deel in die programme en sodoende die kultuur, godsdiens en taal lewend te hou."
+      },
+      {
+         "name" : "BayFM",
+         "image" : "266.png",
+         "site_url" : "http://site.bayfm.co.za/",
+         "radio_url" : "http://85.25.18.48:80/;stream.nsv",
+         "description" : "BayFM 107.9 is a community radion station based in the friendly city of Port Elizabeth in the Eastern Cape. We broadcast in three languages, English, Afrikaans and Xhosa."
+      },
+      {
+         "name" : "Zone Radio",
+         "image" : "11192.v1.png",
+         "site_url" : "http://www.zoneradio.co.za/",
+         "radio_url" : "http://zas4.ndx.co.za/proxy/zoneradio?mp=/stream",
+         "description" : "We will playlist the kind of adult contemporary music that is absent from existing radio stations in South Africa."
+      },
+      {
+         "name" : "Kofifi FM 97.2",
+         "image" : "9982.v8.png",
+         "site_url" : "http://www.kofififm.org.za/",
+         "radio_url" : "http://kofifi.infoview.tv:8000/kofifi",
+         "description" : "Kofifi FM is a community radio station based in the West Rand, Johannesburg. Broadcasting over a 100 km radius. It targets youth and adults between the ages of 16 and 59 within LSM 4 - 8, in around the areas such as the West Rand, Lenasia, Soweto, Krugersdorp, Potchefstroom and Pretoria."
+      },
+      {
+         "name" : "PE FM",
+         "image" : "11741.png",
+         "site_url" : "http://www.pefmradio.com/",
+         "radio_url" : "http://85.25.164.50:443/;",
+         "description" : "PE FM 87.6 is a broadcast Radio station from Port Elizabeth, South Africa. Under the careful direction of station manager Ronnie Johnson,who hails from Johannesburg and has extensive experience in running a Christian radio station, on air content is planned to offer listeners informative,fun and non judgmental"
+      },
+      {
+         "name" : "Nkomazi FM",
+         "image" : "11902.v10.png",
+         "site_url" : "http://nkomazifm.ndstream.net/",
+         "radio_url" : "http://80.86.80.200:443/;",
+         "description" : "Live Radio and Community Broadcasting Station.Nkomazi's Very First Hottest Community Radio Station."
+      },
+      {
+         "name" : "Voice of Thembisa",
+         "image" : "11804.v3.png",
+         "site_url" : "http://www.voiceoftembisafm.co.za/",
+         "radio_url" : "http://zas2.ndx.co.za/proxy/voiceoftembisa?mp=/stream?1495048455865.aac",
+         "description" : "Your Voice that opens the mind of the nation. Tembisa Community Radio. To offer educational and entertaining programmes, Community Sound Broadcasting services, ethical and high quality information thus deepening Skills Development a long term value for the Community."
+      },
+      {
+         "name" : "Perron FM",
+         "image" : "11976.png",
+         "site_url" : "http://perronfm.co.za/radio/",
+         "radio_url" : "http://zas4.ndx.co.za:9000/;",
+         "description" : "WELCOME TO THE MUSIC BREWERY!PerronFM 95.2 is the latest Radio Station on the West Coast and Swartland! We are based in Darling, 22km from the Atlantic Ocean."
+      },
+      {
+         "name" : "Dexterity Radio",
+         "image" : "12072.png",
+         "site_url" : "http://www.dexterityradio.co.za/",
+         "radio_url" : "http://s10.voscast.com:7814/;485918621256417stream.nsv",
+         "description" : "Dexterity Radio aims to bring you good music & thought provoking talks and entertainment each day, from their base in Johannesburg, SA.JohannesburgSouth AfricaEnglishNewsTalkHitsMusicNews and TalkFormat: MP3  Stream 128  kbps"
+      },
+      {
+         "name" : "Sirius FM",
+         "image" : "11807.v1.png",
+         "site_url" : "http://www.siriusfm.net/",
+         "radio_url" : "http://s8.voscast.com:7112/;",
+         "description" : "Sirius FM provides hot new Islamic audio from all around the globe. A full mix of the best in English lectures, Urdu Naath and Nazms, Arabic and English Anasheed. We are highly selective, playing only the best."
+      },
+      {
+         "name" : "93.4 FM Radio Namakwaland",
+         "image" : "880.png",
+         "site_url" : "http://www.934fm.co.za/",
+         "radio_url" : "http://zas2.ndx.co.za/proxy/radionamakwaland?mp=/stream",
+         "description" : "Ons wil ‘n verskil maak deur hierdie Godgegewe medium ten beste te benut om die Evangelie van Jesus Christus in al sy konsekwensies eerlik en suiwer te bedien aan al die mense van Namakwaland. Ons wil dit op so ‘n manier doen dat die eenheid van die gelowiges gedien word en uitvoering gegee word aan die Sendingopdrag van Mattheus 28: 18 – 20."
+      },
+      {
+         "name" : "Taxi Radio",
+         "image" : "11999.png",
+         "site_url" : "http://www.thetaxi.co.za/",
+         "radio_url" : "http://85.25.164.38/;stream.nsv",
+         "description" : "Taxi Radio is an internet radio station from Cape Town, South Africa, providing African Variety music.The mouthpiece of an online community engaging Cape Town with the world and the world with Cape Town. Fuelled by Paul Bothner Music, empowered by Shado."
+      },
+      {
+         "name" : "Aganang FM",
+         "image" : "11912.v1.png",
+         "site_url" : "http://www.aganangfm.org.za/",
+         "radio_url" : "http://s32.myradiostream.com:9542/;?1437447817312.mp3/;",
+         "description" : "Aganang FM is a South African community radio station based in the North West."
+      },
+      {
+         "name" : "Radio Veritas",
+         "image" : "280.png",
+         "site_url" : "http://www.radioveritas.co.za/",
+         "radio_url" : "http://listenlive-c2p1.ndstream.net:8030/;stream.nsv",
+         "description" : "The vision of Radio Veritas is to be a self-supporting Catholic radio station that entertains, informs, educates and inspires its audience as a national satellite and terrestrial broadcaster."
+      },
+      {
+         "name" : "TWR Africa",
+         "image" : "865.v1.png",
+         "site_url" : "http://twr.org.za/",
+         "radio_url" : "http://capeant.antfarm.co.za:8000/TWR",
+         "description" : "Together with international partners, local churches and other ministries, TWR provides relevant programming, discipleship resources and dedicated workers to spread hope to individuals and communities around the globe."
+      },
+      {
+         "name" : "Springbok Radio",
+         "image" : "61642.v5.png",
+         "site_url" : "http://www.sabc.co.za/wps/portal/SABC/springbok",
+         "radio_url" : "http://web.sabc.co.za/digital/player/1.0/springbok/index.html",
+         "description" : "Springbok Radio was the first commercial radio station of the SABC, and existed from 1 May 1950 to 31 December 1985, when it was closed mainly because it was not seen as financially viable any longer due to the arrival of television in 1976."
+      },
+      {
+         "name" : "Venrap Radio",
+         "image" : "11706.v1.png",
+         "site_url" : "http://www.venrap.co.za/Radio/",
+         "radio_url" : "https://stream.zeno.fm/gfq7k2nec4duv",
+         "description" : "2015 South African hip-hop awards winner fr best hip-hop radio show"
+      },
+      {
+         "name" : "Radio Islam",
+         "image" : "11797.v3.png",
+         "site_url" : "http://www.radioislam.org.za/",
+         "radio_url" : "http://listenstream.com:8000/;",
+         "description" : "Radio Islam is an internet radio station from Johannesburg, South Africa, providing Islamic Education, News and Entertainment. Radio Islam aims to promote the message of Islam with Islamic values as a tool to dispel misconceptions relating to Islam and Muslims in South Africa and abroad."
+      },
+      {
+         "name" : "Radio Overberg",
+         "image" : "879.png",
+         "site_url" : "http://www.radiooverberg.co.za/",
+         "radio_url" : "http://85.25.164.45/;",
+         "description" : "Radio Overberg is DIE radiostasie vir die Overberg en saai tans uit in Bredasdorp, Elim, Napier, Struisbaai, Waenhuiskrans, Riviersonderend en bereik ook dele van Caledon en Swellendam."
+      },
+      {
+         "name" : "Kingfisher FM",
+         "image" : "6125.v2.png",
+         "site_url" : "http://www.kingfisherfm.co.za/",
+         "radio_url" : "https://edge.iono.fm/xice/78_medium.aac",
+         "description" : "Kingfisher FM is a Christian, family-lifestyle radio station bringing a message of hope and inspiration to every person who lives in scenic Nelson Mandela Bay."
+      },
+      {
+         "name" : "Radio Teemaneng Stereo",
+         "image" : "11907.v2.png",
+         "site_url" : "http://www.rtsfm.co.za/",
+         "radio_url" : "http://85.25.164.43:443/;stream.mp3",
+         "description" : "Radio Teemaneng Stereo is one of South Africa’s leading community radio stations currently ranked 23 according to the National Rams of October 2012, that serves all communities, regardless of race, religion, creed or color within the Kimberley/Frances Baard region."
+      },
+      {
+         "name" : "CARR RADIO",
+         "image" : "65794.v1.png",
+         "site_url" : "http://www.mtzioncarrnation.org/",
+         "radio_url" : "https://stream.zenolive.com/yucs88fbpv5tv",
+         "description" : "Where Supernatural Is Natural"
+      },
+      {
+         "name" : "KeithNgesiRadio",
+         "image" : "64033.v7.png",
+         "site_url" : "http://www.keithngesiradio.com/index.php",
+         "radio_url" : "https://keithngesiradio.radioca.st/stream/1/",
+         "description" : "A new digital communication innovation which is set to make a mark in the world of broadcasting. KNR was established under the umbrella company, Keith Ngesi Media (KNM) that has been established as a real content production company in South Africa. Its modern business is based on the accomplishment of development and socio-economic news in South Africa."
+      },
+      {
+         "name" : "Radio Kragbron",
+         "image" : "276.v3.png",
+         "site_url" : "http://www.931fm.co.za/",
+         "radio_url" : "http://931fm.dyndns.org:8000/stream.mp3",
+         "description" : "Radio Kragbron 93.1 FM is a broadcast radio station from Mpumalanga, South Africa, providing Sports, Information and World music."
+      },
+      {
+         "name" : "VUT FM",
+         "image" : "11814.png",
+         "site_url" : "http://vutradio.co.za/",
+         "radio_url" : "http://85.25.164.54/;8882858448843067stream.nsv",
+         "description" : "Based on broadcasting to the Vaal Region in the deep south of Gauteng, V,U,T fm is becoming the true rhythm of the river. VUT FM broadcast an urban blend of current hits, with specific focus on the local music industry."
+      },
+      {
+         "name" : "ChaiFM",
+         "image" : "281.png",
+         "site_url" : "http://www.chaifm.com/",
+         "radio_url" : "http://listenlive-c2p1.ndstream.net:8060/;stream.nsv",
+         "description" : "101.9 ChaiFM is a Jewish radio station broadcasting to the world from Johannesburg, South Africa. The station name comes from the word “chai”, which means “life” in Hebrew. The station’s programming encompasses every aspect of life from health, finance, business, spirituality, sport, education, travel, psychology, as well as issues affecting the Middle East, local and world Jewry.ChaiFM is a talk station, and is the only English language Jewish talk station in the world. As such, the station is the collective heartbeat of Jewish communities across South Africa and internationally.  ChaiFM provides a platform for a diversity of news, opinions, education, entertainment and music that is both Jewish and general interest based."
+      },
+      {
+         "name" : "Mash FM Stereo",
+         "image" : "11900.v2.png",
+         "site_url" : "http://www.mashfm.co.za/",
+         "radio_url" : "http://fm.tecvonic.com:8005/mountpoint",
+         "description" : "Community Radio Station broadcasting live from Mashishing in Mpumalanga Province, South Africa."
+      },
+      {
+         "name" : "Radio Riverside",
+         "image" : "862.v3.png",
+         "site_url" : "http://www.radio-riverside.co.za/",
+         "radio_url" : "https://public.softcube.com/media/a67922fb203e481ca1197eefcdc46422.mp4",
+         "description" : "Radio Riverside is the Best Community Radio Station in South Africa – Winner of MDDA-SANLAM Award from over 175 community radio stations in the country."
+      },
+      {
+         "name" : "Radio 786",
+         "image" : "11979.png",
+         "site_url" : "http://www.radio786.co.za/",
+         "radio_url" : "http://stream.radio786.co.za:8040/stream/;",
+         "description" : "Twenty years after its inception, Radio 786 has become a vital part of the community it serves.  It is recognised for its quality programmes, well-polished presentation style, accomodation of diverse views and opinions, topical and often exclusive current affairs interviews and dealing with anything that affects its community, while opening such matters to public debate."
+      },
+      {
+         "name" : "Moutse Community Radio",
+         "image" : "11888.png",
+         "site_url" : "http://mcrs.co.za/",
+         "radio_url" : "http://core2.netdynamix.co.za:8450/;",
+         "description" : "Moutse Community Radio is a member of the National Community Radio Forum, the national organising body in South Africa. Various working committees contacted donors, obtained funds for equipment and sifted their way through the quagmire of impediments to mounting such a project in rural conditions."
+      },
+      {
+         "name" : "Alex FM",
+         "image" : "847.v4.png",
+         "site_url" : "http://www.alexfm.co.za/",
+         "radio_url" : "http://85.25.164.51:8080/;",
+         "description" : "Alex FM is one of the oldest community radio stations in Gauteng. It was established by The Alexandra Community Trust and first went on air on 1st September 1984. The station is celebrating 20 years of existence along with the 20 years of South Africa’s democracy. Alex FM is a 7 days 24 hours radio station broadcasting in English, IsiZulu, Sepedi, Setswana, Xitsonga, Venda and IsiXhosa. The station broadcasts to the Greater Alexandra Community, the entire North Eastern Johannesburg and the surrounding areas. Our advantages include the fact that we are not a niche station and thereby able to target all ages and most languages spoken in the stations foot print."
+      },
+      {
+         "name" : "RA Rock",
+         "image" : "62249.v3.png",
+         "site_url" : "http://rarock.com/",
+         "radio_url" : "http://live.rarock.com:8000/stream4",
+         "description" : "RA Rock is SA's Real Rock Radio, playing the latest rock singles, the biggest rock favourites, and also the best in South African rock music."
+      },
+      {
+         "name" : "UNISA Radio",
+         "image" : "12106.png",
+         "site_url" : "https://my.unisa.ac.za/",
+         "radio_url" : "http://85.25.164.32/;259394466381693stream.nsv",
+         "description" : "A dynamic,vibrant, campus TALK radio station. The station prides itself with illuminate broadcast history within campus based community radio stations in SA"
+      },
+      {
+         "name" : "HOPE FM",
+         "image" : "11978.png",
+         "site_url" : "http://ghcc.me/",
+         "radio_url" : "http://85.25.164.60:443/;",
+         "description" : "We hope you'll join us for our encouraging worship services. You'll feel the presence of the Holy Spirit as we worship together through music, prayer and a Bible based message from the Bible. Everyone is welcome!"
+      },
+      {
+         "name" : "Valley FM",
+         "image" : "11992.png",
+         "site_url" : "http://www.valleyfm.co.za/",
+         "radio_url" : "http://85.25.164.42/;",
+         "description" : "Valley FM 88.8 - 93.7 is a network of broadcast radio stations from Worcester, South Africa, providing musical entertainment, family, health and women’s issues, youth-participation forums, educational, community health, sports and cultural programmes.Meer as net goeie musiek"
+      },
+      {
+         "name" : "SME Fusion Radio",
+         "image" : "62666.png",
+         "site_url" : "http://www.smefusion.co.za/",
+         "radio_url" : "http://usa15.fastcast4u.com:5283/;",
+         "description" : "​SME Fusion is your top choice for discovering new hits or tuning into the most fascinating radio shows. With our music curators working around the clock to provide you with the highest quality hits, you’ll never get bored listening to our station. Tune in and let our hosts and DJs entertain you with amazing music, fascinating events, and more.​Our Mision :We exist to assertively build alternative methods of empowerment in order to stay competitive in tomorrow's world"
+      },
+      {
+         "name" : "Africa Business Radio",
+         "image" : "50923.v4.png",
+         "site_url" : "http://www.africabusinessradio.com/",
+         "radio_url" : "https://samcloud.spacial.com/api/listen?sid=92393&m=sc&rid=166595",
+         "description" : "Africa Business Radio delivers insights and analyse the dynamics of Africa Business Landscape across the 54 different markets representing the 54 countries in Africa with over 1.2 billion people."
+      },
+      {
+         "name" : "Platinum Gold Radio",
+         "image" : "65238.v1.png",
+         "site_url" : "http://platinumgoldradio.co.za/",
+         "radio_url" : "http://s2.voscast.com:10128/;stream.mp3",
+         "description" : "A comfortable option for anyone appreciating good music and conversation | Feel Good Music mixed with interesting studio hosts | #platinumgoldradio"
+      },
+      {
+         "name" : "Radio Khwezi",
+         "image" : "11844.v1.png",
+         "site_url" : "http://www.khwezi.org.za/",
+         "radio_url" : "http://uk2-pn.webcast-server.net:8290/;",
+         "description" : "One of South Africa’s leading regiol community radio stations, Radio Khwezi, has an electronic footprint, which now covers most of the KwaZulu/tal Midlands. Radio Khwezi now boasts two transmitters with a 10-Kilowatt sigl beamed from Greytown, on 90.5 FM and a 1-Kilowatt sigl beamed from Eshowe, on 107.7 FM."
+      },
+      {
+         "name" : "Ubiquity Radio",
+         "image" : "12120.png",
+         "site_url" : "http://www.ubiquityradio.net/",
+         "radio_url" : "https://str2b.openstream.co/613",
+         "description" : "We are a retro soul, funk and jazz station broadcasting the coolest tunes, wherever you are in the world,24, 7, 365. Our music policy means that you will hear a hugely eclectic range of sounds."
+      },
+      {
+         "name" : "The Grind Radio",
+         "image" : "11997.png",
+         "site_url" : "http://www.thegrindradio.co.za/",
+         "radio_url" : "http://stream.thegrindradio.co.za:8000/stream",
+         "description" : "Established out of necessity. People that deem it necessary to share their love and passion for music with the world. We aim to provide our listeners with the best music around, not only ‘the hits’, but the tracks you never get to hear on radio as well"
+      },
+      {
+         "name" : "Inanda FM 884",
+         "image" : "11836.v1.png",
+         "site_url" : "http://inandafm.co.za/",
+         "radio_url" : "http://85.25.164.59/;",
+         "description" : "Inanda 88.4 fm is a broadcast community radio station from Durban, South Africa, bringing music, entertainment, news and sports. Inanda 88.4 fm - Today's Best Radio, provides variety of music, including Reggae, Dance and Rock."
+      },
+      {
+         "name" : "Radio Gamkaland",
+         "image" : "11981.png",
+         "site_url" : "http://gamkafm.ndstream.net/",
+         "radio_url" : "http://zas3.ndx.co.za/proxy/gamkafm?mp=/stream&1542362833216",
+         "description" : "Radio Gamkaland is a broadcast radio station from Beaufort West, South Africa, providing Community News, Information, Education and Religious Music, Jazz, Dance Music, R & B, Afrikaans music, etc."
+      },
+      {
+         "name" : "Mega Artists Radio",
+         "image" : "12064.v1.png",
+         "site_url" : "http://www.megaartists.co.za/",
+         "radio_url" : "http://streaming.radionomy.com/MegaArtistsRadio",
+         "description" : "Mega Artists Radio. Online arts  dedicated to make art accessible to a diverse audience"
+      },
+      {
+         "name" : "Radio Free Tankwa",
+         "image" : "61636.v2.png",
+         "site_url" : "http://www.radiofreetankwa.com/",
+         "radio_url" : "http://capeant.antfarm.co.za:8000/TankwaRadio",
+         "description" : "Radio Free Tankwa is AfrikaBurn's community radio station. We play a wide range of eclectic, esoteric and downright weird content - basically, a reflection of the content you'd expect your ears to hear at the event."
+      },
+      {
+         "name" : "UCT Radio",
+         "image" : "11990.png",
+         "site_url" : "http://www.radio.uct.ac.za/",
+         "radio_url" : "https://edge.iono.fm/xice/uctradio_live_medium.aac",
+         "description" : "UCT Radio turns thirty-five years old this year. For the ninety percent of us who are mathematically illiterate - okay, that's a gross over-estimation, but still - that is about three generations' worth of human beings who, within the twenty kilometer radius that is UCT Radio's footprint, have been getting brilliantly bombarded with our radical flavour of broadcasting."
+      },
+      {
+         "name" : "Cassette Radio",
+         "image" : "54838.v4.png",
+         "site_url" : "http://www.csradio.co.za/",
+         "radio_url" : "https://samcloud.spacial.com/api/listen?sid=73804&m=sc&rid=129389",
+         "description" : "Welcome to Cassette Radio - Every worthwhile/memoriable sound that entered your ears during the 70s, 80s and into the 90s in South Africa"
+      },
+      {
+         "name" : "VOW FM",
+         "image" : "286.v1.png",
+         "site_url" : "http://www.vowfm.co.za/",
+         "radio_url" : "http://159.8.16.16:7068/;",
+         "description" : "Voice of Wits (VOWFM) is the lifeblood to one of the largest tertiary institutions in South Africa, Wits University and broadcasting 24 hours a day communicating and interacting on a daily basis with at least 28 000 students and staff as well as the various communities in and around the University foot-print. The station is committed to not only providing a quality broadcasting service but also to the education of media professionals. VOWFM’s footprint extends to Braamfontein, Parktown, Auckland Park, Westcliff, Newtown, Pageview, Fordsburg, Melville and the central CBD."
+      },
+      {
+         "name" : "Biz Radio",
+         "image" : "12058.png",
+         "site_url" : "http://www.bizradio.co.za/",
+         "radio_url" : "http://85.25.164.38:443/;36442823610055stream.nsv",
+         "description" : "A rich media platform connecting the world of business and the business of the world and today"
+      },
+      {
+         "name" : "Riovic FM",
+         "image" : "12000.v1.png",
+         "site_url" : "http://riovic.com/",
+         "radio_url" : "http://streaming.radionomy.com/MajorScaleRadio",
+         "description" : "Riovic FM is an independent online radio station making a difference from the Riovic™ Studio in Pretoria, South Africa. We see music as a universal language and sound as the component that holds everything in the universe together."
+      },
+      {
+         "name" : "Energy FM",
+         "image" : "61630.v4.png",
+         "site_url" : "http://www.energyfmsa.co.za/",
+         "radio_url" : "http://sv2.famcast.co.za:8004/stream",
+         "description" : "Energy FM is an URBAN COMMUNUTY RADIO STATION based in the City of Polokwane operating under a licence granted to the Polokwane Community by ICASA,(Independent Communications Authority)"
+      },
+      {
+         "name" : "Radio Steez",
+         "image" : "66536.v7.png",
+         "site_url" : "http://radiosteez.com/",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM08AAC038_SC",
+         "description" : "We are a digital radio station broadcasting the best of alternative and authentic hip-hop."
+      },
+      {
+         "name" : "CAPS",
+         "image" : "58726.v2.png",
+         "site_url" : "http://capsradio.co.za/",
+         "radio_url" : "http://zas2.ndx.co.za/proxy/capsradio?mp=/stream",
+         "description" : "Education is a collective effort, it needs the active involvement of all stakeholders. At the core of a successful system lies communication. The Minister, MECs, and HODs need to communicate on a constant basis the vision for the sector."
+      },
+      {
+         "name" : "Lichvaal Stereo 92.6 FM",
+         "image" : "856.v2.png",
+         "site_url" : "http://www.lichvaalstereo.co.za/",
+         "radio_url" : "http://80.95.11.233:8000/stream.mp3",
+         "description" : "Sedert sy ontstaan in 2003 is Lichvaal Stereo 'n plaaslike gemeenskapsradiostasie met 'n reikwydte van ongeveer 100km radius om Lichtenburg. Ons bedien die AFRIKAANSE gemeenskap en saai dus in Afrikaans uit.Ons saai ook nasionaal en internasionaal uit oor die internet."
+      },
+      {
+         "name" : "Radio Mutha FM",
+         "image" : "64857.v4.png",
+         "site_url" : "http://www.muthafm.com/",
+         "radio_url" : "http://muthafm2.out.airtime.pro:8000/muthafm2_b",
+         "description" : "Global Online Radio! Mutha FM is a global music radio station and electronic lifestyle platform originally based in Cape Town, South Africa and now broadcasts live shows from all over the world on the Mutha network."
+      },
+      {
+         "name" : "SAfm",
+         "image" : "844.v3.png",
+         "site_url" : "http://www.safm.co.za/",
+         "radio_url" : "https://proradiocloud.antfarm.co.za/ant-lre-sabc/620e01258f5b49568546ff239ff2a32f/playlist.m3u8",
+         "description" : "SAfm is one of the seventeen national radio stations owned by South African Broadcasting Corporation (SABC). It broadcasts on 104-107 FM frequencies nationwide from its studio in Johannesburg. This radio station has a long history. It was founded in 1936 and since then it changed its name several times until finally became SAfm in 1995."
+      },
+      {
+         "name" : "Umhlobo Wenene FM",
+         "image" : "61645.v6.png",
+         "site_url" : "http://www.umhlobowenenefm.co.za/",
+         "radio_url" : "https://proradiocloud.antfarm.co.za/ant-lre-sabc/7844ef4be8164a66a0e21bdfe374bff5/playlist.m3u8",
+         "description" : "Umhlobo Wenene FM is a broadcast radio station in Port Elizabeth, South Africa, providing Xhosa language News, Sports and Entertainment."
+      },
+      {
+         "name" : "Munghana Lonene FM",
+         "image" : "857.v3.png",
+         "site_url" : "http://www.munghanalonenefm.co.za/",
+         "radio_url" : "https://proradiocloud.antfarm.co.za/ant-lre-sabc/14e03c487fa44d3686ff65f483373d62/playlist.m3u8",
+         "description" : "The station tries to reach most if not all Munghana Lonene fm listeners in a form of OB which helps us connect with listeners while entertaining them. OBs require large budgets meaning the station cannot visit each village or town where we have listeners however the station tries to cover all provinces when planning OB & events."
+      },
+      {
+         "name" : "Thobela FM",
+         "image" : "868.v3.png",
+         "site_url" : "http://www.thobelafm.co.za/",
+         "radio_url" : "https://proradiocloud.antfarm.co.za/ant-lre-sabc/58024f759ef343e5b43f99b0c55d84aa/playlist.m3u8",
+         "description" : "Thobela FM covers Limpopo, Gauteng, Mpumalanga and North West. You can also listen live audio streaming."
+      },
+      {
+         "name" : "Phalaphala FM",
+         "image" : "843.v5.png",
+         "site_url" : "http://www.phalaphalafm.co.za/",
+         "radio_url" : "https://proradiocloud.antfarm.co.za/ant-lre-sabc/0e6fc9cfa7aa4264ad93f87dc4f75c3b/playlist.m3u8",
+         "description" : "One of PBS Portfolio of radio Stations which was born on 2 February 1965. The Station came into being after the integration of Radio Venda and Radio Thohoyandou. As Radio Venda, the Station shared time with the then Radio Tsonga, now ML-FM, for Three hour a day. Now on 24\\7 broadcast schedule.Coverage includes Limpopo, Parts of Gauteng, North West and Mpumalanga Provinces. Boasts a record of 926 000 listenership. TSL is 23hrs per week, the third highest in the Country."
+      },
+      {
+         "name" : "Capricorn FM",
+         "image" : "12003.v7.png",
+         "site_url" : "http://www.capricornfm.co.za/",
+         "radio_url" : "https://edge.iono.fm/xice/67_medium.aac?p=embed",
+         "description" : "Capricorn FM broadcasts in English and 30% vernacular (Tshivenda, Sepedi, Xitsonga). As a commercial radio station, the broadcasting format carries 70% music and 30% talk shows, in an attempt to feature a variety of urban genres in R&B, soul, afro-pop, afro-soul, hip-hop, kwaito, house and also cater for jazz and gospel music lovers."
+      },
+      {
+         "name" : "Ikwekwezi FM",
+         "image" : "872.v4.png",
+         "site_url" : "http://www.ikwekwezifm.co.za/",
+         "radio_url" : "https://proradiocloud.antfarm.co.za/ant-lre-sabc/ff6c43748de44108a31d127b4b205c12/playlist.m3u8",
+         "description" : "Ikwekwezi FM is a national radio station based in Hatfield (Tshwane), South Africa and is owned by South African Broadcasting Corporation (SABC). The name Ikwekwezi means “the star” in Ndebele. The slogan of this station is 'Lapho Sikhona Kunokukhanya' which means 'Wherever we are there is Light'. So as can be seen from its name and slogan they mostly target Ndebele speaking people."
+      },
+      {
+         "name" : "Hot 91.9 FM",
+         "image" : "854.v9.png",
+         "site_url" : "http://www.hot919.co.za/",
+         "radio_url" : "https://edge.iono.fm/xice/57_medium.mp3?p=embed",
+         "description" : "Hot 91.9FM is a community radio station in Johannesburg, South Africa. It is not a commercial radio station so they are receiving technical and financial support from the community. And in return they promised to serve the community and “bring fun back to radio”. The most remarkable feature of this radio is that they gathered lots of legendary and experienced radio deejays. The format of Hot 91.9FM radio station is “old skool” and R&B music."
+      },
+      {
+         "name" : "90.6 FM",
+         "image" : "846.v3.png",
+         "site_url" : "http://www.906fmstereo.com/",
+         "radio_url" : "https://albert.antfarm.co.za/vcr/vcr.stream/playlist.m3u8",
+         "description" : "THE VAAL'S HIT STATION"
+      },
+      {
+         "name" : "CUT FM",
+         "image" : "61628.v3.png",
+         "site_url" : "http://www.cutfm.co.za/",
+         "radio_url" : "https://albert.antfarm.co.za/cutfm/cutfm.stream/playlist.m3u8",
+         "description" : "A brand new community radio station based at the Central University of Technology Bloemfontein Campus. CUT FM will broadcast on the frequency 105.8 MHz."
+      },
+      {
+         "name" : "Kokomo Radio",
+         "image" : "16425.v1.png",
+         "site_url" : "http://www.kokomoradio.info/",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC86_SC",
+         "description" : "Die Nommer 1 Internet Radio Stasie wat streef om net die beste musiek en vermaak te lewer."
+      },
+      {
+         "name" : "Jozi FM",
+         "image" : "61632.v4.png",
+         "site_url" : "http://www.jozifm.co.za/",
+         "radio_url" : "https://edge.iono.fm/xice/51_medium.aac?p=embed",
+         "description" : "JOZI FM is community radio station based in Soweto, trading under the licence of and is a project of Soweto Media Resource Centre"
+      },
+      {
+         "name" : "RMR",
+         "image" : "61638.v4.png",
+         "site_url" : "http://www.rhodesmusicradio.co.za/",
+         "radio_url" : "https://edge.iono.fm/xice/70_medium.aac",
+         "description" : "RMR shall be non-discriminatory, democratic and independent. It will produce a multilingual medium of information and entertainment, in the form of radio programming. In doing so, RMR will target students at Rhodes University."
+      },
+      {
+         "name" : "Star FM",
+         "image" : "882.v2.png",
+         "site_url" : "http://www.starfm.co.za/",
+         "radio_url" : "https://albert.antfarm.co.za/starfm/starfm.stream/playlist.m3u8",
+         "description" : "The radio with special programs, each with its type of music and relevant content, really moving to the top."
+      },
+      {
+         "name" : "Giyani Community Radio",
+         "image" : "11886.v2.png",
+         "site_url" : "http://www.gcrfm.co.za/",
+         "radio_url" : "https://stream.radiojar.com/sfu0t977h24tv",
+         "description" : "GCR is a community radio station broadcasting 24/7 on the 106 FM frequency. It is located at Giyani.GCR was formed recently with the aim of providing exciting state of community radio. GCR will provide its services to the surrounding communities and general public."
+      },
+      {
+         "name" : "Eden FM 93.8",
+         "image" : "851.v3.png",
+         "site_url" : "http://www.edenfm.co.za/",
+         "radio_url" : "http://infant-int-edge-eu01-sc.antfarm.co.za:1935/edenfm/edenfm.stream/chunklist_w1496851422.m3u8",
+         "description" : "Community radio station which will bridge the gaps of the people in the Southern Cape with programmes to empower, inform and educate through training and celebrating diversity which serves to enhance the quality of life by reconciling our people with the focus to integrate our society."
+      },
+      {
+         "name" : "Al Ansaar",
+         "image" : "61627.v7.png",
+         "site_url" : "http://www.alansaar.co.za/",
+         "radio_url" : "https://albert.antfarm.co.za/alansaar/alansaar.stream/playlist.m3u8",
+         "description" : "Radio Al-Ansaar 90.4 FM Durban is a Islamic radio channel from Durban, South Africa. Islamic teachings, religious. Channel Rank 569."
+      },
+      {
+         "name" : "Yoh Radio",
+         "image" : "76378.v1.png",
+         "site_url" : "http://www.yohradio.com/",
+         "radio_url" : "https://yohradio.highquality.radiostream.co.za/",
+         "description" : "YOH Radio is a Urban Community Radio station servicing the Mitchells Plain and surrounding community."
+      },
+      {
+         "name" : "Gaan Groot Radio",
+         "image" : "81239.v4.png",
+         "site_url" : "https://www.gaangrootradio.co.za/",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2982692_SC",
+         "description" : "Gaan Groot Radio - Internet Radio met Styl!Waar Kunstenaars, Luisteraars en Musiek mekaar ontmoet.Gebaseer in die Weskus vir die Wes-Kaap & Suid-Afrika"
+      },
+      {
+         "name" : "TRU FM",
+         "image" : "61643.v5.png",
+         "site_url" : "http://www.trufm.co.za/",
+         "radio_url" : "https://proradiocloud.antfarm.co.za/ant-lre-sabc/f94d47320933430fb3ae414ed0cd355d/playlist.m3u8",
+         "description" : "A platform to air our views, pick some brains, make suggestions, and of course show love to our favourite station trufm."
+      },
+      {
+         "name" : "Altar Aura",
+         "image" : "81487.v5.png",
+         "site_url" : "https://altaraura.org/",
+         "radio_url" : "https://stream.radiojar.com/0pfmuf1t2bruv",
+         "description" : "Altar Aura is a community built on the life and teachings of Jesus Christ."
+      },
+      {
+         "name" : "Purpose FM",
+         "image" : "79447.v4.png",
+         "site_url" : "https://purposefm.live/",
+         "radio_url" : "https://stream.radio.co/s1a1206a0a/listen",
+         "description" : "Powered by Global Christian Network - Purpose FM aims to build a community of Christians providing a tool of a daily companion to help Christians to be in tact with the Word of God, worship and pray together."
+      },
+      {
+         "name" : "Afroliveradio",
+         "image" : "76920.v2.png",
+         "site_url" : "http://www.afroliveradio.co.za/",
+         "radio_url" : "https://afroliveradio.radioca.st/;stream.nsv",
+         "description" : "Afroliveradio is an urban online radio that prides itself of its afrocentric content that is informative and entertaining."
+      },
+      {
+         "name" : "7441 FM",
+         "image" : "73613.v1.png",
+         "site_url" : "https://www.radio7441fm.co.za/",
+         "radio_url" : "https://listen.shoutcast.com/7441FM",
+         "description" : "100.1 7441 fm introducing youth radio station that gives the ideas of what the youth think about their future, we invite you all to be part of all these prgrammes selected for you, we are hoping that you’ll be part of every show enjoying all the programmes as we give them to you. We intend to give all the selection of music and programmes presented by the presenters of your choice."
+      },
+      {
+         "name" : "Cape Winelands FM",
+         "image" : "78588.v2.png",
+         "site_url" : "http://capewinelandsfm.co.za/",
+         "radio_url" : "https://stream.zeno.fm/x265y658k0quv",
+         "description" : "Cape Winelands FM is a community radio station currently broadcasting online. Cape Winelands FM is community based radio station currently broadcast local content 24 hours to the community of Stellenbosch and surrounding towns and to the world via audiostreaming. Cape Winelands FM is a registered community radio station broadcasting from South Africa to the world. We are rooted in volunteerism and diversity. We exist through the support of the communities we serve. We are for the community, by the community."
+      },
+      {
+         "name" : "Heita FM",
+         "image" : "82470.v1.png",
+         "site_url" : "http://www.heitaradio.co.za/",
+         "radio_url" : "https://s3.radio.co/s0f0857e93/listen",
+         "description" : "We are the radio that is situated in Mankweng Polokwane South Africa . Heita FM is community Radio Station"
+      },
+      {
+         "name" : "Aloe FM",
+         "image" : "78679.v4.png",
+         "site_url" : "http://aloefm.co.za/",
+         "radio_url" : "https://stream.zeno.fm/yzwv42ywx2quv",
+         "description" : "Aloe FM is Online Radio Station broadcasting from eKasi in Cape Town, eMzantsi (SA) to the world. We broadcast exciting News, Updates and Content to Inform, Educate and Entertain, and develop young talent for the future. We care about our Kasi. A Radio Station that create a bright future by developing programmes which focuses on developing the skills of local or underground talented individuals as we have a solid collaboration in variety programmes. Aloe FM focus on youth development by recruiting and giving them platform to showcase their skills and  talents, becasue We can"
+      },
+      {
+         "name" : "Lit Radio ZN",
+         "image" : "80655.v3.png",
+         "site_url" : "http://famcast.co.za/lit",
+         "radio_url" : "https://sv2.famcast.co.za/proxy/litradio?mp=/stream",
+         "description" : "An online radio based in Northern Natal(Newcastle), we are youth for youth channel, better known as the home of good music and fresh content."
+      },
+      {
+         "name" : "Fashion District Radio",
+         "image" : "81739.v2.png",
+         "site_url" : "https://www.fashiondistrictradio.co.za/",
+         "radio_url" : "https://sv2.famcast.co.za/proxy/frd?mp=/stream",
+         "description" : "The evolution of radio"
+      },
+      {
+         "name" : "Faith Armaria Online",
+         "image" : "83847.v6.png",
+         "site_url" : "http://zeno.fm/faith-armaria-online",
+         "radio_url" : "https://stream.zeno.fm/2xs37pha2mruv",
+         "description" : "Music station from south Africa to the world. We play international content Mostly Music that Changes Mood This is Music station That will provide You With Feel Good Sounds"
+      },
+      {
+         "name" : "MFM",
+         "image" : "277.v4.png",
+         "site_url" : "http://mfm.co.za/",
+         "radio_url" : "https://edge.iono.fm/xice/46_medium.aac",
+         "description" : "MFM 92.6 is an independent radio station, situated on the campus of the University of Stellenbosch, South Africa. We offer an alternative to the monotony of conservative mainstream radio stations! In-touch with and part of the community, MFM knows its listeners intimately and is a welcome and familiar sound in homes, offices and automobiles throughout our broadcast area."
+      },
+      {
+         "name" : "YCN Radio",
+         "image" : "82974.v2.png",
+         "site_url" : "http://ycnradio.co.za/",
+         "radio_url" : "https://stream.zeno.fm/wb5wu1qccnruv",
+         "description" : "Welcome to our world:The world of youth development, breaking bondage's and changing mindsets by serving our youth generation with weapons that breaks strongholds and set our youth generation free."
+      },
+      {
+         "name" : "Press Radio",
+         "image" : "78307.v1.png",
+         "site_url" : "https://www.thepressradio.com/",
+         "radio_url" : "https://stream.zenolive.com/2usqwtv89zquv",
+         "description" : "Press Radio is a member of The Press Media Network's in South Africa. This Radio Station is own by Ghanaian Journalist Living in South Africa, (Mr. Ogyem Solomon)."
+      },
+      {
+         "name" : "Ikapa Youth Radio",
+         "image" : "84997.v2.png",
+         "site_url" : "http://ikapayouthradio.co.za/",
+         "radio_url" : "https://stream.zeno.fm/7xc6cn3wnqzuv",
+         "description" : "Digital radio station that is committed in delivering captivating and relevant content tailored for young people"
+      },
+      {
+         "name" : "Hellenic Radio",
+         "image" : "852.v2.png",
+         "site_url" : "http://hellenicradio.org.za/",
+         "radio_url" : "https://albert.antfarm.co.za/hellenic/hellenic.stream/playlist.m3u8",
+         "description" : "Hellenic Radio broadcasting on 1422 medium wave, twenty-four hours a day, seven days a week from our studios based in Johannesburg, Gauteng, we are especially proud of our commitment to excellence which is reflected in our programmes.Radio programming today is not directed to a wide audience but to specific segments and radio industry leaders are conscientiously aiming for a smaller and more specialised niche market. Our programmes include news, sports, financial/economic updates, factual programmes, health issues, dedication shows with music from the old traditional favourites to the latest and most modern music"
+      },
+      {
+         "name" : "One FM 94.0",
+         "image" : "76831.v5.png",
+         "site_url" : "http://www.onefm.co.za/",
+         "radio_url" : "https://edge.iono.fm/xice/68_medium.aac",
+         "description" : "One FM is a community radio station servicing the geographical region of the Western Atlantic Seaboard."
+      },
+      {
+         "name" : "Siloam Live",
+         "image" : "85550.v2.png",
+         "site_url" : "http://www.siloamlive.com/",
+         "radio_url" : "https://s3.radio.co/s44a8f0904/listen",
+         "description" : "A community based station"
+      },
+      {
+         "name" : "North Side Online",
+         "image" : "85364.v1.png",
+         "site_url" : "http://northsideonline.site/",
+         "radio_url" : "https://finessethedj.radioca.st/stream",
+         "description" : "Northside Online Radio & TV - The Internet Wave. The unapologetic New Age Wave, digital entertainment with innovative content by the youth.It´s a career and skills development station powered Techno Hub Centre."
+      },
+      {
+         "name" : "TriBe FM (Swalala)",
+         "image" : "85044.png",
+         "site_url" : "https://tribefmonline.weebly.com/",
+         "radio_url" : "https://stream.zenolive.com/7rqke7pczueuv",
+         "description" : "Based in Swalala Community, South Africa. We feature Local,  National  and international content to our programming. Our content is  diverse  from HiP-Hop, Gospel, News, Educational, Fashion, Sports, Talk  Shows  and General Entertainment. Bringing our listeners an organic  enjoyable  listening experience. Our key ambition is Supporting Local  Talent  across all walks of Life, as all of our extended music play is by  Young  Up and Coming Artist."
+      },
+      {
+         "name" : "Madibaz Radio",
+         "image" : "20105.v5.png",
+         "site_url" : "http://madibaz-radio.nmmu.ac.za/",
+         "radio_url" : "http://madibaz-radio.mandela.ac.za/",
+         "description" : "Urban contemporary campus radio station of the Nelson Mandela Metropolitan University focused on providing edutainment to the youth of Nelson Mandela Bay."
+      },
+      {
+         "name" : "Lighthouse Radio",
+         "image" : "85362.v5.png",
+         "site_url" : "https://riaane7.wixsite.com/radio",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3248388_SC",
+         "description" : "Lighthouse Radio is an internet station based in South Africa that has been launched, in partnership between Avishua and Lighthouse Ministries Int, for one singular purpose - to declare God's uncompromising Truth and to shine His Light into a world that is broken, suffering and in need of the Lord's love and beauty. Lighthouse Radio runs 24 hours seven days a week, featuring various speakers (Afrikaans and English) and playing anointed worship. The emphasis, however, remains on the glory of God and not man, or any denominations church movement. It is purely on Jesus and His Truth and Way and Kingdom."
+      },
+      {
+         "name" : "Metro FM",
+         "image" : "839.v8.png",
+         "site_url" : "http://www.metrofm.co.za/",
+         "radio_url" : "https://colonyb.antfarm.co.za/ant-lre-sabc/30acd2358bc64be49d563b72f0d1d121/playlist.m3u8",
+         "description" : "Metro FM is known as #1 urban radio station in South Africa. It was founded in October, 1986 as a Radio Metro and quickly grew to the largest commercial radio station in South Africa. It is headquartered in Johannesburg and is owned by South African Broadcasting Corporation (SABC)."
+      },
+      {
+         "name" : "RSG",
+         "image" : "274.v13.png",
+         "site_url" : "http://www.rsg.co.za/",
+         "radio_url" : "https://colonya.antfarm.co.za/ant-lre-sabc/b08ea007857740318ea034f0b41504a7/playlist.m3u8",
+         "description" : "RSG 100-104 FM radio station is one of the South African radio stations owned by South African Broadcasting Corporation (SABC). The abbreviation RSG stands for Radio Sonder Grense (radio without borders) – this was the former slogan of this radio station that later turned into its name."
+      },
+      {
+         "name" : "Bosveld Stereo",
+         "image" : "11682.v8.png",
+         "site_url" : "http://www.bosveldstereo.co.za/",
+         "radio_url" : "http://capeant.antfarm.co.za:8000/Bosveld",
+         "description" : "Bosveld Stereo is a community based broadcast radio station, providing African music, news, Christian programs, and Entertainment."
+      },
+      {
+         "name" : "Ukhozi FM",
+         "image" : "841.v3.png",
+         "site_url" : "http://www.ukhozifm.co.za/",
+         "radio_url" : "https://proradiocloud.antfarm.co.za/ant-lre-sabc/c04e80a90111477a88867b697e2203c0/playlist.m3u8",
+         "description" : "The name Ukhozi means “Eagle” in Zulu. Ukhozi FM serves the needs of IsiZulu-speaking listeners in South Africa. This radio station was founded in 1960 and is currently owned by South African Broadcasting Corporation (SABC). At their website they claim to be the largest radio station in South Africa with the total audience of around 7.7 Mio. They have more than 100 000 likes on Facebook and over 30 000 followers on Twitter. Ukhozi FM is located in Durban but can be listened all over South Africa on different frequencies."
+      },
+      {
+         "name" : "Radio 2000",
+         "image" : "6934.v4.png",
+         "site_url" : "http://www.radio2000.co.za/",
+         "radio_url" : "https://proradiocloud.antfarm.co.za/ant-lre-sabc/a3d1e938cf9c49db874906a8138ecf10/playlist.m3u8",
+         "description" : "The home of your all-time favourites. Our Music. Your Memories... 97.2 - 100 FM Nationwide. Channel 812 on the satellite audio bouquet."
+      },
+      {
+         "name" : "5FM",
+         "image" : "840.v4.png",
+         "site_url" : "http://www.5fm.co.za/",
+         "radio_url" : "https://proradiocloud.antfarm.co.za/ant-lre-sabc/9f38102608b345dcb53c1db0bd57f2d3/playlist.m3u8",
+         "description" : "5FM is one of the seventeen radio stations owned by South African Broadcasting Corporation. It broadcasts nationwide from Auckland Park, Johannesburg on different FM frequencies. This radio station started broadcasting in 1975 as Radio 5. But in 1992 it was re-branded into 5FM radio station."
+      },
+      {
+         "name" : "Lesedi FM",
+         "image" : "838.v6.png",
+         "site_url" : "http://www.lesedifm.co.za/",
+         "radio_url" : "https://proradiocloud.antfarm.co.za/ant-lre-sabc/273707ee34a94d87a51c4785b48256a5/playlist.m3u8",
+         "description" : "Lesedi FM is a public broadcasting service located in Bloefmontein, South Africa. Like a series of other radio stations in South Africa Lesedi FM is owned by South African Broadcasting Corporation (SABC). This radio station was launched in 1960 and is currently available in all nine provinces on 87.7-106.6 FM frequencies. Lesedi FM broadcasts in a 24/7 mode exclusively in Sesotho. Their programme format includes music and talk."
+      },
+      {
+         "name" : "Motsweding FM",
+         "image" : "842.v3.png",
+         "site_url" : "http://www.motswedingfm.co.za/",
+         "radio_url" : "https://proradiocloud.antfarm.co.za/ant-lre-sabc/97f660b5d3c949e094ca1d8c983551d2/playlist.m3u8",
+         "description" : "Motsweding FM radio station started broadcasting in June 1962 as Radio Tswana. Nowadays it is a national radio station owned by South African Broadcasting Corporation (SABC) and covering several provinces in South Africa. The main broadcasting language is Setswana and the headquarters of this radio station is in Mahikeng. The slogan of this radio is Konka Bokamoso. Their website doesn’t provide any English-speaking equivalents at all and Google translate does the translation incorrect. This is a clear sign that Motswendig FM has strong focus on Setswana-speaking audience trying to nurture pride and respect of their cultural heritage."
+      },
+      {
+         "name" : "Power fm",
+         "image" : "11714.v13.png",
+         "site_url" : "http://www.powerfm.co.za/",
+         "radio_url" : "https://edge.iono.fm/xice/65_medium.aac",
+         "description" : "Power FM 98.7 is a broadcast Radio station from Johannesburg, South Africa, providing News, Spoken, Information, Traffic and Sports programs."
+      },
+      {
+         "name" : "Classic FM",
+         "image" : "849.v4.png",
+         "site_url" : "http://www.classicfm.co.za/",
+         "radio_url" : "https://edge.iono.fm/xice/49_medium.mp3?p=embed",
+         "description" : "Classic FM's commitment is first and foremost to classical music."
+      },
+      {
+         "name" : "Algoa FM",
+         "image" : "273.v3.png",
+         "site_url" : "https://www.algoafm.co.za/",
+         "radio_url" : "https://edge.iono.fm/xice/54_medium.aac",
+         "description" : "Algoa FM is an adult, contemporary radio station broadcasting on between 94 to 97 FM Stereo in the Eastern Cape province, South Africa. With nearly 900,000 loyal listeners, it is one of the top media players in the region and a preferred advertising medium."
+      },
+      {
+         "name" : "House Afrika Radio",
+         "image" : "71834.v9.png",
+         "site_url" : "http://www.houseafrika.com/",
+         "radio_url" : "http://iceant.antfarm.co.za:8000/HAR.mp3",
+         "description" : "SOUTH AFRICA'S PREMIER HOUSE MUSIC STATION. A unique vision of consistently deep, relevant grooves. We cherish the global heritage of House and break the new sounds Afrika is moving to. IT'S A FEELING!"
+      },
+      {
+         "name" : "GoodHope FM",
+         "image" : "845.v3.png",
+         "site_url" : "http://www.goodhopefm.co.za/",
+         "radio_url" : "https://proradiocloud.antfarm.co.za/ant-lre-sabc/1e60ff4028fe4164a3e43071da9fb86f/playlist.m3u8",
+         "description" : "Good Hope FM is a Cape Town based 24 hour, regional, Commercial Music Station, which broadcasts within a CHR (Contemporary Hit Radio) Rhythmic format providing a music mix of R&B, Ballads, Pop, Hip Hop, Dance, Contemporary Jazz and Old School."
+      },
+      {
+         "name" : "Ligwalagwala FM",
+         "image" : "878.v2.png",
+         "site_url" : "http://www.ligwalagwalafm.co.za/",
+         "radio_url" : "https://proradiocloud.antfarm.co.za/ant-lre-sabc/568fc5738cce4434aa6db69e928084be/playlist.m3u8",
+         "description" : "“Pride” is the word that best personify the station in the mind of the listener. The station’s motto “The Pride of The Nation” is further strengthened by the proud way we relate to our audiences through our music mix and the mandate we carry.Ligwalagwala Fm stands for educating, entertaining and informing in a non-biased manner."
+      },
+      {
+         "name" : "Eantouch radio",
+         "image" : "70633.v29.png",
+         "site_url" : "http://www.eantouchradio.com/",
+         "radio_url" : "http://109.169.15.20:35126/;stream.nsv",
+         "description" : "Briefly about Eantouch Radio Online, it is a South African Youth Development Programme which focuses on developing the skills of local or underground talented individuals. Our programmes offers study sessions and in these programme we have deployed brilliant students from the university who best understand the struggles faced by learners."
+      },
+      {
+         "name" : "Bitter Sweet Music ZA",
+         "image" : "85218.png",
+         "site_url" : "http://www.bittersweetmusic.ro/",
+         "radio_url" : "http://5.196.244.141:8600/;",
+         "description" : "Bitter Sweet Music broadcasts music that are packed with the noted taste of music to give listeners a kind of listening experience only few can match.Bitter Sweet Music its a bit bit botter and a bit sweet..."
+      },
+      {
+         "name" : "Hindvani Radio",
+         "image" : "11835.v3.png",
+         "site_url" : "http://www.hindvani.co.za/",
+         "radio_url" : "https://albert.antfarm.co.za/hindvani/hindvani.stream/playlist.m3u8",
+         "description" : "Hindvani is a community Radio Station an initiative by the Hindi Shiksha Sangh of SA and the largest Online Indian portal 91.5fm"
+      },
+      {
+         "name" : "Lotus FM",
+         "image" : "869.v3.png",
+         "site_url" : "http://www.lotusfm.co.za/",
+         "radio_url" : "https://proradiocloud.antfarm.co.za/ant-lre-sabc/9d1c7019ff894e5191b954eff03d7c77/playlist.m3u8",
+         "description" : "Lotus FM (previously called Radio Lotus) is a South African national radio station based in Durban, loosely similar to the BBC Asian Network in the United Kingdom, that caters for the needs of the South African Indian community. It combines a mix of Indian music, news, current affairs, interviews and entertainment."
+      },
+      {
+         "name" : "Kasi FM",
+         "image" : "11790.v6.png",
+         "site_url" : "https://kasiefm971.co.za/",
+         "radio_url" : "http://176.31.248.14:14562/;",
+         "description" : "The station broadcast to a +-30 km radius using a 200 watt transmitter. People receiving the Kasie FM signal include Ekurhuleni southern region -Boksburg, Alberton, Germiston, Thokoza, Katlehong, Vosloorus and surrounding areas, also receiving Kasie FM (part of east Johannesburg, north of Vereeniging & eastern region of Ekurhuleni Wattville & townships known as Kwatsaduza."
+      },
+      {
+         "name" : "Kapitol Afrika Radio",
+         "image" : "79353.v3.png",
+         "site_url" : "https://www.kapitolafrica.com/",
+         "radio_url" : "https://s3.radio.co/s22e66c126/listen",
+         "description" : "We are AfriKan! We are Art!Founded in 2018, Kapitol Afrika Radio is the heart and the essence of the city of Johannesburg, focusing mainly on art and celebrating the afrikan culture in every way possible. The station's aim is to promote and celebrate the whole spectrum of afrikan art excellence, namely musicans, artists, young creatives, entreprenuers and social genuiuses."
+      },
+      {
+         "name" : "Channel Islam Radio",
+         "image" : "61629.v5.png",
+         "site_url" : "http://ciiradio.com/",
+         "radio_url" : "https://albert.antfarm.co.za/cii_aac/cii.stream/playlist.m3u8",
+         "description" : "Cii Radio is the world's first English Islamic satellite broadcaster. The trusted leader in news and analysis from the Muslim World. Online and Onair"
+      },
+      {
+         "name" : "uDubs Radio",
+         "image" : "84062.v2.png",
+         "site_url" : "http://www.udubsradio.cf/",
+         "radio_url" : "https://stream.zeno.fm/ruhk3td5krruv",
+         "description" : "uDubs Radio is an urban radio station which encourages progressive and developmental dialogue across the University of the Western Cape community (on and off campus), a community whose make up is inclusive of the alumni and surrounding communities."
+      },
+      {
+         "name" : "Transafricaradio",
+         "image" : "7472.v10.png",
+         "site_url" : "http://www.transafricaradio.net/",
+         "radio_url" : "http://iceant.antfarm.co.za:8000/TransAfricaRadio",
+         "description" : "Africa's 1st Online and satellite radio station | 100% African Hits |African Entertainment news| Sport African |Lifestyle news portal. Live stream on taradio.mobi."
+      },
+      {
+         "name" : "Life FM KZN",
+         "image" : "83446.v2.png",
+         "site_url" : "https://lifefmkzn.co.za/",
+         "radio_url" : "https://stream.zeno.fm/599s958ptqruv",
+         "description" : "Welcome to the leading multi broadcaster in KwaZulu Natal ,Life FM KZN broadcast 24 hours a day 7 days a week both on FM and on the internet , We deliver our exclusive content in 50% of IsiZulu with a mix of 40% English and 10% IsiXhosa , Life FM KZN is dominated with a talk content of 60% against 40% music , The main target of the station is youth and young adult that are democracy open minded , Our mission is to inform , educate and entertain our society through our reach and researched programmes that will satisfy our targeted community and abroad through our live streaming"
+      },
+      {
+         "name" : "Hillbrow Radio 24/7",
+         "image" : "81056.v2.png",
+         "site_url" : "http://hillbrowstation24-7.co.za/",
+         "radio_url" : "https://s3.radio.co/sff84e1959/listen",
+         "description" : "Hillbrow Radio is the online Radio station that services a very diverse community and addresses world wide’s education, information, cultural, and entertainment needs. This station it also play role as a training ground for media and Broadcast professionals along  with establishing partnerships with broadcast training institutions."
+      },
+      {
+         "name" : "By The Grace Radio",
+         "image" : "74705.v5.png",
+         "site_url" : "http://www.radio.bythegrace.org/index.html",
+         "radio_url" : "http://s7.voscast.com:9580/;stream1534776794307/1",
+         "description" : "By The Grace  Online Radio just for a soul ,what ever it takes for a soul,Station that bring  hope to the  hearts and souls of the people, what a joy in heaven when one soul repent. Spirit uplift Radio, Soul Revive Radio, Life change Radio, mind revive Radio, stress free Radio where the gospel is preached, where undiluted gospel preached, I charge you therefore before God and the Lord Jesus Christ, who will judge the living and the dead at His appearing  and His Kingdom: Preach the word! Be ready in season and out of season. Convince, rebuke, exhort, with all longsuffering and teaching."
+      },
+      {
+         "name" : "Izwilethemba FM",
+         "image" : "76557.v4.png",
+         "site_url" : "http://www.izwilethembafm.co.za/",
+         "radio_url" : "http://198.100.145.187:17564/;stream.nsv",
+         "description" : "Christian Community Radio based in East London, SA, and covering Buffalo City Metro and surrounding municipalities, on frequency 93.8"
+      },
+      {
+         "name" : "Mbhashe FM",
+         "image" : "70963.v20.png",
+         "site_url" : "https://www.mbhashefm.co.za/",
+         "radio_url" : "https://stream.zenolive.com/u5hrk66sxxquv",
+         "description" : "Mbhashe FM is an online community based radio station that broadcast local content 24 hours to the community of Mbhashe Municipality and to the world. Mbhashe FM is an online community radio station with the vision of being a community radio station broadcasting from South Africa to the world from the rural areas of Mbhashe in the Eastern Cape. Mbhashe FM is all about uplifting the community of Mbhashe Municipality (Dutywa,  Gatyana , Xhorha - DGX) through the use of radio."
+      },
+      {
+         "name" : "Eldos FM",
+         "image" : "12074.png",
+         "site_url" : "http://eldosfm.co.za/",
+         "radio_url" : "http://core2.netdynamix.co.za:8100/;stream.nsv",
+         "description" : "Community Radio Station based in Eldorado Park, South Africa.To be a catalyst for social change"
+      },
+      {
+         "name" : "Impact Radio",
+         "image" : "82645.png",
+         "site_url" : "http://www.impactradio.co.za/",
+         "radio_url" : "http://129.232.169.93/proxy/impactradio?mp=/stream",
+         "description" : "Impact 103 is a Christian Radio station, playing the best in Christian Contemporary Music."
+      },
+      {
+         "name" : "Isambulo Radio",
+         "image" : "80104.v17.png",
+         "site_url" : "https://isambulo-radio1.webnode.com/",
+         "radio_url" : "http://78.129.222.62/stream.mp3?ipport=78.129.222.62_16323",
+         "description" : "This Station headquarters are located in Kwazulu, Pietermartzburg, Snathing location (rural area). Isambulo radio online targets people ranging from young to elderly, specifically youth, reinforcing a sense of pride and culture to the young people of South Africa .It focuses on Education and Entertainment. It provides an interactive environment for it listeners,broadcasting News,current affairs  and Talk Show, Music, Sport, Education, Weather and Traffic ,with maxim emphasis on local content .This radio is listened by everybody ranging from youth to elder who understand IsiZulu Language."
+      },
+      {
+         "name" : "Ingwane FM",
+         "image" : "84511.v2.png",
+         "site_url" : "https://www.ingwanefm.co.za/",
+         "radio_url" : "https://stream.zeno.fm/anyrmew32mzuv",
+         "description" : "Ingwane FM is a community radio station that operates in the Eastern Cape old Transkei region, based in Mthatha. The brainchild of five journalists also based in Mthatha. It aims to bring awareness on issues of public governance; Programmes and implementation strategies aimed at enlightening rural communities as the target area is predominantly rural. This enables rural communities to be aware of service delivery initiatives; which address their needs and refrain from civil disobedience and negative attitude"
+      },
+      {
+         "name" : "Passion FM SA",
+         "image" : "75852.v5.png",
+         "site_url" : "http://www.passionfmsa.co.za/",
+         "radio_url" : "http://noasrv.caster.fm:10151/stream",
+         "description" : "One of the best radio stations around playing all your favorite music from the 80's, 90's and Now. With News, Traffic, Weather and programmes"
+      },
+      {
+         "name" : "Radio Today",
+         "image" : "11798.v4.png",
+         "site_url" : "http://www.radiotoday.co.za/",
+         "radio_url" : "http://162.244.80.118:5350/radiotoday",
+         "description" : "1485 is a community radio station, broadcasting in English to the mature listener in the greater Johannesburg area, with a signal extending from Alberton in the south, Midrand in the north, Randfontein in the west and Benoni in the east."
+      },
+      {
+         "name" : "Choice FM",
+         "image" : "77658.v3.png",
+         "site_url" : "http://choicefmsa.co.za/",
+         "radio_url" : "http://sv2.famcast.co.za:8021/stream",
+         "description" : "Urban community radio in Thohoyandou, Limpopo. Get News, Infortainment, Coolest R&B, HipHop, Afro, Kwaito, House & Gospel. Broadcasting on 101.1 FM"
+      },
+      {
+         "name" : "FFP Radio",
+         "image" : "74831.v1.png",
+         "site_url" : "http://flashfrequencyproductions.co.za/",
+         "radio_url" : "http://87.117.228.65:11444/;stream.mp3",
+         "description" : "We only stream pre release music from various record labels Globally. We do not stream commercial music whatsoever. We believe commercial music killed our underground live platforms / Nightclubs in Johannesburg."
+      },
+      {
+         "name" : "Naas Top Stereo",
+         "image" : "73885.v11.png",
+         "site_url" : "http://www.naastopstereofm.yolasite.com/",
+         "radio_url" : "http://108.61.23.237:8020/radio.mp3",
+         "description" : "Online radio station situated in South Africa. Listed by: Hero Networks24 Inc."
+      },
+      {
+         "name" : "MP Radio",
+         "image" : "70112.v10.png",
+         "site_url" : "http://mponlineradiostation.co.za/",
+         "radio_url" : "http://169.159.154.75:8000/mpradio.hero24.org",
+         "description" : "Mpumalanga Online Radio Station. (Listed by: Hero Networks)"
+      },
+      {
+         "name" : "eBizRadio",
+         "image" : "71783.v3.png",
+         "site_url" : "http://www.ebizradio.com/",
+         "radio_url" : "http://zas4.ndx.co.za:80/proxy/ebizradio?mp=/stream",
+         "description" : "eBizradio.com - The place to go if you want to know about the world of business and the business of the world"
+      },
+      {
+         "name" : "ChillOutRadioSA",
+         "image" : "77635.v3.png",
+         "site_url" : "https://www.kundanimedia.com/",
+         "radio_url" : "http://102.141.74.50:8000/;",
+         "description" : "Broadcast from Kundani Media for Kundani Training College for Media Studies, Covering  Journalism, Radio Station Management, Radio productions and advertising"
+      },
+      {
+         "name" : "Big Indie Giant Radio",
+         "image" : "73547.v6.png",
+         "site_url" : "https://www.bigindiegiant.com/",
+         "radio_url" : "https://stream.zeno.fm/s5g4gnwqwmzuv",
+         "description" : "We scout the globe for the best Indie/Unsigned music out there​​!We have a passion for good songwriting, so this will be the focus as we move forward.As this station is run by musicians, we'd like to welcome and encourage fellow songwriters to share their music with us for possible airplay."
+      },
+      {
+         "name" : "Ripple Stereo",
+         "image" : "78040.v3.png",
+         "site_url" : "http://www.ripplestereo.co.za/",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/RIPPLE_STEREO_SC_S01AAC.aac",
+         "description" : "We offer an alternative to mainstream radio and commercial radio stations with our distinctive blend of music and speech programming. You'll hear soul, jazz, reggae, blues, house, RnB, hip-hop and funk - presented by people with a genuine passion for the music they play. Ripple Stereo is your neighbor, your co-worker and your friend."
+      },
+      {
+         "name" : "Evogue Radio",
+         "image" : "79157.v1.png",
+         "site_url" : "http://www.evogueradio.co.za/",
+         "radio_url" : "https://evogueradio.radioca.st/streams/128kbps",
+         "description" : "EVogue is South Africa’s first AVR (audio and video) online radio station, broadcasting in 80% English and 20% indigenous languages. The E is for entertainment and vogue describes our passion for fashion and flair! We believe that it is imperative that high profiled South African events and talent keep gaining extensive internet presence and be coming widely available and accessible to a wider audience."
+      },
+      {
+         "name" : "Healing Hour Fm",
+         "image" : "81208.v7.png",
+         "site_url" : "http://healinghourfm.myl2mr.com/",
+         "radio_url" : "http://109.169.15.20:37633/;stream.nsv",
+         "description" : "The Christain Radio under the leadership of the King Dr SE Ndwandwe. Life changing radio station all over South Africa Online."
+      },
+      {
+         "name" : "JAM City Radio",
+         "image" : "28380.png",
+         "site_url" : "http://www.jamcityradio.net/",
+         "radio_url" : "http://s6.voscast.com:11292/;stream1490615246767/1",
+         "description" : "JAM City is a music-focused radio station dedicated to the creators ofthis generation. This new #1 name in music offers breaking music news,reviews and interviews. Attracting young adults through old and new musicmixes, tracks and freestyles, JAM City Radio is accessible anytime,anywhere. Since May 2014, JAM City Radio is available worldwide on theinternet and it’s also the premier source for jobs, events and businesslistings. Welcome to the revolution."
+      },
+      {
+         "name" : "Royal Active Radio",
+         "image" : "74244.v2.png",
+         "site_url" : "http://www.royalactiveradio.com/",
+         "radio_url" : "http://zas4.ndx.co.za/proxy/rar?mp=/stream",
+         "description" : "Royal Active Radio is an online streaming radio station celebrating the good news of the Gospel. We are a Kingdom-minded station with community in mind, with many presenters hosting shows across a broad range of topics and in multiple languages, predominantly English.Our music is a wide mix of contemporary Gospel, classic hits and local produce. We listen carefully to feedback and you can also share prayer requests with our dedicated team of intercessors."
+      },
+      {
+         "name" : "Prophetic Channel Radio",
+         "image" : "80810.v4.png",
+         "site_url" : "http://www.propheticchannelradio.online/",
+         "radio_url" : "https://stream.zenolive.com/aadbzxd6sfeuv",
+         "description" : "Prophetic Channel Radio is a foundational truths and principals radio passionately dedicated toReaching the world with the Good News of Jesus Christ through teaching and proclaiming the precious pure and correct message of Salvation, which provides every promise, support and aid given to every true believer in Christ; which are all needed in order to attain the final goal of Eternal Life, no matter what trials, tribulations or fiery trials which may come on the believer's way."
+      },
+      {
+         "name" : "Whale Coast FM",
+         "image" : "877.v5.png",
+         "site_url" : "http://www.whalecoastfm.co.za/",
+         "radio_url" : "http://85.25.164.35:443/;stream.nsv",
+         "description" : "Whale Coast FM is a community radio station which means that the community needs to get involved. You can do this by hosting a show, contributing your ideas, advertising your business, phoning in or simply tuning in."
+      },
+      {
+         "name" : "The Voice Radio",
+         "image" : "76587.v1.png",
+         "site_url" : "http://thevoicemag.co.za/",
+         "radio_url" : "http://thevoiceradio.out.airtime.pro:8000/thevoiceradio_a",
+         "description" : "The Voice Network is a leading independent Christian media company, operating in the South Africa and Canada. As a non-denominational organization, we seek to make God famous – and relevant – throughout the world. The Voice Network produces a range of media products and services to achieve our vision. Our staff are based across four countries and are all focused on our goal of producing ‘world’s-best’ media, with the aim of spreading the word of God globally."
+      },
+      {
+         "name" : "Salaamedia",
+         "image" : "61640.v4.png",
+         "site_url" : "http://salaamedia.com/",
+         "radio_url" : "https://capeant.antfarm.co.za/salaam/salaam.stream/playlist.m3u8",
+         "description" : "Salaamedia is an online portal for humanitarian journalism. We don't just report the news, we tell you what you can do about it."
+      },
+      {
+         "name" : "Vuka Online Radio",
+         "image" : "80458.v2.png",
+         "site_url" : "http://www.vukaonlineradio.co.za/",
+         "radio_url" : "http://s5.voscast.com:8542/;",
+         "description" : "You know how everything on Radio today is the same....Well. Here we are!This is the station that sells a new perspective to whatever is happening,the Station that wakes us up! Our aim is to:V - Expand the Vision of our Listeners,U - Challenge their Understanding,K - Increase their Knowledge andA - Inspire Action."
+      },
+      {
+         "name" : "TMV",
+         "image" : "66431.v11.png",
+         "site_url" : "http://tmv899-com.webs.com/",
+         "radio_url" : "http://5.133.182.164/stream.mp3?ipport=5.133.182.164_10465",
+         "description" : "TMV is a community based radio station, where we provide the listeners with news, sports, talk, and music with most genre's"
+      },
+      {
+         "name" : "Antfarm",
+         "image" : "71281.v2.png",
+         "site_url" : "http://www.antfarm.co.za/",
+         "radio_url" : "http://capeant.antfarm.co.za:8000/CII_MP3",
+         "description" : "ANTFARM specializes in LIVE DIGITAL content delivery on any platform to any device anywhere in the world.Let Antfarm craft a global communication solution for your digital needs."
+      },
+      {
+         "name" : "Say Radio",
+         "image" : "85542.v5.png",
+         "site_url" : "http://sayradio.radio12345.com/",
+         "radio_url" : "http://freeus5.listen2myradio.com/stream.mp3?ipport=freeus5.listen2myradio.com_12493",
+         "description" : "South Africa youth Radio broadcasts a mix of music, news, interviews, and locally-relevant information to the community of uMkhanyakude District. SAY Radio fills the communication gap between community members and creates a forum for community, business and public service announcements.   .  SAY Radio  rebroadcasts local, nationally and Internationaly syndicated news and talk shows on a variety of topics, adding to the continuing education of community members."
+      },
+      {
+         "name" : "Loopmaster Central Radio",
+         "image" : "81312.v2.png",
+         "site_url" : "http://www.famcast.co.za/lmcr/",
+         "radio_url" : "http://sv2.famcast.co.za:8011/stream",
+         "description" : "Limpopo's online radio"
+      },
+      {
+         "name" : "Urban Fusion Radio",
+         "image" : "84832.v3.png",
+         "site_url" : "http://www.urbanfusionmedia.co.za/",
+         "radio_url" : "http://protostar.shoutca.st:9105/stream",
+         "description" : "On a mission to revolutioniseentertainment"
+      },
+      {
+         "name" : "MC90.3FM",
+         "image" : "80131.v3.png",
+         "site_url" : "https://www.plettfm.co.za/",
+         "radio_url" : "http://142.4.217.133:8597/stream2",
+         "description" : "Owned by Wave Broadcasting and Entertainment (Pty) Ltd., a South African broadcasting and entertainment Company, MC90.3FM (Plettenberg Bay) and Knysna 97.0FM are unique radio stations which are completely localized, niched for tourism and business development, making an important contribution through informative, entertaining and contemporary programming to the Garden Route, it’s communities and the large numbers of local and international tourists who visit the area."
+      },
+      {
+         "name" : "Capital Live South Afrika",
+         "image" : "83275.v6.png",
+         "site_url" : "http://www.capitallivesa.co.za/",
+         "radio_url" : "http://cassini.shoutca.st:8855/;stream.nsv",
+         "description" : "Unlocking Afrikan potential"
+      },
+      {
+         "name" : "Heavyhops",
+         "image" : "85179.v2.png",
+         "site_url" : "https://heavyhops.co.za/",
+         "radio_url" : "http://165.0.74.192:8000/stream/2/;",
+         "description" : "South African Metal and Rock with a bit of punk"
+      }
+   ]
+}

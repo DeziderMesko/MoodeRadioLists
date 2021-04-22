@@ -1,0 +1,39 @@
+{
+   "mq" : [
+      {
+         "name" : "Nord FM Martinique",
+         "image" : "9307.png",
+         "site_url" : "http://www.martiniquenordtv.fr/v2/index.php",
+         "radio_url" : "https://nordfm.ice.infomaniak.ch/nordfm-128.mp3",
+         "description" : "NORD FM 93.4 Mhz La Voix du Pays Nord.Listen online to NORD FM MARTINIQUE in Martinique. ... Location Martinique; Genres Variety; Language Frenc"
+      },
+      {
+         "name" : "Martinique 1ère",
+         "image" : "13332.v1.png",
+         "site_url" : "http://la1ere.francetvinfo.fr/martinique/radio",
+         "radio_url" : "https://martinique.ice.infomaniak.ch/martinique-128.mp3",
+         "description" : "Martinique 1ère (ex RFO) est la radio de service public du groupe France Télévisions. Informations, service public, émissions de proximité, musiques, culture, patrimoine, découvertes, ..."
+      },
+      {
+         "name" : "Gospel Sound System",
+         "image" : "56734.v7.png",
+         "site_url" : "https://gospelsoundsystem.com/",
+         "radio_url" : "http://proxima.shoutca.st:8191/stream",
+         "description" : "Gospel Sound System - Caribbean Gospel Music"
+      },
+      {
+         "name" : "Jumble FM",
+         "image" : "69706.v9.png",
+         "site_url" : "http://www.jumble.fm/",
+         "radio_url" : "https://www.facebook.com/JumbleFM/app/190322544333196/;stream.nsv;stream.nsv",
+         "description" : "Jumble.FM - Urban Reggae est une radio internet entièrement dédiée au Reggae sous toutes ses formes."
+      },
+      {
+         "name" : "Mouv'",
+         "image" : "82812.v1.png",
+         "site_url" : "http://mouv.fm/",
+         "radio_url" : "https://listen.radioking.com/radio/255529/stream/300106",
+         "description" : "Music & Lifestyle"
+      }
+   ]
+}

@@ -1,0 +1,907 @@
+{
+   "py" : [
+      {
+         "name" : "Radio Soy",
+         "image" : "36247.v4.png",
+         "site_url" : "http://www.radiosoy.com/",
+         "radio_url" : "http://198.15.77.50:9500/;",
+         "description" : "En Radio Soy te hacemos sentir la música, esas que tantos recuerdos te traen.  Las irrepetibles décadas de los 70, 80 y 90 en canciones INOLVIDABLES !!! Queda con nosotros ahora y siempre e invita a tus amigos a sumarse a la fila de los nostálgicos. RADIO SOY la radio online que te transporta al encuentro de tus más bellos momentos de juventud. . Dale un click al corazoncito para agregarnos a tus radios favoritas."
+      },
+      {
+         "name" : "Radio Metro",
+         "image" : "37270.png",
+         "site_url" : "http://www.radiometro.com.py/",
+         "radio_url" : "http://192.235.87.105:15336/;",
+         "description" : "Disfruta con la programación de esta emisora que transmite sin interrupciones durante todo el día a través de internet, llevando a su público la actualidad nacional de Paraguay, deportes, notas internacionales, cultura y entretenimiento"
+      },
+      {
+         "name" : "Del Este",
+         "image" : "37158.png",
+         "site_url" : "http://www.cadenaradialdeleste.com.py/",
+         "radio_url" : "http://radio.cdehosting.net:8040/;",
+         "description" : "Del Este - Emisora que tiene como misión brindar el mejor entretenimiento del dial, con noticias relevantes, segmentos deportivos, shows en vivo, musicales de diferentes tipos que capturan la sintonía diaria del público."
+      },
+      {
+         "name" : "Radio Santidad",
+         "image" : "37586.png",
+         "site_url" : "http://www.santidadradio.com/",
+         "radio_url" : "http://206.190.133.196:7006/stream",
+         "description" : "Ante la imperiosa necesidad de contar con un modesto material instructivo quesirva como fuente de consulta primaria, ensayamos la redacción de estepequeño libro, haciendo la salvedad que no es para polémica ni mucho menosbuscar confrontación en materia teológica con ninguna denominación evangélica ni religiosa, sino tan sólo testificar esta gran verdad, la venida del Espíritu Santo, cumplimiento de la promesa de Jesucristo inserta en las Sagradas Escrituras."
+      },
+      {
+         "name" : "Radio Montecarlo",
+         "image" : "36711.v2.png",
+         "site_url" : "http://www.radiomontecarlo.com.py/",
+         "radio_url" : "http://192.99.16.17:1968/;",
+         "description" : "Adoptá buena música en la 100.9 Montecarlo FM. Grupo Nación de Comunicaciones."
+      },
+      {
+         "name" : "Radio Pop",
+         "image" : "36526.v4.png",
+         "site_url" : "http://radiopop.com.py/",
+         "radio_url" : "https://rps1.radiopop.com.py:9433/stream",
+         "description" : "La radio que transmite músic popular en vivo en el 93.3 de la FM."
+      },
+      {
+         "name" : "Radio Maria",
+         "image" : "35926.v2.png",
+         "site_url" : "http://www.radiomaria.org.py/",
+         "radio_url" : "http://dreamsiteradiocp2.com:8068/streaming.mp3",
+         "description" : "Radio María en Paraguay, se inaugura oficialmente el 12 de diciembre de 2002 en la ciudad de San Lorenzo. Con una cobertura en Asunción, todo el departamento Central, parte de los departamentos de Cordillera, Paraguarí y Pdte. Hayes."
+      },
+      {
+         "name" : "Radio OBEDIRA",
+         "image" : "36273.v1.png",
+         "site_url" : "http://www.obedira.com.py/",
+         "radio_url" : "http://play.obedira.com.py:8300/live",
+         "description" : "Emisora radial que nos llega desde Paraguay con una programación enfocada en los diversos aspectos de la vida cristiana, así como en su relación con otros temas de interés y difusión de eventos y artistas cristianos."
+      },
+      {
+         "name" : "Radio Net Yeshua",
+         "image" : "52109.v6.png",
+         "site_url" : "http://radionetyeshua.blogspot.com/",
+         "radio_url" : "http://stm31.srvstm.com:19278/;stream.nsv",
+         "description" : "Una emisora que está para atender a la audiencia con buenas musicas en español, ingles, portugues, guaraní  y todo lo que quieran escuchar. Además con la infaltable palabras de esperanza y la oración de fé por todos."
+      },
+      {
+         "name" : "Radio 970 AM",
+         "image" : "36250.v1.png",
+         "site_url" : "http://www.radio970am.com.py/",
+         "radio_url" : "http://192.99.16.17:3364/;",
+         "description" : "Es una emisora de radio que brinda programas las 24 horas, con temas nacionales y sucesos, política, asuntos legales, lo mejor del fútbol y otros deportes, eventos, novedades de los artistas destacados y más."
+      },
+      {
+         "name" : "FM Azul Y Oro",
+         "image" : "36238.png",
+         "site_url" : "http://www.fmazulyoro.com.py/",
+         "radio_url" : "http://aliasdns.info:8068/;",
+         "description" : "FM Azul y Oro 94.7 es una estación de radio de difusión de Luque, Paraguay proporcionar noticias, deportes, información y espectáculos en directo."
+      },
+      {
+         "name" : "Onda Verde",
+         "image" : "37147.png",
+         "site_url" : "http://www.ondaverde.com.py/",
+         "radio_url" : "http://stream.radiios.com:8812/;",
+         "description" : "Ser la Radioemisora en frecuencia modulada líder en el Departamento de Caaguazú, buscando la excelencia, satisfacción total y fidelidad de radioescuchas y clientes bajo altos stándares de calidad y compromiso de Responsabilidad social, proyectando la identidad caaguaceña en el ámbito Nacional y Mundial dentro de un marco empresarial eficaz, eficiente, competitivo y moderno."
+      },
+      {
+         "name" : "Radio Guaira",
+         "image" : "36225.png",
+         "site_url" : "http://www.fmguaira.com/",
+         "radio_url" : "http://stream.aerstreaming.com:3284/;aacp",
+         "description" : "103.5 FM Radio Guaira es una estación de radio de difusión desde Villarrica, Paraguay proporcionando éxitos de la música de los años 70, 80 y 90."
+      },
+      {
+         "name" : "Radio Colmenar",
+         "image" : "36256.v1.png",
+         "site_url" : "http://www.radiocolmenar.com.py/",
+         "radio_url" : "http://s9.viastreaming.net:7220/;",
+         "description" : "Radio en línea con las mejores secciones musicales con variedad de géneros actuales, espacios de entretenimiento, noticias, temas de interés general, sucesos internacionales, shows en vivo, opinión pública y diversos servicios."
+      },
+      {
+         "name" : "Estacion 40",
+         "image" : "36524.png",
+         "site_url" : "http://www.estacion40.com.py/",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/ESTACION40AAC_SC",
+         "description" : "Estación 40 - Fresca, optimista, dinámica, con más música y compañía. Basándose en la Formula de Alta Repetición (TOP 40) y ofreciendo hits tras hits de forma continuada durante las 24 horas. Es además una radio que propone un fuerte vínculo con sus clientes, apoyando desde el lugar de los hechos y generando sus propios eventos."
+      },
+      {
+         "name" : "Radio Karapā 89.9 FM",
+         "image" : "37591.png",
+         "site_url" : "http://katuetedigital.com/karapa/",
+         "radio_url" : "http://stream.aerstreaming.com:3516/;aacp",
+         "description" : "Radio Karapā 89.9 F.M. transmitiendo en vivo desde la ciudad de Katuete – Canindeyú – Paraguay.Ademas la radio emisora funciona como un canal de televisión por cable cuya estación base es el canal 12 Tv Katuete con repetidoras en el mismo canal en las otras operadoras de las ciudades de Puente Kyjha, La Paloma, Nueva Esperanza y próximamente en las demás ciudades del departamento con programación propia, de músicas, noticias, entretenimientos, deportes y muchos mas."
+      },
+      {
+         "name" : "Rock and Pop",
+         "image" : "36254.png",
+         "site_url" : "http://rockandpop.com.py/",
+         "radio_url" : "http://107.182.231.73:7044/;",
+         "description" : "Fundada en 1996, transmite los mejores programas de entretenimiento, espaciosde música rock de artistas nacionales e internacionales, y género pop en Español, con notas de actualidad de los artistas."
+      },
+      {
+         "name" : "Corazón",
+         "image" : "35927.png",
+         "site_url" : "http://www.hoy.com.py/fm-corazon",
+         "radio_url" : "http://66.55.145.43:7076/stream",
+         "description" : "Emisora con programación informativa, con noticieros, diversión y entretenimiento musical variado, que ayuda a hacer algo más amena y divertida la vida de los muchos oyentes que la sintonizan durante las 24 horas del día."
+      },
+      {
+         "name" : "Yatytay FM",
+         "image" : "36529.png",
+         "site_url" : "http://www.roproduccionespy.com/",
+         "radio_url" : "http://radios.wilsoft-es.com:8000/yatytayfm.ogg",
+         "description" : "Yatytay FM, emisora de radio con fines de orientar y ayudar a la gente de yatytay."
+      },
+      {
+         "name" : "Radio Santa Rita FM",
+         "image" : "53355.v5.png",
+         "site_url" : "http://www.radiosantarita.com.py/",
+         "radio_url" : "http://questreaming.info:28466/;stream.mp3",
+         "description" : "Radio Santa Rita FM 93.9 - Donde estés siempre contigo!!!Tu compañía las 24 HORAS!"
+      },
+      {
+         "name" : "La Voz de la Policia Nacional",
+         "image" : "36613.png",
+         "site_url" : "http://www.policianacional.gov.py/",
+         "radio_url" : "http://212.83.172.242:8108/;",
+         "description" : "En esta estación radiofónica en línea el oyente podrá mantenerse informado de los sucesos acaecidos en su área o ciudad, obteniendo una serie de actualizaciones constantes de manos de profesionales de las fuerzas de seguridad."
+      },
+      {
+         "name" : "Radio Latina",
+         "image" : "36707.png",
+         "site_url" : "http://www.radiolatina.com.py/",
+         "radio_url" : "http://192.240.114.58/movlatina/movlatina.stream/playlist.m3u8",
+         "description" : "Por que sólo un Latino sabe entender a otro Latino"
+      },
+      {
+         "name" : "Tuparendá 88.9 FM",
+         "image" : "37587.v2.png",
+         "site_url" : "http://radiotuparenda889fm.com.py/",
+         "radio_url" : "http://68.66.193.12:8026/;",
+         "description" : "Tuparendá - 88.9 FM es una emisora radiodifundida de Abaí que toca Top 40-Pop, Pop de música."
+      },
+      {
+         "name" : "Radio ZP 30",
+         "image" : "35911.png",
+         "site_url" : "http://www.zp30.com.py/",
+         "radio_url" : "http://184.154.43.106:8019/stream",
+         "description" : "Die “Asociación Civil Radio ZP-30, La Voz del Chaco Paraguayo” arbeitet nach biblischen Prinzipien und lädt die Hörer ein, Jesu Nachfolger zu werden. Wir bieten integrale Lebenshilfe an."
+      },
+      {
+         "name" : "Radio Uno",
+         "image" : "36231.png",
+         "site_url" : "http://www.radiouno.com.py/",
+         "radio_url" : "https://rus1.radiouno.com.py:9433/stream",
+         "description" : "Contamos con una programación especializada en brindar información del momento, veraz y ecuánime."
+      },
+      {
+         "name" : "Diario HOY",
+         "image" : "36245.v2.png",
+         "site_url" : "http://www.hoy.com.py/",
+         "radio_url" : "http://66.55.145.43:7081/stream",
+         "description" : "Perfil Estación de Paraguay que ofrece buena calidad de contenidos en su programación, en horario de 24 horas, con notas actuales, noticias relevantes, variado entretenimiento musical con los géneros más populares."
+      },
+      {
+         "name" : "Radio Universo",
+         "image" : "37179.png",
+         "site_url" : "http://www.cadenaradialdeleste.com.py/",
+         "radio_url" : "http://radio.cdehosting.net:8042/;",
+         "description" : "Una radio con una variada programación con shows en vivo, musica pop y rock, noticias nacionales, internacionales y mucho entretenimiento."
+      },
+      {
+         "name" : "La Deportiva 1120 AM",
+         "image" : "36608.png",
+         "site_url" : "http://www.ladeportiva.am/",
+         "radio_url" : "http://142.4.217.133:8750/;",
+         "description" : "La primera emisora deportiva del país. Todos los deportes en una sola frecuencia, 1120 AM."
+      },
+      {
+         "name" : "Radio Más",
+         "image" : "37198.v2.png",
+         "site_url" : "http://www.radiomas.com.py/",
+         "radio_url" : "http://stream.radiios.com:8002/;",
+         "description" : "Radio emisora que transmite sin interrupciones la mejor programación del dial, estando un paso por delante en difusión de noticias relevantes, información y entretenimiento de buena calidad, durante las 24 horas."
+      },
+      {
+         "name" : "Radio Itapúa",
+         "image" : "36253.v1.png",
+         "site_url" : "http://www.itapuafm.com.py/",
+         "radio_url" : "http://radio.itapuafm.com.py:8000/itapuafm",
+         "description" : "Emisora con un claro enfoque periodístico que brinda programas de calidad durante todo el día con contenidos noticiosos e informativos, divertidos y amenos, contando además con la más variada música para todos los gustos."
+      },
+      {
+         "name" : "CFA Radio",
+         "image" : "36690.png",
+         "site_url" : "http://www.cfaradio.com.py/",
+         "radio_url" : "https://rds3.desdeparaguay.net/movcfa/movcfa.stream/chunklist_w1922980709.m3u8",
+         "description" : "CFA RADIO ya está sonando para vos!!! Sintonizanos todos los días en la 99.5 FM."
+      },
+      {
+         "name" : "Satelital FM",
+         "image" : "37594.v1.png",
+         "site_url" : "http://www.satelitalfm.com/",
+         "radio_url" : "http://audio.satelitalfm.com:8001/stream",
+         "description" : "Siempre tu Radio. Siempre una canción."
+      },
+      {
+         "name" : "FM Vive",
+         "image" : "37585.v1.png",
+         "site_url" : "http://www.fmvive.com/",
+         "radio_url" : "http://108.161.139.194:9312/;",
+         "description" : "Música que te hace sonreir, cantar, bailar, que te hace vivir!Radio Vive FM 104.3, transmitiendo desde Coronel Oviedo - Paraguay."
+      },
+      {
+         "name" : "FM Horizonte",
+         "image" : "35928.v4.png",
+         "site_url" : "http://fmhorizonte.com.py/",
+         "radio_url" : "http://201.217.38.182:8000/;stream/1",
+         "description" : "Escucha en esta emisora todo el folklore de la música en idioma guaraní y ponte al día con los titulares de la jornada. Esta radio brinda una programación amena con noticias y música."
+      },
+      {
+         "name" : "Radio Naranjaty",
+         "image" : "37449.v1.png",
+         "site_url" : "http://www.naranjaty.com.py/",
+         "radio_url" : "http://stm9.srvstm.com:11508/;type=mp3&volume=100&bufferlength=10",
+         "description" : "A finales del año 1995, se vio la necesidad de la creación de una Radioemisora en la Ciudad de Naranjal."
+      },
+      {
+         "name" : "Radio Universal",
+         "image" : "36520.png",
+         "site_url" : "http://radiouniversal.com.py/",
+         "radio_url" : "http://publish.desdeparaguay.net:9794/;stream.mp3",
+         "description" : "Radio Universal 93.9FM. Desde 1991, el universo en tus oídos; junto al Salón Galas Universal y el Radio Club Universal. Dale Me Gusta"
+      },
+      {
+         "name" : "Chic Radio",
+         "image" : "46683.v1.png",
+         "site_url" : "https://chicradio.jimdo.com/",
+         "radio_url" : "https://stream.zeno.fm/ybz4m57t7druv",
+         "description" : "Somos un concepto premium en radio, la fusión de todo ítem de vanguardia:-Shows Variados (lifestyle)-Música Trance-Audiencia High class"
+      },
+      {
+         "name" : "FM Concert",
+         "image" : "36235.v2.png",
+         "site_url" : "http://b.fmconcertonline.com.py/",
+         "radio_url" : "http://107.182.231.73:7052/;",
+         "description" : "Perfil Esta radio en línea ha conseguido posicionarse como la favorita de los oyentes valiéndose para ello de sus espacios musicales, shows y noticieros, brindando entretenimiento durante las 24 horas del día."
+      },
+      {
+         "name" : "Itapua FM 102.5",
+         "image" : "53052.v1.png",
+         "site_url" : "http://www.itapuafm.com.py/v2/",
+         "radio_url" : "http://aire.itacom.com.py:8000/itapuafm",
+         "description" : "Al aire con Marcando la mañana. Itapua FM 102.5"
+      },
+      {
+         "name" : "Radio Ñanduti",
+         "image" : "36249.png",
+         "site_url" : "http://nanduti.com.py/",
+         "radio_url" : "http://107.182.231.73:7048/;",
+         "description" : "Radio Ñanduti es la primera fuente de las principales noticias locales e internacionales, la información relevante de última hora, shows en vivo para entretener a todo tipo de oyentes, música nacional y éxitos de artistas del mundo"
+      },
+      {
+         "name" : "Global Mix",
+         "image" : "36607.png",
+         "site_url" : "http://globalmix1065.com/",
+         "radio_url" : "http://209.133.216.3:7048/live",
+         "description" : "Conceptualmente podríamos definir a Global Mix 106.5 con un formato Urbano – Mix Crossover (Radio Mix) Juvenil de estilos variados; Reggaetón, electro pop, Latinos, Latín House, Cumbia y Retros."
+      },
+      {
+         "name" : "Caracol FM",
+         "image" : "36531.png",
+         "site_url" : "http://www.radiofmcaracol.com/",
+         "radio_url" : "http://radios.wilsoft-es.com:8000/caracol.ogg",
+         "description" : "Radio con información, música, noticias al día y sucesos internacionales, las 24 horas."
+      },
+      {
+         "name" : "Radio Luz",
+         "image" : "37454.v1.png",
+         "site_url" : "http://www.radioluzfmpy.com/",
+         "radio_url" : "http://167.114.116.223:9960/;stream.nsv",
+         "description" : "Radio Luz es una emisora de radio en Santa Rita, que ofrece programas de Top 40 y Pop."
+      },
+      {
+         "name" : "Radio Yerutí",
+         "image" : "37588.v1.png",
+         "site_url" : "http://www.radioyerutifm.com/",
+         "radio_url" : "http://streamserver.ml:7026/;",
+         "description" : "Te entretenemos en todo momento con buena música y por sobre toda las cosas te llenamos de ondas positivas."
+      },
+      {
+         "name" : "Radio Panamericana de Carapegua",
+         "image" : "36255.v1.png",
+         "site_url" : "http://www.panamericanacarapegua.com/",
+         "radio_url" : "http://195.154.33.87:8674/;",
+         "description" : "Estación de Paraguay que difunde espacios que combinan el mejor entretenimiento, con programas de variedades, noticias relevantes y música, brindan al público toda la actualidad durante las 24 horas del día."
+      },
+      {
+         "name" : "Radio Renacer",
+         "image" : "37448.v1.png",
+         "site_url" : "http://radiorenacerfm.com/",
+         "radio_url" : "http://ample-zeno-06.radiojar.com/u2kcb3ucag5tv",
+         "description" : "Nosotros somos una radio cristiana, con nuestros principios fundados en los mandamientos y estatutos de nuestro Señor Jesucristo."
+      },
+      {
+         "name" : "Radio Pasión",
+         "image" : "36618.v3.png",
+         "site_url" : "http://www.fmpasion.com.py/",
+         "radio_url" : "http://108.178.57.196:8078/;stream.mp3",
+         "description" : "Es una emisora que transmite a  Capiatá y sus alrededores. Su señal Online está presente a través de su sitio web online a través de fmpasion.com.py.La programación de PASION FM se basa en noticias, música, entrevistas y entretenimiento variado, así como informaciones actuales del país y el mundo."
+      },
+      {
+         "name" : "Radiodifusion America",
+         "image" : "36237.png",
+         "site_url" : "http://www.radioiglesia.com/",
+         "radio_url" : "https://stream.zenolive.com/70c6w0zenpeuv",
+         "description" : "Radiodifusión América es una estación de radio por Internet de Bella Vista, Paraguay proporcionando música popular española, charlas e información."
+      },
+      {
+         "name" : "ZP12",
+         "image" : "36227.png",
+         "site_url" : "http://www.zp12.gov.py/",
+         "radio_url" : "http://audio.radionacional.gov.py:8085/700am",
+         "description" : "Fomentar la participación ciudadana en la vida pública, permitiendo el acceso a la información, el conocimiento y la cultura, al tiempo de promover la interacción entre los ciudadanos."
+      },
+      {
+         "name" : "Radio Cáritas",
+         "image" : "36230.v1.png",
+         "site_url" : "http://www.caritas.com.py/",
+         "radio_url" : "http://200.1.201.244:8000/680AM",
+         "description" : "Radio Cáritas AM 680 es una estación de radio de difusión desde Asunción, Paraguay proporcionar Católica, Hablar español y Música."
+      },
+      {
+         "name" : "VolMix",
+         "image" : "7261.v2.png",
+         "site_url" : "http://www.volmix.tk/",
+         "radio_url" : "https://stream.zeno.fm/ym0qh6zmg1duv",
+         "description" : "Es un emisora con buena programación con música variada las 24 horas del día!"
+      },
+      {
+         "name" : "Monumental AM",
+         "image" : "36226.v1.png",
+         "site_url" : "http://monumental.com.py/",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/MONUMENTALAAC.aac",
+         "description" : "Monumental AM 1080 presenta un staff conformado por referentes Periodísticos de Primer Nivel, que garantizan una opinión responsable. La información justa en el momento preciso, Opinión con compromiso, ofreciendo a la audiencia noticias de política, economía, deportes, entretenimientos, espectáculos y acompañado por buena música para hacer más placentera la jornada. Radio Monumental se traduce en un referente de nuevo formato radial en el mercado, ofreciendo un estilo fresco, único y original."
+      },
+      {
+         "name" : "Educacion",
+         "image" : "36234.v4.png",
+         "site_url" : "http://www.educacionfm.com.py/",
+         "radio_url" : "http://198.50.206.237:8050/;",
+         "description" : "Educación FM 99.7 Mhz comienza su actividad en el año 1998, por la necesidad de brindar a Ciudad del Este un medio de comunicación radial dedicado al público joven adulto, con una variada y atractiva programación musical de una ciudad en crecimiento. La idea surgió por parte de los directivos del Colegio Gimnasio del Saber, donde actualmente se encuentran los estudios y planta transmisora de la radio."
+      },
+      {
+         "name" : "Radio Santaní",
+         "image" : "37597.png",
+         "site_url" : "http://santanicomunicaciones.com/",
+         "radio_url" : "http://stream.radiios.com:7404/;stream/1",
+         "description" : "Radio Santaní es una emisora de radiodifusión de música popular latina."
+      },
+      {
+         "name" : "Urbana",
+         "image" : "35921.v1.png",
+         "site_url" : "http://www.urbana.com.py/",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/URBANAAAC.aac",
+         "description" : "Radio de Paraguay que difunde programas durante las 24 horas, con lo mejor en música urbana actual, shows en vivo con el máximo entretenimiento, noticias relevantes locales y sucesos mundiales."
+      },
+      {
+         "name" : "Uninorte FM Estéreo",
+         "image" : "36518.png",
+         "site_url" : "http://www.uninorte.edu.co/",
+         "radio_url" : "http://cactus2.uninorte.edu.co:1755/;stream.mp3",
+         "description" : "Somos una alternativa para la audiencia del Caribe Colombiano y el mundo, con una programación de música clásica, jazz, rock, músicas del Caribe y del mundo."
+      },
+      {
+         "name" : "FM Union",
+         "image" : "36611.v1.png",
+         "site_url" : "http://www.radiofmunion.com/",
+         "radio_url" : "http://181.120.29.165:8000/;stream.nsv",
+         "description" : "Emisora desde la Ciudad de Limpio, republica del Paraguay."
+      },
+      {
+         "name" : "Radio Marandú",
+         "image" : "37261.png",
+         "site_url" : "http://www.radiomarandu.com.py/",
+         "radio_url" : "http://192.99.35.215:5019/stream?1478103210549",
+         "description" : "Desde Coronel Bogado Itapua, transmitiendo en FM 88.7. En todos lados con vos"
+      },
+      {
+         "name" : "San Ignacio",
+         "image" : "36262.png",
+         "site_url" : "http://sanignaciofm.com/",
+         "radio_url" : "http://67.212.166.178:7074/;",
+         "description" : "Estación que transmite secciones musicales variadas con ritmos latinos, además de los éxitos internacionales más escuchados y las noticias de hechos relevantes, alternando información con entretenimiento durante 24 horas del día."
+      },
+      {
+         "name" : "Radio Mburucuyá",
+         "image" : "36236.png",
+         "site_url" : "http://www.mburucuya.com.py/",
+         "radio_url" : "http://108.178.57.196:8074/;",
+         "description" : "Radio Mburucuyá AM 980 es una estación de radio de difusión de Pedro Juan Caballero, Paraguay, proporcionando hablar español y la música local."
+      },
+      {
+         "name" : "Radio Evolución",
+         "image" : "37202.v1.png",
+         "site_url" : "http://www.radioevolucion.com.py/",
+         "radio_url" : "http://publish.desdeparaguay.net:8975/;",
+         "description" : "No dejes de oir a Radio Evolucion 89.3 FM otra de las emisoras más famosas en Paraguay por distribuir buena música."
+      },
+      {
+         "name" : "Radio Mundial",
+         "image" : "37176.png",
+         "site_url" : "http://www.mundialvirtual.net/",
+         "radio_url" : "http://suaradio1.dyndns.ws:10040/stream?type",
+         "description" : "Radio Mundial - durante 24 horas o ouvinte Mundial tem música, informações, jornalismo e entretenimento; e agora, você também faz parte da nossa família e da nossa história."
+      },
+      {
+         "name" : "Cooperativa Universitaria",
+         "image" : "36523.png",
+         "site_url" : "http://www.radiocooperativauniversitaria.com.py/",
+         "radio_url" : "http://200.108.136.94:8000/envivo",
+         "description" : "Somos una empresa solidaria de intermediación financiera, líder del sector cooperativo, con un equipo humano calificado y competente, que ofrece servicios para satisfacer las necesidades de mejoramiento de calidad de vida de su membresía, comprometida con el desarrollo de la comunidad y la defensa del medio ambiente, velando por los intereses y expectativas del gremio."
+      },
+      {
+         "name" : "Partido Colorado",
+         "image" : "36521.png",
+         "site_url" : "http://anr.org.py/",
+         "radio_url" : "http://209.133.216.3:7265/stream/;",
+         "description" : "Esta radio en línea transmite principalmente contenido relacionado con el Partido Colorado de Paraguay y la Asociación Nacional Republicana, tratando la actualidad política del país y ofreciendo, además, música y entretenimiento."
+      },
+      {
+         "name" : "Radio Ysapy",
+         "image" : "36233.v1.png",
+         "site_url" : "http://www.radioysapy.com.py/",
+         "radio_url" : "http://198.15.77.50:9416/;stream.nsv",
+         "description" : "Radio Ysapy FM 90.7 es una estación radial que se trasmite desde Asuncion, Central, Paraguay las 24 horas del día.A través de una programación se encarga de difundir diferentes segmentos con lo que mantiene entretenidos a todos sus fieles seguidores de Paraguay.Su estilo es Folklore, Popular, Guarana."
+      },
+      {
+         "name" : "RVD Mix",
+         "image" : "36279.png",
+         "site_url" : "http://rvdmix.com/",
+         "radio_url" : "http://streaming64.radionomy.com/JamendoLounge?lang=de-DE%2cde%3bq%3d0.8%2cen-US%3bq%3d0.6%2cen%3bq%3d0.4",
+         "description" : "RVD Mix Radio es una estación de radio por Internet basado en la web de Asunción que juega Electronica, género Pop Latino de la música."
+      },
+      {
+         "name" : "Radio Neuland",
+         "image" : "36232.v1.png",
+         "site_url" : "http://www.neuland.com.py/",
+         "radio_url" : "http://184.154.202.243:8096/live",
+         "description" : "Radio Neuland - La emisora local FM Neuland pasa contenidos culturales, sociales, económicos y espirituales en español, nivacle, alemán y dialecto, siendo los objetivos informar, comunicar, asesorar, educar, enseñar y entretener."
+      },
+      {
+         "name" : "Los 40 Paraguay",
+         "image" : "36609.v2.png",
+         "site_url" : "http://www.los40.com.py/",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/FM92_3.mp3",
+         "description" : "Somos la cadena de radio joven más grande del mundo, 92.3 FM en Paraguay"
+      },
+      {
+         "name" : "Quiero Mas Radio",
+         "image" : "73109.v10.png",
+         "site_url" : "http://quieromas.ml/",
+         "radio_url" : "https://stream.zeno.fm/bcq18fc059duv",
+         "description" : "Transmitimos las 24 horas del dia programas de humor y entretenimiento acompañado de buena música."
+      },
+      {
+         "name" : "Radio 1º de Marzo",
+         "image" : "36228.v4.png",
+         "site_url" : "http://780am.com.py/",
+         "radio_url" : "http://192.240.114.58/mov780/mov780.stream/playlist.m3u8",
+         "description" : "1ro de radio. de Marzo AM 780 es una estación de radio de difusión de Asunción, Paraguay, proporcionando noticias, deportes, información y música."
+      },
+      {
+         "name" : "Romanticas Del Ayer",
+         "image" : "83866.v1.png",
+         "site_url" : "https://zeno.fm/romanticasdelayer/",
+         "radio_url" : "https://stream.zeno.fm/11py6bdcreruv",
+         "description" : "Romanticas Del Ayer es tu nueva radio para disfrutar y poder  escuchar las 24 horas del dia con los mejores temas romanticos en español que van directo al corazon, desde el corazon de America del sur, Paraguay para todo el mundo Romanticas Del Ayer"
+      },
+      {
+         "name" : "Disney Latinoamérica",
+         "image" : "35915.v6.png",
+         "site_url" : "http://radiodisney.disneylatino.com/paraguay",
+         "radio_url" : "https://rds1.radiomagic.com.py:9433/stream",
+         "description" : "Bienvenido a la página oficial de Radio Disney Latinoamérica. Aquí encontrarás todo lo que quieres saber sobre tu radio favorita."
+      },
+      {
+         "name" : "Top Milenium",
+         "image" : "36717.v1.png",
+         "site_url" : "http://www.topmilenium.com.py/",
+         "radio_url" : "http://192.240.114.58/movtop/movtop.stream/playlist.m3u8",
+         "description" : "Emisora que transmite programas musicales sin interrupciones. El oyente podrá disfrutar de su música preferida en una variedad de géneros, actualidad local de última hora e información de sus artistas favoritos."
+      },
+      {
+         "name" : "Transamerica Paraguay",
+         "image" : "37273.v3.png",
+         "site_url" : "http://www.transamericafm.com.py/",
+         "radio_url" : "http://192.240.114.58/movtransamerica/movtransamerica.stream/playlist.m3u8",
+         "description" : "Para todos los habitantes de la bella Villarrica, en Paraguay, así como para oyentes de otras zonas, esta emisora en línea ofrece un variado contenido con cobertura informativa, entretenimiento y los últimos éxitos de la música pop y latina."
+      },
+      {
+         "name" : "La Unión R 800 AM",
+         "image" : "36626.v1.png",
+         "site_url" : "https://www.launion.com.py/",
+         "radio_url" : "https://rds3.desdeparaguay.net/mov800/mov800.stream/playlist.m3u8",
+         "description" : "Esta es la ZP23 transmitiendo en 800 AM Radio La Unión. El medio radial con un estilo bien nacional."
+      },
+      {
+         "name" : "Radio Potrerito",
+         "image" : "75409.v11.png",
+         "site_url" : "http://radiopotrerito.emiweb.es/",
+         "radio_url" : "https://stream.zenolive.com/s4u8ygv7urquv",
+         "description" : "Radio Potrerito, buenas musicas"
+      },
+      {
+         "name" : "Radio Venus",
+         "image" : "36720.v1.png",
+         "site_url" : "http://venus.com.py/",
+         "radio_url" : "http://192.240.114.58/movvenus/movvenus.stream/playlist.m3u8",
+         "description" : "Radio emisora que brinda entretenimiento durante las 24 horas del día a través de la música de los más escuchados y exitosos géneros actuales, con una combinación de novedades y notas de los espectáculos."
+      },
+      {
+         "name" : "RQP",
+         "image" : "36713.v2.png",
+         "site_url" : "http://www.rqp.com.py/",
+         "radio_url" : "http://radios-py.cdn.nedmedia.io/radios/py/rqp.m3u8",
+         "description" : "RQP Paraguay es la radio que pasa más música!. Escuchanos en .... Ahora de lunes a viernes de 6:00 a 12:00 por la 94.3 Fm en Asunción."
+      },
+      {
+         "name" : "Chaco Boreal",
+         "image" : "36621.v1.png",
+         "site_url" : "http://www.chacoboreal.com.py/",
+         "radio_url" : "http://192.240.114.58/mov1330/mov1330.stream/playlist.m3u8",
+         "description" : "El público de Asunción, Paraguay, tiene a su disposición la programación variada que esta emisora ofrece, sus shows deportivos, espacios musicales y noticieros, acompañados de la información más relevante durante las 24 horas."
+      },
+      {
+         "name" : "Radio Sin Fronteras",
+         "image" : "37206.v3.png",
+         "site_url" : "http://www.sinfronterasfm.com/",
+         "radio_url" : "http://192.240.114.58/movsinfronteras/movsinfronteras.stream/playlist.m3u8",
+         "description" : "Una emisora distinta,a mas de 10 años al aire, con programaciones variadas.Buena musica y voces conocidas hacen de Sin Fronteras Fm una de las mas escuchadas en la frontera."
+      },
+      {
+         "name" : "Radio Regional",
+         "image" : "37181.v1.png",
+         "site_url" : "https://www.regional660.com/",
+         "radio_url" : "http://192.240.114.58/mov660/mov660.stream/playlist.m3u8",
+         "description" : "Ubicada en el centro mismo de Concepción, cubriendo 9 departamentos del país."
+      },
+      {
+         "name" : "Radio Regi Gospel",
+         "image" : "74445.v8.png",
+         "site_url" : "http://www.radioregigospel.com/",
+         "radio_url" : "https://player.srvaudio.com.br/player-ssl/9718/",
+         "description" : "Radio Regi Gospel Evangélica"
+      },
+      {
+         "name" : "Radio Fe y Alegría",
+         "image" : "36625.v1.png",
+         "site_url" : "http://radiofeyalegriapy.org/w1/",
+         "radio_url" : "http://192.240.114.58/movfeyalegria/movfeyalegria.stream/playlist.m3u8",
+         "description" : "Fe y Alegría es un Movimiento de Educación Popular Integral y Promoción Social, comprometido con la población empobrecida, que promueve el desarrollo personal y comunitario mediante una educación de calidad, basada en valores cristianos, para la construcción de una sociedad justa, solidaria y participativa"
+      },
+      {
+         "name" : "Radio SOL FM",
+         "image" : "84262.v2.png",
+         "site_url" : "http://www.solfm89.com/",
+         "radio_url" : "https://whd1.webradios.com.br:18576/8576",
+         "description" : "Somos una radio Comercial con una programación preparada para nuestra región, estamos en la frecuencia 89.9 autorizada por conatel!"
+      },
+      {
+         "name" : "Unasur FM",
+         "image" : "36283.v1.png",
+         "site_url" : "http://radio.unasur.edu.py/",
+         "radio_url" : "http://radio.unasur.edu.py/",
+         "description" : "Somos UNASUR Fm, una radio joven para brindarte la mejor programación, las mejores canciones, informaciones y el mejor entretenimiento."
+      },
+      {
+         "name" : "BBN Radio",
+         "image" : "37280.v1.png",
+         "site_url" : "http://www.bbnradio.org/",
+         "radio_url" : "http://www.bbnradio.org/jwplayer/players/browsers/spanish2.htm",
+         "description" : "La red de difusión Biblia (BBN) es una red de radio cristiana mundial oyente-apoyada personal. La programación consiste en ministerios fuera de 50%, 30% y 20% de la música programas producidos-BBN."
+      },
+      {
+         "name" : "FM Popular",
+         "image" : "36252.v2.png",
+         "site_url" : "http://www.hoy.com.py/fm-popular",
+         "radio_url" : "http://66.55.145.43:7079/live",
+         "description" : "Estación que transmite secciones con temas de espectáculos, política nacional, deportes y sucesos de interés público dentro y fuera del país, las noticias más relevantes y hechos que acontecen diariamente."
+      },
+      {
+         "name" : "ABC Cardinal 730AM",
+         "image" : "35909.v3.png",
+         "site_url" : "https://www.abc.com.py/730am/",
+         "radio_url" : "http://200.3.249.91:8000/;",
+         "description" : "ABC Cardinal, la radio más potente del país. Noticias, deportes, debates, economía, agro, espectáculos y más."
+      },
+      {
+         "name" : "Farra",
+         "image" : "36699.v4.png",
+         "site_url" : "http://farra.com.py/",
+         "radio_url" : "https://rfs1.farra.com.py:9433/stream",
+         "description" : "Radio Farra 101.3 FM se caracteriza por presentar la más variada recopilacion de los más destacadas hits de estos momentos. Se emite desde Paraguay y puede ser escuchada online en todo el mundo."
+      },
+      {
+         "name" : "ABC FM 98.5",
+         "image" : "36248.v4.png",
+         "site_url" : "https://www.abc.com.py/fm/",
+         "radio_url" : "https://rds3.desdeparaguay.net:8002/abcfm",
+         "description" : "Conectate a la buena música."
+      },
+      {
+         "name" : "Kokue Poty",
+         "image" : "35925.v7.png",
+         "site_url" : "http://kokuepoty.com.py/",
+         "radio_url" : "http://streaming.camaronhosting.com:9302/;",
+         "description" : "Radio Kokue Poty FM 97.9 es una estación de radio de difusión de Encarnación, Paraguay, proporcionando español, Folk, Música Cristiana y programas informativos."
+      },
+      {
+         "name" : "Palma FM",
+         "image" : "81319.png",
+         "site_url" : "http://www.palma.com.py/",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/PALMA_FMAAC.aac",
+         "description" : "Estación de radio en la frecuencia bailable del Paraguay, 106.5 FM."
+      },
+      {
+         "name" : "Radio Transcontinental",
+         "image" : "37447.v5.png",
+         "site_url" : "http://www.radiotranscontinental.com.py/",
+         "radio_url" : "http://radio.infinityrecord.com:8002/;stream/1",
+         "description" : "Radio Transcontinental es la estación de radio de Hernandarias, proporcionando Newstalk, Cultura."
+      },
+      {
+         "name" : "Encarnacion",
+         "image" : "35919.v4.png",
+         "site_url" : "http://www.radioencarnacion.com/",
+         "radio_url" : "http://s23.myradiostream.com:6646/;",
+         "description" : "Con esta radio que transmite a través de internet desde Paraguay, el oyente podrá mantenerse informado en todo momento de las novedades en política, en materia de urbanismo, sociedad, proyectos nacionales, deportes y más, con interesantes entrevistas a personajes de interés."
+      },
+      {
+         "name" : "Radio Nacional del Paraguay",
+         "image" : "35924.v6.png",
+         "site_url" : "http://www.radionacional.gov.py/",
+         "radio_url" : "http://audio.radionacional.gov.py:8085/920",
+         "description" : "Fomentar la participación ciudadana en la vida pública, permitiendo el acceso a la información, el conocimiento y la cultura, al tiempo de promover la interacción entre los ciudadanos."
+      },
+      {
+         "name" : "Radio Vallenatos Clasicos",
+         "image" : "80301.v5.png",
+         "site_url" : "https://zeno.fm/vallenatosclasicos",
+         "radio_url" : "https://stream.zenolive.com/eumbvxbqz8quv",
+         "description" : "Mas que una radio, es el sentir del puro sentimiento vallenato clásico...Esta es la radio de los fanáticos seguidores del vallenato Clásico Las 24 horas del día a puro sentimiento sin corte como queres escuchar."
+      },
+      {
+         "name" : "Radio Carapegua FM",
+         "image" : "77105.v4.png",
+         "site_url" : "http://radiocarapegua.com/",
+         "radio_url" : "http://streaming.soymedios.net:9532/;stream.nsv",
+         "description" : "Radio Carapeguá 90.5 FM es una novel emisora que transmite desde la ciudad de Carapeguá. La 90.5 FM se convierte en una opción diferente dentro de los esquemas radiales actuales; abarcando todos los segmentos de la sociedad, brindando la mejor música, informaciones actualizadas, , entretenimiento, deporte, cultura, y la dinámica radial que se impone en los tiempos actuales de la comunicación."
+      },
+      {
+         "name" : "Fernando de la Mora",
+         "image" : "36702.v1.png",
+         "site_url" : "http://www.radiofernando.com.py/",
+         "radio_url" : "http://192.240.114.58/movfernando/movfernando.stream/playlist.m3u8",
+         "description" : "Aquí encontramos una emisora que difunde en directo brindando entretenimiento variado, como puede ser la música popular nacional e internacional, programas humorísticos que amenizan la jornada y todas las noticias más relevantes."
+      },
+      {
+         "name" : "Radio San Fernando",
+         "image" : "37595.v1.png",
+         "site_url" : "http://www.fmsanfernando.com/",
+         "radio_url" : "http://giss.tv:8001/Sanfernando.mp3?hash=1478443259595.mp3",
+         "description" : "Radio San Fernando es una emisora de radiodifusión en Bella Vista, Paraguay que provee programación de News and Talk."
+      },
+      {
+         "name" : "Itapiru",
+         "image" : "37173.v1.png",
+         "site_url" : "http://www.radioitapiru.com/",
+         "radio_url" : "http://radio.cdehosting.net:8002/stream",
+         "description" : "Radio Itapiru, visite ! encontraras informaciones diferentes, actualidad al instante."
+      },
+      {
+         "name" : "Radio Integración",
+         "image" : "37169.v1.png",
+         "site_url" : "http://www.integracion104fm.com/",
+         "radio_url" : "http://198.50.206.237:8022/;",
+         "description" : "Cuenta con tecnología de punta computadorizada, con sistema de transmisión americano de marca HARRIS HT. 25 FN, mediante una torre de 110 mts de altura, lo que posibilita fácilmente la cobertura de 150 km aproximadamente en forma directa sin tener en cuenta kilometraje en ruta.Los departamentos que abarcamos con nuestras diarias transmisiones son entre otros: Caaguazú, Caazapá, Guaira, Itapúa, Canindeyú.También llegamos con solvencia con nuestras ondas a gran parte del sur de la República Federativa del Brasil y Nordeste de la República Argentina.Nuestra ubicación estratégica en las Tres Fronteras, más nuestra capacidad y solvencia reconocidos, podemos afirmar somos LA VOZ PARAGUAYA al servicio del MERCOSUR."
+      },
+      {
+         "name" : "Vol40",
+         "image" : "73911.v6.png",
+         "site_url" : "http://volcuarenta.ml/",
+         "radio_url" : "https://stream.zeno.fm/by6gw572mqzuv",
+         "description" : "VOL40. con más música y compañía. Basándose en la Formula de alta repetición (TOP 40) y ofreciendo hits tras hits de forma continuada durante 24 horas."
+      },
+      {
+         "name" : "Radio Aspen",
+         "image" : "36630.v1.png",
+         "site_url" : "http://www.radioaspen.com.py/",
+         "radio_url" : "http://192.240.114.58/movaspen/movaspen.stream/playlist.m3u8",
+         "description" : "La música es su propia experiencia, sus propios pensamientos, tu sabiduría. Si usted no vive él, no va a salir de la bocina. Ellos enseñan que no hay una línea de límite a la música. Pero el hombre, no hay línea de límite al arte."
+      },
+      {
+         "name" : "HEi Música",
+         "image" : "36705.v3.png",
+         "site_url" : "http://heimusica.com/",
+         "radio_url" : "http://192.240.114.58/movhei/movhei.stream/playlist.m3u8",
+         "description" : "Somos una generación con personalidad que tiene muchas cosas que expresar, que sabe lo que quiere y conoce el valor de las cosas.Queremos dar un espacio donde podamos compartir y vernos reflejados.Soñamos inspirarte y que puedas formar parte de esta revolución."
+      },
+      {
+         "name" : "Radio Frontera",
+         "image" : "37455.v2.png",
+         "site_url" : "http://www.fronterafm92.com/",
+         "radio_url" : "http://server.painel-stm.com:7834/;",
+         "description" : "A Radio Frontera FM 92.5, Tem 18 Anos de Existencia e Transmite de Bella Vista Paraguay, Departamento de Amambay"
+      },
+      {
+         "name" : "Radio StudioFm 92.1",
+         "image" : "37201.v1.png",
+         "site_url" : "http://tvs.com.py/",
+         "radio_url" : "http://192.240.114.58/movstudio/movstudio.stream/playlist.m3u8",
+         "description" : "En la Ciudad de Encarnación, República de nuestro querido Paraguay, capital del verano, la Perla del Sur, Radio StudioFm 92.1, llegó para quedarse!Entretenimiento puro, la mejor y más variada música, informaciones del ámbito deportivo, político, educativo, arte y espectáculos, todo esto y mucho más con los mejores conductores y periodistas.En tu hogar, en tu oficina, camino al trabajo, llegamos para hacerte compañia!"
+      },
+      {
+         "name" : "Emisoras Paraguay",
+         "image" : "36696.v6.png",
+         "site_url" : "http://www.emisorasparaguay.com.py/",
+         "radio_url" : "http://publish.desdeparaguay.net:9942/;stream.mp3",
+         "description" : "Sintoniza Radio 106.1 FM Emisoras Paraguay desde Asunción en directo."
+      },
+      {
+         "name" : "Radio Parque",
+         "image" : "36571.v1.png",
+         "site_url" : "https://www.radioparquecde.com/",
+         "radio_url" : "http://radio.cdehosting.net:8032/stream",
+         "description" : "Transmite desde el barrio San Lucas, Ciudad del Este, Paraguay."
+      },
+      {
+         "name" : "Radio Mensajero 100.9 FM",
+         "image" : "37584.v9.png",
+         "site_url" : "http://mensajerofm.org/",
+         "radio_url" : "http://streaming.camaronhosting.com:9338/;stream.nsv",
+         "description" : "MENSAJERO 100.9 FM. Es una radio emisora legal (ZPV-168) ubicada en el interior de la región oriental del Paraguay, específicamente en la Colonia Tres Palmas, Distrito Raúl A. Oviedo, departamento de Caaguazu. Nuestra Visión es ayudar a las personas en forma integral – tanto en lo físico, mental y espiritual."
+      },
+      {
+         "name" : "Misiones FM",
+         "image" : "37596.v4.png",
+         "site_url" : "http://www.misionesfm.com/",
+         "radio_url" : "http://streaming.camaronhosting.com:9444/;",
+         "description" : "Radio Misiones es una emisora de radio emisora en San Juan Bautista que ofrece programación de noticias, charla y deportes."
+      },
+      {
+         "name" : "Corpus",
+         "image" : "36515.v1.png",
+         "site_url" : "http://www.radiocorpus.com.py/",
+         "radio_url" : "http://198.50.206.237:8026/;stream.nsv",
+         "description" : "Radio Corpus de Ciudad del Este está en el aire desde abril de 1997 y se actualiza permanentemente, tanto en tecnología como en contenido ya que estamos convencidos de que debemos acompañar las tendencias del mercado y las preferencias de la audiencia de manera a atender sus gustos y crecer con los mismos."
+      },
+      {
+         "name" : "Canal 100",
+         "image" : "36688.v1.png",
+         "site_url" : "http://www.canal100.com.py/",
+         "radio_url" : "http://192.240.114.58/movcanal100/movcanal100.stream/playlist.m3u8",
+         "description" : "Una emisora que ofrece los éxitos de la música actual con una serie de programas dirigidos a un público adulto joven que elige el mejor entretenimiento y la música variada en diferentes idiomas."
+      },
+      {
+         "name" : "Radio Friesland",
+         "image" : "36229.v1.png",
+         "site_url" : "http://friesland.com.py/",
+         "radio_url" : "http://cast.direcnode.com:11133/live",
+         "description" : "Radio Friesland es una estación de radio por Internet de San Pedro, Paraguay proporcionando música Variedad."
+      },
+      {
+         "name" : "Radio Vida Online",
+         "image" : "69227.v59.png",
+         "site_url" : "https://radiovidapy.blogspot.com/",
+         "radio_url" : "http://38.96.148.28:14300/;",
+         "description" : "Somo una emisora Online que te acompaña con buena musica"
+      },
+      {
+         "name" : "Monte Horeb Fm",
+         "image" : "69958.v17.png",
+         "site_url" : "https://montehorebonline.blogspot.com/",
+         "radio_url" : "http://192.64.118.215:9996/;stream.nsv",
+         "description" : "La bendicion en el aire.. Una radio que trasmite bendicion en el aire"
+      },
+      {
+         "name" : "Radio FM Los Angeles",
+         "image" : "73594.v6.png",
+         "site_url" : "http://paraguayonline.net/losangelesfm/",
+         "radio_url" : "http://streaming.camaronhosting.com:9918/;",
+         "description" : "FM los Angeles esta transmitiendo desde Asunción Capital de la República del Paraguay vía Online y con ese género de musica"
+      },
+      {
+         "name" : "Radio Sonica Paraguay",
+         "image" : "72083.v5.png",
+         "site_url" : "http://radiosonicaparaguay.blogspot.com/",
+         "radio_url" : "http://198.15.77.50:9800/;",
+         "description" : "lo mejor de la musica, informaciones y entretenimiento"
+      },
+      {
+         "name" : "RCC Radio",
+         "image" : "77695.v4.png",
+         "site_url" : "https://www.rcc.com.py/radio",
+         "radio_url" : "http://streaming.camaronhosting.com:9526/;",
+         "description" : "Valoramos la vida"
+      },
+      {
+         "name" : "Katueté FM",
+         "image" : "37590.v1.png",
+         "site_url" : "http://www.katuetefm.com.py/",
+         "radio_url" : "http://stream.radiios.com:8830/;",
+         "description" : "Katueté FM 88.3 nace en el dia 16 de Mayo del año 2006 con la mayor potencia de la región 10.000 watts (10 Kilos), cubriendo todo el departamento de Canindeyú, parte de Alto Paraná y llegando más allá de las fronteras como el Estado de Paraná y Mato Grosso."
+      },
+      {
+         "name" : "Radio Suceso",
+         "image" : "37178.v1.png",
+         "site_url" : "https://radiosuceso.com/envivo/",
+         "radio_url" : "http://stm11.srvstm.com:7722/;",
+         "description" : "RADIO SUCESO 97.1  Es una emisora comercial autorizada por la CONATEL para emitir su señal desde la Ciudad del Naranjal,  Alto Paraná, Paraguay."
+      },
+      {
+         "name" : "Radio Vida",
+         "image" : "36242.v3.png",
+         "site_url" : "http://www.radiovidafm.org/",
+         "radio_url" : "http://radio.infinityrecord.com:8032/;",
+         "description" : "Radio Vida FM 93.5 es una estación de radio de difusión de Capiatá, Paraguay, proporcionando cristiana, la música Gospel."
+      },
+      {
+         "name" : "Radio Aguai Poty",
+         "image" : "37589.v2.png",
+         "site_url" : "http://www.radioaguaipoty.com/",
+         "radio_url" : "http://108.161.139.194:9302/;",
+         "description" : "Radio Aguai Poty comenzó su primer programa en el aire en agosto 29, 1998, al convertirse en la primera Radio de la Ciudad de Fulgencios Yegros. Como la primera radio hay también fue uno de los pioneros de la radiodifusión para diversos asuntos, incluyendo programas de radio centrados en el usuario, responsabilidades sociales y otros asuntos socioeconómicos."
+      },
+      {
+         "name" : "Radio X Paraguay",
+         "image" : "84036.png",
+         "site_url" : "http://www.xradiopy.com/",
+         "radio_url" : "http://streaming.camaronhosting.com:9940/;",
+         "description" : "On líne desde Asunción - Paraguay. Pop, Dance, Alternativos y Rock suenan en radio X."
+      },
+      {
+         "name" : "Radio Ita Pora",
+         "image" : "84529.v10.png",
+         "site_url" : "https://radioitaporafm.blogspot.com/",
+         "radio_url" : "http://198.7.59.204:29010/;",
+         "description" : "La voz del norte Paraguayo."
+      },
+      {
+         "name" : "La Voz Del Nazareno",
+         "image" : "77424.v30.png",
+         "site_url" : "https://radiolavozdelnazareno.blogspot.com/",
+         "radio_url" : "http://162.244.80.52:5102/;stream.nsv",
+         "description" : "Desde Natalio 64 trasmite Radio La voz del nazareno"
+      },
+      {
+         "name" : "Estación 101.3",
+         "image" : "85476.v2.png",
+         "site_url" : "https://estacion101.com/",
+         "radio_url" : "http://v3.orlandohugo.com:7588/;stream.mp3",
+         "description" : "ZPV 532 Estación101.3 FM desde Mayor Otaño para toda la región y el mundo!"
+      },
+      {
+         "name" : "Radio La Roca Paraguay",
+         "image" : "76080.v2.png",
+         "site_url" : "https://radiolarocaonlineparaguay.blogspot.com/",
+         "radio_url" : "http://192.198.89.196:1608/;stream.nsv",
+         "description" : "tu mejor compañia las 24 hs..."
+      },
+      {
+         "name" : "La Paz",
+         "image" : "85637.v2.png",
+         "site_url" : "https://lapazfm.com/",
+         "radio_url" : "http://aac.orlandohugo.com:7586/;",
+         "description" : "Desde la ciudad del Aprendizaje Ybycui somos Radio La Paz."
+      },
+      {
+         "name" : "Radio Trom",
+         "image" : "36284.v2.png",
+         "site_url" : "http://www.radiotrom.com/",
+         "radio_url" : "http://stream1.servercristianonetwork.com:8198/live",
+         "description" : "Radiotrom es una nueva e innovadora propuesta de radio atraves de internet , enfocada a brindar a nuestros oyentes la mejor música , en la mejor calidad y disponible las 24 horas al día.Una fuerte inversión en tecnología de Stream/Broadcasting nos permiten llegar al hogar de nuestros oyentes las 24 horas al día y acompañarlos con excelentes selecciones musicales durante el día. Asì mismo contamos con una grilla de programas en vivo que nos permite estar en contacto con nuestros oyentes todos los dìas."
+      }
+   ]
+}

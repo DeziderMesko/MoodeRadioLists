@@ -1,0 +1,172 @@
+{
+   "mg" : [
+      {
+         "name" : "Radio RFI Musique",
+         "image" : "43367.png",
+         "site_url" : "http://musique.rfi.fr/",
+         "radio_url" : "http://live02.rfi.fr/rfimusiquemonde-96k.mp3",
+         "description" : "Actualité musicale artistes et biographies du monde francophone"
+      },
+      {
+         "name" : "Radio RNA",
+         "image" : "43377.png",
+         "site_url" : "http://www.rna-madagascar.com/",
+         "radio_url" : "http://drs-live-rna.gasy-internet.info:9001/;",
+         "description" : "Radio RNA Antalaha est une station de radio en ligne internationale jouant un nouveau format de musique pour un public mondial. Radio RNA Antalaha est une station indépendante pour la génération en ligne, reliant ceux qui ont déjà une forte connexion avec Madagascar."
+      },
+      {
+         "name" : "Radio RVS",
+         "image" : "43378.png",
+         "site_url" : "http://www.radiorvs.com/",
+         "radio_url" : "https://stric6.streamakaci.com/radiorvs.mp3",
+         "description" : "Radio RVS Tana, appelée Radio Voix de la Sagesse, est une station faisant la promotion de l religion et qui diffuse des programmes aussi bien en malgache, qu’en français et Gujarati."
+      },
+      {
+         "name" : "Tiako be... La radio",
+         "image" : "43364.png",
+         "site_url" : "http://www.tiakobe.fr/",
+         "radio_url" : "https://tiakobe.ice.infomaniak.ch/tiakobe-64.aac?",
+         "description" : "Tiako be... La radio is an internet radio station from Antananarivo, Madagascar providing African, Tropical and Variety music."
+      },
+      {
+         "name" : "Radio Vatsy",
+         "image" : "43380.png",
+         "site_url" : "http://fpma.net/radio",
+         "radio_url" : "http://radio.fpma.net/",
+         "description" : "Fiangonana Protestanta Malagasy aty Andafy, appelée fpma Radio Vatsy, est la radio de l’Église Protestante Malgache en France. Elle dispose de plusieurs antennes dont une qui se trouve à Madagascar."
+      },
+      {
+         "name" : "Radio Fahazavana",
+         "image" : "43373.v1.png",
+         "site_url" : "http://www.radio-fahazavana.org/",
+         "radio_url" : "https://listen.radioking.com/radio/3657/stream/11144",
+         "description" : "Ho fampandrosoana ny olona rehetra sy ny olona manontolo."
+      },
+      {
+         "name" : "Alliance 92 Fm",
+         "image" : "43369.png",
+         "site_url" : "http://www.newsmada.com/",
+         "radio_url" : "http://41.188.43.211:8000/alliance92.mp3",
+         "description" : "Alliance 92 Fm is the source for best in class French contents. The radio also plays French traditional music. There are many types of music in France, not all of them are popular Alliance 92 Fm carefully chooses the popular one and plays them in a regular basis. They have some great community based radio programs too."
+      },
+      {
+         "name" : "Radio Taratra FM",
+         "image" : "43382.png",
+         "site_url" : "http://www.newsmada.com/",
+         "radio_url" : "http://41.188.43.211:8000/taratraradio.mp3",
+         "description" : "Radio Taratra FM est une radio malgache diffusée en streaming sur internet. La station passe essentiellement des musiques folk ainsi que des programmes en français portant sur l’actualité à Madagascar."
+      },
+      {
+         "name" : "Radio Paradisagasy",
+         "image" : "43361.v1.png",
+         "site_url" : "http://www.radioparadisagasy.com/",
+         "radio_url" : "http://163.172.29.170:10018/paradisagasy",
+         "description" : "Radio Paradisagasy is an internet radio station from Majunga, Madagascar, providing Tropical, Ambient music."
+      },
+      {
+         "name" : "RDJ",
+         "image" : "69329.png",
+         "site_url" : "http://rdj.mg/",
+         "radio_url" : "http://rdj966.net:8000/rdj966.mp3",
+         "description" : "Radio FM 96.6 Mhz Antananarivo - Antsirabe - Mahajanga - Toamasina"
+      },
+      {
+         "name" : "Antsevasera Radio",
+         "image" : "77893.v3.png",
+         "site_url" : "https://www.antsevasera.com/",
+         "radio_url" : "https://listen.radioking.com/radio/205495/stream/248278",
+         "description" : "Antsevasera, la radio en ligne qui se consacre entièrement à la promotion de la culture malagasy. Avec des émissions culturelles pour partager avec les auditeurs les nouveautés mais aussi les projets artistiques des musiciens folkloriques. Antsevasera veut mettre en avant les talents typiquement Malagasy sans distinction."
+      },
+      {
+         "name" : "Radio Fréquence Plus Madagascar",
+         "image" : "74919.v2.png",
+         "site_url" : "http://radiofrequenceplus.com/",
+         "radio_url" : "http://149.56.147.197:8945/;",
+         "description" : "Vous écoutez en direct La Radio Fréquence Plus Madagascar ( Tandrignesa Bôka).Elle émet sur la fréquence 92,8 MHz de la FM en région Analamanga, Antananarivo, Madagascar.Retrouvez tous les incontournables d'hier et d'aujourd'hui Hit music Tropical sans oublier les actus, la culture, les annonces et la météo.La Radio Fréquence Plus Madagascar est une radio généraliste à dominante musicale tropicale, diffusée 24/24, et à lécoute de ses auditeurs"
+      },
+      {
+         "name" : "Radio Antsiva 97.6",
+         "image" : "43360.v1.png",
+         "site_url" : "http://www.radio-antsiva.mg/",
+         "radio_url" : "http://41.207.51.86:8000/antsivalive.mp3",
+         "description" : "Radio Antsiva 97.6 is a broadcast radio station in Antananarivo, Madagascar, providing Adult Contemporary, Top 40/Pop music."
+      },
+      {
+         "name" : "Radio MTV Madagascar",
+         "image" : "84788.v5.png",
+         "site_url" : "http://radiomtv.live/",
+         "radio_url" : "http://176.223.135.69:8000/stream.mp3",
+         "description" : "Good & only song from Madagascar"
+      },
+      {
+         "name" : "Radio vazo gasy",
+         "image" : "70913.v3.png",
+         "site_url" : "http://radiovazogasy.com/",
+         "radio_url" : "http://178.32.99.187:8001/stream/1/",
+         "description" : "La première radio malgache sur internet - Voix de Madagascar."
+      },
+      {
+         "name" : "Dago Radio Sound",
+         "image" : "43363.v1.png",
+         "site_url" : "http://www.dagoradiosound.info/",
+         "radio_url" : "http://51.75.24.191:8011/;",
+         "description" : "Dago Radio Sound est une webradio à vocation généraliste d’expression franco-malgache qui vise à créer le lien entre les Malgaches du monde entier."
+      },
+      {
+         "name" : "Radio ADO Madagascar",
+         "image" : "76727.v6.png",
+         "site_url" : "http://www.radioado.net/",
+         "radio_url" : "http://mu2stream.mushost.com:8230/128kbps/;",
+         "description" : "La Radio 100% Gospel de Madagascar..."
+      },
+      {
+         "name" : "Olivasoa Radio 91Fm",
+         "image" : "73144.v5.png",
+         "site_url" : "https://www.olivasoa-radio.net/",
+         "radio_url" : "http://uk7.internet-radio.com:8033/stream",
+         "description" : "Olivasoa radio, ilay radio maminao"
+      },
+      {
+         "name" : "Soa i Madagasikara",
+         "image" : "74277.png",
+         "site_url" : "http://radio.soaimadagasikara.org/",
+         "radio_url" : "http://streaming.hemera-media.com:8080/soaimadagasikara",
+         "description" : "La webradio 100% musique, culture et société malgache. La voix de Madagascar, fière de ses traditions et en harmonie avec la modernité."
+      },
+      {
+         "name" : "VFM Antsirabe",
+         "image" : "75939.v6.png",
+         "site_url" : "http://vfmantsirabe.myl2mr.com/",
+         "radio_url" : "http://109.169.23.22:10190/;stream.nsv",
+         "description" : "Ny VFM na ny Radio Feo Mevan i Vakinankaratra dia ho toy ny masoandro miposaka avy any antsinanana ka mitsidika ny isam-baravarana , izay mitondra hafanana sy hazavana ho anao isan andro amin ny alalan ireo fandaharana , fanentanana ary indrindra fa ireo kalokalo sy mozika nofantenana manokana ho anao. Mankasitraka anao ary misafidy ny Feo Mevan i Vakinankaratra FM 105 Mhz. VFM....Ilay onjam-peontsika rehetra..."
+      },
+      {
+         "name" : "Ocean Music Madagascar",
+         "image" : "77203.v1.png",
+         "site_url" : "https://oceanmediagroupe.live/",
+         "radio_url" : "http://162.244.80.118:9444/;stream.nsv",
+         "description" : "Only hits and good music."
+      },
+      {
+         "name" : "RLI 106 FM",
+         "image" : "43365.png",
+         "site_url" : "http://rli.mg/",
+         "radio_url" : "http://41.188.46.57:8000/stream.mp3",
+         "description" : "Radio culturelle à vocation jazz, basée à Antananarivo, Madagascar.Émissions musicales, organisation de concerts, révélation de talents, information en direct."
+      },
+      {
+         "name" : "NetPro Mada Radio",
+         "image" : "82707.v3.png",
+         "site_url" : "https://www.netpro.mg/",
+         "radio_url" : "https://radio.netpro.mg/arretbus23.mp3",
+         "description" : "Listen to NetPro Mada Radio"
+      },
+      {
+         "name" : "Radio Kanto",
+         "image" : "79495.v2.png",
+         "site_url" : "https://www.radio-kanto.com/",
+         "radio_url" : "http://79.98.29.197:8000/live",
+         "description" : "Ny kanto indrindra, ho anao"
+      }
+   ]
+}

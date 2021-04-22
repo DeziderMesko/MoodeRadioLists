@@ -1,0 +1,844 @@
+{
+   "cr" : [
+      {
+         "name" : "Urbano 106",
+         "image" : "27642.v10.png",
+         "site_url" : "http://www.urbano106.com/",
+         "radio_url" : "https://usa18.fastcast4u.com/proxy/rmoohhrw?mp=/1",
+         "description" : "Nos localizamos en los 105.9 FM del dial en Costa Rica y en nuestro sitio http://urbano106.com/ Somos una emisora 100% de corte Urbano compuesto de Music Reggae Roots, HipHop, Dancehall y R&B"
+      },
+      {
+         "name" : "Radio Maria",
+         "image" : "27569.v2.png",
+         "site_url" : "http://www.radiomaria.cr/",
+         "radio_url" : "http://dreamsiteradiocp2.com:8044/;",
+         "description" : "Radio María Costa Rica es una emisora católica que pertenece a la Familia Mundial de Radio María, la cual tiene su sede en Italia y está conformada por más 60 emisoras en todo el mundo.Sus transmisiones en Costa Rica iniciaron el 12 de setiembre del 2004.Los 100.7 FM, busca anunciar la Palabra de Dios y es entregada completamente al anuncio de Jesucristo a través del mandato de nuestra Madre, la Virgen María: 'Hagan lo que Él les diga'."
+      },
+      {
+         "name" : "FM Globo 100.3",
+         "image" : "27649.v1.png",
+         "site_url" : "http://www.fmglobo.com/costarica/",
+         "radio_url" : "http://peace.str3am.com:6830/live",
+         "description" : "FM Globo 100.3 is a broadcast radio station from Costa Rica, providing Spanish Romantic music."
+      },
+      {
+         "name" : "Radio Uncion 106.7 fm",
+         "image" : "27578.v2.png",
+         "site_url" : "http://www.uncion.fm/",
+         "radio_url" : "http://radiouncion.rtvhd.net:9946/;",
+         "description" : "Con la misión de ser 'la Radio que te hace sentir la Presencia de Dios' es que nace Unción Radio 106.7 FM del dial en Costa Rica. Gracias a sus 9 torres de transmisión distribuidas en todo el país Unción vino a llenar de Palabra, oración y música a su audiencia. Con 7 tiempos de oración diarios hemos logrado unirnos bajo la ley del acuerdo con todo un país que se llena de fe para seguir adelante, creyendo que Dios hizo, hace y hará cosas grandes con su pueblo."
+      },
+      {
+         "name" : "ReggaeWorldCrew Radio",
+         "image" : "27839.v5.png",
+         "site_url" : "http://reggaeworldcrew.net/radio/",
+         "radio_url" : "https://usa18.fastcast4u.com/proxy/frortega?mp=/1",
+         "description" : "ReggaeWorldCrew Radio is a web based internet radio station from San Jose that plays Reggae, Dancehall, Roots genre of music."
+      },
+      {
+         "name" : "Radio Cultural de Puriscal",
+         "image" : "27957.png",
+         "site_url" : "http://radioculturalpuriscal.com/",
+         "radio_url" : "http://giss.tv:8000/rcp883.ogg",
+         "description" : "Nuestro Principal Interés es que usted, amigo oyente, se sienta identificado con nuestra variada y selecta programación, de esta forma queremos que usted interactúe directamente con nosotros opinando y haciéndonos llegar todas tus sugerencias a nuestra formas de contacto."
+      },
+      {
+         "name" : "Columbia Radio",
+         "image" : "27417.v7.png",
+         "site_url" : "http://www.columbia.co.cr/",
+         "radio_url" : "https://streams.radio.co/s419eaa350/listen",
+         "description" : "Columbia Radio 98.7 fm is a broadcast radio station in San Jose, Costa Rica, providing a big sports news and pop music."
+      },
+      {
+         "name" : "Omega 105.1 FM",
+         "image" : "27439.png",
+         "site_url" : "http://www.radioomega.fm/",
+         "radio_url" : "http://rtvhd.net:9932/;",
+         "description" : "Omega Estéreo 105.1 FM, es la estación 1 en su género, con cobertura para todo Costa Rica y a través de Internet con excelente calidad, para todos nuestros oyentes."
+      },
+      {
+         "name" : "OK 105.5",
+         "image" : "27434.png",
+         "site_url" : "http://www.okradio.fm/",
+         "radio_url" : "http://okradio.rtvhd.net:8130/;*.nsv",
+         "description" : "OK! Radio 105.5 F.M es una emisora con un corte distinto a las demás delGrupo Radiofónico Omega. Con un estilo cargado de energía, frescura ydinamismo, OK! Radio busca posicionarse como una alternativa diferente, que ofrece al radioescucha la oportunidad de pasarla bien y relajarse a través de su música y demás contenido."
+      },
+      {
+         "name" : "Radio Alajuela",
+         "image" : "27446.v1.png",
+         "site_url" : "http://www.radioalajuela.com/",
+         "radio_url" : "http://99.198.110.162:7002/;",
+         "description" : "Gracias al esfuerzo de José Luis Pacheco Murillo y Marianela Rojas Chaves, en el año 2005 a través de un convenio con el Grupo Monumental hoy Central de Radios se procede a obtener la licencia para que los alajuelenses nuevamente tengan su emisora local. Luego de siete años de esfuerzo y dedicación de la familia Pacheco Rojas hace que se logre tener y administrar la frecuencia 1120 Amplitud Modulada por lo que hoy disfrutamos de Radio Alajuela una emisora que está en el corazón de los alajuelenses para los costarricenses."
+      },
+      {
+         "name" : "Radio U",
+         "image" : "27771.png",
+         "site_url" : "http://radios.ucr.ac.cr/radio-u/",
+         "radio_url" : "https://master.letio.com/getMD.aspx?gs=8126&streamType=iceDirectAAC&redir=1",
+         "description" : "Radio U es una de las tres emisoras de la Universidad de Costa Rica. Transmitimos por la frecuencia de radio 101.9 fm, desde la Ciudad Universitaria Rodrigo Facio en San Pedro de Montes de Oca, San José, Costa Rica."
+      },
+      {
+         "name" : "Radio Tica",
+         "image" : "27904.v2.png",
+         "site_url" : "http://radiotica.com/",
+         "radio_url" : "http://live7.avf.ch:8000/ipmusicaacplus96",
+         "description" : "Desde Costa Rica con Noticias, Entretenimiento y Musica Retro 80 y 90s"
+      },
+      {
+         "name" : "Radio Fides",
+         "image" : "27563.png",
+         "site_url" : "http://www.radiofides.co.cr/",
+         "radio_url" : "http://centova.hostingtico.com:8023/;stream",
+         "description" : "Emisora Católica de Costa Rica fundada en 1952.Nuestra propuesta es variada y dinámica llegando a todo el país y fuera de nuestras fronteras a través de nuestro sistema Streaming en internet, con programación para todos los públicos.Por primera vez en el América Latina una multi-propuesta virtual de música espiritual on line: www.musicafides.com es una iniciativa Radio Fides, Vida y Esperanza."
+      },
+      {
+         "name" : "Kayfa Internet Radio",
+         "image" : "27909.v2.png",
+         "site_url" : "http://www.kayfainternetradio.com/",
+         "radio_url" : "http://usa1.usastreams.com:8000/kayfa",
+         "description" : "En kayfa internet radio, hemos escogido la mejor música, tanto en inglés como en español, así como instrumentales, para complacer el buen gusto de personas que realmente prefieren la buena música. A su vez incluimos en la misma programas con conotados artistas, de nuestro país, con el afán de dar a conocer su obra y contenido. Los programas de opinión tambiés serán incluidos próximamente, pues queremos contribuir, a que nuestra democracia centenaria, sea mantenida, ya que así nos lo garantiza nuestra Carta Magna, y estamos en la obligación como comunicadores de ejercer ese derecho. Kayfa Internet Radio, le invita a disfrutar junto a nosotros, las 24 horas."
+      },
+      {
+         "name" : "Radio Disney",
+         "image" : "64933.v2.png",
+         "site_url" : "http://radiodisney.disneylatino.com/costa-rica",
+         "radio_url" : "https://ic.streann.com/disneycostarica",
+         "description" : "Radio Disney es una radio musical de éxitos en español e inglés que transmite las 24 horas del día con un elenco de locutores integrado por jóvenes estudiantes de locución. La programación está destinada a niños y adolescentes."
+      },
+      {
+         "name" : "95.5 Jazz",
+         "image" : "27408.v3.png",
+         "site_url" : "http://www.955jazz.com/",
+         "radio_url" : "https://streamer.radio.co/s967167041/listen",
+         "description" : "¨Smooth, latino, fusión...¨ Emisora con la identidad propia en el FM, 95.CINCO JAZZ presenta una selección especial de Smooth Jazz, algunas pincelados de color brasileño y la frescura de los grandes compositores y cantautores latinoamericanos"
+      },
+      {
+         "name" : "Radio America HD",
+         "image" : "27449.png",
+         "site_url" : "http://www.780america.com/",
+         "radio_url" : "http://192.99.4.210:3254/stream",
+         "description" : "Radio America HD es miembro del Grupo Extra en San José, Costa Rica. Nos escucha a través de los 780 AM."
+      },
+      {
+         "name" : "Juventud Online Radio",
+         "image" : "27796.png",
+         "site_url" : "http://juventudonline.com/",
+         "radio_url" : "http://65.60.34.156/;",
+         "description" : "Juventud Online Radio is an internet radio station in Costa Rica, providing Christian Contemporary music."
+      },
+      {
+         "name" : "Rock a La 2",
+         "image" : "28003.v2.png",
+         "site_url" : "http://rock2.am/",
+         "radio_url" : "https://stream.radio.co/s0242a6b45/listen",
+         "description" : "We are a radio 100% of rock music, with programming that includes the best of Rock of all time, music from the sixties to the present, covering all genres rock, classical, Spanish, punk, metal, underground and grunge."
+      },
+      {
+         "name" : "Radio Manantiales",
+         "image" : "27711.v2.png",
+         "site_url" : "https://www.radiomanantiales.org/",
+         "radio_url" : "http://66.7.212.193:8022/;",
+         "description" : "Radio Manantiales is an online radio station from Paraíso, Cartago, Costa Rica, providing Religious, Christian music and programs."
+      },
+      {
+         "name" : "Radio Nacional",
+         "image" : "27945.v1.png",
+         "site_url" : "http://www.sinart.go.cr/radionacional/envivo",
+         "radio_url" : "http://54.39.98.208:8000/crr",
+         "description" : "La estación de radio que difunde música, noticias, deportes y mucho más, transmitiendo en vivo desde la ciudad de San José, Costa Rica. Un referente del buen gusto y el saber hacer en el periodismo."
+      },
+      {
+         "name" : "Radio Shark",
+         "image" : "27994.png",
+         "site_url" : "https://www.radioshackcr.com/",
+         "radio_url" : "http://50.7.99.155:7495/;stream.mp3",
+         "description" : "Radio Shack es tu tienda especializada en tecnología y electrónica en Costa Rica."
+      },
+      {
+         "name" : "Radio Faro Del Caribe",
+         "image" : "27560.v2.png",
+         "site_url" : "http://www.farodelcaribe.org/sitio/",
+         "radio_url" : "http://166.88.21.98:9768/;stream.mp3",
+         "description" : "Faro del Caribe - Iluminando el Sendero de la Vida. Ministerio Cristiano Radial de Costa Rica. Enjoy La Respuesta, Impacto De Dios, or broadcasts such as GOD SPEAKS NOW, in addition to others."
+      },
+      {
+         "name" : "Radio 107.5",
+         "image" : "27646.png",
+         "site_url" : "http://www.radio1075.com/",
+         "radio_url" : "http://67.212.166.178:7098/;",
+         "description" : "Radio 107.5 is a broadcast Radio station from Escazu, Costa Rica, providing Rock, Hard Rock, Metal and Hardcore Music."
+      },
+      {
+         "name" : "Vida FM",
+         "image" : "53096.v4.png",
+         "site_url" : "http://www.vidafm.cr/",
+         "radio_url" : "http://51.15.13.23:8001/live",
+         "description" : "Vida FM Costa Rica es una radio en Internet que se dedica a publicar y presentar noticias positivas del diario vivir."
+      },
+      {
+         "name" : "Radio BestMusic",
+         "image" : "27543.v3.png",
+         "site_url" : "http://bestmusicradiotv.es.tl/",
+         "radio_url" : "http://centova.hostingtico.com:8012/live",
+         "description" : "Radio BestMusic es la estación de radio que vino para quedarse, Tu Radio Inteligente."
+      },
+      {
+         "name" : "Radio Diria",
+         "image" : "27701.v2.png",
+         "site_url" : "http://www.radiodiria.com/",
+         "radio_url" : "http://srv6.meuvox.top:7472/;",
+         "description" : "Bienvenidos a Radio Diriá donde programamos la música que tu quieres escuchar."
+      },
+      {
+         "name" : "Canal 13",
+         "image" : "27937.v1.png",
+         "site_url" : "http://www.sinart.go.cr/",
+         "radio_url" : "http://stream01.cyberfuel.com:8045/file.mp3",
+         "description" : "Lo invitamos a sintonizar la señal de Canal 13 de amplia cobertura en el territorio nacional y su señal de internet para todo el mundo. Disfrute de espacios culturales, deportivos, informativos, musicales y muchos más."
+      },
+      {
+         "name" : "Radio Mejim H.S",
+         "image" : "27972.v4.png",
+         "site_url" : "http://radiomejimhs.com/",
+         "radio_url" : "http://149.56.195.94:8426/;?",
+         "description" : "Radio Mejim H.S serving the people of Puerto Limón, Costa Rica. We play a mix of contemporary Christian music, combined with compelling chat, views and interviews."
+      },
+      {
+         "name" : "Radio Santa Clara",
+         "image" : "27587.v1.png",
+         "site_url" : "http://www.radiosantaclara.cr/",
+         "radio_url" : "http://radios.rarserver.net:8162/live",
+         "description" : "Dentro del proyecto de Radio Santa Clara es fundamental los valores de la participación, democracia, comunión y el encuentro legítimo con los oyentes a través de las visitas a la comunidades con los diversos programas. Además. Radio Santa Clara mantiene una actitud crítica frente a la información y, comparte con nuestra audiencia un evangelio más encarnado con el quehacer diario defendiendo lo derechos humanos y rescatando la cultura popular."
+      },
+      {
+         "name" : "Radio Sentipensares",
+         "image" : "27836.png",
+         "site_url" : "http://radiosentipensares.blogspot.in/",
+         "radio_url" : "http://198.178.121.76:8173/stream/;",
+         "description" : "Radio Sentipensares is an internet radio station from Costa Rica, providing Variety music."
+      },
+      {
+         "name" : "CONTROL MUSIC 88.2 FM",
+         "image" : "27403.png",
+         "site_url" : "http://www.882fmcontrolmusic.com/",
+         "radio_url" : "https://stream.zenolive.com/47m7nuzbrfeuv",
+         "description" : "Somos la estación de radio mas escuchada en todo latinoamerica por que te llevamos la música hasta tus sentidos"
+      },
+      {
+         "name" : "Radio Dos",
+         "image" : "27559.v4.png",
+         "site_url" : "http://www.radiodos.com/",
+         "radio_url" : "https://streamer.radio.co/s06e110935/listen",
+         "description" : "Radio Dos 99.5 is a broadcast Radio station from San Jose, Costa Rica, providing pop and rock music from 1960 to today."
+      },
+      {
+         "name" : "Radio Adondeirhoy",
+         "image" : "27906.png",
+         "site_url" : "http://radio.adondeirhoy.com/",
+         "radio_url" : "http://s2.voscast.com:9150/;stream1472029824123/1",
+         "description" : "Escucha musica 100% de Grupos Musicales de Costa Rica en Radio Adondeirhoy por internet."
+      },
+      {
+         "name" : "Classics Pop & Rock",
+         "image" : "27703.v1.png",
+         "site_url" : "http://www.classicspoprock.com/",
+         "radio_url" : "https://c9.radioboss.fm:18035/stream",
+         "description" : "CLASSICS intenta rescatar el estilo de la vieja escuela basado en una programación muy selecta de éxitos Pop & Rock en inglés de los 60´s, 70´s, 80´s y 90´s junto a una selección especial de la música de los últimos años que hemos denominado Ëxitos que se proyectan como clásicos."
+      },
+      {
+         "name" : "Puro Rock Radio",
+         "image" : "27706.v1.png",
+         "site_url" : "http://www.purorockradio.com/",
+         "radio_url" : "http://38.107.243.221:8430/stream",
+         "description" : "Puro Rock Radio is a web based internet radio station from San Jose that plays Metal, Modern Rock genre of music.Estacion de radio por internet especializada desde Hard Rock hasta el Thrash y pasando por algo de Death también. Siempre con el objetivo de traerle lo mejor del Hard Rock y el Metal mundial a nuestro bello continente. Transmitiendo desde San José, Costa Rica para las Américas."
+      },
+      {
+         "name" : "HIT La Radio",
+         "image" : "65166.png",
+         "site_url" : "http://www.hitlaradio.com/",
+         "radio_url" : "http://hitlaradio.com:8000/;",
+         "description" : "HIT La Radio de los éxitos"
+      },
+      {
+         "name" : "El Azucarero Radio",
+         "image" : "27776.png",
+         "site_url" : "http://www.elazucarero.com/",
+         "radio_url" : "http://radiolatina.info:9990/;",
+         "description" : "El Azucarero Radio is a web based internet radio station from Costa Rica that plays Spanish genre of music."
+      },
+      {
+         "name" : "Coca-Cola FM",
+         "image" : "27639.v2.png",
+         "site_url" : "http://cr.coca-cola.fm/",
+         "radio_url" : "https://ic.imusicaradios.com.br/costarica.stream.http",
+         "description" : "Los mejores programas musicales se emiten en frecuencia modulada por esta emisora que ofrece los éxitos en géneros electrónica y pop latinos, contenidos que van dirigidos al público joven adulto."
+      },
+      {
+         "name" : "Life FM",
+         "image" : "27428.png",
+         "site_url" : "http://lifemedios.com/",
+         "radio_url" : "http://5.189.161.92:9998/;stream.mp3",
+         "description" : "Life FM es una radio diferente con un mensaje claro y directo para todo público. Conoce a Dios por medio de una experiencia única y sincera."
+      },
+      {
+         "name" : "104.7 Hit",
+         "image" : "27395.v1.png",
+         "site_url" : "http://www.1047hit.com/",
+         "radio_url" : "http://s8.voscast.com:7528/;",
+         "description" : "Hit 104.7 plays current hits, including a variety of 1990s and 2000s music."
+      },
+      {
+         "name" : "Oldies Hits Inglés",
+         "image" : "53495.v4.png",
+         "site_url" : "http://oldieshitscr.com/",
+         "radio_url" : "http://195.154.251.198:8004/stream",
+         "description" : "La mejor música para volver a vivir...!"
+      },
+      {
+         "name" : "Radio Chorotega",
+         "image" : "27592.v1.png",
+         "site_url" : "http://www.radiochorotega1100am.com/",
+         "radio_url" : "http://s2.voscast.com:11058/stream/1/",
+         "description" : "Radio Emisora Católica de la Diocesis Tilarán - Liberia , Guanacaste"
+      },
+      {
+         "name" : "Onda Brava",
+         "image" : "47116.png",
+         "site_url" : "http://ondabravaradio.com/",
+         "radio_url" : "http://167.114.210.232:8221/;",
+         "description" : "Emisora que transmite lo mejor de los 80's y 90's, ubicada en la bella provincia de Guanacaste, Costa Rica.No importa donde estés, déjanos acompañarte con nuestra música.Te llevaremos en un viaje en el tiempo... te haremos recordar y soñar."
+      },
+      {
+         "name" : "Radio Nueva",
+         "image" : "27398.png",
+         "site_url" : "http://www.radionueva1140am.com/",
+         "radio_url" : "http://radiolatina.info:9992/;",
+         "description" : "La emisora de la Diócesis de Limón, transmitiendo desde la Ciudad de Guápiles en el cantón de Pococí. Contenido cristiano de la mano de religiosos y expertos, también con espacios musicales y de diversión para todas las edades."
+      },
+      {
+         "name" : "107.5 Yeah",
+         "image" : "27400.v1.png",
+         "site_url" : "http://www.vmlatino.com/#!/",
+         "radio_url" : "http://67.212.166.178:7098/;stream.mp3;",
+         "description" : "La emisora juvenil, transmite los mejores segmentos con musicales de variedad de ritmos y estilos, shows de entretenimiento, información, noticias relevantes, sucesos internacionales, que difunde las 24 horas del día."
+      },
+      {
+         "name" : "RCBA",
+         "image" : "28001.png",
+         "site_url" : "http://radiocostarica.net/emisora/radio-cultural-buenos-aires-881-fm",
+         "radio_url" : "http://servicompcr.net:8027/stream",
+         "description" : "Radio Cultural de Buenos Aires, 88.1 FM forma parte de la Red de Emisoras de ICER (Instituto Costarricense de Enseñanza Radiofónica) y el proyecto El Maestro en Casa, sistema de estudios dirigido en especial a personas jóvenes y adultos que por diversas razones no habían podido terminar su educación primaria o secundaria. A través de esta Red de Emisoras se imparten los programas radiofónicos elaborados por los docentes de El Maestro en Casa y constituyen una herramienta útil para que el estudiante repase los contenidos y aprenda nuevos conocimientos."
+      },
+      {
+         "name" : "Radio Centro",
+         "image" : "27967.png",
+         "site_url" : "http://www.radiocentrocr.com/",
+         "radio_url" : "http://radio2.wimaxcr.com:8100/;",
+         "description" : "Radio Centro es una emisora con una programación variada entre programas de opinión, deportes, consejería, actualidad y la mejor música romántica y tropical... Visítenos en www.radiocentrocr.com, Radio Centro 96.3 FM... La radio completa!!"
+      },
+      {
+         "name" : "Besame",
+         "image" : "27699.v1.png",
+         "site_url" : "http://www.besame.cr/",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/BESAME_CRAAC.aac",
+         "description" : "Bésame 89.9 FM, Tu emisora Romántica y Moderna!!"
+      },
+      {
+         "name" : "Talking Torah Ministries",
+         "image" : "27707.png",
+         "site_url" : "http://talkingtorah.org/",
+         "radio_url" : "http://184.154.90.186:8083/stream",
+         "description" : "Radio Talking Torah Ministries is an online radio station from Tilarán, Costa Rica, providing Jewish Talk. A Torah based work in Costa Rica. We host gatherings and teachings in Spanish and English. Ger Toshav Torah teachers to a world needing restoration."
+      },
+      {
+         "name" : "Radio Sinai",
+         "image" : "27999.v1.png",
+         "site_url" : "http://www.radiosinai.org/",
+         "radio_url" : "http://198.27.68.65:8785/;",
+         "description" : "Estación virtual con amplia variedad de programas: educativos, culturales, de entretenimiento y religiosos, que la convierten en el medio de comunicación más completo de la Zona Sur de Costa Rica"
+      },
+      {
+         "name" : "Altar Rock Radio",
+         "image" : "27714.v1.png",
+         "site_url" : "http://www.altarrockradio.com/",
+         "radio_url" : "http://50.7.99.163:11105/;stream.mp3",
+         "description" : "Altar Rock Radio is a web based internet radio station from Costa Rica that plays Spanish genre of music."
+      },
+      {
+         "name" : "Los 40 Principales",
+         "image" : "27436.v1.png",
+         "site_url" : "http://los40.co.cr/",
+         "radio_url" : "http://17973.live.streamtheworld.com/LOS40_CRAAC.aac?",
+         "description" : "La radio oficial de los éxitos. Sus DJ’s se han convertido en auténticos personajes en los diferentes horarios. Ofrece los éxitos actuales del rock y pop nacional e internacional, mezclando según las preferencias locales. Organiza los eventos más importantes de la música."
+      },
+      {
+         "name" : "Campiña Radio",
+         "image" : "27888.png",
+         "site_url" : "http://www.turrialbadigital.com/",
+         "radio_url" : "http://usa1.usastreams.com:8000/campina",
+         "description" : "CampiñaRadio is an internet radio station from Costa Rica, providing News, Information, Entertainment and Music."
+      },
+      {
+         "name" : "Fedbak Radio",
+         "image" : "27709.png",
+         "site_url" : "http://www.fedbakradio.com/",
+         "radio_url" : "http://91.121.165.88:8020/stream",
+         "description" : "El futuro comienza aquí, Fedbak es la emisora de radio online del futuro, con contenido interactivo y pensado para una audiencia que quiere algo + que solo escuchar música."
+      },
+      {
+         "name" : "IQ Radio FM",
+         "image" : "27431.png",
+         "site_url" : "http://www.iqmedios.com/",
+         "radio_url" : "http://rtvhd.net:9942/;",
+         "description" : "Todo gira alrededor de la música. IQ La Radio Inteligente tiene un estilo único con la música que hizo historia desde los 80‘s hasta el día de hoy, que se complementa con producción original dirigida al servicio: información del transito por hora,micros sobre estilo de vida, tecnología, nutrición, finanzas personales, la mas amplia cobertura en deportes de motor y todo lo que nuestro exigente ejecutivo moderno requiere para el día a día."
+      },
+      {
+         "name" : "La Cultural Nicoya F.M. Radio",
+         "image" : "27655.v2.png",
+         "site_url" : "http://www.culturalnicoya.com/",
+         "radio_url" : "http://radio.wimaxcr.com:8000/;",
+         "description" : "La Cultural Nicoya F.M. Radio is a broadcast radio station from Costa Rica, providing Cumbia, Merengue, Ranchera, Religious, Regional music and news."
+      },
+      {
+         "name" : "Fe y Poder Radio",
+         "image" : "27598.v1.png",
+         "site_url" : "http://feypoderradio.com/",
+         "radio_url" : "http://212.83.172.242:8190/;?",
+         "description" : "Sintonice Fe y Poder Radio Digital a travéz de www.feypoderradio.com y muy pronto en 1220am"
+      },
+      {
+         "name" : "Radio Cultural Pérez Zeledón",
+         "image" : "27951.png",
+         "site_url" : "http://www.radiopz.com/",
+         "radio_url" : "http://5.39.82.140:8018/;stream.nsv",
+         "description" : "Radio Cultural Pérez Zeledón, 88.1 FM  es una emisora radiofónica cultural, formadora de opinión y sin fines de lucro, que facilita la educación, información, entretenimiento y espacios de participación a la población local."
+      },
+      {
+         "name" : "Radio Casino",
+         "image" : "27705.png",
+         "site_url" : "http://radiocasino.net/",
+         "radio_url" : "http://149.56.195.94:8696/;",
+         "description" : "Radio Casino 98.3 is a broadcast Radio station from Limon, Costa Rica, providing Latin Jazz, Caribbean music."
+      },
+      {
+         "name" : "Radio Cultural De Turrialba",
+         "image" : "27549.v1.png",
+         "site_url" : "http://radioculturalturrialba.com/",
+         "radio_url" : "http://149.56.195.94:8711/;",
+         "description" : "Radio Emisora Cultural de Turrialba"
+      },
+      {
+         "name" : "Radio Sideral",
+         "image" : "27576.png",
+         "site_url" : "http://www.radiosideral.com.br/",
+         "radio_url" : "http://216.75.41.16:8040/live",
+         "description" : "Radio Sideral es una radio independiente ubicada en San Ramón de Alajuela y transmitiendo para la zona de occidente ya hace 52 años. Hoy por hoy somos la principal voz para las fuerzas vivas, artistas locales y comercio de la zona."
+      },
+      {
+         "name" : "Super Radio",
+         "image" : "27579.v2.png",
+         "site_url" : "http://www.superradio1023.com/",
+         "radio_url" : "http://superradio.rtvhd.net:8010/;",
+         "description" : "SUPER RADIO salió al aire por primera vez el 1º de Diciembre de 1987, convertiéndose en la primera emisora de Costa Rica en transmitir total y exclusivamente música tipo 'Oldies'."
+      },
+      {
+         "name" : "Radio Nova CR",
+         "image" : "27883.v4.png",
+         "site_url" : "http://radionovacr.net/",
+         "radio_url" : "http://centova.hostingtico.com:8016/stream",
+         "description" : "Radio Nova Cr is a web based internet radio station from San Jose that plays Electronica, Alternative, House genre of music."
+      },
+      {
+         "name" : "Onda Brava",
+         "image" : "27704.png",
+         "site_url" : "http://www.ondabravaradio.com/",
+         "radio_url" : "http://167.114.210.232:8221/;stream.nsv",
+         "description" : "Emisora que transmite lo mejor de los 80's y 90's, ubicada en la bella provincia de Guanacaste, Costa Rica.No importa donde estes, dejanos acompañarte con nuestra musica...Te llevaremos en un viaje en el tiempo... te haremos recordar... soñar..."
+      },
+      {
+         "name" : "BBN Radio",
+         "image" : "32384.v1.png",
+         "site_url" : "http://www.bbnradio.org/",
+         "radio_url" : "https://bbnspanish-lh.akamaihd.net/i/BibleBroadcasting_Spanishios@87757/master.m3u8",
+         "description" : "Después de orar por casi un año y buscar una frecuencia, Dios nos permitió salir al aire el día 25 de Mayo del 2.001. Fue muy interesante el primer tiempo, ya que teníamos la expectativa de lo que Dios haría. Teníamos un transmisor de 1000 W con más de 50 años de uso, eran más las veces que salíamos del aire por defectos del viejo transmisor que por problemas serios. Aun así, vimos la mano de Dios haciendo cosas increíbles. Aprendimos a ver gente que realmente ama el ministerio, que para poder escucharnos tenía que poner una antena especial o dar vuelta su radio para ver dónde tenía mejor recepción. En diciembre del 2.004 se realizó una maratón con el propósito de comprar un nuevo transmisor, vimos el apoyo de la audiencia y después de una larga espera el 1 de febrero del 2.005 a las 3 de la mañana salimos al aire con el nuevo transmisor de 5 K. La emisora cubre, Valle Central, San José, Escazu, Desamparados, Aserri, Goicochea, Alajuelita, Tibas, Moravia, Montes de Oca, Curridabat, Heredia Centro, Barva, Santo Domingo, Santa Bárbara, San Rafael, San Isidro, Belén, Flores Alajuela Centro, Atenas, Grecia, San Ramón, Cartago Centro, Paraíso, la Unión, Oremuno, El Guarco."
+      },
+      {
+         "name" : "Los 40",
+         "image" : "27638.v9.png",
+         "site_url" : "http://los40.co.cr/",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CRAAC.aac",
+         "description" : "La radio oficial de los éxitos. Sus DJ’s se han convertido en auténticos personajes en los diferentes horarios. Ofrece los éxitos actuales del rock y pop nacional e internacional, mezclando según las preferencias locales. Organiza los eventos más importantes de la música."
+      },
+      {
+         "name" : "La Súper Estación",
+         "image" : "27425.v6.png",
+         "site_url" : "http://player.listenlive.co/35031/es",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_ESTACION_SC",
+         "description" : "89.1 La Súper Estación. Programas de actualidad, deportes y entretenimiento. Espacios de opinión, información y debate."
+      },
+      {
+         "name" : "Monumental 93.5",
+         "image" : "80335.v1.png",
+         "site_url" : "http://www.monumental.co.cr/",
+         "radio_url" : "https://radios-cr.cdn.nedmedia.io/radios/monumental.m3u8",
+         "description" : "Las últimas informaciones de Costa Rica y el Mundo."
+      },
+      {
+         "name" : "Reggae Místico Radio",
+         "image" : "77646.v6.png",
+         "site_url" : "https://reggaemisticocr.wixsite.com/radio",
+         "radio_url" : "https://stream.zeno.fm/nt3g6u0pe6quv",
+         "description" : "Emisora de música reggae,roots,dancehall"
+      },
+      {
+         "name" : "DeepLazz Radio - Techno & House",
+         "image" : "78104.v1.png",
+         "site_url" : "https://deeplazztechno.blogspot.com/",
+         "radio_url" : "https://stream.zenolive.com/m32839kywrquv",
+         "description" : "Emisora de música Techno - House"
+      },
+      {
+         "name" : "Nova Hits Radio",
+         "image" : "76383.v4.png",
+         "site_url" : "https://www.zeno.fm/novahitsradio",
+         "radio_url" : "https://stream.zenolive.com/62p3zkymyfeuv",
+         "description" : "Estas escuchando  Nova Hits RadioSomos un medio de comunicación online, por el cual queremos traer de vuelta a tus oidos, aquellas canciones hits de la década.Somos Grupo Nova Radial."
+      },
+      {
+         "name" : "Guarco Radio",
+         "image" : "27900.v2.png",
+         "site_url" : "http://guarcoradio.blogspot.in/",
+         "radio_url" : "https://stream.zenolive.com/ep5f09d4vumtv",
+         "description" : "Guarco Radio is an internet radio station from Cartago, Costa Rica, providing Community, art, culture and tourism programs."
+      },
+      {
+         "name" : "Radio 870 UCR",
+         "image" : "27995.v4.png",
+         "site_url" : "http://radios.ucr.ac.cr/",
+         "radio_url" : "https://master.letio.com/getMD.aspx?gs=8124&streamType=iceDirectAAC&redir=1",
+         "description" : "Radio U es una de las tres emisoras de la Universidad de Costa Rica. Transmitimos por la frecuencia de radio 870 AM, desde la Ciudad Universitaria Rodrigo Facio en San Pedro de Montes de Oca, San José, Costa Rica."
+      },
+      {
+         "name" : "Nuevecinconueve",
+         "image" : "27702.v6.png",
+         "site_url" : "http://nuevecinconueve.com/959/",
+         "radio_url" : "http://crc.cr/estaciones/959-radio/",
+         "description" : "La música cuenta con tres elementos esenciales: ritmo, melodía y armonía. Nuestros elementos son: energía, actualidad, cercanía. Y uniéndolos, es como nace NueveCincoNueve, perteneciente a Cadena Radial Costarricense.Podes interactuar con nosotros siempre, incluso con los artistas e invitados que tendremos en nuestro estudio."
+      },
+      {
+         "name" : "Azul 99.9 FM",
+         "image" : "27908.v6.png",
+         "site_url" : "http://azul999.com/999/",
+         "radio_url" : "http://crc.cr/estaciones/azul-999/",
+         "description" : "Estación que desde 1999, ofrece programas con música romántica, éxitos desde los 70’s a la actualidad, con información y novedades del espectáculo, ransmite por su frecuencia modulada, las 24 horas"
+      },
+      {
+         "name" : "Enlace Juvenil C.R",
+         "image" : "82121.v1.png",
+         "site_url" : "http://www.ejtv.tv/",
+         "radio_url" : "https://stream.zenolive.com/52hf40q405quv",
+         "description" : "Es una estación de radio de corte cristiano, donde tratamos de enlazar al planeta, llevando el evangelio a todos los rincones del mundo, con una programación muy amplia."
+      },
+      {
+         "name" : "Radio Uno",
+         "image" : "84823.v2.png",
+         "site_url" : "http://radiouno.xyz/",
+         "radio_url" : "https://stream.zeno.fm/w47hau37whruv",
+         "description" : "Best of Radio Hits70's, 80's, 90's, 00+From Liberia, Costa Rica with Love !"
+      },
+      {
+         "name" : "Radio Musical",
+         "image" : "27570.v1.png",
+         "site_url" : "http://radiomusical.navegalo.com/",
+         "radio_url" : "http://streaming.racklodge.com:7274/;",
+         "description" : "Radio Musical 97.5 fm, se reserva el derecho de eliminar o moderar aquellos comentarios del muro, que realizan publicidad sin previa autorización, y alteran el orden público en general."
+      },
+      {
+         "name" : "La Caliente",
+         "image" : "27442.v4.png",
+         "site_url" : "https://www.multimedios.com/radio/programas/la-caliente-907-fm-costa-rica",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/QTEJA_CR_SC",
+         "description" : "La Caliente 90.7 FM es la mejor opción para escuchar una mezcla de música tropical: salsa, merengue, cumbia y bachata. Baladas contemporáneas en español y regional mexicano."
+      },
+      {
+         "name" : "Actual FM",
+         "image" : "27412.v1.png",
+         "site_url" : "http://www.radioactualfm.com/",
+         "radio_url" : "http://216.75.41.16:8070/live",
+         "description" : "Deportes, Noticias, Opinión y humor para Costa Rica y el mundo"
+      },
+      {
+         "name" : "Radio La Gigante",
+         "image" : "27566.v2.png",
+         "site_url" : "http://www.radiolagigante800am.com/",
+         "radio_url" : "http://radiolatina.info:9982/;",
+         "description" : "Radio La Gigante 800am - is a broadcast Radio station from San Jose, Costa Rica, providing Spanish, Latin, Pop and Salsa Music.Emisora de radio con programas de actualidad: opinión, política, espiritualidad, deportes, música y más."
+      },
+      {
+         "name" : "Rock FM Costa Rica",
+         "image" : "73871.v8.png",
+         "site_url" : "https://rockfmcostarica.net/",
+         "radio_url" : "http://108.170.61.114:7279/;",
+         "description" : "En la emisora Rock FM Costa Rica tenemos la visión de hacercomunidad dando a conocer recursos de varios medios de la escena de lacultura Rock en Costa Rica.Lograr comunicar y unir más a la comunidad es uno de nuestrosobjetivos,para nosotros es muy claro la calidad del artistanacional, entre los cuales ustedes son un representante dentro de la escenanacional"
+      },
+      {
+         "name" : "Wao",
+         "image" : "27585.v3.png",
+         "site_url" : "http://waofm.com/en-vivo/",
+         "radio_url" : "http://streamer.teknoweb.co/s98074e491/listen",
+         "description" : "Somos una emisora diseñada para darte lo mejor de la música las 24 horas del día, con una programación variada y muy ágil, dándote siempre los mejores éxitos de tus artistas favoritos!"
+      },
+      {
+         "name" : "Kaos Mix CR",
+         "image" : "27889.v5.png",
+         "site_url" : "http://www.kaosmix.com/",
+         "radio_url" : "http://5.39.82.140:8092/;",
+         "description" : "Kaos Mix.Com is an internet radio station from Costa Rica, providing Variety music and Entertainment."
+      },
+      {
+         "name" : "Radio Extrema de Costa Rica",
+         "image" : "74781.v2.png",
+         "site_url" : "http://www.radioextremacr.com/",
+         "radio_url" : "http://unoredradio.com:9948/;stream.mp3",
+         "description" : "Emisora cristiana con programación para todas las edades y lo mejor de la música de todos los tiempos.Radio Extrema es un ministerio sin fines de lucro que nació el 29 de Agosto del 2007 Nuestra misión es impactar al mundo con el mensaje de Jesucristo, y a través de nuestro ministerio llegar a miles de personas con una programación diferente y variada."
+      },
+      {
+         "name" : "506 La Súper Estación",
+         "image" : "79859.v9.png",
+         "site_url" : "http://506lse.myl2mr.com/",
+         "radio_url" : "http://ca3.radioboss.fm:8151/;",
+         "description" : "Una emisora diferente !"
+      },
+      {
+         "name" : "Radio Live Power",
+         "image" : "75348.v6.png",
+         "site_url" : "http://radiolivepower.net/",
+         "radio_url" : "http://163.172.209.91:7149/stream",
+         "description" : "Todos los éxitos y canciones de amor que muchos de los oyentes recordarán, además de noticieros al día, espacios publicitarios y otros programas de entretenimiento en diversas áreas de interés los tenemos en esta emisora, siempre operativa en internet."
+      },
+      {
+         "name" : "Radio XYW",
+         "image" : "27700.v1.png",
+         "site_url" : "http://www.radioxyw.com/",
+         "radio_url" : "http://cast.radioxyw.com:8509/stream?",
+         "description" : "Radio XYW is an online radio station from Cartago, Costa Rica, providing Variety of music."
+      },
+      {
+         "name" : "HZ Radio TV",
+         "image" : "51910.v1.png",
+         "site_url" : "http://www.hzradiotv.com/",
+         "radio_url" : "http://edge.mixlr.com/channel/odvll/;",
+         "description" : "Hz la Frecuencia de Occidente es un medio de transmisión y comunicación Virtual cuyo objetivo principal es:Promover y proyectar la Cultura, la identidad, la Música y el Arte, así como el comercio Local de los pueblos del Occidente de Costa Rica, por medio de herramientas tecnológicas y virtuales como medios de comunicación Audiovisual."
+      },
+      {
+         "name" : "La Mega Costa Rica",
+         "image" : "80207.v5.png",
+         "site_url" : "http://www.lamegacr.com/",
+         "radio_url" : "http://95.154.196.33:6494/;",
+         "description" : "Emisora con programacion variada con señal las 24 horas del día"
+      },
+      {
+         "name" : "Voice Over Radio",
+         "image" : "79419.v1.png",
+         "site_url" : "https://www.voiceovercr.com/",
+         "radio_url" : "http://51.15.152.81:8067/;stream.nsv",
+         "description" : "La propuesta de Voice Over Costa Rica, nace por la necesidad de brindar un servicio el cual es necesario y muy requerido en la industria musical."
+      },
+      {
+         "name" : "Radio Universidad de Costa Rica",
+         "image" : "73734.v5.png",
+         "site_url" : "http://radios.ucr.ac.cr/",
+         "radio_url" : "https://master.letio.com/getMD.aspx?gs=8120&streamType=iceDirectAAC&redir=1;stream.nsv",
+         "description" : "La Radio Universidad de Costa Rica es un medio de comunicación social adscrito a la Vicerrectoría de Acción Social, dedicado a difundir programas educativos, informativos, de entretenimiento y de análisis de la realidad nacional e internacional."
+      },
+      {
+         "name" : "Super Leona 94.3 FM",
+         "image" : "27778.png",
+         "site_url" : "http://www.superleonafm.com/v2/",
+         "radio_url" : "http://s15.myradiostream.com:4392/;?1446544274179.mp3/;",
+         "description" : "La Super Leona 94.3 fm is a broadcast radio station in San Jose, Costa Rica, provdiing Top 40 Pop music."
+      },
+      {
+         "name" : "Guanacaste FM",
+         "image" : "81549.v8.png",
+         "site_url" : "http://guanacastefm.myl2mr.com/",
+         "radio_url" : "http://198.7.58.248:34813/;stream.nsv",
+         "description" : "El sonido de la provincia !"
+      },
+      {
+         "name" : "Purasonica",
+         "image" : "27831.v2.png",
+         "site_url" : "http://www.purasonica.com/en/start",
+         "radio_url" : "http://stream3.ibizasonica.com:8750/;",
+         "description" : "Based out of Santa Teresa on the Nicoya Peninsula, Costa Rica, .purasonica.com are dedicated to music, surfing and fun. They are a portal that flags up cool and wonderful events, parties and music, as well as providing details on where best to surf and stay on this beautiful peninsula."
+      },
+      {
+         "name" : "Exa FM",
+         "image" : "7827.v11.png",
+         "site_url" : "http://www.exacr.com/",
+         "radio_url" : "https://radios-cr.cdn.nedmedia.io/radios/exa.m3u8",
+         "description" : "Emisora líder en difusión de espacios, con sano entretenimiento y la información de actualidad, los shows más escuchados Exa Ragga Vibes, Exa Manía, Exa Bytes y otros de gran sintonía."
+      },
+      {
+         "name" : "Radio Tierra de Dios (C.R)",
+         "image" : "80714.v16.png",
+         "site_url" : "https://tierradediosrtd.blogspot.com/",
+         "radio_url" : "https://streamingv2.shoutcast.com/Radio-Tierra-de-Dios",
+         "description" : "Iglesia Cristiana Centro de Adoración Tierra de Dios.(Costa Rica) Somos Una Familia que quiere compartir un mensaje contigo y los tuyos."
+      },
+      {
+         "name" : "La Mejor",
+         "image" : "82911.v3.png",
+         "site_url" : "http://www.lamejor.co.cr/",
+         "radio_url" : "https://radios-cr.cdn.nedmedia.io/radios/lamejor.m3u8",
+         "description" : "Emisora de alcance masivo con una programación alegre y variada donde se combinan varios géneros tropicales, cumbia, merengue y salsa con baladas y bachatas."
+      },
+      {
+         "name" : "Radio Metanoia",
+         "image" : "27911.v3.png",
+         "site_url" : "http://radiocrmetanoia.wixsite.com/metanoia",
+         "radio_url" : "http://servicompcr.net:8018/stream",
+         "description" : "Somos una Radio Católica Juvenil, al servicio de la Iglesia Santa Católica y Apostólica. Radio Metanoia Costa Rica Evoluciona Tu Fe 24/7...."
+      },
+      {
+         "name" : "Radio Misericordia Juvenil",
+         "image" : "67488.v6.png",
+         "site_url" : "http://radiomisericordia.wixsite.com/radiomisericordia",
+         "radio_url" : "http://iws1.radioonlinehd.com:9980/stream",
+         "description" : "Somos una radio católica por internet que nacio en el 2016"
+      },
+      {
+         "name" : "Vida Radio",
+         "image" : "27789.v1.png",
+         "site_url" : "http://www.vida.cr/",
+         "radio_url" : "http://67.212.165.162:7328/;",
+         "description" : "Vida Radio Is an internet radio station from San José, Costa Rica, providing Christian Education, Talk and Entertainment shows."
+      },
+      {
+         "name" : "911 Groovy",
+         "image" : "27404.v1.png",
+         "site_url" : "http://www.911laradio.com/",
+         "radio_url" : "http://stream02.cyberfuel.com:12000/",
+         "description" : "Somos 911 Groovy, una comunidad con un pensamiento, ideología y gusto musical homogéneo. Con un formato musical lleno de sonidos globales e influenciados por los grandes mentes de la música electrónica, experimental, urbana y étnica."
+      },
+      {
+         "name" : "Radio Rica",
+         "image" : "27573.v2.png",
+         "site_url" : "http://radiorica640.net/",
+         "radio_url" : "http://67.212.179.138:7000/;",
+         "description" : "El día 01 de octubre de 1995 salió al aire con una clarísima idea, transmitir y llegar al  nicho de oyentes de 25 años en adelante y después de 17 años de ser parte permanente del dial costarricense, lo hemos conseguido con creces para consolidar en la frecuencia de 640 amplitud modulada una radioemisora  que se pronuncia como el medio adecuado para todas aquellas empresas con productos y servicios que requieren hacer llegar su oferta a un nicho de personas que cuenten con ingresos firmes y permanentes y se constituyan en excelentes compradores de bienes y servicios."
+      },
+      {
+         "name" : "EMRadio (C.R)",
+         "image" : "73091.v5.png",
+         "site_url" : "http://emradiocr.myl2mr.com/",
+         "radio_url" : "http://109.169.15.20:14182/;stream.nsv",
+         "description" : "The Best Electronic Music 24 hours so that you do not stop listening to us."
+      },
+      {
+         "name" : "Radio Libertad 570 AM",
+         "image" : "27886.v2.png",
+         "site_url" : "http://radiolibertadcr.com/",
+         "radio_url" : "http://198.204.224.186:8017/stream",
+         "description" : "Radio Libertad 570 AM is a broadcast community radio station from San José, Costa Rica, providing news, music, sports and much more."
+      },
+      {
+         "name" : "Radio 88 Stereo",
+         "image" : "28002.v1.png",
+         "site_url" : "http://www.88stereo.com/",
+         "radio_url" : "http://k3.usastreams.com/CableLatino/88stereo/chunklist_w2002307944.m3u8",
+         "description" : "88 Stereo es una emisora radial en Pérez Zeledón que difunde música juvenil y latina, shows, complacencias, promociones, lasnotas del espectáculo, la lista semanal de los éxitos más escuchados."
+      },
+      {
+         "name" : "Beats Online CR",
+         "image" : "79937.v2.png",
+         "site_url" : "http://www.radionomy.com/beatsonline",
+         "radio_url" : "https://streamingv2.shoutcast.com/BeatsOnline",
+         "description" : "Una radio que va directo a las personas que se llenan de energía con mas música"
+      },
+      {
+         "name" : "Estereo Continental Radio",
+         "image" : "82352.v6.png",
+         "site_url" : "http://estereocontinentalra.radio12345.com/",
+         "radio_url" : "http://198.7.59.204:7453/;stream.nsv",
+         "description" : "Emisora online transmite los #1 Billboard musica ingles. Domingos 11 A.M transmite el programa American Top 40 con Casey Kasem en directo E.E.U.U"
+      },
+      {
+         "name" : "Poder Retro CR Radio Online",
+         "image" : "80913.v7.png",
+         "site_url" : "https://poderretro.wixsite.com/misitio",
+         "radio_url" : "http://167.114.157.212:8125/;stream.nsv",
+         "description" : "La música del ayer con la tecnología de hoy"
+      },
+      {
+         "name" : "Los Ligadores",
+         "image" : "79730.v3.png",
+         "site_url" : "https://xat.com/losligadores",
+         "radio_url" : "http://185.50.197.70:9424/;stream.nsv",
+         "description" : "Variedad de musica y complacencias"
+      },
+      {
+         "name" : "Radio 94.7 FM",
+         "image" : "27698.v5.png",
+         "site_url" : "http://94-7.com/",
+         "radio_url" : "http://crc.cr/estaciones/94-7/",
+         "description" : "94-7 es el rato vacilón con la gente que te cae bien; el momento en que le subís el volumen a la radio porque suena esa canción que te gusta; la melodía que te hace cerrar los ojos y echarte una risa con vos mismo. Celebramos el talento latino, disfrutamos la música en otros idiomas, y siempre tenemos espacio para nuevas canciones que son tan ticas como el voseo. La palmada en la espalda, la carcajada, las buenas notas, las ideas positivas y la actitud optimista: eso es 94-7"
+      },
+      {
+         "name" : "Radio Ticosound",
+         "image" : "27997.v1.png",
+         "site_url" : "http://ticosound.com/",
+         "radio_url" : "http://servicompcr.net:8003/stream",
+         "description" : "Una radio online con música costarricense e internacional."
+      },
+      {
+         "name" : "Radio Liberia",
+         "image" : "74681.v1.png",
+         "site_url" : "http://www.canal5guanacaste.com/",
+         "radio_url" : "http://s35.myradiostream.com:35032/;listen.mp3",
+         "description" : "Una radio para sentirse bien"
+      },
+      {
+         "name" : "Radio Barva",
+         "image" : "27712.v2.png",
+         "site_url" : "http://radiobarva.com/",
+         "radio_url" : "http://stream.gknsoporte.com:8014/stream",
+         "description" : "Their goal is to share views through special programs, have good times with music from Costa Rica and the world with people of all ages, give out unique features of a culture based on indigenous and peasant traditions of this band in the world, located in the waist of America. In programming you will find samples of that culture as maroon, masquerades and clowns, testimonies of craftsmen through the years have maintained that cute tradition, professional musicians who perform their work, painters and sculptors who have made this town famous."
+      },
+      {
+         "name" : "PartyDJ",
+         "image" : "84656.v2.png",
+         "site_url" : "http://partydj.myl2mr.com/",
+         "radio_url" : "http://109.169.15.20:19309/;stream.nsv",
+         "description" : "hoy sera un buen programa desde Costa Rica el dj dog en cabina. Somos una nueva emisora para todo tipo de gente"
+      },
+      {
+         "name" : "Radio Top40",
+         "image" : "75373.v1.png",
+         "site_url" : "https://www.usastreams.com/streaming-hosting-radio-broadcast/",
+         "radio_url" : "http://usa1.usastreams.com:8000/usastreams",
+         "description" : "https://www.usastreams.com/streaming-hosting-radio-broadcast/"
+      },
+      {
+         "name" : "Radio Pampa",
+         "image" : "27591.png",
+         "site_url" : "http://www.radiolapampa.net/",
+         "radio_url" : "http://s4.voscast.com:7866/;",
+         "description" : "Radio Pampa es una emisora costarricense, radicada en la provincia de Guanacaste, específicamente en la ciudad de Liberia, transmitiendo desde Liberia, Nicoya y Santa cruz, en los 1420 de la Amplitud Modulada. Es una emisora que lleva en sus venas, todo el sabor de Guanacaste, y busca por todos los medios posibles, el rescate de los valores y tradiciones del pueblo"
+      },
+      {
+         "name" : "Sonido506",
+         "image" : "85195.v8.png",
+         "site_url" : "http://www.sonido506.tk/",
+         "radio_url" : "http://serviciosderadio.ddns.net:8000/sonido506",
+         "description" : "Muy tica pero internacional"
+      },
+      {
+         "name" : "Radio 16",
+         "image" : "27445.png",
+         "site_url" : "http://www.radio16.com/",
+         "radio_url" : "http://216.75.41.16:8016/live",
+         "description" : "Radio 16 1590 is a broadcast Radio station from Grecia, Costa Rica, providing number one area in the fields of entertainment, information, social service, promotion of products and services by a professional technician team."
+      }
+   ]
+}

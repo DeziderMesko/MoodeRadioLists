@@ -1,0 +1,284 @@
+{
+   "eg" : [
+      {
+         "name" : "راديو 90 90",
+         "image" : "28516.v5.png",
+         "site_url" : "http://www.9090.fm/",
+         "radio_url" : "http://64.150.176.192:8276/;",
+         "description" : "على إذاعتنا لديك الفرصة لمعرفة آخر الأخبار، والاستماع إلى الموسيقى."
+      },
+      {
+         "name" : "Mahatet Masr",
+         "image" : "27766.v2.png",
+         "site_url" : "http://www.mahatetmasr.com/",
+         "radio_url" : "https://s3.radio.co/s9cb11828c/listen",
+         "description" : "Our Online radio stations Mahatet Masr is the first and widest online radio in Egypt Live from Egypt ... Feel Egypt at radio Mehatet Masr"
+      },
+      {
+         "name" : "Radio Masr",
+         "image" : "28206.png",
+         "site_url" : "http://www.radiomasr.net/",
+         "radio_url" : "https://streaming.radio.co/scc13a6b96/listen",
+         "description" : "راديو مصر هي اذاعة حكومية قطاع الأخبار يتم بثها عبر موجات FM على تردد 88.7FM."
+      },
+      {
+         "name" : "Radio Masrawy - مصراوي",
+         "image" : "44576.v1.png",
+         "site_url" : "http://masrawy.com/",
+         "radio_url" : "http://9090streaming2.mobtada.com/9090FMEGYPT?type=.mp3/;stream.mp3",
+         "description" : "الصفحة الرسمية لمصراوي - أول وأكبر بوابة مصرية"
+      },
+      {
+         "name" : "Mega FM",
+         "image" : "27815.v5.png",
+         "site_url" : "http://www.megafmonline.com/megafm-live/",
+         "radio_url" : "https://www.megafmonline.com/megafm-live/",
+         "description" : "Mega FM 92.7 is a broadcast radio station from Cairo, Egypt providing Arabic music, news and information."
+      },
+      {
+         "name" : "راديو هيتس",
+         "image" : "28522.v2.png",
+         "site_url" : "http://www.radiohits.co/portal/",
+         "radio_url" : "https://www.radiohits.co/radiohits-live/",
+         "description" : "RADIO HITS 88.2 THE BEST RADIO CHANNEL"
+      },
+      {
+         "name" : "Radio Beloghos",
+         "image" : "28051.v5.png",
+         "site_url" : "https://elkedeseen.org/beloghos/",
+         "radio_url" : "http://88.99.36.93:8000/;",
+         "description" : "كنيسة القديسين مارمرقس الرسول والبابا بطرس خاتم الشهداء بالاسكندرية"
+      },
+      {
+         "name" : "Radio Copt4G FM",
+         "image" : "44566.png",
+         "site_url" : "http://www.copt4g.com/",
+         "radio_url" : "http://50.7.68.251:6924/stream/;",
+         "description" : "مع انتشار الموسيقي السهله المعتمده اساسا علي الايقاع و علي تسهيل الجمل الموسيقيه و يتزامن ذلك مع قصر الاغاني من ساعه لنصف ساعه لاقل من ٥ دقائق و في عالم يبحث يوميا عن تسهيلات في الحياه و ضغط الازرار نفسه اصبح يستبدل بلمسهافي وسط كل ذلك يجد المسيحي صعوبه كبيره في الاستماع و الاستمتاع و بالحري حفظ الالحان القبطيه و هنا عمل الروح القدس في مجموعه من الشمامسه في دراسه كيف نسهل تحفيظ اللحن القبطي و نستعيض عن الطريقه القديمه من العريفين&lt;المعلمين&gt; الذين كانوا يعتمدوا في التحفيظ علي كثر التكرار و الاعاده بطريقه جديده تعتمد علي استخدام العين مع الاذن في التحفيظ بطريقه شيقه و قصيره لا نحاول من خلالها ابراز جمال الصوت او التطويل الممل من بعض المعلمين الذين ان اطالوا في اللحن يقل"
+      },
+      {
+         "name" : "El Gauna FM",
+         "image" : "28497.png",
+         "site_url" : "http://www.elgounaradio.com/",
+         "radio_url" : "http://82.201.132.237:8000/;stream.mp3/;",
+         "description" : "الجونة راديو هو خيار الراديو وزير الخارجية على الانترنت اذاعة الشعب. انهم يلعبون الموسيقى تكنو. أنها تعطيك يبدو وكأنه لا أحد آخر يمكن. الجونة راديو تبث إلى الغردقة أكبر, منطقة مصر وخارجها. الجونة راديو تقديم الأفضل من الموسيقى متخصص, مجتمع."
+      },
+      {
+         "name" : "Radio Tiba",
+         "image" : "64813.v3.png",
+         "site_url" : "http://www.tibaradio.com/",
+         "radio_url" : "http://s1.voscast.com:10026/;stream.mp3",
+         "description" : "TIBA Radio is a community radio station serving the residents and guests in Hurghada on the Red Sea coast in Egypt."
+      },
+      {
+         "name" : "Radio Shabab",
+         "image" : "44572.v2.png",
+         "site_url" : "https://shababradio.net/",
+         "radio_url" : "https://stream.radiojar.com/a3qsqz9h2ewtv",
+         "description" : "Shabab Radio is the 1st European cross-cultural webradio station with informative and entertaining programs in Arabic and English ( & more languages to come), broadcasting from Athens, Greece and soon from all over Europe."
+      },
+      {
+         "name" : "St Mary El Golf Radio",
+         "image" : "28196.png",
+         "site_url" : "http://www.stmaryelgolf.com/",
+         "radio_url" : "http://50.7.77.114:8033/stream",
+         "description" : "كنيسة القديسة العذراء مريم بأرض الجولف"
+      },
+      {
+         "name" : "Radio Eltekia",
+         "image" : "28524.v3.png",
+         "site_url" : "https://www.eltekia.com/",
+         "radio_url" : "http://173.249.31.198:8000/;.mp3",
+         "description" : "لان الأرض تدور والفضاء يتسع قررنا انشاء راديو التكية بخمس قنوات اذاعية مختلفة"
+      },
+      {
+         "name" : "Deacons School",
+         "image" : "28191.v1.png",
+         "site_url" : "http://www.athanasiusdeacons.net/",
+         "radio_url" : "http://198.154.254.10:7006/;",
+         "description" : "تعليم الالحان الكنسية القبطية واللغة القبطية والطقوس الكنسية وكل ما يتعلق بالحياة الليتورجية"
+      },
+      {
+         "name" : "Radio Moga",
+         "image" : "74029.v3.png",
+         "site_url" : "http://radiomoga.com/",
+         "radio_url" : "http://eu4.fastcast4u.com:5458/;.mp3",
+         "description" : "Radio Moga is a broadcast radio station from Cairo, Egypt providing Arabic music."
+      },
+      {
+         "name" : "Radio Sotak",
+         "image" : "28117.v4.png",
+         "site_url" : "http://www.radiosotak.com/v/2/",
+         "radio_url" : "http://serv02.streamsfortheworld.com:8000/radiosotak_hi",
+         "description" : "ده البيدج بتاع راديو صوتك راديو بجد شبابي جدا . لو عندك اي مشكله عاطفيه او اجتماعيه تقدر تعتبر ان ديه القهوه اللي فيها بتتقابل مع صحابك وتتكلم معاهم عن كل اللي جواك بمنتهي الصراحه. تعالي تابعنا وجرب تسمعنا ونوعدك هتتبسط"
+      },
+      {
+         "name" : "Gr8tunes - WARDIAT",
+         "image" : "74110.png",
+         "site_url" : "http://www.gr8tunes.com/",
+         "radio_url" : "http://192.184.9.81:8008/;stream/1",
+         "description" : "A very popular radio station broadcasting from United Arab Emirates."
+      },
+      {
+         "name" : "Life club",
+         "image" : "71458.v3.png",
+         "site_url" : "http://www.life-club.org/main/",
+         "radio_url" : "http://serv02.streamsfortheworld.com:8000/lifeclub_hi",
+         "description" : "نحن مجموعةٌ من المؤمنين من خلفيّاتٍ متعدّدة، نؤمن بالسيّد المسيح وتعاليمه. نأملُ بأن تتمتّعَ باكتشاف موقعِنا وأقسامه المتعدّدة، وإذا كنتَ مهتمّاً برسالة الإنجيل، وبالإيمان بالسيّد بالمسيح، فهذا الموقع موقعك. الموقع مليء بالأناشيد الدينية وتأمّلات روحيّة من الأنجيل، بالإضافة إلى برامج إذاعيّة وفيديوهات مفيدة للنمو الرّوحي، وأنشطة متعدّدة"
+      },
+      {
+         "name" : "Egonair",
+         "image" : "28119.v2.png",
+         "site_url" : "http://www.egonair.com/",
+         "radio_url" : "http://www.hostmyradio.com:8010/;",
+         "description" : "راديو مصر على الهوا صوت شباب مصر – راديو مصر علي الهوا يعني بيتك التاني يعني اهلك و اصحابك و ناسك يعني رأينا رايك و كلامنا كلامك و تفكيرنا تفكيرك راديو مصر علي الهوا يعني بنشاركك في حياتك في احزانك في افراحك في اعيادك في جرحك في ألمك مش حتلاقي حد قلبه عليك زي راديو مصر علي الهوا احنا علي اتم استعداد"
+      },
+      {
+         "name" : "M3ak3latool Radio راديو معاك على طول",
+         "image" : "28185.v1.png",
+         "site_url" : "http://www.radioma3ak.com/",
+         "radio_url" : "http://www.radioma3ak.com:8000/;stream.mp3",
+         "description" : "Radio broadcast today will be a good talk show with many interesting guests. Waiting you"
+      },
+      {
+         "name" : "AlsiragRadio",
+         "image" : "71457.v3.png",
+         "site_url" : "http://alsiragradio.com/main/",
+         "radio_url" : "http://serv02.streamsfortheworld.com:8000/alsirag_hi",
+         "description" : "24/7 Bible Internet Radio"
+      },
+      {
+         "name" : "Arab Dj",
+         "image" : "76384.v9.png",
+         "site_url" : "https://4dj.neocities.org/",
+         "radio_url" : "https://stream.zeno.fm/na3vpvn10qruv.acc",
+         "description" : "Arabic Best Radio from Egypt Cairo - Just isten Now Onair"
+      },
+      {
+         "name" : "Nogomi Radio",
+         "image" : "28008.v1.png",
+         "site_url" : "http://nogomistars.com/",
+         "radio_url" : "https://securestreams2.autopo.st:1152/;",
+         "description" : "Nogomi is the largest Arabic music website that provides high quality mp3 songs, videos and photos."
+      },
+      {
+         "name" : "Radio Al Jazeera English",
+         "image" : "44570.v8.png",
+         "site_url" : "http://aljazeera.com/",
+         "radio_url" : "http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/160audio.m3u8",
+         "description" : "Al Jazeera English's in-depth approach to journalism has won it numerous awards and plaudits over the years. We go beyond cold facts and bring to light what really matters."
+      },
+      {
+         "name" : "Arab Mix",
+         "image" : "84043.v6.png",
+         "site_url" : "https://onair.neocities.org/",
+         "radio_url" : "https://stream.zeno.fm/efx5psd00qruv",
+         "description" : "The best radio in Egypt for the latest exclusive Arabic songs live on air only listen now"
+      },
+      {
+         "name" : "Nogoum FM",
+         "image" : "27750.v10.png",
+         "site_url" : "http://www.nogoumfm.net/",
+         "radio_url" : "https://streamdb9web.securenetsystems.net/cirrusencore/NOGOUM",
+         "description" : "Nogoum FM is a broadcast radio station from Cairo, Egypt providing Arabic Contemporary Hits music, talk and information."
+      },
+      {
+         "name" : "القرآن الكريم من القاهرة",
+         "image" : "28540.v1.png",
+         "site_url" : "http://www.ertu.org/quran/QuranKareem.html",
+         "radio_url" : "http://www.ertu.org/quran/QuranKareem.html",
+         "description" : "البث المباشر لإذاعة القرآن الكريم من القاهرةتسعى شبكة القرآن الكريم جاهده لتحقيق الهدف الأسمى والأساسي وهو تعريف المستمع بصحيح الدين وما يحتويه كتاب الله عز وجل وسنة رسوله ' صلى الله عليه وسلم ' من تعاليم تسمو بالفرد والمجتمع وذلك انطلاقا من كونها أول إذاعة متخصصة في الإعلام الديني في العالم العربي والإسلامي، تقدم خدمة إعلامية حضارية متميزة دعامتها القرآن الكريم والسنة النبوية المطهرة بما يؤكد وسطية الإسلام ويبعده عن الأفكار الهدامة المتطرفة ويرسخ حب الانتماء للوطن والحرص على ما في الحضارة المصرية القديمة والمعاصرة من كنوز وتراث"
+      },
+      {
+         "name" : "Nile FM",
+         "image" : "27754.v8.png",
+         "site_url" : "http://www.nilefmonline.com/nile/",
+         "radio_url" : "https://streamdb9web.securenetsystems.net/cirrusencore/NILE",
+         "description" : "Egypt's #1 For Hit Music! We bring you the world's biggest artists and songs, all with the best presenters and the hottest DJs."
+      },
+      {
+         "name" : "Diab FM",
+         "image" : "27759.v2.png",
+         "site_url" : "http://diab.fm/",
+         "radio_url" : "http://s3.voscast.com:9384/;stream.mp3",
+         "description" : "Amr Diab's Official Online Radio Station"
+      },
+      {
+         "name" : "Eman Live",
+         "image" : "28035.v2.png",
+         "site_url" : "http://www.emanlive.com/p/index.php",
+         "radio_url" : "http://www.emanlive.com:8000/;",
+         "description" : "Eman Live is a web based internet radio station from Cairo that plays Islamic and religious genre of music. Seeking 'the Voice of Faith' to illustrate the approach the Prophet the right of Muslims to the level of the world by meetings with a number of preachers."
+      },
+      {
+         "name" : "Coptic Orthodox",
+         "image" : "28026.v5.png",
+         "site_url" : "http://copt4g.com/",
+         "radio_url" : "http://66.70.249.70:5784/;stream.mp3",
+         "description" : "We ar the Coptic orthodox church radio station streaming in Arabic 24/7 for your spiritual needs we have it all, liturgies, bible readings, hymns, spiritual audio books...all to the glory of our lord Jesus Christ please share the benefit if you likes it"
+      },
+      {
+         "name" : "Radio Banha Tarab",
+         "image" : "73715.v1.png",
+         "site_url" : "http://www.banhacity.com/",
+         "radio_url" : "https://streamingv2.shoutcast.com/BanhaCity",
+         "description" : "Radio Banha Tarab is an internet radio station from Egypt, providing Arabic, Oldies music on the radionomy internet radio station network."
+      },
+      {
+         "name" : "100 Copies Music Radio",
+         "image" : "28029.png",
+         "site_url" : "http://www.100radiostation.com/",
+         "radio_url" : "http://100radiostation.com:8000/100radio",
+         "description" : "Electronic music from Egypt, the Arab world and International ..."
+      },
+      {
+         "name" : "Hawak Radio",
+         "image" : "74784.v4.png",
+         "site_url" : "https://www.hawakradio.com/",
+         "radio_url" : "http://199.192.23.146:9300/;stream.nsv",
+         "description" : "Online Radio for Family"
+      },
+      {
+         "name" : "Radio Horytna",
+         "image" : "28182.v3.png",
+         "site_url" : "http://www.horytna.net/",
+         "radio_url" : "http://horytna.out.airtime.pro:8000/horytna_a",
+         "description" : "راديو حريتنا... يعطي مزيدا من الاهتمام للشباب من كل الاتجاهات والافكار في اطار من العقلانيه والتوازن والدقه في المعلومات والاعتماد على اساليب التحقيق في الصحافة، بسيطة في اللغة العربية السليمه، وتهدف الى خدمة المجتمع من خلال ثقافة حقوق الانسان ومفاهيم الديمقراطيه والمواطنه، ونشر روح التسامح..."
+      },
+      {
+         "name" : "Radio 7ayah",
+         "image" : "28044.png",
+         "site_url" : "http://radio7ayah.com/new/",
+         "radio_url" : "http://136.243.239.168:9996/stream",
+         "description" : "مَتْسِبْش وِدانَك لأيْ حَـد .."
+      },
+      {
+         "name" : "More Bass Radio",
+         "image" : "28123.v1.png",
+         "site_url" : "http://morebassradio.net/home/",
+         "radio_url" : "http://morebassradio.no-ip.org:8214/;",
+         "description" : "More |3ass Radio is a new online radio station that will satisfy all listeners with the newest and best tracks and mixes with DJs from all around the world."
+      },
+      {
+         "name" : "Radio Antica",
+         "image" : "44573.v2.png",
+         "site_url" : "http://www.anticafm.com/",
+         "radio_url" : "http://148.251.131.47:9944/;",
+         "description" : "Radio Antica is an Internet Radio station broadcasting from Egypt, includes music and news. News is prepared and programs in the studios of 'Antica Radio' through a working group of young ambition and hopes and dreams by proving self."
+      },
+      {
+         "name" : "Radio Mubasher",
+         "image" : "44574.png",
+         "site_url" : "http://www.radiomubasher.net/",
+         "radio_url" : "http://eu1.fastcast4u.com:2360/stream/;",
+         "description" : "Radio Mubasher aim is to be the first broadcast from the heart of Cairo Engineering achieve all that is beneficial and useful to the student not only in the academic field but rather focus on the everyday normal life in the template consists of a range of programs offered by volunteers for the advancement of their country of Egypt."
+      },
+      {
+         "name" : "A7lmna FM",
+         "image" : "27834.png",
+         "site_url" : "http://a7lmnafm.com/",
+         "radio_url" : "http://egradio.in:9998/;",
+         "description" : "مجموعة شبابية جمعهم العمل في مجال الاعلام , لتحقيق حلم النجاح , حيث شارك فى فريق عمل راديو احلامنـا الأعمار ما بين 15 سنه لـ 35 سنة .هدفنا:-الاول :- هو محاولة تغيير ثقافة الاعلام المصري , واننا نقدم المعلومة الصحيحة للناس كلها بحيث توصلهم بشكل بسيط ولغة عربية سليمة وسهلة في نفس الوقت ( اللغة العامية ) ."
+      }
+   ]
+}

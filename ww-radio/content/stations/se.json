@@ -1,0 +1,1460 @@
+{
+   "se" : [
+      {
+         "name" : "East FM",
+         "image" : "22067.png",
+         "site_url" : "http://www.eastfm.se/#veckans-adds",
+         "radio_url" : "http://stream.dbmedia.se/eastfm96?type=mp3",
+         "description" : "Radiokanalen som vill vara först med ny musik, och som ofta lyckas. Med ett eget, personligt tilltal gör vi radio för nutiden. Vårt musikflöde toppas med de kommande och aktuella hitlåtarna inom popen, hiphopen och klubbmusiken. Hjärtat har vi i Östergötland,100,9 i Norrköping och 103,2 i Linköping men alla kan ta del av East FM via våra app, webbradio och Youtube-kanal, eastfm.tv."
+      },
+      {
+         "name" : "The Beat",
+         "image" : "23055.png",
+         "site_url" : "http://thebeat.se/",
+         "radio_url" : "http://178.32.62.154:8908/;",
+         "description" : "The Beat är Borås nya lokalradiostation som enbart sänder via webben. Stationen bildades 2016 och riktar sig främst till unga Boråsare i åldrarna 15-35. Vi sänder ny musik, nyheter och program med lokalt innehåll från staden. Stationen är centralt stationerad i Borås med studio på Österlånggatan 47 där våra medarbetare arbetar med sända radio."
+      },
+      {
+         "name" : "Soundic Radio",
+         "image" : "22685.png",
+         "site_url" : "http://soundicradio.com/",
+         "radio_url" : "https://soundicradio.radioca.st/stream",
+         "description" : "Soundic Radio är en svensk webbradiostation som finns till för att vara din hitmusik-leverantör inom genren Dance, Pop, Top 40. Vi sänder vår musik och underhållning över Internet till lyssnare över hela världen. Sändningarna sker huvudsakligen på svenska."
+      },
+      {
+         "name" : "Country Rocks Radio",
+         "image" : "49210.png",
+         "site_url" : "http://www.countryrocksradio.com/",
+         "radio_url" : "http://stream.dbmedia.se/crrMP3",
+         "description" : "Scandinavias No. 1 Radio if you like New Hot Country."
+      },
+      {
+         "name" : "Jam FM",
+         "image" : "22904.v3.png",
+         "site_url" : "http://www.jamfm.se/",
+         "radio_url" : "http://jamfm.hoerradar.de/jamfm-mp3-128",
+         "description" : "För dig, den mest populära dansmusik"
+      },
+      {
+         "name" : "Rockklassiker",
+         "image" : "21953.png",
+         "site_url" : "http://www.radioplay.se/rockklassiker",
+         "radio_url" : "https://live-bauerse-fm.sharp-stream.com/rockklassiker_instream_se_aacp",
+         "description" : "Sveriges största rockstation med tidernas bästa rock."
+      },
+      {
+         "name" : "SVENSKA FAVORITER",
+         "image" : "23275.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://wr13-ice.stream.khz.se/wr13_mp3?platform=web",
+         "description" : "Svenska Favoriter är tillbaka. Nu med enbart musik på svenska."
+      },
+      {
+         "name" : "Retro FM",
+         "image" : "21831.png",
+         "site_url" : "http://www.retrofm.se/",
+         "radio_url" : "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp",
+         "description" : "På Retro FM börjar du vardagen med Retromorgon tillsammans med Hasse & Helene, en lokal morgonshow med tävlingar, nyheter, trafikinformation och framförallt musiken du älskar. Dagen fortsätter med Jane Tilly som håller dig sällskap över lunchen.Eftermiddagen guidar Jocke Forsell dig med trafikinformation och på kvällen fortsätter Dr Dreilick med hitsen från 60, 70 och 80-talet."
+      },
+      {
+         "name" : "Radio Sandviken",
+         "image" : "22702.v1.png",
+         "site_url" : "http://radiosandviken.se/",
+         "radio_url" : "http://rssand.se:4027/;;",
+         "description" : "Radio Sandviken är en lokal radio station med verksamhet inom Sandvikens kommun. Du kan lyssna på oss på 89.9 MHz inom Sandvikens kommun, eller via vår musik spelare här på hemsidan. Radio Sandviken är en ideell förening som drivs av personer som har radio som intresse."
+      },
+      {
+         "name" : "DistFM",
+         "image" : "22995.v2.png",
+         "site_url" : "http://www.distfm.se/",
+         "radio_url" : "http://185.80.220.12/proxy/distfmsam192?mp=/;",
+         "description" : "We play everything from the 70’s, 80’s, 90’s, 00’s and today.Classic rock, Glam rock, Hard rock, Melodic rock, AOR, Heavy metal and Power metal… we play it all.We constantly update with new releases and broadcast in high quality.Nothing but the best!"
+      },
+      {
+         "name" : "Motgift",
+         "image" : "49017.v1.png",
+         "site_url" : "http://motgift.nu/",
+         "radio_url" : "http://svegot.out.airtime.pro:8000/svegot_a",
+         "description" : "Motgift är ett nätmagasin med tillhörande podcasts och webb-tv som står upp för folk, familj och fosterland."
+      },
+      {
+         "name" : "Beat FM",
+         "image" : "49010.png",
+         "site_url" : "http://www.beatfm.us/",
+         "radio_url" : "http://stream.beatfm.se/beatweb128.mp3",
+         "description" : "Beat FM broadcasts 24/7,they plays nonstop music, rap, hip-hop, etc music live on the internet. Beat FM is to make the youth connected with the music world they decorate their playlist with songs that youth will love."
+      },
+      {
+         "name" : "Radio MNF",
+         "image" : "49265.png",
+         "site_url" : "http://www.mnf.nu/",
+         "radio_url" : "http://webbradio1.intinor.se:8000/mnf.mp3",
+         "description" : "MNF Radio station mostly time play World Talk music. MNF Radio live broadcasting from Gothenburg, Sweden. MNF Radio also play 24 hours various kind of music genres."
+      },
+      {
+         "name" : "MusikMixense",
+         "image" : "23119.png",
+         "site_url" : "http://www.musikmixen.se/",
+         "radio_url" : "https://http-live.sr.se/p3-mp3-192",
+         "description" : "MusikMixen.se is an internet radio station from Sweden, providing everything from Rock, Pop, 60 century, 70 century, 80 century and 90 century music to dance, ... See more"
+      },
+      {
+         "name" : "Pirate Rock",
+         "image" : "23110.v1.png",
+         "site_url" : "http://www.piraterock.se/",
+         "radio_url" : "https://stream.piraterock.se:8100/webradio",
+         "description" : "Västkustens Bästa Rock hittar du här på Pirate Rock 95-4"
+      },
+      {
+         "name" : "Global Swing Broadcast",
+         "image" : "49012.png",
+         "site_url" : "http://www.gsb.fm/",
+         "radio_url" : "http://s4.streammonster.com:8888/stream",
+         "description" : "We are Global Swing Broadcast. We are committed to bring you the best swing music out there."
+      },
+      {
+         "name" : "Strul FM",
+         "image" : "22979.png",
+         "site_url" : "http://strulfm.se/",
+         "radio_url" : "http://s1.streamaudio.de:8000/strul-fm",
+         "description" : "Carefully selected tunes for an eclectic music experience."
+      },
+      {
+         "name" : "Gold",
+         "image" : "49015.png",
+         "site_url" : "http://www.radioplay.se/goldfm",
+         "radio_url" : "https://goldfm.nu/goldfm_aacp",
+         "description" : "Ger dig de största hitsen från tre decennier."
+      },
+      {
+         "name" : "HITCITY",
+         "image" : "22620.png",
+         "site_url" : "http://www.hitcity.se/",
+         "radio_url" : "http://89.160.63.63/live",
+         "description" : "HITCITY - En underbar värld av dansmusik dygnet runt för Din skull ! - A wonderful world of dancemusic 24/7 just for YOU !"
+      },
+      {
+         "name" : "Radio Active",
+         "image" : "23002.png",
+         "site_url" : "http://radioactive.se/",
+         "radio_url" : "http://stream.nsp.se:8000/radioactive48",
+         "description" : "Din lokala radiostation i sydöstra Skåne."
+      },
+      {
+         "name" : "Vinyl",
+         "image" : "21848.png",
+         "site_url" : "http://www.radioplay.se/vinyl107?autoplay=",
+         "radio_url" : "https://live-bauerse-fm.sharp-stream.com/vinylfm_instream_se_aacp",
+         "description" : "Vinyl FM spelar fantastiska låtar, de största hitsen som någonsin gjorts. Vinyl FM väljer ut de allra bästa låtarna, dom som får oss alla på riktigt gott humör."
+      },
+      {
+         "name" : "Psy Radio - Alternative",
+         "image" : "49069.png",
+         "site_url" : "http://psyradio.fm/",
+         "radio_url" : "http://komplex2.psyradio.org:8040/;stream.nsv",
+         "description" : "'psyradio is an online webradio station. It broadcasts his finest selection of psychedelic electronic music 24 hours a day. It consists of four music channels: progressive, psytrance, chillout and alternative."
+      },
+      {
+         "name" : "Radio Gbg ZABAVNA",
+         "image" : "22708.png",
+         "site_url" : "http://radiogbg.se/",
+         "radio_url" : "http://studio.isasecret.com:8000/;",
+         "description" : "Muzika i zabava"
+      },
+      {
+         "name" : "Radio Pontos Stockholm",
+         "image" : "22019.png",
+         "site_url" : "http://www.pontosstockholm.com/",
+         "radio_url" : "http://213.188.154.38:8000/live.mp3/;",
+         "description" : "Καλώς ήρθατε στο πρώτο ποντιακό ραδιόφωνο Σκανδιναβίας το ραδιόφωνο των Ποντίων της Διασποράς Ράδιο Πόντος Στοκχόλμης"
+      },
+      {
+         "name" : "Pop och Rock",
+         "image" : "49067.png",
+         "site_url" : "http://poporock.com/",
+         "radio_url" : "http://stream.ueteknik.se:8000/poporock",
+         "description" : "Välkommen till Pop O Rock.Musik från när pappa var ung och vi spelade vinylskivorMusiknostalgi varje vardag. Eller en helt ny värld att upptäcka för oss som inte ens var födda när Elvis mötte Priscilla"
+      },
+      {
+         "name" : "Boras Narradio",
+         "image" : "49270.png",
+         "site_url" : "http://www.borasnarradio.se/",
+         "radio_url" : "http://lyssna.fnf.nu:8080/radioboras.mp3",
+         "description" : "Boras Narradio is a popular radio of Sweden their main attraction of programs are a well balanced execution of their programs that may be like cultural and modern musical mix. Boras Narradio is a diverse radio station that is well known for their listener oriented programmings and they are always concern about the likings of their listeners."
+      },
+      {
+         "name" : "Radiosol",
+         "image" : "21989.v2.png",
+         "site_url" : "http://www.radiosol.se/om/",
+         "radio_url" : "http://live.radiosol.se:8000/;stream.mp3",
+         "description" : "Radiosol är en ideell förening med säte i Sollefteå. Föreningen bildades 15 maj 2008.Föreningens syfte är att förse kommunens medborgare med kultur genom närradiosändningar. Vi är dessutom partipolitiskt och religiöst obunden."
+      },
+      {
+         "name" : "RadioHits",
+         "image" : "49208.v1.png",
+         "site_url" : "http://www.radiohits.se/",
+         "radio_url" : "http://185.105.4.50:6484/;",
+         "description" : "Radiohits bjuder på musik som du inte hör så ofta på andra radiostationer.Du hör den senaste musiken somDisco, Pop, gamla godingar, Trance, Punk, R&B, Rock, Country, Jazz.50-, 60-, 70-, 80-, 90- tills i dag tals-musik. Drivs av JohnsRadio, bara på webben.Vi är en nordisk internetradio som sänder dygnet runt med bra musik!"
+      },
+      {
+         "name" : "SceneSat Radio",
+         "image" : "49211.png",
+         "site_url" : "https://scenesat.com/",
+         "radio_url" : "http://salyut80.scenesat.com/scenesat",
+         "description" : "Welcome to SceneSat Radio - the place that connects the many musical aspects of the scene to the rest of the world."
+      },
+      {
+         "name" : "Radio Mariestad",
+         "image" : "22974.v1.png",
+         "site_url" : "http://www.radiomariestad.se/wordpress/",
+         "radio_url" : "http://89.205.127.244:8000/;",
+         "description" : "Med start måndag 16 maj klockan 10.00 börjar Studiefrämjandet sända programmet ”Multilingual”. Som namnet avslöjar är det ett program där flera språk pratas. Innehållat skapas av, och riktar sig till nyanlända som kommit till Mariestad.De språk som kommer höras är amhari, arabiska, engelska, farsi, somali och tigrigna. Under en timme, där varje språk har cirka 10 minuter till förfogande, får vi nyheter och inslag om hur det är att leva i Sverige och information om hur man löser praktiska problem."
+      },
+      {
+         "name" : "Dagnys musikcafe",
+         "image" : "21961.v1.png",
+         "site_url" : "http://dagny.us/?PageID=2",
+         "radio_url" : "http://streaming2.nordblommedia.se:443/dagny.mp3",
+         "description" : "To all the listeners in Europe and in USA.We´re glad you´ve discovered Dagnys Jukebox and we hope you´ll like the musical mixture found here.This channel belongs to Rock´n´Roll West which is a member club in the town of Uddevalla in the west of Sweden."
+      },
+      {
+         "name" : "Radio Hambastegi",
+         "image" : "23377.v2.png",
+         "site_url" : "http://radiohambastegi.se/",
+         "radio_url" : "http://hambastegione.mine.nu:9600/;",
+         "description" : "Radio Hambastegi is a persian radio in Stockholm and it started in 1989. Represents left and feminist views Sending news, reportages,interviews and debates."
+      },
+      {
+         "name" : "Radio Bastad",
+         "image" : "22688.v1.png",
+         "site_url" : "http://www.radiobastad.se/",
+         "radio_url" : "http://212.31.164.21:8004/;",
+         "description" : "Vi spelar bara sköna låtar. Lite gammalt, lite nytt!"
+      },
+      {
+         "name" : "Radio Iran On Air",
+         "image" : "21829.v1.png",
+         "site_url" : "http://www.iranonair.com/",
+         "radio_url" : "http://iranonairone.mine.nu:9300/;",
+         "description" : "رادیو فارسی زبان با 27 ساعت پخش زنده بر روی طول موج اف ام 90.50 مگاهرتز در استکهلم ، سوئد و 24 ساعته پخش اینترنتی در خدمت همه ایرانیان در جهان"
+      },
+      {
+         "name" : "Nonstop Casiopea",
+         "image" : "49064.png",
+         "site_url" : "http://nonstopcasiopea.wixsite.com/ncradio",
+         "radio_url" : "http://hyades.shoutca.st:8551/;stream.nsv",
+         "description" : "Dedicated radio station to Casiopea(カシオペア) the world famous Japanese fusion band. Playing studio albums and live recordings 24/7."
+      },
+      {
+         "name" : "BitJam Radio",
+         "image" : "22966.v2.png",
+         "site_url" : "http://www.bitfellas.org/",
+         "radio_url" : "http://marmalade.scenesat.com:8086/bitjam.mp3",
+         "description" : "Ryska elektronisk musik"
+      },
+      {
+         "name" : "Kanon FM",
+         "image" : "23126.png",
+         "site_url" : "http://www.kanonfm.com/",
+         "radio_url" : "http://85.227.87.176:8000/listen",
+         "description" : "Allt efter att tiden gått har vi förnyat vårt utbud och spelar, på begäran, även ny musik men tyngdpunkten ligger fortfarande i 60 och 70-talet. Över 50% av musiken på vår musiklista är inspelad före 1980."
+      },
+      {
+         "name" : "Radio Wix",
+         "image" : "22902.png",
+         "site_url" : "http://www.radiowix.se/",
+         "radio_url" : "https://s2.radio.co/s74d4d7992/listen",
+         "description" : "RadioWix sändningsutbud består av allt från profilerade liveprogram till rena musikprogram och spellistor.Livesändningar från olika evenemang i regionerna Valdemarsvik och Västervik förekommer även i viss grad.RadioWix har som målsättning att alltid vara radiostationen som håller ett brett utbud för att leverera program och musik som kan passa alla."
+      },
+      {
+         "name" : "Wake Up",
+         "image" : "23155.png",
+         "site_url" : "http://radiowakeup.weebly.com/",
+         "radio_url" : "http://radiowakeup.falkenberg.se:8000/",
+         "description" : "Vi bjuder på en varierad musikmix, med stor igenkänningsfaktor, för alla! Radio Wake Up- Falkenbergs Närradio."
+      },
+      {
+         "name" : "Stockholm College Radio",
+         "image" : "22994.png",
+         "site_url" : "http://www.thsradio.se/",
+         "radio_url" : "http://radiostreamone.mine.nu:18010/;?1444906179227.mp3/;",
+         "description" : "Stockholm College Radio, radiostationen med mest ös och bredd i Stockholms-etern alias studentradiostationen som sänder på 95,3 MHz i Stockholm. Med ny musik med sting i, humor, kultur, reportage, studentinformation och mer därtill."
+      },
+      {
+         "name" : "Hamsafar Radio",
+         "image" : "21822.png",
+         "site_url" : "http://www.hamsafarradio.se/",
+         "radio_url" : "https://streamingv2.shoutcast.com/Hamsafarradio",
+         "description" : "Hamsafar Radio is an Internet Radio station broadcasting from Stockholm, Sweden, providing Middle Eastern Music, Entertainment, Talk and News programs."
+      },
+      {
+         "name" : "Radio Ayeneh",
+         "image" : "21909.png",
+         "site_url" : "http://radioayeneh.se/",
+         "radio_url" : "http://83.251.238.152/;&type=mp3",
+         "description" : "Radio Ayeneh is a broadcast radio station from Stockholm , Sweden, providing Persian music and news ."
+      },
+      {
+         "name" : "Radio Nord",
+         "image" : "23152.v2.png",
+         "site_url" : "http://campus.tabyenskilda.se/tes/radionord.asp",
+         "radio_url" : "http://radio.tabyenskilda.se:8050/;",
+         "description" : "Radio Nord, 98,3, är Din lokala radiostation norr om Stockholm. Den hörs framför allt i Täby, Danderyd, Vallentuna och Åkersberga, men kan – under goda förhållanden – avlyssnas också längre bort.Radio Nord vänder sig till dig som bor norr om Stockholm och är mellan 15 och 99 år gammal. Vi sänder varje dag och bevakar allt som  kan vara av intresse för alla norrortsbor."
+      },
+      {
+         "name" : "Radio Prime",
+         "image" : "23051.png",
+         "site_url" : "http://www.radioprime.se/",
+         "radio_url" : "http://berit.createam.se:8000/radioprime.mp3",
+         "description" : "Radio Prime - Stromstad is an online radio station from Stromstad, Västra Götaland, Sweden, providing Adult Contemporary, Top 40-Pop music."
+      },
+      {
+         "name" : "Trucknet Radio",
+         "image" : "22964.png",
+         "site_url" : "http://trucknetradio.se/",
+         "radio_url" : "http://stream.ueteknik.se:8000/trucknetradio/;",
+         "description" : "Trucknet Radio är en webbaserad radiokanal. I våra lokaler på Örebro Truckstop sänder vi ut den bästa trucker-musiken och populära program som “Truckstop – Ett program på väg” och “Sveriges Trafikradio”."
+      },
+      {
+         "name" : "Radio Nybro",
+         "image" : "23052.png",
+         "site_url" : "http://www.radionybro.se/",
+         "radio_url" : "http://deb.patrikmalmgrenrask.se:8020/;",
+         "description" : "Radio Nybro 89.9 och 98.1 och webbradio.Radio Nybro – Nybro Närradioförening är en föreningsägd och föreningsdriven station. Alla medarbetare arbetar idee"
+      },
+      {
+         "name" : "Kurd Mix",
+         "image" : "22448.png",
+         "site_url" : "http://www.kurdmix.com/",
+         "radio_url" : "http://176.9.78.226:32000/stream.mp3",
+         "description" : "Kurd Mix is an internet radio station from Sweden, providing Variety music."
+      },
+      {
+         "name" : "Skärgårdsradion",
+         "image" : "22876.png",
+         "site_url" : "http://skargardsradion.se/wordpress/",
+         "radio_url" : "http://sgr.radioprod.se:8000/skargarden_hi",
+         "description" : "Här får du kustväderprognoser varje timme, nyheter, trafik & serviceinformation, ankringstips, reportage från öarna och intervjuer med aktuella gäster. Allt blandat med en unik musikmix med ett stänk av skärgårdsliv presenterat av Sveriges mest kända radioprofiler Kim & Loogna, Rolf Arsenius med flera."
+      },
+      {
+         "name" : "Dansbandskanalen",
+         "image" : "21926.png",
+         "site_url" : "http://www.dansbandskanalen.se/",
+         "radio_url" : "http://stream.dbmedia.se/dbkMP3",
+         "description" : "Vi började som Dansbandskanalen, kanalen som fortfarande finns kvar än idag, men nu som en av Sveriges största internetstationer. Att få jobba med människorna och dansbandsbranchen i stort, är för oss helt otroligt. Och vi delar likt många andra känslan för denna typ av musik. Vi tror att dansbandare måste vara Sveriges största minoritet, klart dansband ska få ha en egen riktig radiokanal."
+      },
+      {
+         "name" : "Fun Radio",
+         "image" : "22241.png",
+         "site_url" : "http://www.funradio.se/index.html",
+         "radio_url" : "http://stream.funradio.se:81/live192",
+         "description" : "Ända sedan starten har idén bakom FUN RADIO 95.3 varit lika enkel som självklar: att uteslutande spela världens största hits! Dygnet runt, året runt hör du en konsekvent och unik blandning av nya hits blandat med flashbacks från 00- och 90-talet. En blandning som piggar upp på jobbet, i bilen och hemma och som alltid bjuder på glada överraskningar."
+      },
+      {
+         "name" : "Radio Umea",
+         "image" : "23021.png",
+         "site_url" : "http://www.poporock.com/",
+         "radio_url" : "http://stream.ueteknik.se:8000/poporock/;",
+         "description" : "Välkommen till Pop O Rock före detta Radio Umeå.Musik från när pappa var ung och vi spelade vinylskivorMusiknostalgi varje vardag. Eller en helt ny värld att upptäcka för oss som inte ens var födda när Elvis mötte Priscilla"
+      },
+      {
+         "name" : "Radio Boden",
+         "image" : "49344.v2.png",
+         "site_url" : "http://www.bodensradio.se/",
+         "radio_url" : "http://5.152.208.98:8020/;stream.mp3",
+         "description" : "Radio Boden broadcasters believe in providing real music variety, so listeners can enjoy a vast catalogue of known and unknown tracks, from Country to Dance, Hip-Hop to Classical, Jazz to Alternative, Rock to Folk, Blues to Ethnic, and much more."
+      },
+      {
+         "name" : "Radio Rapsodet",
+         "image" : "49082.png",
+         "site_url" : "http://radiorapsodet.com/",
+         "radio_url" : "http://46.4.104.253:9978/;stream.nsv",
+         "description" : "Radio Rapsodet është radio private që transmeton 24 orë muzik Folklorike në gjuhën Shqipe!"
+      },
+      {
+         "name" : "Radio Shahrvand",
+         "image" : "49353.png",
+         "site_url" : "http://www.radioshahrvand.com/",
+         "radio_url" : "http://radiostreamone.mine.nu:9100/;stream.mp3",
+         "description" : "Radio Shahrvand is a music radio station. Radio Shahrvand broadcasts to the regions 24 hours a day, 12 months of the year. With a great mix of Country. Radio Shahrvand has something for all discerning music lovers."
+      },
+      {
+         "name" : "Radio P5",
+         "image" : "22672.png",
+         "site_url" : "http://www.radiop5.se/",
+         "radio_url" : "http://stream.radiop5.se:7014/;",
+         "description" : "A Better Mix of Music 24/7"
+      },
+      {
+         "name" : "Radio 943",
+         "image" : "23063.png",
+         "site_url" : "http://radio943.se/",
+         "radio_url" : "http://81.94.175.226:8007/;",
+         "description" : "Du känner igen Radio 94,3 på den lättlyssnade varierade blandningen av musik som vi hoppas ska passa många lyssnare i alla åldrar.I vårt musikarkiv finns country, dansband, svenskt & visor, pop & rock, soul & jazz och andligt. Program sänds med varierat innehåll."
+      },
+      {
+         "name" : "Radio Osteraker",
+         "image" : "22900.v1.png",
+         "site_url" : "http://radio.osteraker.se/",
+         "radio_url" : "http://lyssna.osteraker.se/live-mp3-128",
+         "description" : "Radio Österåker. Närradio i Österåkers kommun."
+      },
+      {
+         "name" : "Radio Viking",
+         "image" : "49207.png",
+         "site_url" : "http://www.radioviking.se/",
+         "radio_url" : "http://shoutcast1.crossnet.net:8000/radiovikinglive",
+         "description" : "Radio Viking 101,4 - en ideellt driven lokalradiostation och den bästa musiken 24 timmar om dygnet."
+      },
+      {
+         "name" : "K103",
+         "image" : "23161.v1.png",
+         "site_url" : "http://www.k103.se/",
+         "radio_url" : "http://stream.k103.se:8080/icestream2.ogg",
+         "description" : "K103 erbjuder en mix av studentrelaterade nyheter och redaktionellt material tillsammans med ny, ung musik. Producerat och levererat lokalt av och för Göteborgs studenter. K103 är det enda sammanhållna studentmedia som riktar sig till studenter både från Chalmers och Göteborgs universitet. Vi är även en viktig länk mellan Göteborgs stad och studenterna. Genom K103 får studenten reda på vad som händer i Göteborg och den vanlige göteborgaren får veta vad som händer i studenternas värld. Vi kan studentvärlden. Vi kan Göteborg. Vi kan radio."
+      },
+      {
+         "name" : "Hoganas Narradio",
+         "image" : "22871.png",
+         "site_url" : "http://www.radio-kullabygden.se/",
+         "radio_url" : "http://server.pmradio.se:10000/;stream.nsv",
+         "description" : "CMR 105,5 Är en radiokanal som vill sprida countrymusiken. Vi spelar även 50-60 tals rock n roll mm...."
+      },
+      {
+         "name" : "Radio Oskarshamn",
+         "image" : "49079.png",
+         "site_url" : "http://www.radiooskarshamn.se/",
+         "radio_url" : "http://moon.wavestreamer.com:4687/;stream.nsv",
+         "description" : "Radio Oskarshamn är en verksamhet inom föreningen Gamla Oskarshamn. Idén att börja göra radio väcktes under hösten 2014. Det började med poddradio och det första programmet publicerades i slutet av december. Föreningen byggde upp en egen studio och gjorde intervjuer med oskarshamnare som gjort avtryck i kommunens nutidshistoria."
+      },
+      {
+         "name" : "Radio Bohuslan",
+         "image" : "23124.png",
+         "site_url" : "http://radiobohuslan.se/?r=www.radiobohuslan.se",
+         "radio_url" : "http://radio.itconnect.se/rb2",
+         "description" : "Radio Bohuslän startade 1999 i Stenungsund, och har idag blivit Sveriges största närradionätverk som samarbetar med musik, jinglar och reklam.Samtliga Radio Bohusläns stationer finansieras helt av reklam.Vi jobbar för att du som lyssnar ska få en så trevlig dag som möjligt, med bra musik och stor variation på alla dina favoriter.  Förutom att vi spelar den bästa musiken från 70-talet fram tills idag, så har vi även mycket uppskattade temakvällar varje dag i veckan."
+      },
+      {
+         "name" : "Mittradion",
+         "image" : "21949.png",
+         "site_url" : "http://mittradion.nu/",
+         "radio_url" : "http://stream.ueteknik.se:8000/mittradion/;",
+         "description" : "Mittradion 98.7 FM is a broadcast radio station from Bracke, Sweden, providing Top 40/Pop and European music."
+      },
+      {
+         "name" : "MRS",
+         "image" : "22724.v1.png",
+         "site_url" : "http://www.mrs.se/",
+         "radio_url" : "http://radiostreamone.mine.nu:19050/;",
+         "description" : "Listen to MRS 24 hour/day streaming RnB Jamz & Soul Classics.We are serving the Stockholm community and the suburbs with the best in RnB Jamz, Soul Classics, Old Skool,Rap, Hip-Hop, Reggae and Soulful House & Garage.MRS started broadcasting in October 1980."
+      },
+      {
+         "name" : "Madbone365",
+         "image" : "23010.png",
+         "site_url" : "http://madbone365.se/",
+         "radio_url" : "http://madbone.noip.us/stream/1/;",
+         "description" : "Madbone 365 på nätet"
+      },
+      {
+         "name" : "Sverige Kanalen 1",
+         "image" : "49357.png",
+         "site_url" : "http://kanalen1.radiostream123.com/",
+         "radio_url" : "http://78.129.193.82/stream.mp3?ipport=78.129.193.82_20100",
+         "description" : "Talk and musical shows are for what Sverige Kanalen 1 is very popular. The radio has good balance between each of their programs and the consistency they provides through their musical programs and talk shows are really very applaud able. Sverige Kanalen 1 is a radio you can enjoy all day long."
+      },
+      {
+         "name" : "Radio IberoAmericana",
+         "image" : "22697.png",
+         "site_url" : "http://www.radioiberoamericana.net/",
+         "radio_url" : "http://radiostreamtwo.mine.nu:9100/;",
+         "description" : "Radiostationen i Stockholm, som sänder radioprogram på spanska"
+      },
+      {
+         "name" : "Radio Dansbandsdax",
+         "image" : "22993.png",
+         "site_url" : "http://www.dansbandsdax.se/",
+         "radio_url" : "http://sc.dbd.nu:8358/;?1468570540926.mp3",
+         "description" : "Dansbandsdax är en nätradio & mötesplats i ett. Det är helt gratis att lyssna och bli medlem."
+      },
+      {
+         "name" : "Nanan Radio",
+         "image" : "49342.png",
+         "site_url" : "http://www.nananradio.net/",
+         "radio_url" : "http://s1.wohooo.net:8971/;stream.mp3",
+         "description" : "Nanan Radio est une web Radio dont l ´objectif est de faire connaitre, mieux apprécier la musique africaine dans le monde entier, surtout en Scandinavie á travers la diffusion musicale, publicitaire et de faire de Nanandio.net  un outil incontournable du show-business Africain par le canal de la publicité, promotion de talents artistique, création d´ événements sponsorisés ou en partenariats, faciliter les contacts entre les artistes africains et les différentes structures pouvant leur permettre de vivre de leur art."
+      },
+      {
+         "name" : "Helsingborgs Närradio",
+         "image" : "23169.v1.png",
+         "site_url" : "http://www.hnfradio.se/",
+         "radio_url" : "http://us.pmradio.se:8010/;",
+         "description" : "Helsingborgs Närradio Förening är en paraplyorganisation för de föreningar som sänder närradio i Helsingborg. Vill du börja sända närradio och har en förening kan du kontakta Helsingborgs Närradio Förening, har du ingen förening kan du ta kontakt med någon av de föreningar som är medlemmar i HNF."
+      },
+      {
+         "name" : "Radio Haninge Direkt",
+         "image" : "21946.png",
+         "site_url" : "http://www.radiohaninge.se/",
+         "radio_url" : "http://213.115.49.175:1157/;",
+         "description" : "Här är radiostationen för dig som vill unna dig en stor variation av musik. Våra olika program ger en intressant lyssning med inslag av kultur, politik, nöjen och mycket annat.Läs mer om de olika programmen i vår tablå och under programinformationen."
+      },
+      {
+         "name" : "Radiogodis.se",
+         "image" : "22962.png",
+         "site_url" : "http://radiogodis.se/webradio_alternativ.htm",
+         "radio_url" : "http://radiogodis.org:8004/;",
+         "description" : "Programmet Radiogodis, som tidigare sändes på Radio Eskilstuna, har även en egen hemsida: http://radiogodis.se/ En sida för dig som gillar 80-talsmusik. Förutom vår webbradio, som spelar 80-talsmusik dygnet runt, så finns här också ett radioarkiv. Här hittar du gamla radioprogram från 80-talet som du kan lyssna på direkt i din dator. Vad sägs till exempel om program som Tracks med Kaj Kindvall, Metropol med Niklas Levy & Ingvar Storm eller Rakt Över Disc med 'Clabbe'... radiogodis.se ett måste för dig som gillar 80-tal!!! :)"
+      },
+      {
+         "name" : "Radio 92",
+         "image" : "23174.png",
+         "site_url" : "http://radio92.se/",
+         "radio_url" : "http://s6.voscast.com:8210/;",
+         "description" : "En radiokanal i Burlöv/Lommaområdet med frekvens 92,0, blandar skön musik med program om fotboll, film, musik och mycket mycket mer"
+      },
+      {
+         "name" : "Radio Avesta",
+         "image" : "22975.png",
+         "site_url" : "http://radioavesta.se/",
+         "radio_url" : "http://test.radioavesta.se:8000/;",
+         "description" : "Radio Avesta är en lokal närradio station i Avesta. I etern har vi varit sedan 1983 och det gör oss till den 3:e närradion som startade i Sverige och fortfarande är aktiv i nuvarande form. 2008 firade vi hela 25 år.Vi sänder i FM Stereo på frekvensen 103,5MHz och direkt på webbradion, samt med efterlyssning ur programarkivet."
+      },
+      {
+         "name" : "One FM",
+         "image" : "49240.png",
+         "site_url" : "http://www.onefm.se/",
+         "radio_url" : "http://217.198.148.101/;9993271897923197stream.nsv",
+         "description" : "One FM Sweden is a live online radio in One FM Sweden. One FM Sweden broadcast 24 hours live program on Internet. One FM Sweden are committed to promote Sweden Culture, Music, News, and many more through their station."
+      },
+      {
+         "name" : "Puls FM",
+         "image" : "67219.v3.png",
+         "site_url" : "http://pulsfm.se/",
+         "radio_url" : "http://stream.pulsfm.se:8908/stream/1/",
+         "description" : "Puls FM producerar underhållande radio med lokal närvaro, nyheter, sport, livesändningar, event och tävlingar."
+      },
+      {
+         "name" : "Lite FM",
+         "image" : "22655.png",
+         "site_url" : "http://litefm.se/",
+         "radio_url" : "http://stream.litefm.se:443/lite.mp3",
+         "description" : "Tvåstads lokala musikstation som spelar ny och fräsch musik varvat med favoriter från tidigare decennier. På vår hemsida för vi dessutom dokumentation av nattlivet i form av vimmelbilder från Trollhättan och Vänersborg."
+      },
+      {
+         "name" : "Radio M",
+         "image" : "23054.png",
+         "site_url" : "http://radiomgbg.se/",
+         "radio_url" : "http://69.175.94.98:8359/stream",
+         "description" : "Radio M Göeteborg, muzicki radio.Osnovan 2000 godine.2005. god nagradjen Oskarom popularnosti, kao najbolji radio u dijaspori."
+      },
+      {
+         "name" : "Radio Active Ystad",
+         "image" : "49343.png",
+         "site_url" : "http://radioactiveystad.se/",
+         "radio_url" : "http://stream.dbmedia.se/radioactive96",
+         "description" : "Radio Active Ystad telecasts its projects finish its playlists for a socially and socially different crowd. Notwithstanding the telecast of an assortment of data and amusement projects, Radio Active Ystad telecasts various nearby preparations. Their creations and data based projects contains, for example, current undertakings, culinary, social, diversion and games fields."
+      },
+      {
+         "name" : "Karlstad Rocks",
+         "image" : "22937.png",
+         "site_url" : "http://www.karlstadrocks.se/",
+         "radio_url" : "http://radio.karlstadrocks.se:8000/;",
+         "description" : "För dig, gamla och nya berg"
+      },
+      {
+         "name" : "Ljungbykanalen",
+         "image" : "49341.v3.png",
+         "site_url" : "http://ljungbykanalen.se/",
+         "radio_url" : "http://lyssna.ljungbykanalen.se/lkweb",
+         "description" : "Ljungbykanalen broadcasts 24/7,they plays nonstop music, Top 40, Pop live on the internet. Ljungbykanalen is to make the youth connected with the music world they decorate their playlist with songs that youth will love."
+      },
+      {
+         "name" : "Radio AF",
+         "image" : "22744.v2.png",
+         "site_url" : "http://www.radioaf.se/",
+         "radio_url" : "http://live.radioaf.se:8000/;stream/1/;",
+         "description" : "Sveriges största studentradiokanal. Hundratals poddar att lyssna på via radioaf.se"
+      },
+      {
+         "name" : "SDX Synthetic Experience",
+         "image" : "22612.v2.png",
+         "site_url" : "http://radio.dawnshadow.se/sdxradio.html",
+         "radio_url" : "http://158.174.163.217:8000/;",
+         "description" : "The reason for this stations existence is mainly because I and some friends like to listen to good music at work. However, we invite the general public to listen as well, via our public relay."
+      },
+      {
+         "name" : "Vikingarock Radio",
+         "image" : "49232.png",
+         "site_url" : "http://www.vikingarock.se/",
+         "radio_url" : "http://radio.vikingarock.se:8000/;stream.nsv",
+         "description" : "Vikingarockradion är Sveriges enda webbradio som i huvudsak spelar vikingarock.Med en bra mix av kända och okända band samt lite Oi!, punk och psychobillyger vi en bra variation för dig som lyssnar!"
+      },
+      {
+         "name" : "Radio Ljungby",
+         "image" : "22903.v2.png",
+         "site_url" : "http://www.radioljungby.se/",
+         "radio_url" : "http://217.197.59.86/lkweb?",
+         "description" : "Radio Ljungby är närradion i Ljungby kommun.Vi sänder dagligen på frekvens 95,8 MHz, och hörs över hela kommunen. Under aktuellt hittar du information om våra extrasändningar, kommande aktiviteter och historik mm."
+      },
+      {
+         "name" : "Stockholm NARRadio",
+         "image" : "22851.png",
+         "site_url" : "http://www.narradio.se/",
+         "radio_url" : "http://109.74.8.32:8030/;",
+         "description" : "På Stockholm närradio sänder 32 olika föreningar program av skilda slag på en handfull olika språk. Närradion är föreningslivets radio. Ideella föreningar, politiska partier, församlingar och kyrkliga samfälligheter, studentkårer och liknande organisationer kan sända egna program med stor frihet."
+      },
+      {
+         "name" : "Radio Kinnekulle",
+         "image" : "22739.png",
+         "site_url" : "http://www.radiokinnekulle.se/",
+         "radio_url" : "http://83.223.7.233:8008/RadioK.mp3",
+         "description" : "I hjärtat av Götene med berget Kinnekullefinns närradiostationen Radio Kinnekullesom sänder på 102,6 MHz."
+      },
+      {
+         "name" : "HIT FM Gold",
+         "image" : "49235.png",
+         "site_url" : "http://www.hitfm.se/",
+         "radio_url" : "http://gold24.xnk.nu:8080/;469928443008656stream.nsv",
+         "description" : "Hits från den gyllene eran på 60- och 70-talet."
+      },
+      {
+         "name" : "Radio Gagnef",
+         "image" : "21959.png",
+         "site_url" : "http://radiogagnef.nu/index.html",
+         "radio_url" : "http://stream.ueteknik.se:8000/gagnef",
+         "description" : "Radio Gagnef Närradioförening är en ideell förening, ordförande Rune Björk, kassör Marié Baggesvärd. Vi vill verka för ett aktivt radiointresse och ett utökande av sändningstider. Ansvarig utgivare Rune Björk."
+      },
+      {
+         "name" : "Rocket FM",
+         "image" : "22879.png",
+         "site_url" : "http://www.rocket.fm/",
+         "radio_url" : "http://stream.thsradio.se:8000/rocket_hi.mp3",
+         "description" : "Rocket.FM spans the eras, genres and geographies of rock history. Tracks never heard on the same station are spun in a single set, covering the spectrum of rock and related styles, connecting the cutting edge and the classic. Welcome to the Rock Home of Stockholm."
+      },
+      {
+         "name" : "Hallsta Sura Narradio",
+         "image" : "49273.png",
+         "site_url" : "http://www.radion.nu/",
+         "radio_url" : "http://s16.myradiostream.com:6630/;stream.mp3",
+         "description" : "Välkommen till Hallsta Sura Närradio, din enda verkligt lokala radiokanal."
+      },
+      {
+         "name" : "Summerburst Radio",
+         "image" : "23317.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://wr17-icecast.mtg-r.net/wr17_mp3?platform=web",
+         "description" : "Summerbursts egen radiokanal"
+      },
+      {
+         "name" : "RADIOMETANASTHS",
+         "image" : "22873.v1.png",
+         "site_url" : "http://www.radiometanastis.com/",
+         "radio_url" : "http://37.123.174.73:8000/live",
+         "description" : "Το ΡΑΔΙΟΜΕΤΑΝΑΣΤΙΣ γεννήθηκε στην θεσσαλονίκη το 1976 σε ηλικία 16 χρονών καιμετάδιδε παλιά λαϊκά στα AM κάθε απόγευμα και κυρίως τα βραδάκιαχρυσές εποχές AY8ENTIKA XRONIA.Έκτοτε μετά από πολλά χρονια άλλαξε όνομα και ασχολήθηκε επαγγελματικά για λίγα χρόνια.Τώρα η αγάπη και το πάθος στο παλιό λαϊκό τραγούδι με έκαναν να κάνω αυτό το WebRadio και να μεταδίδω όπως τον παλιό καλο καιρό τα τραγούδια που μεγάλωσα και αγαπώ και να μοιράζομαι μαζί σας αυτό το μεγαλείο.Η μετάδοση αυτών των τραγουδιών με απώτερο σκόπο του την συγκέντρωση όλων των φίλων του είδους σε ένα κοινό σημείο ακρόασης.Δύσκολο εγχείρημα με λίγους αλλά πιστούς και “ανοιχτούς σε όλα” ακροατές."
+      },
+      {
+         "name" : "Radio Roslagen",
+         "image" : "22968.png",
+         "site_url" : "http://radioroslagen.se/",
+         "radio_url" : "http://stream.radioroslagen.se:8000/mp3.mp3",
+         "description" : "Radio Roslagen: Med över 35 000 lyssnare växer vi snabbt som radiokanal. Via vår webradio har vi dessutom lyssnare över hela världen.Vi blandar den allra senaste musiken med direktsända morgonprogram, lokala program och musikprogram."
+      },
+      {
+         "name" : "Radio-Schweden",
+         "image" : "49248.png",
+         "site_url" : "http://laut.fm/radio-schweden",
+         "radio_url" : "https://radio-schweden.stream.laut.fm/radio-schweden",
+         "description" : "Denna kanal från Sverige bjuder på en vild blandning."
+      },
+      {
+         "name" : "Radio pE20",
+         "image" : "49081.png",
+         "site_url" : "http://radiope20.se/",
+         "radio_url" : "http://streaming2.nordblommedia.se:443/radiope20.mp3",
+         "description" : "Radio pE20 91,4- Hela Lerums kanalBorta bra men hemma bäst!"
+      },
+      {
+         "name" : "Radio Vattervag",
+         "image" : "49356.png",
+         "site_url" : "http://www.radiovv.com/",
+         "radio_url" : "http://uk5.internet-radio.com:8199/stream",
+         "description" : "Welcome to Radio Vattervag that broadcast over the FM 98.5. Radio Vattervag are on the air about 55 hours per week and Radio Vattervag are 14 compounds that continuously broadcasts every week."
+      },
+      {
+         "name" : "Radio Markaryd",
+         "image" : "22980.png",
+         "site_url" : "http://www.radiomarkaryd.se/",
+         "radio_url" : "http://87.117.201.22:8400/;",
+         "description" : "Radio Markaryd grundades 1 mars 2011 och är en religiöst och politiskt obunden webbradiostation med säte i Markaryd. Benny Jönsson driver Radio Markaryd.Radio Markaryd har musiklicenser av Stim/NCB och IFPI/SAMI samt utgivningstillstånd av myndigheten för radio och tv. Därmed omfattas Radio Markaryd av Sveriges yttrandefrihetsgrundlag samt radiolagen."
+      },
+      {
+         "name" : "Best Music Ever",
+         "image" : "23049.v2.png",
+         "site_url" : "http://www.bestmusic-ever.com/",
+         "radio_url" : "http://193.234.205.212:8000/;stream.nsv",
+         "description" : "We have collected the very best music from the 60's to today. That's why we can say that we play the best music ever played...Welcome to Best Music – Ever"
+      },
+      {
+         "name" : "BollywoodBio Music",
+         "image" : "49245.png",
+         "site_url" : "http://music.bollywoodbio.se/",
+         "radio_url" : "http://cora.cdnstream.com/1925_192",
+         "description" : "BollywoodBio Music - The Music Channel by BollywoodBio Sweden, broadcasting the music we all love - 24 x 7!"
+      },
+      {
+         "name" : "Radio Berg",
+         "image" : "22015.png",
+         "site_url" : "http://www.radioberg.se/",
+         "radio_url" : "http://62.20.28.156/;",
+         "description" : "Vi försöker ha ett brett musikutbud, med tyngdpunkt på musik som inte hörs så ofta i de vanliga rikskanalerna."
+      },
+      {
+         "name" : "Radio Krokom",
+         "image" : "22740.png",
+         "site_url" : "http://radiokrokom.se/",
+         "radio_url" : "http://radiokrokom.ddns.net/;",
+         "description" : "Radio Krokom sänder över de centrala delarna av Jämtland."
+      },
+      {
+         "name" : "Radio Sydvast",
+         "image" : "21825.png",
+         "site_url" : "http://www.radiosydvast.se/",
+         "radio_url" : "http://50.7.77.114:8426/;",
+         "description" : "Vi är Skärholmens, Brännkyrkas och Hägerstens egen närradio. Radio Sydväst startade 1986 och sänder idag ett brett programutbud. Du kan höra allt mellan religiösa program och nöjesprogram för afrikanska ungdomar. Välkommen till radion som ger föreningslivet en röst på din närmaste station!"
+      },
+      {
+         "name" : "Radio 45",
+         "image" : "49074.png",
+         "site_url" : "http://www.radio45.se/",
+         "radio_url" : "http://streaming2.nordblommedia.se:443/amal.mp3",
+         "description" : "Hits,klassiker och låtar du glömt att du minns."
+      },
+      {
+         "name" : "Dunken FM",
+         "image" : "66862.v1.png",
+         "site_url" : "http://www.dunkenfm.se/",
+         "radio_url" : "http://stream.nsp.se:8000/DFM_MP3_Hi",
+         "description" : "Dunken FM är inget mer eller mindre än en väldigt onödigt avancerad test av en radiomixer. Ska man ändå lära sig något så kan man ju ha lite kul samtidigt."
+      },
+      {
+         "name" : "Järva-Västerorts Närradioförening",
+         "image" : "23395.png",
+         "site_url" : "http://www.jvnf.org/",
+         "radio_url" : "http://radiostreamtwo.mine.nu:9058/;",
+         "description" : "Lasse Lundeberg's SAF Radio och MRS gjorde 90.5-frekvensenpopulär bland de unga Stockholmarna i många år.I början av 90-talet tillkom de flesta av de persisk- och spansktalandesändningarna, som idag dominerar utbudet på 90.5 och 91.1 MHz."
+      },
+      {
+         "name" : "TLIG Radio Swedish",
+         "image" : "22691.png",
+         "site_url" : "http://www.tligradio.org/sv",
+         "radio_url" : "http://46.28.49.164:7736/;stream/1",
+         "description" : "Broadcasts the prophetic messages that Vassula Rydén has been receiving from God since 1985."
+      },
+      {
+         "name" : "Kungsbacka Närradioförening",
+         "image" : "22986.png",
+         "site_url" : "http://www.radiokungsbacka.se/",
+         "radio_url" : "http://212.73.175.58:8010/;",
+         "description" : "I Kungsbacka startade sändningarna hösten 1985. Den 5 okt. var det högtidlig invigning med bandklippning och trumpetfanfar. Det var Pingstkyrkan och Emanuelskyrkan som var de drivande i att starta närradio. I Pingstkyrkan byggdes den första närradiostudion i Kungsbacka kommun. Många sändande föreningar / kyrkor och politiska organisationer nyttjade kyrkans möjlighet till närradiosändningar."
+      },
+      {
+         "name" : "fmss Radio",
+         "image" : "46186.png",
+         "site_url" : "http://www.fmssradio.com/",
+         "radio_url" : "https://stream.radio.co/scb933782f/listen",
+         "description" : "Publicity, Documentary,reportage, publicity, promotions for your company, activities ect. FMSS Radio is well known for their high quality presentation and broadcasting technology. This is a radio will please you every time you tune into the fm.We broadcast  our programs in Swedish,french and english which make us unique in many countries such in DRC Kinshasa."
+      },
+      {
+         "name" : "Vinyl Godis Radio",
+         "image" : "23181.png",
+         "site_url" : "http://vinylgodis.se/0/rq.php#/",
+         "radio_url" : "http://nvradio.info:8000/;",
+         "description" : "Any hit originally produced on Vinyl. Available 24/7 with iPhone/Android app and streaming format. Five Listener Requests Every Hour, and NO"
+      },
+      {
+         "name" : "Studentradion - Stockholm University",
+         "image" : "22616.png",
+         "site_url" : "http://www.radionomy.com/en/radio/StockholmUniversity953FM/index",
+         "radio_url" : "http://radiostreamone.mine.nu:8010/;",
+         "description" : "Studentradio - Stockholm University 95.3 FM, Stockholm, College Radio"
+      },
+      {
+         "name" : "Radio Record",
+         "image" : "49083.png",
+         "site_url" : "http://www.radiorecord.se/",
+         "radio_url" : "http://streaming2.nordblommedia.se:443/radiorecord.mp3",
+         "description" : "All the hits for all the musical fun is related to the theme of Radio Record Sweden. They are not playing great musical hits for you in their radio and its."
+      },
+      {
+         "name" : "Radio Treby",
+         "image" : "22896.png",
+         "site_url" : "http://www.radiotreby.se/",
+         "radio_url" : "http://stream1.bogalnet.se:443/vargarda.mp3?1468499500626.mp3",
+         "description" : "Radio Treby-'Din Lokala Radio'"
+      },
+      {
+         "name" : "Radio Rivendell",
+         "image" : "49349.png",
+         "site_url" : "https://www.radiorivendell.com/",
+         "radio_url" : "http://rivendell.byte-storm.com:8000/128kbit.mp3",
+         "description" : "Radio Rivendell is the one and only fantasy radio station in the world playing fantasy music 24-7! We like to promote young and unknown artists and bands to the broader audience."
+      },
+      {
+         "name" : "Hitzfm",
+         "image" : "22976.png",
+         "site_url" : "http://www.hitzfm.nu/",
+         "radio_url" : "http://85.8.35.213/broadwave.mp3",
+         "description" : "Lokal radio med lokala röster!Vi jobbar för att du som lyssnar ska få en så trevlig dag som möjligt, med bra musik och stor variation på alla dina favoriter. Förutom att vi spelar den bästa musiken från 80-talet fram tills idag, så bjuder vi på lokal radio med lokala röster från hela Sommenbygden, för hela Sommenbygden."
+      },
+      {
+         "name" : "Radio Linkoping",
+         "image" : "49347.png",
+         "site_url" : "http://radiolinkoping.se/",
+         "radio_url" : "https://stream.linkopingsnarradio.se:8005/radioprogram",
+         "description" : "Radio Linköping är Linköpings kristna radio. Bakom står Sionförsamlingen i Linköping och församlingar inom Evangeliska Frikyrkan. Fram till sommaren 2011 har Radio Linköping haft heltidsanställd personal. Från juli 2012 drivs Radio Linköping helt med frivilliga medarbetare. För närvarande är Krister Nyman radioansvarig."
+      },
+      {
+         "name" : "Radio SkyRose",
+         "image" : "22130.v9.png",
+         "site_url" : "http://www.radioskyrose.com/",
+         "radio_url" : "https://streamingv2.shoutcast.com/csradio-online",
+         "description" : "Music as you want it, classics as new songs are played"
+      },
+      {
+         "name" : "Radio Falköping",
+         "image" : "22996.png",
+         "site_url" : "http://www.fnf.nu/",
+         "radio_url" : "http://lyssna.fnf.nu:8080/fnf.mp3",
+         "description" : "Listen to Läkarmissionen 50 år Festkväll Med Många Medverkande, Vad Händer I Kyrkorna, or broadcasts like Seniorerna Programvärd Märta Liljegren, in addition to others."
+      },
+      {
+         "name" : "Sveriges Kristna Radio",
+         "image" : "23396.png",
+         "site_url" : "http://sverigeskristnaradio.se/",
+         "radio_url" : "http://lush.wavestreamer.com:9925/Live",
+         "description" : "Vi sänder 24 timmar om dygnet via webben och FM 88,4 i Stockholm och Södertälje samt FM 91,6 i Kristianstad med omgivningar. Programinnehållet präglas av:MusikSamhällsdebattTrosfrågor"
+      },
+      {
+         "name" : "Radiohits Sweden",
+         "image" : "63613.v3.png",
+         "site_url" : "http://radiohits.se/index.php?page=start",
+         "radio_url" : "http://john631.serverroom.net:6484/;stream.mp3",
+         "description" : "Radiohits offers music that you do not hear so often at other radio stations.You hear the latest music, such as Disco, Pop, Old Ginger, Trance, Punk, R & B, Rock, Country, Jazz.50, 60, 70, 80, 90- until today music. Powered by johnsRadio.just on the web."
+      },
+      {
+         "name" : "Radio Nacka",
+         "image" : "22878.png",
+         "site_url" : "http://radionacka.se/",
+         "radio_url" : "http://77.53.9.129:9990/;",
+         "description" : "Radio Nacka – en talradiostation med lokalt och kulturellt innehåll."
+      },
+      {
+         "name" : "Radio Skellefteå",
+         "image" : "21914.v3.png",
+         "site_url" : "http://www.goldtown.se/",
+         "radio_url" : "https://cast.audiostream.live/radio/8020/stream",
+         "description" : "Radio Skellefteå är en ideell föreningsdriven närradiokanal som underhåller kommunens medborgare. Sänder över Skellefteå 89.7 med omnejd, i Bygdsiljum 95.0, Jörn 91.5 och i Skelleftehamn 101.4. Radio Skellefteå ägs av närradioföreningen Goldtown Radio. Under mottot mångfald sänder föreningar och föreningsprojekt under dagtid och kvällar. Musikformatet kan beskrivas som nostalgi blandat med senaste nytt."
+      },
+      {
+         "name" : "CrystalOne Radio",
+         "image" : "49242.png",
+         "site_url" : "http://www.crystalone.net/",
+         "radio_url" : "http://neptune.crystalone.net:8000/music.mp3",
+         "description" : "Prat- och nyhetsradio från Stockholm. Allt är på engelska."
+      },
+      {
+         "name" : "Radio Sotenäs",
+         "image" : "49253.v1.png",
+         "site_url" : "http://www.radiosotenas.se/",
+         "radio_url" : "http://sc1.radiosotenas.se/;",
+         "description" : "Radio Sotenäs is a non profit making radio station, that broadcast from Kungshamn, Sweden. We play mostly Top 40 hits from the 50s until today, but also specialized shows with Rock, Oldies, Metal, 70s disco, swedish Dansband, etc."
+      },
+      {
+         "name" : "Halmstad Narradio",
+         "image" : "22928.v1.png",
+         "site_url" : "http://www.halmstadnarradio.se/",
+         "radio_url" : "http://81.233.31.238:8000/;?",
+         "description" : "För alla er klassisk rock"
+      },
+      {
+         "name" : "AreRadio",
+         "image" : "49009.v1.png",
+         "site_url" : "https://www.skistar.com/sv/Are/",
+         "radio_url" : "http://stream1.joda.se:7128/;",
+         "description" : "AreRadio broadcasts its programmes decorate its playlists for a socially and culturally diverse audience."
+      },
+      {
+         "name" : "Pite FM",
+         "image" : "22924.png",
+         "site_url" : "http://pitefm.se/",
+         "radio_url" : "http://pitefmstream.ltu.se:8000/pitefm.mp3",
+         "description" : "Studentradion på Musikhögskolan i Piteå startades redan 1989. Den startades för att studenterna på ljudingenjörsutbildningen skulle ha möjlighet till praktisk övning. De sände då två timmar i veckan, då liksom nu via närradioföreningen i Piteå. Innehavare av sändningstillståndet var Studentkåren på Musikhögskolan i Piteå. Senare tillkom även radiostationen Alice 92,8 som sände på det tillståndet."
+      },
+      {
+         "name" : "Radio GNF",
+         "image" : "21900.png",
+         "site_url" : "http://www.gnf.nu/",
+         "radio_url" : "http://lyssna.fnf.nu:8080/gnf102.mp3",
+         "description" : "I våra lokaler på Åvägen 17 E och i ytterligare c:a 15 studior runt om i Göteborg arbetar personal och ideellt arbetande medlemmar med att producera nästan 19.000 timmar radioprogram, på cirka 10 språk, per år. Varje dag sänder vi ungefär 40 timmar radio! Av dessa är c:a 50% riktade till invandrare. Våra medlemmars program omfattar musikprogram, gudstjänster, livsåskådning, underhållning, samhällsinformation, politiska diskussioner, region- & kommunfullmäktigedebatter, nyheter m.m."
+      },
+      {
+         "name" : "Radio Soderhamn",
+         "image" : "49261.png",
+         "site_url" : "http://www.radiosoderhamn.se/",
+         "radio_url" : "http://80.245.225.96:8000/;",
+         "description" : "Lokal radiostation som ger lyssnarna bra musik, intressanta intervjuer och ännu mer superb musik, nytt som gammalt. Blues, dansbandsmusik, rock och hårdrock är bara en del av musikvärlden som uppenbarar sig på denna radiostation."
+      },
+      {
+         "name" : "Radio Arta",
+         "image" : "49075.png",
+         "site_url" : "http://www.radioarta.com/",
+         "radio_url" : "http://173.192.207.51:8086/;stream.nsv",
+         "description" : "Mirë Se Vini në webfaqen  muzik per te gjitha moshat live 24 ore"
+      },
+      {
+         "name" : "Radio Bubb La",
+         "image" : "49345.png",
+         "site_url" : "http://radio.bubb.la/",
+         "radio_url" : "http://live.radio.bubb.la/stream.mp3",
+         "description" : "The harmonious presentation of various kinds of top notch oldies 90’s music makes Radio Bubb La the radio to fall in love with. There are lots to talk about the style, musical approach and other elements related to 90’s oldies hits music and Radio Bubb La just brings those great songs to their listeners in a very engaging manner."
+      },
+      {
+         "name" : "Radio Trelleborg",
+         "image" : "22449.v1.png",
+         "site_url" : "http://www.radiotrelleborg.se/",
+         "radio_url" : "http://stream.radiotrelleborg.se:8000/RaTbg_AAC_Lo",
+         "description" : "Vi har funnits i din radio sedan mitten på 80-talet och de senaste åren har vi bara växt oss större. Vi sänder nu dygnet runt med ett av Sveriges mest varierande innehåll presenterat av våra sändande medlemsföreningar.Önskelåtar, hälsningar, artistintervjuer, reportage, nöjesinformation, pensionsärsaktiviteter, invandrarprogram, politik och mycket mycket mer!"
+      },
+      {
+         "name" : "KN RADIO",
+         "image" : "49340.png",
+         "site_url" : "http://www.knradio.se/",
+         "radio_url" : "http://85.17.122.32:8013/;",
+         "description" : "Being a online radio station KN Radio has some of the country’s leading radio programs in their day long programs schedules. They have got some programs which are popular across the programs with traffic from millions of listeners which makes KN Radio a definitely popular radio station in the nation."
+      },
+      {
+         "name" : "Radio Lidingo",
+         "image" : "22011.png",
+         "site_url" : "http://www.radiolidingo.se/",
+         "radio_url" : "http://radio-lidiingo.duckdns.org:8000/;",
+         "description" : "Vi bjuder på lättlyssnad musik, från förra seklet fram till idag."
+      },
+      {
+         "name" : "FMiV",
+         "image" : "22872.png",
+         "site_url" : "http://www.fmiv.nu/wordpress/",
+         "radio_url" : "http://46.17.184.39:8000/airtime_128",
+         "description" : "FMiV, med radiokanalen “Vår radio 93,7MHz”, är en ideell medieförening i Västerås. Vi arbetar för att alla människor ska få möjlighet att producera media, i vårt fall radio.Vi erbjuder lokaler och teknik till individer, grupper, föreningar med flera som vill sända radio via etern, webben eller producera podcasts."
+      },
+      {
+         "name" : "Norea Sverige",
+         "image" : "22864.png",
+         "site_url" : "http://noreasverige.se/",
+         "radio_url" : "http://www.online-audio.net/audio/audio_dd8e20142ed52832b771a0f6118f9a2e.mp3",
+         "description" : "Norea Sverige arbetar med just det, att berätta vidare om det kristna budskapet. Vi gör det framförallt genom olika medier, både via ljud och bild. Vi är med och stödjer missionsarbete utomlands och producerar kristna program som sänds på olika håll i Sverige, både via radio och Internet."
+      },
+      {
+         "name" : "Radio Fryksdalen",
+         "image" : "23135.png",
+         "site_url" : "http://www.radiofryksdalen.se/",
+         "radio_url" : "http://webradio.radiofryksdalen.se:8000/RF_Live",
+         "description" : "Radio Fryksdalen broadcasts a diverse range of locally and nationally produced programs, both music and spoken word, in hi-fi stereo. Radio Fryksdalen broadcasters believe in providing real music variety, so listeners can enjoy a vast catalogue of known and unknown tracks, from Country to Dance, Hip-Hop to Classical, Jazz to Alternative, Rock to Folk, Blues to Ethnic, and much more."
+      },
+      {
+         "name" : "RADIO ÖRNSKÖLDSVIK",
+         "image" : "23079.png",
+         "site_url" : "http://www.radioovik.se/",
+         "radio_url" : "http://webradio.radioovik.se:8000/;?1468595580789.mp3",
+         "description" : "Alla föreningar med verksamhet inom Örnsköldsviks kommun kan få sändningstillstånd och få möjlighet att sända Närradio. Idrottsföreningar, fackliga förbund, politiska partier, kyrkor, samfund, syföreningar, hobbyföreningar, studieförbund och ungdomsorganisationer är bara några exempel på de som har möjlighet att bli medlemmar av Radio Örnsköldsvik."
+      },
+      {
+         "name" : "Radio Vara",
+         "image" : "22936.png",
+         "site_url" : "http://www.radiovara.nu/",
+         "radio_url" : "http://lyssna.fnf.nu:8080/radiovara.mp3",
+         "description" : "Radio Vara - föreningsradio i Vara kommun. FM 87,8 MHz"
+      },
+      {
+         "name" : "Tyresöradion",
+         "image" : "49269.png",
+         "site_url" : "http://www.tyresoradion.se/",
+         "radio_url" : "https://www.tyresoradion.se/arkiv/LuffarliganiTyresskogen2017-03.m4a",
+         "description" : "Vi sänder personintervjuer, fördjupningar för olika intressen, föreningsinformation, evenemang m.m."
+      },
+      {
+         "name" : "Radio Trollhattan",
+         "image" : "23403.png",
+         "site_url" : "http://radiotrollhattan.se/",
+         "radio_url" : "http://live.litefm.se:8000/tnrf.mp3",
+         "description" : "De föreningar som har använt radion som medium är bland annat: Politiska partier, skolor, kyrkor och församlingar, studieförbund, invandrarföreningar, musikföreningar. I dagsläget har vi ett 30 tal medlemsföreningar."
+      },
+      {
+         "name" : "NRJ",
+         "image" : "21957.v9.png",
+         "site_url" : "http://www.radioplay.se/nrj",
+         "radio_url" : "https://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_aacp",
+         "description" : "Popular music from around the world on radio NRJ"
+      },
+      {
+         "name" : "Mix Megapol",
+         "image" : "21962.v10.png",
+         "site_url" : "http://www.radioplay.se/mixmegapol",
+         "radio_url" : "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3",
+         "description" : "Vi sänder live varje vardagmorgon på Mix Megapol i Göteborg 107,3. Häng gärna med oss / Fredrik, Peter och Linda"
+      },
+      {
+         "name" : "Rix FM Fresh",
+         "image" : "23298.v12.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "https://wr04-ice.stream.khz.se/wr04_mp3?platform=web",
+         "description" : "Vad blir nästa stora hit Rix FM Fresh  ger dig alltid ny musik först – många gånger innan låtarna hamnat på de stora hitlistorna. Du får mycket musik dygnet runt. Du kan även följa artisterna i sociala medier direkt i appen."
+      },
+      {
+         "name" : "Soulfood Radio",
+         "image" : "22921.v2.png",
+         "site_url" : "http://laut.fm/soulfood",
+         "radio_url" : "https://soulfood.stream.laut.fm/soulfood",
+         "description" : "Delicious hip-shakers and tasty floor-breakers from the vaults of the 60's, 70's & contemporary soul-kitchens!!!"
+      },
+      {
+         "name" : "The Voice",
+         "image" : "21956.v6.png",
+         "site_url" : "http://www.radioplay.se/thevoice",
+         "radio_url" : "https://live-bauerse-online.sharp-stream.com/264_se_aacp",
+         "description" : "The Voice of Hiphop & RnB."
+      },
+      {
+         "name" : "Dixie Radio",
+         "image" : "23193.v4.png",
+         "site_url" : "https://dixieradio.se/",
+         "radio_url" : "https://stream.radiojar.com/szhd6x2wb3vtv",
+         "description" : "Stockholm's NO1 For Country"
+      },
+      {
+         "name" : "SR P3",
+         "image" : "22017.v4.png",
+         "site_url" : "http://sverigesradio.se/p3/",
+         "radio_url" : "https://http-live.sr.se/p3-aac-32?type=mp3",
+         "description" : "P3 är ung public service. Samhällsjournalistik, populärkultur, humor och relationer är bärande delar. P3 guidar till den nya musiken och lyfter fram nya svenska artister."
+      },
+      {
+         "name" : "Polarlicht",
+         "image" : "49247.v1.png",
+         "site_url" : "http://laut.fm/polarlicht",
+         "radio_url" : "https://polarlicht.stream.laut.fm/polarlicht",
+         "description" : "Alternativ rock från Umeå i Sverige."
+      },
+      {
+         "name" : "ICPRM RADIO Sweden",
+         "image" : "73659.v2.png",
+         "site_url" : "http://icprmradiostation.weebly.com/",
+         "radio_url" : "https://stream.zenolive.com/kybydz65sfeuv",
+         "description" : "Music  Online  Radio Station Of ICPRM RADIO Sweden"
+      },
+      {
+         "name" : "SR Sisuradio",
+         "image" : "22931.v2.png",
+         "site_url" : "http://sverigesradio.se/sida/default.aspx?ProgramId=185",
+         "radio_url" : "https://live-cdn.sr.se/pool2/sisuradio/sisuradio.isml/sisuradio.m3u8",
+         "description" : "Sveriges Radio Sisuradio tarjoaa ohjelmaa laidasta laitaan Ruotsin suomenkieliselle ja meänkieliselle väestölle. / Sveriges Radio Sisuradio gör program för, av och med folk med anknytning och intresse för finska och meänkieli i Sverige."
+      },
+      {
+         "name" : "SR Sápmi",
+         "image" : "23087.v3.png",
+         "site_url" : "https://sverigesradio.se/sameradion/",
+         "radio_url" : "https://http-live.sr.se/srsapmi-mp3-128",
+         "description" : "Nyheter, väderrapporter och aktualiteter, barn- och ungdomsprogram samt musik och underhållning."
+      },
+      {
+         "name" : "SR Ekot",
+         "image" : "49230.v2.png",
+         "site_url" : "https://sverigesradio.se/ekot",
+         "radio_url" : "https://http-live.sr.se/ekotsanderdirekt-mp3-192",
+         "description" : "Här hör du nyheter från Sveriges Radios Ekoredaktion. Senaste nytt från hela världen - dygnet runt, året om."
+      },
+      {
+         "name" : "Radio Schlagerstationen",
+         "image" : "85553.v2.png",
+         "site_url" : "https://www.radioplay.se/schlagerstationen",
+         "radio_url" : "https://live-bauerse-online.sharp-stream.com/169_se_aacp",
+         "description" : "För dig som älskar schlager!"
+      },
+      {
+         "name" : "Bandit Metal",
+         "image" : "23297.v7.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://wr03-ice.stream.khz.se/wr03_mp3?platform=web",
+         "description" : "Bandit Metal gräver djupt in i metalsjälen. Är det tung, snabb, riffig och energifylld metal i alla former du går loss på – då kan Bandit Metal vara din station. Death, black, thrash, folk, progressive och power metal. Du får metal från då och nu. Du får mycket musik dygnet runt. Du kan även följa artisterna i sociala medier direkt i appen. Scrolla tillbaka till vad som just spelats så har du koll på låtarna."
+      },
+      {
+         "name" : "Bandit Rock",
+         "image" : "21823.v9.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://fm02-ice.stream.khz.se/fm02_mp3?platform=web",
+         "description" : "Bandit Rock är en radiostation som spelar rock, metal och punk. Stationen ingår i Modern Times Groups radiobolag MTG Radio."
+      },
+      {
+         "name" : "Electro Lounge",
+         "image" : "23304.v7.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://wr16-ice.stream.khz.se/wr16_mp3?platform=web",
+         "description" : "Eastern, new age, acid jazz och electronic. Avkopplande, mediterande och stressfritt. Step into the Lounge - Electro Lounge!"
+      },
+      {
+         "name" : "Rix FM",
+         "image" : "21828.v6.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://fm01-ice.stream.khz.se/fm01_mp3?platform=web",
+         "description" : "RIX FM ger dig Bäst musik just nu - och RIX MorronZoo med Adam, Laila och Marko varje vardagmorgon!"
+      },
+      {
+         "name" : "Lugna Favoriter",
+         "image" : "21906.v7.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://fm03-ice.stream.khz.se/fm03_mp3?platform=web",
+         "description" : "Lugna favoriter är en kanal som ägs av MTG Radio och spelar lugn musik mestadels från 80- och 90-talen men har också inslag av nya låtar. Kanalen sänds sedan 2010 endast i Stockholm efter att tidigare ha hörts över stora delar av landet."
+      },
+      {
+         "name" : "Star 70's",
+         "image" : "21866.v5.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://wr10-ice.stream.khz.se/wr10_mp3?platform=web",
+         "description" : "Star 70's. Den bästa musiken från 70-talet. Smyglyssna genom att ladda ner Power Hit Radio-appen."
+      },
+      {
+         "name" : "Star 60's",
+         "image" : "21854.v4.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://wr09-icecast.mtg-r.net/wr09_mp3?platform=web",
+         "description" : "Star 60's. Den bästa musiken från 60-talet. Smyglyssna genom att ladda ner Power Hit Radio-appen."
+      },
+      {
+         "name" : "Power Club",
+         "image" : "23299.v7.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://wr06-ice.stream.khz.se/wr06_mp3?platform=web",
+         "description" : "Power Club levererar det senaste inom klubbmusiken. Låtarna som tar över dansgolven och klubbarna just nu. Allt i en och samma radiostation. Du får mycket musik dygnet runt. Du kan även följa artisterna i sociala medier direkt i appen."
+      },
+      {
+         "name" : "Bandit Classic Rock",
+         "image" : "23294.v6.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "https://wr07-ice.stream.khz.se/wr07_mp3",
+         "description" : "Bandit Classics fokuserar på klassisk rock och hårdrock från guldåren på 70- och 80-talen. Även sena 60-talsklassiker och tidiga 90-talslåtar förekommer. Här får du banden som inspirerat en hel generation nya rockers blandat med sköna nostalgitrippar. Du får mycket musik dygnet runt. Du kan även följa artisterna i sociala medier direkt i appen. Scrolla tillbaka till vad som just spelats så har du koll på låtarna."
+      },
+      {
+         "name" : "Power Hit Radio",
+         "image" : "23269.v7.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://fm04-ice.stream.khz.se/fm04_mp3?platform=web",
+         "description" : "Power Hit Radio är en radiostation i Sverige som spelar de senaste hitsen på 105,9 i Stockholm. Slogan är 'Feel the beat'."
+      },
+      {
+         "name" : "Soul Classics",
+         "image" : "23335.v5.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://wr08-ice.stream.khz.se/wr08_mp3?platform=web",
+         "description" : "Tidlösa soulklassiker att älska. Soul Classics ger dig sköna soullåtar från 60-talet fram till idag. Du får mycket musik dygnet runt. Du kan även följa artisterna i sociala medier direkt i appen."
+      },
+      {
+         "name" : "Indie 101",
+         "image" : "23305.v7.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://wr05-ice.stream.khz.se/wr05_mp3?platform=web",
+         "description" : "Indie 101 är stationen för dig som är nyfiken på musik utanför de breda trenderna. Soundet är mer alternativt inom pop, rock och electronica. Här ska du kunna upptäcka nya band och artister. Du får mycket musik dygnet runt. Du kan även följa artisterna i sociala medier direkt i appen."
+      },
+      {
+         "name" : "Star 80's",
+         "image" : "21861.v5.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://wr02-ice.stream.khz.se/wr02_mp3?platform=web",
+         "description" : "Star 80's. Den bästa musiken från 80-talet. Smyglyssna genom att ladda ner Power Hit Radio-appen."
+      },
+      {
+         "name" : "SR P4 Stockholm",
+         "image" : "21907.v6.png",
+         "site_url" : "https://sverigesradio.se/stockholm",
+         "radio_url" : "https://http-live.sr.se/p4stockholm-mp3-192",
+         "description" : "Stockholms största radiokanal med nyheter, sport och kultur i en härlig blandning."
+      },
+      {
+         "name" : "STAR FM",
+         "image" : "21844.v6.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://fm05-ice.stream.khz.se/fm05_mp3?platform=web",
+         "description" : "STAR FM var en radiostation i Stockholm ägd av MTG Radio. Kanalen ersatte den 1 april 2008 Svenska favoriter som tidigare sänt på frekvensen. Kanalen sände musik från 1970-talet och framåt under parollen 'De bästa låtarna från de största artisterna'."
+      },
+      {
+         "name" : "Country Classics",
+         "image" : "23386.v5.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://wr14-ice.stream.khz.se/wr14_mp3?platform=web",
+         "description" : "Country Classics blandar traditionell och outlaw country från 50 och 60-talen Hank Williams och Johnny Cash via 70- och 80-talens Dolly Parton och Dwight Yoakam till dagens nya country stjärnor. Som att kliva in en bar i Nashville och gå ut uppfylld med massor av skön countrymusik."
+      },
+      {
+         "name" : "SR P1",
+         "image" : "21903.v5.png",
+         "site_url" : "http://sverigesradio.se/p1/",
+         "radio_url" : "https://http-live.sr.se/p1-aac-32?type=mp3",
+         "description" : "P1 är talat innehåll om samhälle, kultur och vetenskap. Kanalen erbjuder nyheter och aktualiteter, granskning och fördjupning men också livsåskådnings-och livsstilsprogram samt underhållning och upplevelser till exempel i form av teater."
+      },
+      {
+         "name" : "Radio 88 Partille",
+         "image" : "22009.png",
+         "site_url" : "http://www.radio88.nu/",
+         "radio_url" : "http://62.209.164.60:8000/mp96.mp3",
+         "description" : "Radio 88 Partille drivs av en samling radioentusiaster som ägnar många tusen timmar varje år åt att värna om våra lyssnare och annonsörer.Drivkraften är ett brett och djupt musikintresse, varvat med ett stort engagemang för radion som medium och forumför aktiva och trivsamma lyssnarkontakter."
+      },
+      {
+         "name" : "Star 90's",
+         "image" : "21872.v5.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://wr12-ice.stream.khz.se/wr12_mp3?platform=web",
+         "description" : "Star 90's tar dig tillbaka till årtiondet med tamagotchis, ironisk Glenn Killing-humor och eurotechno. Du hör både de stora radiopophitsen och en djupdykning rakt ner i eurotechnons kitschiga värld."
+      },
+      {
+         "name" : "Valhalla Viking Radio",
+         "image" : "78776.v5.png",
+         "site_url" : "https://valhallaradio.wixsite.com/valhallaradio",
+         "radio_url" : "http://radio.vikingarock.se:8000/;stream.mp3",
+         "description" : "Valhalla Viking Radio - Musiken ingen annan spelar"
+      },
+      {
+         "name" : "SR P2",
+         "image" : "49066.v5.png",
+         "site_url" : "https://sverigesradio.se/p2",
+         "radio_url" : "https://live-cdn.sr.se/pool2/p2musik/p2musik.isml/p2musik.m3u8",
+         "description" : "P2 erbjuder konstmusik – klassisk såväl som nutida – improvisationsmusik och traditionsmusik, till exempel jazz eller världsmusik. P2 sänder på andra språk än svenska."
+      },
+      {
+         "name" : "24/7 Continuous Music",
+         "image" : "73090.v5.png",
+         "site_url" : "http://www.247continiousmusic.com/",
+         "radio_url" : "http://198.101.15.90:8009/;stream.nsv",
+         "description" : "Remember those radio stations who just had music all the time no talk, this is one of those stations, we play music 24 hours a day 7 Days a week with no interruptions, no DJs saying there piece just great music to get you through the day 247 Continious Team."
+      },
+      {
+         "name" : "HitNet",
+         "image" : "70497.v2.png",
+         "site_url" : "http://hitnet.live/",
+         "radio_url" : "http://78.31.65.20:8080/",
+         "description" : "Nr.1 For New Music & All The Hits!"
+      },
+      {
+         "name" : "Slay Radio",
+         "image" : "22613.png",
+         "site_url" : "http://www.slayradio.org/home.php#news",
+         "radio_url" : "http://relay1.slayradio.org:8000/;",
+         "description" : "SLAY Radio is a 24/7 internet-only radio station dedicated to playing remixes and tunes based on music from the Commodore 64 computer, as well as the Amiga, popular in the 1980s and 1990s."
+      },
+      {
+         "name" : "PWR Street",
+         "image" : "23300.v7.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://wr07-icecast.mtg-r.net/wr07_mp3?platform=web",
+         "description" : "Power Street ger dig Hip Hop och RnB. Både det allra senaste som släppts och de odödliga låtarna som format dagens Hip Hop- och RnB-scen. Du får mycket musik dygnet runt. Du kan även följa artisterna i sociala medier direkt i appen."
+      },
+      {
+         "name" : "City Radion",
+         "image" : "23165.png",
+         "site_url" : "http://www.cityradion.nu/",
+         "radio_url" : "http://ice-cluster.streaming.xmc.se/cityradion?type=mp3",
+         "description" : "Vi är en lokal radiostation med bas i Gävle. Vi når lyssnare ca: 8 mil runt Gävle.Hos oss står musiken i centrum. Vi spelar musik från slutet av 50-talet fram till den allra senaste musiken.Vår målgrupp är mellan 25 - 65 år.Vi har olika program som sänds live,(se mer info under program). Vi sänder på webben dygnet runt, med vår breda blandning av musik."
+      },
+      {
+         "name" : "SR P6",
+         "image" : "21955.v4.png",
+         "site_url" : "https://sverigesradio.se/p6",
+         "radio_url" : "https://http-live.sr.se/srinternational-mp3-64",
+         "description" : "P6 är Sveriges Radios flerspråkiga kanal, med musik och program på flera språk.Sveriges Radio är ett icke-kommersiellt och politiskt oberoende public service-företag med uppdraget att producera kvalitetsprogram som vänder sig till alla lyssnare, oberoende av ålder, kön, kulturell eller etnisk bakgrund."
+      },
+      {
+         "name" : "Kohina Radio",
+         "image" : "71600.v2.png",
+         "site_url" : "http://www.kohina.com/",
+         "radio_url" : "http://kohina.duckdns.org:8000/stream.ogg",
+         "description" : "Kohina - old school game and demo music mp3 stream"
+      },
+      {
+         "name" : "Radio Nostalgi",
+         "image" : "23153.v3.png",
+         "site_url" : "http://www.radionostalgi.se/",
+         "radio_url" : "http://193.142.61.22:8010/",
+         "description" : "Vi stödjer Radio Nostalgi att efter drygt 20 års verksamhet få tillerkännas varumärket Radio Nostalgi."
+      },
+      {
+         "name" : "Dream Radio",
+         "image" : "46017.v11.png",
+         "site_url" : "http://www.dreamradio.se/",
+         "radio_url" : "http://85.229.115.150:9000/",
+         "description" : "Welcome to the new radio channel, Dream Radio plays love songs 24 hours around the clock."
+      },
+      {
+         "name" : "Dansbands Favoriter",
+         "image" : "49267.v5.png",
+         "site_url" : "http://www.ilikeradio.se/kanaler/",
+         "radio_url" : "http://wr15-ice.stream.khz.se/wr15_mp3?platform=web",
+         "description" : "Tidlösa dansbandsfavoriter att älska blandat med dagens nya stjärnor."
+      },
+      {
+         "name" : "Pulsefm.se",
+         "image" : "73979.v1.png",
+         "site_url" : "http://pulsefm.se/",
+         "radio_url" : "http://titan.shoutca.st:8339/stream",
+         "description" : "Internetradio station playing the best of EDM Top40 RnB and Hiphop."
+      },
+      {
+         "name" : "Roslagen Live",
+         "image" : "84628.v7.png",
+         "site_url" : "http://roslagenlive.se/",
+         "radio_url" : "http://51.38.236.52:8000/;",
+         "description" : "Roslagen Live - Det händer nu"
+      },
+      {
+         "name" : "Q Music - Sverige",
+         "image" : "71682.v9.png",
+         "site_url" : "http://www.q-music.nu/",
+         "radio_url" : "http://37.59.28.208:8281/stream",
+         "description" : "Q Music - Sverige är din hit leverantör 365 dagar om året 7 dagar i veckan och 31 dagar i månaden. Vi levererar dig musik ifrån världens alla spellistor, varje vecka sänder vi också direkt sända radioprogram!"
+      },
+      {
+         "name" : "Radio Hallefors",
+         "image" : "22453.v5.png",
+         "site_url" : "http://www.radiohfs.com/",
+         "radio_url" : "http://www.grythyttan.se:8000/stream/1/;stream.mp3",
+         "description" : "Bäst fungerar Radio Hällefors 89.0 i gammal hederlig radioapparat, men du kan också lyssna över internet."
+      },
+      {
+         "name" : "Radio Gällivare",
+         "image" : "49078.png",
+         "site_url" : "http://www.radiogellivare.se/",
+         "radio_url" : "http://stream.imegasystem.se:8000/radiogellivare",
+         "description" : "Gällivare Närradio är en ideell förening för sändning av närradio lokalt över Gällivare kommun."
+      },
+      {
+         "name" : "Västra Hamnen Radion",
+         "image" : "81607.v1.png",
+         "site_url" : "https://www.vastrahamnenradion.se/",
+         "radio_url" : "https://s3.radio.co/s2d61113ff/listen",
+         "description" : "Malmös nya onlineradio sänder dygnet runt alla dagar. Vi spelar de nyaste låtarna först. Enda radion med egen Jukebox där du är med och bestämmer musiken som spelas."
+      },
+      {
+         "name" : "Radio Eskilstuna Latina",
+         "image" : "76010.v6.png",
+         "site_url" : "https://www.radioeskilstunalatina.se/",
+         "radio_url" : "http://eskilstunalatina886.ddns.net:88/listen.mp3",
+         "description" : "Radio Eskilstuna Latina transmite desde la ciudad de Eskilstuna Suecia para todo el mundo."
+      },
+      {
+         "name" : "Hit24",
+         "image" : "23156.v4.png",
+         "site_url" : "http://www.hit24.se/",
+         "radio_url" : "http://192.184.9.158:8309/;",
+         "description" : "Playing the dance and pop hits from the 70's, 80's, 90's and today"
+      },
+      {
+         "name" : "Cannonball Rock Radio",
+         "image" : "49271.png",
+         "site_url" : "http://www.cannonballrock.se/",
+         "radio_url" : "http://91.121.157.114:8421/;stream.mp3",
+         "description" : "Beautiful music has got a new refreshing world as an online radio which is Cannonball Rock Radio. Cannonball Rock Radio is the player of popular music from international music world. As this is also a Swedish radio station so for the reason they plays lots of their own music from various singers."
+      },
+      {
+         "name" : "Radio Sala",
+         "image" : "49352.png",
+         "site_url" : "http://www.radiosala.se/",
+         "radio_url" : "http://test.radioavesta.se:9700/;stream.mp3",
+         "description" : "Radio Sala drivs av en ideell förening med en verksamhet utan krav på vinst eller avkastning på satsat kapital. Målsättning är enkel: underhållning och lokal information till så många lyssnare som möjligt inom Sala Kommun med omnejd."
+      },
+      {
+         "name" : "Radio Halmstad",
+         "image" : "85007.v3.png",
+         "site_url" : "https://radiohalmstad.se/",
+         "radio_url" : "http://81.233.31.238:8000/1",
+         "description" : "Vi spelar hits från förr, dagens nya stjärnor varvat med låtar du aldrig trodde du skulle få höra på radio. Med örat mot Halmstads gator vill vi även erbjuda lokala nyheter, sport, nöje. Vi har ett lokalt och kul programutbud dygnet runt."
+      },
+      {
+         "name" : "Kanal Rewind",
+         "image" : "82837.png",
+         "site_url" : "http://kanalrewind.se/",
+         "radio_url" : "http://radio.euronet.nu:8000/;",
+         "description" : "Rewind är en digital musikradiokanal som spelar de klassiska låtarna från andra hälften av 1900-talet. Rewind sänds i realtid dygnet runt sedan år 2010 och har sin huvudstudio i Kristinehamn, Värmland, Sverige."
+      },
+      {
+         "name" : "Radio Cordiller",
+         "image" : "22696.png",
+         "site_url" : "http://ccbolivia.net/Radio-page.html",
+         "radio_url" : "http://5.135.183.124:8233/stream?type=mp3",
+         "description" : "Este grupo de la radio ha estado trabajando desde 1996 con la intenciуn siempre es saludable para difundir nuestra cultura y nuestro deleite audiencia amistosa en Bolivia, Amйrica y sueco ...."
+      },
+      {
+         "name" : "Crazy Musikwelt",
+         "image" : "50399.png",
+         "site_url" : "http://www.crazy-musikwelt.ch/",
+         "radio_url" : "http://148.251.75.162:9350/;",
+         "description" : "Das schweizer Radio mit Herz. Bei uns gibt es jegliche Musikrichtungen zu hören. Von A wie ABBA - Z wie ZZ Top"
+      },
+      {
+         "name" : "Radio Södra Station",
+         "image" : "81098.v3.png",
+         "site_url" : "http://www.radiosodrastation.se/",
+         "radio_url" : "http://tachyon.shoutca.st:8165/;",
+         "description" : "Webbradiostation med musik dygnet runt!"
+      },
+      {
+         "name" : "Umea Studentradio",
+         "image" : "49262.v1.png",
+         "site_url" : "http://umeastudentradio.se/",
+         "radio_url" : "http://webb.umeastudentradio.se:8000/usr2.mp3",
+         "description" : "Radio, av studenter, för studenter.Vår strävan är att erbjuda ett så varierat programutbud som möjligt, för att locka en bred lyssnarskara. I tablån finns därför alltifrån musikprogram med en tydlig nisch, till pratprogram med ett allmänt tilltal. Vi gör radio skräddarsydd för dig som pluggar på Umeå universitet, och behandlar aktualiteter i Umeå som är av intresse för alla."
+      },
+      {
+         "name" : "Radio Siljan",
+         "image" : "49205.png",
+         "site_url" : "http://radiosiljan.com/",
+         "radio_url" : "http://stream.radiosiljan.com/siljan?MSWMExt=.asf",
+         "description" : "Radio Siljan är din lokala radiokanal med säte i Mora. Vi har sänt radio i Siljansbygden, Mora, Orsa, Rättvik, Leksand, sedan 1995 och är en av landets äldsta reklamfinansierade kanaler. Vi sänder dagligen, vardagar 06 - 24, helger 09 - 24."
+      },
+      {
+         "name" : "Partystation - Sverige",
+         "image" : "67930.png",
+         "site_url" : "http://www.partystation.org/",
+         "radio_url" : "http://equinox.shoutca.st:8072/stream",
+         "description" : "Partystation.org is an internet radio station from Sweden, providing everything from 80's, 90's and 00's we are also playing new music...."
+      },
+      {
+         "name" : "Radio Eskilstuna",
+         "image" : "49077.png",
+         "site_url" : "http://radioeskilstuna.se/",
+         "radio_url" : "http://ice-cluster.streaming.xmc.se/radioeskilstuna",
+         "description" : "Radio Eskilstuna når ut till ca 150 000 människor i nordvästra mälardalen via etern och webbradio. Vi är en lokal radiostation som satsar på lokala nyheter, reportage, sport, evenemang och intervjuer med nationella och internationella artister, politiker och kändisar."
+      },
+      {
+         "name" : "Hela Lerums Radio",
+         "image" : "23027.png",
+         "site_url" : "http://www.helalerumsradio.se/",
+         "radio_url" : "http://streaming.nordblommedia.se:8040/;stream.mp3/;",
+         "description" : "Hela Lerums Radio – Radio Floda 91,4 är en lokal kommersiell radiostation belägen i Garveriet i Floda. Redaktionellt fokus ligger på det som berör människorna inom Lerums kommun. Stationen har ett tätt samarbete med nättidningen FlodaNyheter.se.Musiken på Hela Lerums Radio – Radio Floda 91,4 är en spännande blandning av de största hittarna från både breda och smala genrer – det bästa och roligaste från 50-talet till idag. Hela Lerums Radio – Radio Floda 91,4 i etern, på webben, i appen."
+      },
+      {
+         "name" : "Radio Halgan",
+         "image" : "49346.v1.png",
+         "site_url" : "http://www.radiohalgan.net/",
+         "radio_url" : "http://smoke.wavestreamer.com:9390/;stream.mp3",
+         "description" : "Radio Halgan is a Muslim community based online radio. The radio offers rich and vibrant explanation on various religious matters. Radio Halgan tries their best in promoting the teachings and sayings of the most beautiful religion of all which is Islam. Radio Halgan arranges several kinds of programs each day."
+      },
+      {
+         "name" : "Radio Malmokanalen",
+         "image" : "49260.png",
+         "site_url" : "http://www.malmokanalen.se/",
+         "radio_url" : "http://stream.nsp.se/mnr89?MSWMExt=.asf",
+         "description" : "Malmös lokala radiostation! Med blandad och mogen musik"
+      },
+      {
+         "name" : "Radio Baranen",
+         "image" : "22888.v1.png",
+         "site_url" : "http://www.baranen.com/",
+         "radio_url" : "http://www.baranen.com:8000/;",
+         "description" : "Radiostationen som spelar favorit sten"
+      }
+   ]
+}

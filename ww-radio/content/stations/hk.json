@@ -1,0 +1,186 @@
+{
+   "hk" : [
+      {
+         "name" : "D100 Radio",
+         "image" : "29170.v3.png",
+         "site_url" : "https://www.d100.net/",
+         "radio_url" : "http://59.152.232.107:8000/Channel1-128MP3",
+         "description" : "D100全球華人電台，讓你可以在全世界任何角落收聽最新最快的新聞、時事、資訊、娛樂及音樂電台節目。"
+      },
+      {
+         "name" : "Digital Radio",
+         "image" : "29183.v1.png",
+         "site_url" : "http://www.digitalradiohk.net/",
+         "radio_url" : "http://ice.digitalradiohk.net:8000/drhk",
+         "description" : "Digital Radio Hong Kong is an online radio station in Hong Kong, News, Music and Entertainment."
+      },
+      {
+         "name" : "Apple-FM",
+         "image" : "29185.png",
+         "site_url" : "http://www.apple-fm.net/",
+         "radio_url" : "http://sc.apple-fm.net:9020/;",
+         "description" : "Apple-FM Hong Kong is a Mix radio channel from Hong Kong, China. The oldies station from Hong Kong. 24 Hours a day."
+      },
+      {
+         "name" : "Billboard Radio China - Hot 100",
+         "image" : "29175.v1.png",
+         "site_url" : "http://www.billboardradiochina.com/",
+         "radio_url" : "https://gfm.rastream.com/gfm-todaysmix?",
+         "description" : "Billboard Radio China is a digital radio/entertainment platform in Hong Kong & China bringing the best of HK and China to the worldTune in 24 hours a day for the hottest mix of today’s Western Pop hits, from the official U.S. chart music leader. Discover the best new music from your favorite artists here!"
+      },
+      {
+         "name" : "XMR",
+         "image" : "29283.png",
+         "site_url" : "http://www.xmr.fm/",
+         "radio_url" : "http://107.170.216.166:8010/;",
+         "description" : "XMR Is an Internet Based radio website from Hong Kong that plays Alternative genre of music."
+      },
+      {
+         "name" : "RTHK Radio 3",
+         "image" : "29159.v2.png",
+         "site_url" : "http://www.rthk.hk/radio/radio3",
+         "radio_url" : "https://rthkaudio3-lh.akamaihd.net/i/radio3_1@355866/master.m3u8",
+         "description" : "RTHK Radio 3 is a broadcast radio station in Hong Kong, China, providing News, popular music, information, romance, comedy, reality, sports and education programmes. RTHK (Radio Television Hong Kong 香港電台) is a public broadcasting network in Hong Kong and an independent department in the government's Broadcasting Authority."
+      },
+      {
+         "name" : "RTHK Radio 5",
+         "image" : "29160.v1.png",
+         "site_url" : "http://www.rthk.hk/radio/radio5",
+         "radio_url" : "https://rthkaudio5-lh.akamaihd.net/i/radio5_1@355868/master.m3u8",
+         "description" : "RTHK Radio 5 is a broadcast radio station in Hong Kong, China, providing Programmes aimed at the elderly, cultural and education. RTHK (Radio Television Hong Kong 香港電台) is a public broadcasting network in Hong Kong and an independent department in the government's Broadcasting Authority."
+      },
+      {
+         "name" : "Radio Mangsebung",
+         "image" : "29281.v1.png",
+         "site_url" : "https://www.mewanambin.org/",
+         "radio_url" : "http://live.itechnepal.com:8212/stream",
+         "description" : "The Radio Mangsebung is not for the commercial purposes. Through this, they want to deliver a message to our societies, communities and the world that they must be connected through some means in today's diaspora of Nepalese population around the world. With this, they can preserve our Language, Cultural values and our kind."
+      },
+      {
+         "name" : "RTHK Radio 1",
+         "image" : "29156.v4.png",
+         "site_url" : "http://www.rthk.hk/radio/radio1",
+         "radio_url" : "https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/master.m3u8",
+         "description" : "RTHK Radio 1 is a broadcast radio station in Hong Kong, China, providing News and Talk shows. RTHK (Radio Television Hong Kong 香港電台) is a public broadcasting network in Hong Kong and an independent department in the government's Broadcasting Authority."
+      },
+      {
+         "name" : "RTHK Radio 4",
+         "image" : "29158.v1.png",
+         "site_url" : "http://www.rthk.hk/radio/radio4",
+         "radio_url" : "https://rthkaudio4-lh.akamaihd.net/i/radio4_1@355867/master.m3u8",
+         "description" : "RTHK Radio 4 is a broadcast radio station in Hong Kong, China, providing Classical music and fine arts. RTHK (Radio Television Hong Kong 香港電台) is a public broadcasting network in Hong Kong and an independent department in the government's Broadcasting Authority."
+      },
+      {
+         "name" : "RTHK Radio 2",
+         "image" : "29154.v3.png",
+         "site_url" : "http://www.rthk.hk/radio/radio2",
+         "radio_url" : "https://rthkaudio2-lh.akamaihd.net/i/radio2_1@355865/master.m3u8",
+         "description" : "RTHK Radio 2 is a broadcast radio station in Hong Kong, China, providing Youth Entertainment and Cantopop music. RTHK (Radio Television Hong Kong 香港電台) is a public broadcasting network in Hong Kong and an independent department in the government's Broadcasting Authority."
+      },
+      {
+         "name" : "民間電台 Citizens' Radio",
+         "image" : "29289.v1.png",
+         "site_url" : "http://www.citizensradio.org/",
+         "radio_url" : "http://radio1.citizensradio.org:8000/xstream",
+         "description" : "民間電台是由香港泛民主派人士曾健成發起，以非牟利形式運作的電台，於2005年10月3日起試播，電台利用頻率FM 102.8於逢星期一至五晚上七點至九點（最長至十一點）廣播（覆蓋範圍在香港島及九龍大部份地區），並同時透過網絡廣播節目。"
+      },
+      {
+         "name" : "RTHK Radio Putonghua",
+         "image" : "29162.v2.png",
+         "site_url" : "http://www.rthk.hk/radio/pth",
+         "radio_url" : "https://rthkaudio6-lh.akamaihd.net/i/radiopth_1@355869/master.m3u8",
+         "description" : "RTHK Radio Putonghua is a broadcast radio station in Hong Kong, China, providing non stop local pop music. RTHK (Radio Television Hong Kong 香港電台) is a public broadcasting network in Hong Kong and an independent department in the government's Broadcasting Authority."
+      },
+      {
+         "name" : "CRHK 881",
+         "image" : "67844.v14.png",
+         "site_url" : "http://www.881903.com/Page/ZH-TW/home881.aspx",
+         "radio_url" : "http://do5oq4kz0w1x.cloudfront.net/radio-HTTP/cr1-hd.3gp/chunklist.m3u8",
+         "description" : "CRHK1 FM 88.1 has the widest audience base in Hong Kong. It is a talk-based channel which broadcasts current affairs, traffic and financial information. There are also many talk shows and interactive phone-in shows. It also offers some cultural dramas programmes. Its target audience are 25- to 40-year-old professionals."
+      },
+      {
+         "name" : "HK Latino Radio",
+         "image" : "83904.v4.png",
+         "site_url" : "http://hklatino.com/",
+         "radio_url" : "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM07AAC003.mp3",
+         "description" : "Your best choice for the party!!...variety of latin music."
+      },
+      {
+         "name" : "Radio Metro Finance",
+         "image" : "67833.v6.png",
+         "site_url" : "http://www.metroradio.com.hk/MetroFinance/",
+         "radio_url" : "http://metroradio-lh.akamaihd.net/i/104_h@349798/master.m3u8",
+         "description" : "新城財經台是全球首個廿四小時廣東話財經電台頻道，旨在為香港以及世界各地聽眾提供準確、實時以及緊貼環球金融市場的重要資訊。 而新城財經台更開創廣播史先河，分別與廣東電台、上海第一財經頻道及深圳廣播電台新聞頻率(先鋒898)同步直播節目《粵港股市快訊》、《粵港財金縱橫》、《滬港一線通》及《深港通 “錢”線》，第一時間報導兩地市場財金資訊。"
+      },
+      {
+         "name" : "Radio Metroinfo",
+         "image" : "67837.v3.png",
+         "site_url" : "http://www.metroradio.com.hk/997/",
+         "radio_url" : "http://metroradio-lh.akamaihd.net/i/997_h@349799/master.m3u8",
+         "description" : "新城財經台是全球首個廿四小時廣東話財經電台頻道，旨在為香港以及世界各地聽眾提供準確、實時以及緊貼環球金融市場的重要資訊。 而新城財經台更開創廣播史先河，分別與廣東電台、上海第一財經頻道及深圳廣播電台新聞頻率(先鋒898)同步直播節目《粵港股市快訊》、《粵港財金縱橫》、《滬港一線通》及《深港通 “錢”線》，第一時間報導兩地市場財金資訊。"
+      },
+      {
+         "name" : "RTHK Radio 6",
+         "image" : "67829.v3.png",
+         "site_url" : "http://www.rthk.hk/radio/radio6",
+         "radio_url" : "https://rthkaudio6cnr-lh.akamaihd.net/i/radio6cnr_1@575604/master.m3u8",
+         "description" : "轉播中央人民廣播電台香港之聲"
+      },
+      {
+         "name" : "Radio Metro Plus",
+         "image" : "67838.v3.png",
+         "site_url" : "http://www.metroradio.com.hk/1044/",
+         "radio_url" : "http://metroradio-lh.akamaihd.net/i/1044_h@349800/master.m3u8",
+         "description" : "新城財經台是全球首個廿四小時廣東話財經電台頻道，旨在為香港以及世界各地聽眾提供準確、實時以及緊貼環球金融市場的重要資訊。 而新城財經台更開創廣播史先河，分別與廣東電台、上海第一財經頻道及深圳廣播電台新聞頻率(先鋒898)同步直播節目《粵港股市快訊》、《粵港財金縱橫》、《滬港一線通》及《深港通 “錢”線》，第一時間報導兩地市場財金資訊。"
+      },
+      {
+         "name" : "CRHK AM 864",
+         "image" : "67864.v4.png",
+         "site_url" : "http://www.881903.com/Page/ZH-TW/home864.aspx",
+         "radio_url" : "http://do5oq4kz0w1x.cloudfront.net/radio-HTTP/am864.3gp/chunklist.m3u8",
+         "description" : "AM 864 is an English channel. It used to offer a diversity of music, from the latest international hits to hip-hop, R&B, jazz, rock and roll, grunge music. It was intended to cater toward audiences all around the world."
+      },
+      {
+         "name" : "Fing Radio",
+         "image" : "29286.png",
+         "site_url" : "http://www.fingradio.tk/",
+         "radio_url" : "https://stream.laut.fm/bluesfan",
+         "description" : "Fing Radio is an internet radio station from Hong Kong, providing News, Information and Music."
+      },
+      {
+         "name" : "IELTS Podcast",
+         "image" : "74891.v2.png",
+         "site_url" : "https://www.ieltspodcast.com/",
+         "radio_url" : "https://streaming.radio.co/se151f189a/listen",
+         "description" : "Valuable tutorials and tips to help you pass the exam quickly and easily. IELTS can be a real frustration, let our expert team help you to pass the exam and boost your score.With a proven track record, this online resource will set you on the right track for creating useful essay plans that help you write clear and understandable essays."
+      },
+      {
+         "name" : "AXR - Hong Kong",
+         "image" : "75134.v5.png",
+         "site_url" : "http://www.axr.co/",
+         "radio_url" : "http://hongkongstream.axr.online/",
+         "description" : "AXR provides the best music, news and sport for expats living in Hong Kong"
+      },
+      {
+         "name" : "Holy Vision Radio",
+         "image" : "29287.png",
+         "site_url" : "http://www.holyvisionradio.com/",
+         "radio_url" : "http://live.itechnepal.com:8236/stream?",
+         "description" : "Holy Vision Nepali Online Radio  on the net that provides worship Nepali music in different formats, Audio bible and many more."
+      },
+      {
+         "name" : "Sun Radio HK",
+         "image" : "29278.png",
+         "site_url" : "http://www.sunradiohk.com/",
+         "radio_url" : "http://206.190.136.141:9468/Live/;",
+         "description" : "SUN Radio HK is an online 24-hour radio service operated and managed by The SUN, the No. 1 Filipino newspaper in Hong Kong. It features Original Pilipino Music, Live Talk and News shows, and inspirationals."
+      },
+      {
+         "name" : "HK Nepali Radio",
+         "image" : "29282.png",
+         "site_url" : "http://www.hknepaliradio.com/",
+         "radio_url" : "http://live.itechnepal.com:9605/stream?",
+         "description" : "HK Nepali Radio is an internet radio station from Hong Kong, China providing Nepalese Community News, Information, Music."
+      }
+   ]
+}

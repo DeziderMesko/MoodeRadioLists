@@ -1,0 +1,242 @@
+{
+   "bd" : [
+      {
+         "name" : "Peoples Radio",
+         "image" : "29428.png",
+         "site_url" : "http://www.peoplesradio.fm/",
+         "radio_url" : "http://s3.myradiostream.com:14498/;",
+         "description" : "Peoples Radio 91.6 FM is a Dhaka-based 24-hour private FM radio station of Bangladesh. It started the commercial launching at 11th December 2011"
+      },
+      {
+         "name" : "Radio Padma",
+         "image" : "29437.v1.png",
+         "site_url" : "http://www.dailynews.com.bd/",
+         "radio_url" : "http://cassini.shoutca.st:9109/radiopadma.mp3",
+         "description" : "Radio Padma, started its official journey as Community Multimedia Organization on 07 October 2011. Mr. Abul Kalam Azad MP, the former Information Minister of Bangladesh has officially lunched its operation on above date where a number of Member of Parliaments (MP) and the Mayor of Rajshahi where took part in the lunching ceremony."
+      },
+      {
+         "name" : "Radio Bhumi",
+         "image" : "29432.v2.png",
+         "site_url" : "http://www.radiobhumi.fm/",
+         "radio_url" : "http://149.56.195.94:8545/;stream.mp3",
+         "description" : "RadioBhumi FM 92.8 is tagged by 'Biswashey Bangladesh', Strongly determined to stick into the root of Bangla Music, Culture & Emotional event like sports."
+      },
+      {
+         "name" : "FnF.FM Bangla",
+         "image" : "29375.v1.png",
+         "site_url" : "http://bn.fnf.fm/",
+         "radio_url" : "http://eu6.fastcast4u.com:5099/;stream",
+         "description" : "24-hour popular Bengali music in HD.FnF.FM Bangla Radio – One of the most popular Bengali Radio on Internet. We broadcast 24 hour popular Bengali music in HD. Music from Bangladesh and West Bengal, India. We play modern Bengali songs, Popular Bengali Movie songs, Pop, Rabindra Sangeet, Nazrul Geeti, Baul Sangeet and much more. It is our job to give you what you want. So visit our website www.bn.FnF.fm and send us song request. Hope you going to love FnF.FM Bangla Radio! Keep listening Bengali music!"
+      },
+      {
+         "name" : "Radio Capital",
+         "image" : "29215.v1.png",
+         "site_url" : "http://www.radiocapital.fm/#!/page_SPLASH",
+         "radio_url" : "http://str.radiocapital.fm:8000/stream",
+         "description" : "Radio Capital 94.8 is a broadcast Radio station from Dhaka, Bangladesh, providing Music of Bangladesh."
+      },
+      {
+         "name" : "Radio Munna",
+         "image" : "29305.png",
+         "site_url" : "http://www.radiomunna.com/",
+         "radio_url" : "http://188.165.201.120:8012/stream",
+         "description" : "Radio Munna is a online base radio station which slogan is 'হৃদয়ে বাংলার সূর'. We are trying to give you unlimited bangla, hindi, Spanish and english songs. We are playing pop, hiphop, classic, soft, folk, Sylheti and many more songs. Radio Munna is streaming live from studio of Sylhet, Bangladesh. We are 24/7 radio station. We commited you to give the real interest of music. Radio Munna is started to make a non stop music service. We Will Add More regular program and special program in special day."
+      },
+      {
+         "name" : "RADIO SHADHIN",
+         "image" : "29211.v1.png",
+         "site_url" : "http://radioshadhin.fm/",
+         "radio_url" : "https://stream.zenolive.com/umq9q5uuva5tv",
+         "description" : "RADIO SHADHIN 92.4FM is a broadcast radio station from Dhaka, Bangladesh providing Inspirational and Freedom Talks, Live Shows and Music."
+      },
+      {
+         "name" : "Radio Kotha",
+         "image" : "29308.png",
+         "site_url" : "http://www.radiokotha.com/",
+         "radio_url" : "http://188.165.201.120:8016/stream?type=.mp3",
+         "description" : "Radio Kotha is an internet station from Dhaka, Bangladesh, their vision Vision is to connect the whole world, who love to listen music, access information and express in your self. Their aim is to work with their bangla culture, folk songs and as well new generation bangla songs."
+      },
+      {
+         "name" : "Radio Foorti Dhaka",
+         "image" : "29309.v1.png",
+         "site_url" : "http://radiofoorti.fm/",
+         "radio_url" : "http://119.148.23.88:1021/;stream/1",
+         "description" : "Radio Foorti still plays a wide variety of music, ranging from golden classics to the latest song released from the top artists in Bangladesh, even mixing the hottest international tracks into the playlist. Through its network of friendly radio jockeys, constant audience interaction via text messages and special features allowing fans to get closer to their favorite stars, Radio Foorti has helped redefine the FM culture and has helped usher in a new way for music to be heard and for entertainment to be enjoyed."
+      },
+      {
+         "name" : "Bangladesh Betar",
+         "image" : "29420.v2.png",
+         "site_url" : "http://www.betar.gov.bd/",
+         "radio_url" : "https://stream.zeno.fm/hbyxfwftaxquv",
+         "description" : "Bangladesh Betar, the national radio network has been discharging the honorous responsibility of disseminating information, education, entertainment with utmost commitment, honesty and objectivity for about seven decades. It functions to support nation building efforts of the Government upholding social values and the country’s rich historical and cultural heritage. Betar has been playing a pivotal role towards developing a knowledge based information society taking advantage of its unique and distinctive capacity as the cheapest and most versatile medium to reach to the grass root level."
+      },
+      {
+         "name" : "Dhaka FM",
+         "image" : "29210.png",
+         "site_url" : "http://www.dhakafm904.com/#/",
+         "radio_url" : "http://118.179.219.244:8000/;",
+         "description" : "Dhaka FM 90.4 is a broadcast radio station from Dhaka, Bangladesh, providing entertainment and information by promoting local culture, music and happenings."
+      },
+      {
+         "name" : "ABC Radio",
+         "image" : "29208.v3.png",
+         "site_url" : "http://abcradiobd.fm/",
+         "radio_url" : "https://stream.zeno.fm/aqs8z2kn944tv",
+         "description" : "ABC Radio FM 89.2 is a broadcast radio station from Dhaka, Bangladesh, providing News, Sports and Weather Information, and Live Shows with local music."
+      },
+      {
+         "name" : "FnF.FM Radio",
+         "image" : "62765.v2.png",
+         "site_url" : "http://fnf.fm/",
+         "radio_url" : "http://eu6.fastcast4u.com:5099/stream?type=http&nocache=32688",
+         "description" : "FnF.fm is an online radio. 24X7 full times popular music. You can listen music. We have audience from all around the world!"
+      },
+      {
+         "name" : "iWiFM",
+         "image" : "29303.png",
+         "site_url" : "http://myradiostream.com/station/flashplayer.php?p=29270&s=s2",
+         "radio_url" : "http://s2.myradiostream.com:29270/;",
+         "description" : "iWiFM is an internet station, providing all your favorite Indo West Indian, Caribbean and Bollywoods best music"
+      },
+      {
+         "name" : "Radio Next",
+         "image" : "29435.v4.png",
+         "site_url" : "http://radionext.fm/",
+         "radio_url" : "http://live.radionext.fm:9000/;streram.nsv?ver=146647",
+         "description" : "Radio Next 93.2 FM is a live online bangla FM radio broadcasting from Dhaka, Bangladesh."
+      },
+      {
+         "name" : "Bangla Radio 24",
+         "image" : "29306.v1.png",
+         "site_url" : "http://www.banglaradio24.com/",
+         "radio_url" : "http://live.banglaradio24.com:8625/;stream.mp3",
+         "description" : "Bangla Radio 24 is an internet radio station from Dhaka, Bangladesh providing Asian music and programs."
+      },
+      {
+         "name" : "Bangla Wadio",
+         "image" : "29304.png",
+         "site_url" : "http://www.banglawadio.com/",
+         "radio_url" : "http://162.254.150.34:8201/;",
+         "description" : "Bangla Wadio is an internet station from Dhaka, Bangladesh, providing Modern Bengali music."
+      },
+      {
+         "name" : "Radio Ekattor",
+         "image" : "29315.png",
+         "site_url" : "http://ekattor.fm/",
+         "radio_url" : "http://103.253.47.173:8000/;stream/1;/;",
+         "description" : "IFirst radio station that will uphold pure bengaly culture and bengaly nation over the world .ts a Bangladeshi radio station with the social commitment of upholding the bengaly culture over the world.We dedicate our every effort only for Bangla language and culture.Its just voice of Bangladesh looking for bangalee in the whole world."
+      },
+      {
+         "name" : "DU Campus Radio",
+         "image" : "29290.png",
+         "site_url" : "http://www.ducampusradio.com/",
+         "radio_url" : "http://108.163.197.114:8073/;",
+         "description" : "Dhaka University Campus Radio- the first campus radio of this arena has launched its journey with a big hope to uphold this campus. It is the most fabulous platform for DU (Dhaka University), DMC (Dhaka Medical College), BUET (Bangladesh University of Engineering and Textiles) and for nearby institutions."
+      },
+      {
+         "name" : "Lemon24.com",
+         "image" : "29298.v1.png",
+         "site_url" : "http://www.lemon24.com/Night.php?F=db57c72m065807uvla052146e4",
+         "radio_url" : "http://office.mcc.com.bd:8000/;",
+         "description" : "Lemon24.com is an internet radio station from Dhaka, Bangladesh providing News, Information and Top 40/Pop music."
+      },
+      {
+         "name" : "Radio 2fun",
+         "image" : "29216.png",
+         "site_url" : "http://www.radio2fun.com/",
+         "radio_url" : "http://radio.ethii.com:8000/airtime_128",
+         "description" : "Radio 2fun was started its journey in Bangladesh as first live online radio station in 2008. From the beginning, Radio 2fun is trying to spread the Bangladeshi culture to the world. Radio 2fun got so much popularity not only in Bangladesh but also in other countries."
+      },
+      {
+         "name" : "Radio Today",
+         "image" : "29209.v5.png",
+         "site_url" : "http://www.radiotodaybd.fm/",
+         "radio_url" : "https://stream.zenolive.com/c0dbkecz5f5tv",
+         "description" : "Radio Today 89.6 is a broadcast Radio station from Dhaka, Bangladesh, providing News, Information, Sports and Talk programs."
+      },
+      {
+         "name" : "Radio Dhoni",
+         "image" : "29431.png",
+         "site_url" : "http://radiodhoni.fm/",
+         "radio_url" : "http://182.160.110.180:1020/;",
+         "description" : "First Digital FM News based Radio station in Bangladesh."
+      },
+      {
+         "name" : "Radio GoonGoon",
+         "image" : "29317.v3.png",
+         "site_url" : "http://www.radiogoongoon.com/",
+         "radio_url" : "http://live.radiogoongoon.com:8888/stream/1/",
+         "description" : "Radio GoonGoon is proud of its strong varieties of program focus. Our aim is to work with our Bangla Culture, folk songs and as well new generation Bangla Songs.Radio GoonGoon is a 24/7 Live Online Radio. It has 3 Stations through the whole world. This are Dhaka, New York and China."
+      },
+      {
+         "name" : "Radio Abiram",
+         "image" : "73179.v6.png",
+         "site_url" : "http://www.radioabiram.com/",
+         "radio_url" : "https://radioabiram.radioca.st/stream",
+         "description" : "Radio Abiram is one of the best Bangladeshi online radio station. We are broadcasting 24/7 various kinds of new-released song. It is a source of unlimited song of your choice. So visit our website,and get connected to the Radio Abiram from anywhere around the world! then send us song request and will never gonna miss your favorite music program and more..."
+      },
+      {
+         "name" : "Spice FM",
+         "image" : "73208.v5.png",
+         "site_url" : "https://spicefmbd.com/",
+         "radio_url" : "http://162.254.149.187:9300/;",
+         "description" : "96.4 SPICE FM is the official Radio Station in Dhaka of Radio Masala Limited.This is now the most dynamic Radio Station from the heart of Dhaka city."
+      },
+      {
+         "name" : "Radio Swadesh",
+         "image" : "29218.v4.png",
+         "site_url" : "http://radioswadesh.net/",
+         "radio_url" : "http://radioswadesh.net:7009/;stream.mp3",
+         "description" : "Radio Swadesh is a 24/7 hours online radio station from Dhaka, Bangladesh."
+      },
+      {
+         "name" : "Radio Aamar",
+         "image" : "29213.v2.png",
+         "site_url" : "http://www.radioaamar.com/",
+         "radio_url" : "http://78.129.193.27:15910/;",
+         "description" : "Radio Aamar (বাংলাদেশের প্রতিধ্বনি) is a broadcast radio station in Dhaka, Bangladesh, providing News, Talk and Entertainment shows."
+      },
+      {
+         "name" : "Priyo Radio",
+         "image" : "72011.v5.png",
+         "site_url" : "https://priyo.live/",
+         "radio_url" : "https://stream.priyo.live/radio/8080/radio.mp3",
+         "description" : "Priyo Radio is an Online Station in Bangladesh since 2018. It features multi-cultural music and live sessions."
+      },
+      {
+         "name" : "Radio Songhi",
+         "image" : "29372.v2.png",
+         "site_url" : "http://www.radioshongi.com/",
+         "radio_url" : "http://69.46.21.178:8201/stream/;",
+         "description" : "Radio Shongi is a 24/7 Live Online Radio. Radio Shongi is proud of its strong varieties of program focus. Our aim is to work with our Bangla Culture, folk songs and as well new generation Bangla Songs. Radio Shongi has a large network in Bangladesh & UAE as well in abroad. We can assist you, not just on an organizational level, but also on a strategic level. By creating the concept, design and content of your events or programs under one roof, we ensure continuity, integrity and consistency throughout every element."
+      },
+      {
+         "name" : "Roots air",
+         "image" : "73218.v5.png",
+         "site_url" : "http://rootsairbd.funknoodlesstudio.com/",
+         "radio_url" : "http://live64.zeilsteen.com:7054/;",
+         "description" : "Located in the city of Dhaka, Roots Air is an internet radio station dedicated to the underground music produced in Bangladesh. This radio is on air 24 hours a day, all year round."
+      },
+      {
+         "name" : "Radio Matrika",
+         "image" : "74613.v1.png",
+         "site_url" : "http://radiomatrika.com/",
+         "radio_url" : "http://procyon.shoutca.st:8528/;",
+         "description" : "Largest Youth Based Online Radio Station in Bangladesh II Dhaka I Chittagong I Sylhet I Barishal I Rajshahi I Rangpur I Khulna I Mymensingh I"
+      },
+      {
+         "name" : "Uttorbango Betar",
+         "image" : "84136.v2.png",
+         "site_url" : "https://uttorbangobetar.blogspot.com/",
+         "radio_url" : "https://stream.zeno.fm/1mcrs8ffgrruv",
+         "description" : "উত্তরের সংস্কৃতি প্রচার ও প্রসারের লক্ষ্যে উত্তরবঙ্গ বেতার।"
+      },
+      {
+         "name" : "Jago FM 94.4",
+         "image" : "84057.v3.png",
+         "site_url" : "http://jago.fm/",
+         "radio_url" : "http://192.240.102.133:12496/stream/;",
+         "description" : "Enough of social pretensions; enough of propaganda's, it is high time to speak up; it is high time to raise the voice. ‘এবার জাগো’!"
+      }
+   ]
+}

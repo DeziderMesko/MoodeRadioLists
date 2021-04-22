@@ -1,0 +1,184 @@
+{ "az" : [
+	{
+		"name" : "ONE FM",
+		"image" : "one_fm_az.png",
+		"site_url" : "https://www.facebook.com/onefmaz/",
+		"radio_url" : "http://557e041d4bdc.sn.mynetname.net:8000/onefm.aacp56",
+		"description" : "The best maximum hits, nonstop, from the hot and happening capital of Azerbaijan! ONE FM is young, actual, with rhythm and daring... We are the radio that «hits» you! We offer the hits from the future, non-stop, before anyone else!"
+	},
+	{
+		"name" : "106.3 FM",
+		"image" : "44154.v3.png",
+		"site_url" : "http://106-3fm.az/live",
+		"radio_url" : "http://85.132.71.10:8000/atv1063fm",
+		"description" : "Hefte ichi her gun, 8:00-10:00 'BUMERANG' Raqif Raufoğlu ve Elvira İsmayılovanın teqdimatinda."
+	},
+	{
+		"name" : "Araz 103.3 FM",
+		"image" : "77974.v4.png",
+		"site_url" : "http://arazfm.az/",
+		"radio_url" : "http://s39.myradiostream.com:5458/;stream.nsv",
+		"description" : "Salam Azebaycandan olan Araz 103.3 Fm radiosunun canli yayim linki"
+	},
+	{
+		"name" : "Media FM",
+		"image" : "43011.v4.png",
+		"site_url" : "http://www.mediafm.az/",
+		"radio_url" : "http://85.132.71.10:8000/live",
+		"description" : "Media FM is own music radio station. Media FM broadcasts to the regions 24 hours a day, 12 months of the year. With a great mix of jazz, blues, folk, world and classical music. Media FM has something for all discerning music lovers."
+	},
+	{
+		"name" : "İctimai Radio",
+		"image" : "79948.v4.png",
+		"site_url" : "http://90fm.az/",
+		"radio_url" : "http://85.132.81.13:8888/2702",
+		"description" : "'İctimai Radio' dəyişir və bunu burdan da görmək olar."
+	},
+	{
+		"name" : "Day.Az Radio",
+		"image" : "43123.v8.png",
+		"site_url" : "https://www.day.az/radio/",
+		"radio_url" : "https://radio.day.az:9443/192",
+		"description" : "Day.Az Radio is an Internet Radio station broadcasting from Baku, Azerbaijan, providing News, Weather, Sports, Talk and Community programs."
+	},
+	{
+		"name" : "AutoLife Azerbaijan",
+		"image" : "43137.v8.png",
+		"site_url" : "http://autolife.audio/",
+		"radio_url" : "https://radio.autoliferadio.com:8005/radio",
+		"description" : "Drive Your Way With Us!The best online radio from Azerbaijan.Дорогие друзья! Приглашаем Вас стать участниками Нашего клуба 'Autolife', Наша цель собрать всех любителей автомобилей , да и не только! Участвовать могут все, Мы будем рады каждому из Вас!"
+	},
+	{
+		"name" : "Asan Radio",
+		"image" : "43010.v1.png",
+		"site_url" : "http://www.asanradio.az/",
+		"radio_url" : "http://94.20.74.206:4448/stream1",
+		"description" : "ASAN RADİO-Azərbaycanda və dünyada baş verən mühüm ictimai-siyasi, sosial-iqtisadi, mədəniyyət, idman və digər xəbərləri dinləyicilərə çatdıracaq. Eyni zamanda dinləyicilər bizim radioda maraqlı verilişlər və keyfiyyətli musiqi dinləyə biləcəklər."
+	},
+	{
+		"name" : "Iradio",
+		"image" : "43252.v1.png",
+		"site_url" : "http://iradio.az/",
+		"radio_url" : "https://stream.radiojar.com/a80hx0asnzwtv",
+		"description" : "İRƏLİ Radio - Azərbaycanda gənclər üçün ilk radio"
+	},
+	{
+		"name" : "Radio Antenn",
+		"image" : "42988.v5.png",
+		"site_url" : "http://www.antenn.az/",
+		"radio_url" : "http://85.132.71.10:8000/antenn-mp3",
+		"description" : "Antenn Müstəqil Teleradio Kompaniyasının radiosu - radio 'Antenn' 101 FM 1998-ci ildən fəaliyyət göstərir. Şirkətin həmtəsisçiləri Rüstəm Qədim oğlu Əliyev (Prezident) və Rövşən Novruz oğlu Cavadovdur (Vitse-prezident). 2000-ci ilin fevralında radiokanal - Radio 'Antenn 101 Fm' yayıma başladı. Bu vaxt ərzində radionun stabil dinləyici auditoriyası formalaşıb, əhatə coğrafiyası daha da genişlənib. İndi radiomuzun yayımladığı verilişləri Azərbaycanın bütün rayonlarında dinləmək mümkündür. Zövqdə 1-ci olan Radio 'Antenn' 101 Fm sizlər üçün belə bir imkan yaradıb."
+	},
+	{
+		"name" : "Radio Sharg",
+		"image" : "71594.v5.png",
+		"site_url" : "https://sharg.airtime.pro/",
+		"radio_url" : "https://sharg.out.airtime.pro/sharg_a",
+		"description" : "Radio Sharg - Feel Eastern Spirit.Radio Sharg was created by Azerbaijan Arabists Network on the online radio platform Sourcefabric\\ Airtime.pro With a great mix of jazz, blues, folk, classical music of Eastern And African world."
+	},
+	{
+		"name" : "Radio Tune Azerbaijan",
+		"image" : "73526.v4.png",
+		"site_url" : "http://tune.az/",
+		"radio_url" : "https://tune.az:8015/stream",
+		"description" : "Enjoy your music #radiotune #azerbaijan"
+	},
+	{
+		"name" : "Azadliq Radiosu - Radio Liberty",
+		"image" : "43146.v2.png",
+		"site_url" : "http://www.azadliq.org/",
+		"radio_url" : "https://stream.radiojar.com/s90a46bpn3quv",
+		"description" : "Azadliq Radiosu - Radio Liberty is an internet radio station from Baku, Azerbaijan providing News, Information, Talk and music.AzadlıqRadiosu - Azad və ədalətli cəmiyyətdə yaşamaq istəyənlərin yeri! Azad, Dəqiq və Tərəfsiz xəbərlər və araşdırmalar, canlı yayımlar və açıq müzakirələr üçün Azadlıqda qalın!"
+	},
+	{
+		"name" : "AVTO FM",
+		"image" : "72256.v6.png",
+		"site_url" : "http://www.avtofm.az/",
+		"radio_url" : "http://85.132.71.10:8000/avtofm",
+		"description" : "AVTO FM live broadcasting from Azerbaijan. AVTO FM broadcast various kind of latest pop, rock, classic, talk, culture, dance, electronic etc. AVTO FM streaming music and programs both in online. AVTO FM is 24 hour 7 day live Online radio."
+	},
+	{
+		"name" : "RADIO 'Kəpəz FM'",
+		"image" : "44155.v3.png",
+		"site_url" : "http://kepezfm.az/",
+		"radio_url" : "http://85.132.78.122:3344/now",
+		"description" : "Online radio broadcasting 'Kəpəz FM' from Ganja"
+	},
+	{
+		"name" : "Radio Baijan",
+		"image" : "43246.v5.png",
+		"site_url" : "https://www.baijanfm.us/",
+		"radio_url" : "https://thisisbaijan.out.airtime.pro/thisisbaijan_a",
+		"description" : "Radio Baijan - Azerbaijan Online Radio.Radio Baycanın əsas məqsədi Azərbaycan gənclərinin təhsil və şəxsi inkişafına öz töhfəsini verməkdir. İnsanların dəyərləri ilə birgə zəmanə də dəyişir. Bu günki gənclik ata-babalarından düşüncə tərzi və çoxrəngliliyi ilə seçilir. Fərqliliyi və rəngi tənqid əvəzinə bayram etməyin vaxtıdır. Airtime Pro tərəfindən dəstəklənən Radio Baycan gəncliyimizin səsini duyurmaq və onların inkişafına dəstək vermək üçündür."
+	},
+	{
+		"name" : "Ferqli FM",
+		"image" : "78100.v5.png",
+		"site_url" : "http://1005fm.az/",
+		"radio_url" : "http://s31.myradiostream.com:7572/listen.mp3",
+		"description" : "100.5 FM və internetdə xəbər və əyləncə proqramları olan radio stansiyası istənilən vaxt müşayiət etmək və dinləyicini gün ərzində çaşdırmaq üçün mövcuddur"
+	},
+	{
+		"name" : "Mix FM",
+		"image" : "43247.v4.png",
+		"site_url" : "http://live.mix.am/",
+		"radio_url" : "http://live.mix.am:8000/mix1",
+		"description" : "International Hit Music Dance Radio 24/7"
+	},
+	{
+		"name" : "Radio Sputnik Azərbaycan",
+		"image" : "67188.v4.png",
+		"site_url" : "https://sputnik.az/",
+		"radio_url" : "http://icecast-ruvr.cdnvideo.ru/rian.voiceaz1",
+		"description" : "Radio Sputnik - 'Russia Today' xəbər agentliyinin hökuməti tərəfindən yaradılan İnternet xəbərləri və radio yayımı xidməti. Mərkəzi ofisi Moskvadır, Sputnik Vaşinqton, Qahirə, Pekin və Londonda regional redaksiyalara malikdir. Qlobal siyasətə və iqtisadiyyata yönəlmiş və yalnız qeyri-rusiyalı auditoriyaya yönəlmişdir."
+	},
+	{
+		"name" : "Baku Jukebox",
+		"image" : "73282.v2.png",
+		"site_url" : "http://bakujukebox.com/",
+		"radio_url" : "http://78.109.52.73:8000/bkjbox",
+		"description" : "Baku Jukebox - First Jukebox ONLINE Radio in Azerbaijan. Why Jukebox? Because JukeBox its music machine with different genres/ we have rock/garage psychedelic/new wave/soul/jazz/funk/ost/classic/folk/indie/pop/"
+	},
+	{
+		"name" : "Business Radio BOSS Azerbaijan",
+		"image" : "85489.v2.png",
+		"site_url" : "https://boss.com.az/",
+		"radio_url" : "http://185.129.2.198:9043/live",
+		"description" : "Azerbaijan Business Online Radio"
+	},
+	{
+		"name" : "BakiRadio",
+		"image" : "78925.v10.png",
+		"site_url" : "https://sites.google.com/view/bakiradio",
+		"radio_url" : "https://streamingv2.shoutcast.com/BakiRadio?lang=ru-RU%2cru%3bq%3d0.9%2cen-US%3bq%3d0.8%2cen%3bq%3d0.7%2czh-TW%3bq%3d0.6%2czh%3bq%3d0.5%20&%20ad=radiono5%20&%20extReferer=https%3a%2f%2f1412754225-atari-embeds.googleusercontent.com%2fembeds%2f16cb204cf3a9d",
+		"description" : "BakiRadio - не просто радио!"
+	},
+	{
+		"name" : "Radio YSF",
+		"image" : "72002.v5.png",
+		"site_url" : "http://www.vsprotv.com/",
+		"radio_url" : "http://85.132.71.10:8000/yusif",
+		"description" : "Ən yaxşı musiqi burada!"
+	},
+	{
+		"name" : "gsr.fm",
+		"image" : "44151.v1.png",
+		"site_url" : "http://gsr.fm/",
+		"radio_url" : "http://199.180.72.2:8505/stream",
+		"description" : "Listen online to GSR.fm in Baku, Azerbaijan."
+	},
+	{
+		"name" : "Xezer 103 Fm",
+		"image" : "87585.v2.png",
+		"site_url" : "http://xezerfm.az/",
+		"radio_url" : "http://s30.myradiostream.com:32684/listen.mp3",
+		"description" : "Xəzər FM radiosu 10 may 2008-ci ildə 103 mHz tezliyində yayıma başlayıb."
+	},
+	{
+		"name" : "Radio Respublika",
+		"image" : "43228.v10.png",
+		"site_url" : "http://www.aztv.az/",
+		"radio_url" : "http://www.aztv.az/canli/aztv-canli.htm",
+		"description" : "Radio Respublika (aserbaidschanisch Radio Respublika) ist ein staatlicher Hörfunksender aus Aserbaidschan, der zu dem Fernsehsender AzTV gehört. Den Namen. Themen des Senders sind vorwiegend Politik, Wirtschaft, Landwirtschaft, Internationales, Kultur und Bildung"
+	}
+]}

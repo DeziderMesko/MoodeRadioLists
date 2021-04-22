@@ -1,0 +1,102 @@
+{
+   "sa" : [
+      {
+         "name" : "UFM Radio",
+         "image" : "29931.v1.png",
+         "site_url" : "http://ufmradio.com/",
+         "radio_url" : "http://104.200.150.186:8000/;stream.mp3",
+         "description" : "الإذاعة الرياضية الأولى في المملكة l حساب برامجنا"
+      },
+      {
+         "name" : "Bestfriend FM",
+         "image" : "29766.png",
+         "site_url" : "http://www.bestfriendfm.com/",
+         "radio_url" : "http://178.32.62.172:8217/stream/;",
+         "description" : "Best friend FM is a broadcast radio station in Riyadh, Saudi Arabia, providing a big adult contemporary of music."
+      },
+      {
+         "name" : "Mix FM",
+         "image" : "29663.v1.png",
+         "site_url" : "http://www.mixfm-sa.com/v10/#!/home/",
+         "radio_url" : "http://s2.voscast.com:11376/;",
+         "description" : "اذاعة مكس ا ف ام .. اذاعة شبابية سعودية واعدة تبث من المملكة العربية السعودية .. مذيعينها ومذيعاتها يتمتعون بالبساطة والحماس والطموح .. هدفهم الاقتراب من المستمعين وجميع شرائح المجتمع من خلال اداء اعلامي يتسم بالبساطة ويقدم المعلومة المفيدة .."
+      },
+      {
+         "name" : "Favradio",
+         "image" : "29767.v8.png",
+         "site_url" : "http://www.favradiofm.com/",
+         "radio_url" : "http://stream.hornhost.com:8109/;stream.mp3",
+         "description" : "Favradio is an internet music radio station for entertainment, fun, friendship and love, bridging the communication of all Filipinos across the globe."
+      },
+      {
+         "name" : "KSA Quran Makkah",
+         "image" : "29935.v1.png",
+         "site_url" : "http://www.islamicity.com/multimedia/radio/",
+         "radio_url" : "http://mediaserver2.islamicity.com:8000/SaudiTVArabic",
+         "description" : "Live audio stream of Saudi TV's Quran channel (24 Hours live coverage of Masjid Al-Haram, Makkah, including Hajj, Taraweeh & 5 Daily Prayers there. If it's not the time for prayer you will hear Quran recitation)"
+      },
+      {
+         "name" : "Miraath's Holy Quraan Radio",
+         "image" : "29531.v1.png",
+         "site_url" : "http://miraath.net/",
+         "radio_url" : "http://miraath.ddns.net:7020/autodj",
+         "description" : "ننشر علم الكتاب والسنة على فهم سلف الأمة"
+      },
+      {
+         "name" : "RadioSunna",
+         "image" : "29996.v4.png",
+         "site_url" : "http://www.radiosunna.com/",
+         "radio_url" : "http://andromeda.shoutca.st:8189/stream",
+         "description" : "إذاعة السنة.. إذاعة سلفية أثرية .. نهجها واضح ... تنقل الدروس العلمية والمحاضرات لمشايخ سلفيين فضلاء .. مباشرة ومسجلة .. هدفنا هو تربية الناس علی ما كان عليه النبي صلى الله عليه وسلم وأصحابه الكرام وتصفية الدين من البدع والخرافات والضلالات"
+      },
+      {
+         "name" : "Alif Alif FM",
+         "image" : "29532.v2.png",
+         "site_url" : "http://www.alifaliffm.com/",
+         "radio_url" : "http://www.alifaliffm.com:8800/AlifAlif.mp3",
+         "description" : "إذاعة ألف ألف .. الموجة السعودية الموجهة الى المجتمع المحلية والتى تهدف الي بث برامج متنوعة وترفيهية ومفيدة تحمل في فقراتها الحوار الجاد والمواضيع المهمة والترفيه الراقي والمعلومة المفيدة والمسابقة التنافسية ."
+      },
+      {
+         "name" : "Sabeel Al Anbiyya",
+         "image" : "83351.v6.png",
+         "site_url" : "https://sabeelradio.airtime.pro/",
+         "radio_url" : "https://sabeelradio.out.airtime.pro/sabeelradio_a",
+         "description" : "-  إذاعة سبيل الأنبياء{قُلْ هَٰذِهِ سَبِيلِي أَدْعُو إِلَى اللَّهِ ۚ عَلَىٰ بَصِيرَةٍ أَنَا وَمَنِ اتَّبَعَنِي ۖ وَسُبْحَانَ اللَّهِ وَمَا أَنَا مِنَ الْمُشْرِكِينَ}- سورة يوسف آية ١٠٨"
+      },
+      {
+         "name" : "اذاعة القرأن الكريم",
+         "image" : "29652.png",
+         "site_url" : "http://quran.sr.sa/الرئيسية",
+         "radio_url" : "http://quran.sr.sa/live-streaming",
+         "description" : "الصفحة الرسمية لإذاعة القرآن الكريم في المملكة العربية السعودية"
+      },
+      {
+         "name" : "Verse 24/7 Holy Quran",
+         "image" : "83227.v1.png",
+         "site_url" : "https://verse24.com/",
+         "radio_url" : "https://f9a1620f.ngrok.io/;stream.nsv",
+         "description" : "-تأتيكم من منطقة عسير  المملكة العربية السعودية -إذاعة فيرس 24/7 للقرآن الكريم تلاوات لمشاهير القرآء على مدار الساعة"
+      },
+      {
+         "name" : "MBC FM",
+         "image" : "30001.png",
+         "site_url" : "http://www.mbc.net/ar/mbc-fm.html",
+         "radio_url" : "http://www.mbc.net/ar/mbc-fm.html#",
+         "description" : "الموسيقى والشعر الخليجي يجتمعان في لوحة موسيقية مميزة تستمع إليها يومياًMBC FM مفتاحك لتكون أكثر قرباً للخليجهواها خليجي"
+      },
+      {
+         "name" : "Miraath Al Anbiyya",
+         "image" : "29675.v1.png",
+         "site_url" : "http://miraath.net/",
+         "radio_url" : "http://miraath.ddns.net:7000/autodj",
+         "description" : "ننشر علم الكتاب والسنة على فهم سلف الأمة"
+      },
+      {
+         "name" : "Miraath's English Radio",
+         "image" : "29677.v1.png",
+         "site_url" : "http://miraath.net/",
+         "radio_url" : "http://radio.miraath.net:7010/stream?1483556222217",
+         "description" : "Miraath's English Radio is an Internet Radio station broadcasting from Saudi Arabia, their goal is to publish the blessed works of the great Salafi scholars into different languages; currently they have books in English, French and Indonesian."
+      }
+   ]
+}

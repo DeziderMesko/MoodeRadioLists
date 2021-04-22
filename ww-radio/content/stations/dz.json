@@ -1,0 +1,144 @@
+{
+   "dz" : [
+      {
+         "name" : "Radio Chaabi Dialna",
+         "image" : "43931.png",
+         "site_url" : "http://www.webchaabi.com/",
+         "radio_url" : "http://mzalouk.free.fr/radio/mp3/ABDELKADER_CHAOU_YALHADRA.mp3",
+         "description" : "Radio Chaabi: Chaabi, Andalou, Hawzi, Tous les grands maitres de la chanson Algerienne"
+      },
+      {
+         "name" : "Radio Naama FM",
+         "image" : "20483.png",
+         "site_url" : "http://www.radioalgerie.dz/live/naama.html",
+         "radio_url" : "http://naama.ice.infomaniak.ch/45.aac",
+         "description" : "La Radio Naâma est une radio régionale de la wilaya de Naâma qui s’intéresse de près à l’actualité nationale et internationale, son but est de fonder un nouveau virage pour satisfaire ses auditeurs."
+      },
+      {
+         "name" : "Radio Algerienne - Chaine 3",
+         "image" : "20470.v1.png",
+         "site_url" : "http://www.radioalgerie.dz/news/ar/",
+         "radio_url" : "https://ch3.ice.infomaniak.ch/ch3-64.aac",
+         "description" : "Écoutez Alger Ch 3 252 AM via radioalgerie.eu. Avec un simple clic, vous pouvez écouter les meilleures stations de radio en direct de Algérie."
+      },
+      {
+         "name" : "Radio Relizane",
+         "image" : "20392.png",
+         "site_url" : "http://ww2.radiorelizane.net/",
+         "radio_url" : "http://relizane.ice.infomaniak.ch/48.aac?type=.mp3/;stream.mp3",
+         "description" : "Radio Relizane 90.8 FM is a broadcast radio station from Algiers, Algeria providing News, Information and Talk programs and music."
+      },
+      {
+         "name" : "Radio Dzair Raina",
+         "image" : "20421.png",
+         "site_url" : "http://radio-dzair.com/",
+         "radio_url" : "http://188.165.242.25:8020/stream",
+         "description" : "Votre Radio Algerienne Sur Internet.Radio Dzair Raina is a channel on the internet radio station Radio Dzair from Algiers, Algeria, providing Algerian music."
+      },
+      {
+         "name" : "Radio Maghreb Emergent",
+         "image" : "20433.png",
+         "site_url" : "http://maghrebemergent.info/",
+         "radio_url" : "http://188.165.242.25:8560/stream/;",
+         "description" : "Journal économique en ligne couvrant la région du Maghreb."
+      },
+      {
+         "name" : "Radio Soleil",
+         "image" : "43934.v4.png",
+         "site_url" : "http://www.radio-soleil.com/",
+         "radio_url" : "http://radiosoleil.ice.infomaniak.ch/radiosoleil-96.mp3",
+         "description" : "Radio Soleil est une station de radio française qui depuis 35 ans, accompagne les immigrés dans leur intégration ; la station invite régulièrement les auditeurs à donner leur opinions à propos des sujets d'actualité . Radio Soleil a été créée le 14 juin 1981"
+      },
+      {
+         "name" : "Radio Algerie Internationale",
+         "image" : "20435.png",
+         "site_url" : "http://www.algerieinfo.biz/radio-algerienne/radio-algerie-international.html",
+         "radio_url" : "https://rai.ice.infomaniak.ch/rai-64.aac",
+         "description" : "Radio Algeria - radio algerie international"
+      },
+      {
+         "name" : "Radio Mila",
+         "image" : "20499.png",
+         "site_url" : "http://static.infomaniak.ch/infomaniak/radio/html/mila_player.html",
+         "radio_url" : "https://mila.ice.infomaniak.ch/43.aac",
+         "description" : "ProfilUne station de radio locale à base de Alegréia . Dédié à fournir des nouvelles et des informations à tous les auditeurs."
+      },
+      {
+         "name" : "Radio Ajyal",
+         "image" : "43929.png",
+         "site_url" : "http://radioajyal.net/",
+         "radio_url" : "http://philae.shoutca.st:8281/stream",
+         "description" : "Une Station De radio Qui diffuse des émissions pour améliorer la vie des jeunes"
+      },
+      {
+         "name" : "Radio Coran",
+         "image" : "20396.v4.png",
+         "site_url" : "http://www.radioalgerie.dz/coran/",
+         "radio_url" : "https://coran.ice.infomaniak.ch/coran.aac",
+         "description" : "مرحبا بكم في إذاعة القرآن الكريم.Radio Coran AM 1422 is a Algerian radio station broadcasting from Algiers, Algeria, Station Airs Religious and Arabic programming."
+      },
+      {
+         "name" : "Radio France Maghreb 2",
+         "image" : "43933.v1.png",
+         "site_url" : "http://www.francemaghreb2.fr/",
+         "radio_url" : "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
+         "description" : "Ensemble toutes générations sur France Maghreb 2 ! L'info, le service, la musique et le divertissement sont les points fort de France Maghreb2"
+      },
+      {
+         "name" : "Radio Algerienne - Chaine 2",
+         "image" : "43654.v2.png",
+         "site_url" : "http://www.radioalgerie.dz/fr/chaine2",
+         "radio_url" : "https://ch2.ice.infomaniak.ch/ch2-64.aac",
+         "description" : "La Radio Chaîne 2 est une radio algérienne crée en 1948, elle se diffuse en langue berbère (kabyle). La Radio Chaîne 2 est la plus ancienne radio berbère en Algérie. Elle offre un contenu riche et varié."
+      },
+      {
+         "name" : "Radio Algerienne - Chaine 1",
+         "image" : "20389.v3.png",
+         "site_url" : "http://www.radioalgerie.dz/chaine1/",
+         "radio_url" : "https://ch1.ice.infomaniak.ch/ch1-32.aac",
+         "description" : "Radio Algerienne Chaine 1 is an internet radio station in Algiers, Algeria, providing Arabic language Public News and Sports shows."
+      },
+      {
+         "name" : "Skyrock Alger",
+         "image" : "73951.v1.png",
+         "site_url" : "https://skyrock.fm/",
+         "radio_url" : "https://icecast.skyrock.net/s/alger_aac_64k",
+         "description" : "Retrouve tous les sons qui cartonnent en Algérie sur Skyrock Alger !"
+      },
+      {
+         "name" : "Radio Culture - الإذاعة الثقافيه",
+         "image" : "43930.v3.png",
+         "site_url" : "http://www.radioalgerie.dz/culture/",
+         "radio_url" : "https://culture.ice.infomaniak.ch/culture.aac",
+         "description" : "Radio Culture Algerie est une station généraliste d'expression qui fait partie de la Radio algérienne. Elle propose une programmation varié de services et de l'information.La station Radio Culture Algerie est composé d’un groupe jeune, sérieux, dynamique et expérimenté."
+      },
+      {
+         "name" : "Radio Adrar - إذاعة أدرار الجهوية",
+         "image" : "43647.v8.png",
+         "site_url" : "http://www.radioalgerie.dz/player/ar/live/01--Adrar",
+         "radio_url" : "https://adrar.ice.infomaniak.ch/01.aac",
+         "description" : "قبل سنة1995 عانت ولاية أدرار عزلة إعلامية قاتلة تجلت في انعدام الجرائد وصعوبة التقاط برامج التلفزيون والإذاعة الوطنيتين واقتصار البث الإذاعي على برامج القناة الأولى فقط وإذاعة الساورة ببشار ،حيث كانت هذه الأخيرة المتنفس الوحيد لسكان الإقليم وكان صدى أدرار يصل من خلال المراسلين من أبناء المنطقة وهم السادة: محمد نويفدي واحمد جولي وعبد الناصر طبق وعبد الرحمن طاهري، بالإضافة الى مراسلي وكالة الأنباء الجزائرية وجريدتي الخبر والجمهورية."
+      },
+      {
+         "name" : "JIL FM",
+         "image" : "20480.v5.png",
+         "site_url" : "http://www.radioalgerie.dz/jilfm/",
+         "radio_url" : "https://jil-fm.ice.infomaniak.ch/jilfm.aac",
+         "description" : "Jil Fm is a young and music radio, which means that in addition to the music there has informative content, cultural, and educational, its mission is to find a balance between distraction music and facts.Musical emissions constitute the largest programs as highly valued by this segment of the populati it, music is the most popular art and closest expectations and needs of young people in terms of cultural emotion and artistic creativity."
+      },
+      {
+         "name" : "Radio Algerienne -  El Bahdja",
+         "image" : "20373.v2.png",
+         "site_url" : "http://www.radioalgerie.dz/news/ar/",
+         "radio_url" : "https://elbahdja.ice.infomaniak.ch/elbahdja-64.aac",
+         "description" : "La Radio algérienne (officiellement : Entreprise nationale de radiodiffusion sonore, abrégée en ENRS) est une entreprise publique responsable du service public de la radiodiffusion pour l'Algérie. La Radio algérienne a été créée en 1986 lorsque son prédécesseur Radiodiffusion télévision algérienne (RTA) fondé en 1962, s'est séparé en deux entreprises distinctes, la télévision et la radiodiffusion."
+      },
+      {
+         "name" : "KSUN66",
+         "image" : "10946.v7.png",
+         "site_url" : "https://www.ksun66.com/",
+         "radio_url" : "http://37.187.77.45:9072/;stream.nsv",
+         "description" : "Playing what we want!"
+      }
+   ]
+}

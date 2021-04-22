@@ -1,0 +1,277 @@
+{
+   "md" : [
+      {
+         "name" : "Radio Albena",
+         "image" : "952.v2.png",
+         "site_url" : "http://www.radioalbena.md/",
+         "radio_url" : "http://109.185.191.129:49400/;stream.nsv",
+         "description" : "В эфире Радио Albena 97,5 FM звучит легкая музыка."
+      },
+      {
+         "name" : "Kiss FM",
+         "image" : "1038.png",
+         "site_url" : "http://www.kissfm.md/",
+         "radio_url" : "http://89.28.66.205:8000/;stream.mp3",
+         "description" : "Kiss FM is a popular radio station broadcasting from Chisinau, Moldova. It plays various music genres like Top 40/Pop, Euro Hits. It uses Romanian as an official language. Besides, it also airs talk shows, entertaining programs about celebrities and stuff for its listeners, and is available 24/7."
+      },
+      {
+         "name" : "Radio ZUM",
+         "image" : "1040.png",
+         "site_url" : "http://www.radiozum.md/",
+         "radio_url" : "http://185.181.229.196:8000/live",
+         "description" : "Radio ZUM – asculta Radio Zum online aici pe RadioOnline.md non-stop.Radio Zum este un post de radio de calitate care va ofera muzica de calitate, concursuri si noi stiri interne si internationale.Acest lucru se explică numai prin faptul că muzica difuzată la Radio Zum este testată de timp, iubită și apreciată de toți. În pofida concurenței, Radio Zum ocupă unul din locurile de frunte printre posturile de radio din Moldova."
+      },
+      {
+         "name" : "Новое Радио Молдова",
+         "image" : "66878.v3.png",
+         "site_url" : "http://www.newradio.md/",
+         "radio_url" : "http://77.89.206.126:7030/live",
+         "description" : "«Новое Радио» — самая модная русская популярная музыка! В эфире звучат как безусловные хиты так и неожиданные яркие новинки от талантливых молодых исполнителей."
+      },
+      {
+         "name" : "Muz FM",
+         "image" : "935.v1.png",
+         "site_url" : "http://www.muzfm.md/",
+         "radio_url" : "http://live.muzfm.md:8000/muzfm",
+         "description" : "MUZ FM intră pe piaţa mediatică autohtonă şi vrea să ofere plus valoare tendinţelor show-bizz-ului autohton şi internaţional.MUZ FM are acoperire naţională si va difuza zilnic, 24 de ore, emisiuni de divertisment, un produs sută la sută autohton, ştiri şi, evident, o selecţie dintre cele mai în vogă hituri. Formatul MUZ FM este unul informativ distractiv, iar sloganul spune totul - We like muzic!MUZ FM poate fi receptionat pe 88.0 FM în Chişinau şi pe toate frecvenţele din ţară, la fel şi online pe"
+      },
+      {
+         "name" : "Jurnal FM",
+         "image" : "931.png",
+         "site_url" : "http://www.jurnalfm.md/",
+         "radio_url" : "http://live.jurnalfm.md:8000/;stream.nsv",
+         "description" : "Jurnal FM este un post de radio cu format informativ-muzical ce difuzeaza muzica din Moldova si Romania. Grila de programe include ştiri, emisiuni tematice complexe, emisiuni de dezbatere, emisiuni de cultură şi civilizaţie, emisiuni de divertisment, interactive, rubrici sportive, emisiuni muzicale."
+      },
+      {
+         "name" : "Radio Moldova - News",
+         "image" : "938.png",
+         "site_url" : "http://www.trm.md/",
+         "radio_url" : "http://radiolive.trm.md:8000/PGM1_128kb",
+         "description" : "Compania „Teleradio-Moldova” are misiunea de a produce programe de radio şi televiziune pentru toate segmentele şi categoriile de public. Acest produs, relevant sub aspectul alinierii la standardele europene, urmează să răspundă intereselor şi preferinţelor multiple ale celor ce doresc să se informeze în mod echidistant, complet, obiectiv şi echilibrat."
+      },
+      {
+         "name" : "PUBLIKA.MD",
+         "image" : "51180.png",
+         "site_url" : "http://www.publika.md/",
+         "radio_url" : "https://www.publika.md/live",
+         "description" : "PUBLIKA.MD, lider în online-ul din Republica Moldova şi singurul site de ştiri care îţi oferă noutăţi 24/24. Rapid, actual, corect şi complet."
+      },
+      {
+         "name" : "Радио Nik FM",
+         "image" : "1022.v1.png",
+         "site_url" : "http://NikFm.ru/",
+         "radio_url" : "http://217.19.209.228:8005/;",
+         "description" : "«Ник FM» это развлекательное радио, которое интересно для возрастной группы старше 20 лет. Мы стремимся к качеству во всех аспектах вещания, а потому делаем упор на высокий уровень оформления и музыкального наполнения.Основу музыкальной базы составили новые и хорошо известные отечественные и зарубежные композиции.Среди них есть и «горячие хиты», и ставшие уже классикой поп и рок музыки песни."
+      },
+      {
+         "name" : "Maestro FM",
+         "image" : "950.png",
+         "site_url" : "http://www.maestrofm.md/",
+         "radio_url" : "http://live.maestrofm.md:8000/maestro",
+         "description" : "Postul de radio MAESTRO FM şi-a început activitatea, pe 5 noiembrie 2005, are la bază conceptul unui post ce vine să aducă pe piaţa radio din Moldova un format inedit şi bine ascultat de un target specific pentru stilul de muzica relax and chill-out.MAESTRO FM este cotat bine pe piaţa media ca fiind unul dintre cel mai rafinat si select post de radio. MAESTRO FM poate fi ascultat, nu numai în Chişinău, dar şi în Cahul si Balti.MAESTRO FM îţi oferă şansa să primeşti unica si adevărata plăcere a muzicii, pe 97,7 Fm. La orice oră, zi sau noapte, noi îţi oferim liniştea de care ai nevoie."
+      },
+      {
+         "name" : "Русское Радио",
+         "image" : "936.v4.png",
+         "site_url" : "http://ruradio.md/",
+         "radio_url" : "http://live.ruradio.md:8000/ruradio",
+         "description" : "Все будет хорошо! «Русское Радио» - первая радиостанция России, воплотившая новый принцип вещания и использующая в своем эфире музыкальные произведения только на русском языке! «Русское Радио» в Молдове - это лучшая российская и молдавская музыка минувшего времени и наших дней, самые последние хиты, самые интересные и рейтинговые программы, самая эффективная реклама!"
+      },
+      {
+         "name" : "Radio Moldova - Muzical",
+         "image" : "30757.v3.png",
+         "site_url" : "http://www.trm.md/",
+         "radio_url" : "http://radiolive.trm.md:8000/RM-muzical-128?",
+         "description" : "Compania „Teleradio-Moldova” are misiunea de a produce programe de radio şi televiziune pentru toate segmentele şi categoriile de public. Acest produs, relevant sub aspectul alinierii la standardele europene, urmează să răspundă intereselor şi preferinţelor multiple ale celor ce doresc să se informeze în mod echidistant, complet, obiectiv şi echilibrat."
+      },
+      {
+         "name" : "LSM Radio",
+         "image" : "949.png",
+         "site_url" : "https://www.lsmglobal.org/radio/",
+         "radio_url" : "http://162.251.160.26:80/stream",
+         "description" : "On June 11, 1994, the Little Samaritan Mission opened the first radio station in Chisinau, Moldova broadcasting 24-hours a day, 7 days a week. Twelve more stations were added in Moldova and uplinked to satellite creating a network of 13 stations covering the entire country of Moldova and even parts of Ukraine and eastern Romania."
+      },
+      {
+         "name" : "Eco FM",
+         "image" : "1023.png",
+         "site_url" : "http://www.ecofm.md/",
+         "radio_url" : "http://188.138.204.98:8080/ecoFM",
+         "description" : "Eco FM the radio from Moldova and they plays pop, rock and mix music. Eco FM is a very new online radio station in Chisinau which is at the republic of Moldova. As a new radio station they have already attracted many listeners because of their well thought out radio programs."
+      },
+      {
+         "name" : "Univers FM",
+         "image" : "1024.v3.png",
+         "site_url" : "http://www.universfm.md/",
+         "radio_url" : "http://87.255.90.102:9000/UniversFm",
+         "description" : "Радио Univers FM. Молдавское радио- Кишинёв 92.8 MHz. Слоган: 'Another hit radio station'."
+      },
+      {
+         "name" : "Radio Sputnik Moldova",
+         "image" : "67179.v4.png",
+         "site_url" : "https://sputnik.md/",
+         "radio_url" : "http://icecast-ruvr.cdnvideo.ru/rian.voicemda",
+         "description" : "Radio prin Satelit este un internet de știri și radio de emisie a serviciului, stabilite de către guvern a agenției de știri 'Rusia astăzi'. Sediul central este situat în Moscova, Sputnik are regionale redacția de la Washington, Cairo, Beijing și Londra. Ea se concentrează asupra politicii globale și a economiei și este orientată exclusiv spre нерусской publicul."
+      },
+      {
+         "name" : "MONKEY.FM",
+         "image" : "70035.v7.png",
+         "site_url" : "https://monkey.fm/",
+         "radio_url" : "https://monkey.fm:8001/live",
+         "description" : "MONKEY.FM is not only radio station, we help young bands to know about themselves, it's a site that helps to learn about concerts or events, it's news about Moldavian alternative music, it's a catalog of local bands and artists."
+      },
+      {
+         "name" : "Diaspora Media",
+         "image" : "81790.v3.png",
+         "site_url" : "https://diaspora.media/",
+         "radio_url" : "https://stream.radiojar.com/58ts0hd5hrquv",
+         "description" : "Diaspora Media is a modern FM/Internet radio station with exclusive shows in visual and audio format. For the moment there is 7 FM bands in Moldova( main cities ) + streaming feature  365/24 all over the world.  Currently our radio have existing loyal auditory in United States, France, UK, Italy and  Moldova."
+      },
+      {
+         "name" : "HIT FM",
+         "image" : "360.v9.png",
+         "site_url" : "http://hitfm.md/",
+         "radio_url" : "http://87.255.67.132:8000/HitFM",
+         "description" : "HIT FM - развлекательное музыкальное радио, где играет лучшая западная музыка 2000 и современные горячие хиты на румынском и русском языке."
+      },
+      {
+         "name" : "Radio Studentus",
+         "image" : "68179.v1.png",
+         "site_url" : "http://radio.studentus.md/",
+         "radio_url" : "http://185.147.49.30:8000/live",
+         "description" : "Radio Studentus este un post de radio din Chișinău (99,0 FM), Moldova. Redă muzică de calitate din diverse genuri muzicale, cum ar fi Top 40 / Pop, Euro Hits. În afară de aceasta, difuzăm și talk-show-uri, programe de divertisment și este disponibil 24/7."
+      },
+      {
+         "name" : "Radio Noroc",
+         "image" : "1020.v2.png",
+         "site_url" : "http://www.radionoroc.md/",
+         "radio_url" : "http://live.noroc.tv:8000/radionoroc.mp3",
+         "description" : "'Radio Noroc' înseamnă dor de casă, dor de-acasă, dor de neamul tău și de muzica frumoasă!"
+      },
+      {
+         "name" : "Radio Plai",
+         "image" : "73188.v2.png",
+         "site_url" : "http://www.radioplai.md/",
+         "radio_url" : "http://stream.radioplai.md:8000/live",
+         "description" : "Acum Radio Plai este mai aproape de tine."
+      },
+      {
+         "name" : "OM Activ",
+         "image" : "80656.v5.png",
+         "site_url" : "https://radio.omactiv.md/",
+         "radio_url" : "https://radio.omactiv.md:8443/om",
+         "description" : "Радиостанция OM Activ – это не просто хорошая танцевальная музыка. Это особая философия и сознательное отношение к своей жизни.Эта волна для тех, кто хочет быть здоровым, активным и современным. А отличный качественный плей-лист поможет вам поддерживать свою форму!"
+      },
+      {
+         "name" : "Pro FM",
+         "image" : "1021.png",
+         "site_url" : "http://profm.md/",
+         "radio_url" : "http://stream.profm.ro:8012/profm.mp3?type=.mp3/;stream.mp3",
+         "description" : "Pro FM vision is bring music and radio entertainment together with qualitative criteria, reporting and information not only on musical themes and the happenings of the city, the aim of their program is to have the best possible impact on the majority of its population of Moldova. Pro FM is a music radio stations that also entertains and informs the public about the events of the city"
+      },
+      {
+         "name" : "Radio Bucovina",
+         "image" : "64502.v5.png",
+         "site_url" : "http://www.radiobucovina.ro/",
+         "radio_url" : "http://live.radiobucovina.ro:8000/;?1510244251076.mp3",
+         "description" : "Asculta Radio Bucovina online, Muzica Populara Moldoveneasca, Bucovina, si alte regiuni. Non Stop va oferim Muzica de Petrecere de cea mai buna Calitate."
+      },
+      {
+         "name" : "91.1 FM Chisinau",
+         "image" : "81034.v3.png",
+         "site_url" : "http://radio911.md/",
+         "radio_url" : "http://185.181.229.197:8000/live",
+         "description" : "Muzica anilor 2000"
+      },
+      {
+         "name" : "Radio BEAT",
+         "image" : "1043.v6.png",
+         "site_url" : "http://radiobeat.md/",
+         "radio_url" : "http://asculta.radiobeat.md:9998/;stream.nsv",
+         "description" : "Radio BEAT este un radio independent, cu caracter informativ, un radio de companie si de divertisment, care poate fi receptionat in cele mai bune conditii pe Internet Radio BEAT este numele unui proiect si a unui vis mai vechi al unor oameni ce doresc sa se rupa de mentalitati si obisnuintele vechi de a face radio."
+      },
+      {
+         "name" : "PRO Dj Radio",
+         "image" : "79545.v3.png",
+         "site_url" : "http://www.prodjradio.net/",
+         "radio_url" : "http://live.prodjradio.net:8050/;",
+         "description" : "Este un proiect radio on-line din Republica Moldova care se axeaza  pe muzică de genul Pop / Dance / House , în emisie cuprinde 83% muzica Europeană(60% Fabricată în România și 23% din alte țari) și 17% muzica autohtonă (Fabricată în R.Moldova)!"
+      },
+      {
+         "name" : "OM Radio",
+         "image" : "70725.v6.png",
+         "site_url" : "http://azblog.me/radio",
+         "radio_url" : "http://188.138.198.247:8002/;stream.nsv",
+         "description" : "Most Genres Of Authentic & Classic Electronic Music 24/7Trance, House, Psychedelic, Breaks, Chillout, Ambient, Instrumental, Meditative"
+      },
+      {
+         "name" : "Radio Pro Mingir",
+         "image" : "68871.v3.png",
+         "site_url" : "http://pro.regional.md/",
+         "radio_url" : "http://92.115.109.44:8000/mingir_stream",
+         "description" : "Radio 'Pro Mingir ' înseamnă dor de casă, dor de-acasă, dor de neamul tău și de muzica frumoasă!Fiecare zi petrecută alături de 'Radio Pro Mingir' e o sărbătoare a sufletului, fiecare cântec e strop din dorul neamului și din înțelepciunea poporului nostru. Nu vom încerca să te convingem că suntem primul și unicul post de radio care promovează în exclusivitate muzica și valorile neamului său - faptele vorbesc de la sine.  Acasă, în mașină, la serviciu - oriunde ești cu 'Radio Pro Mingir'!"
+      },
+      {
+         "name" : "Радио 1 Тирасполь",
+         "image" : "1045.v1.png",
+         "site_url" : "http://radio.pgtrk.ru/",
+         "radio_url" : "http://pgtrk.ru:8000/stream",
+         "description" : "Вы слушаете прямой интернет эфир радиостанции 'Радио 1 (Радио Приднестровья)' Города вещания в Молдове: Тирасполь 104.0 FM, Слободзея 100.7 FM, Первомайск 103.4 FM, Григориополь 105.0 FM, Маяк 106.5 FM, Воронково 106.0 FM, Катериновка 104.0 FM, Валя Адынкэ 100.1 FM, Каменка 106.4"
+      },
+      {
+         "name" : "Радио Алла",
+         "image" : "934.v1.png",
+         "site_url" : "http://www.radioalla.md/",
+         "radio_url" : "http://air-online2.radioalla.md/radioalla.mp3",
+         "description" : "Эстрадная музыка времен Аллы Пугачевой, лучшие хиты прошлых 30-ти лет"
+      },
+      {
+         "name" : "Radio Orhei FM 97.5",
+         "image" : "83896.v2.png",
+         "site_url" : "http://radioorhei.md/",
+         "radio_url" : "http://178.76.72.235:8008/live",
+         "description" : "Radio online Moldova. 'Radio Orhei FM 97.5' este un post de radio local care aderă la tiparul unui post de radio muzical - informativ, conceput în baza Codului Audiovizualului al R. Moldova."
+      },
+      {
+         "name" : "Radio Logos",
+         "image" : "1044.v2.png",
+         "site_url" : "http://radio.logos.md/",
+         "radio_url" : "http://asculta.logos.md:10000/live",
+         "description" : "Radio LOGOS este primul post de radio ortodox din Republica Moldova. Este un proiect iniţiat de Asociaţia Obştească „LOGOS” cu binecuvântarea Înalt Prea Sfinţitului VLADIMIR, Mitropolit al Chişinăului şi al Întregii Moldove.Existenţa unui asemenea post de radio este indispensabilă, având în vedere că societatea contemporană se confruntă cu multe probleme şi provocări, ale căror soluţii pot  fi găsite doar în Biserică. Această societate secularizată şi ruptă de Dumnezeu propune omului modern nişte soluţii “moderne”, diferite de cele ale Bisericii, despre care se spune că are “învăţături învechite”. De multe ori aceste “soluţii” devin distructive prin esenţa lor.Biserica ortodoxă propovăduieşte fără greşeală Adevărul lui Hristos şi transmite oamenilor învăţăturile şi  propunerile de trăire în curată  morală, care vin de la Dumnezeu Însuşi. De aceea ea nu are puterea să schimbe nimic în învăţătura sa, dar nu are nici dreptul  să  tacă sau să se abţină de la propovăduirea Adevărului."
+      },
+      {
+         "name" : "Авторадио Молдова",
+         "image" : "83754.v1.png",
+         "site_url" : "http://auto-radio.md/",
+         "radio_url" : "http://185.181.229.197:8000/autoradiolive",
+         "description" : "Авторадио Кишинев 103.2 FM"
+      },
+      {
+         "name" : "Radio Moldova Tineret",
+         "image" : "1012.png",
+         "site_url" : "http://www.trm.md/ro/rmt/",
+         "radio_url" : "http://radiolive.trm.md:8000/RM-tineret-128",
+         "description" : "Instituţia Publică Naţională a Audiovizualului (IPNA) Compania „Teleradio-Moldova” (TRM) este serviciul public de radiodifuziune şi televiziune din Republica Moldova. Activând în conformitate cu prevederile Codului Audiovizualului instituţia acoperă întreg teritoriul ţării cu servicii de programe pentru întreaga societate."
+      },
+      {
+         "name" : "Radio Stil",
+         "image" : "932.png",
+         "site_url" : "http://www.radiostil.md/",
+         "radio_url" : "http://217.26.172.239/stil",
+         "description" : "'Стильное Радио' начало своё вещание в Молдове в 2001 году. Эфирная концепция станции - это единый логически сформированный радио-продукт, у которого есть свой слушатель. Компактность, продуманность, взвешенность и максимальная информативность каждого эфирного дня – принципы работы нашей команды. Основными критериями работы радиостанции 'Стильное Радио' является: знакомство радиослушателей с музыкальной культурой и последними хитами в жанре 'Шансон', городского романса, с творчеством бардов, качественной рок-музыкой и композициями из любимых отечественных кинофильмов. открытие новых имён, продвижение творчества молдавских исполнителей и композиторов, работающих в жанре городского романса, гармоничное объединение музыкальных, информационных и развлекательных компонентов, исходя из реальных интересов и ожиданий аудитории в возрасте от 30 лет и более."
+      },
+      {
+         "name" : "Radio ONE",
+         "image" : "84427.v3.png",
+         "site_url" : "http://radio1.md/",
+         "radio_url" : "http://live.muzfm.md:8000/r1",
+         "description" : "Radio ONE - The one & only rock station in Moldova"
+      },
+      {
+         "name" : "Cool Radio",
+         "image" : "939.v1.png",
+         "site_url" : "http://coolradio.md/",
+         "radio_url" : "http://m.protv.md:8000/profm-128.mp3",
+         "description" : "Chitara electrica, bass, clape si tobe, plus energia debordanta , acestea sunt ingredientele perfecte pentru un concert exceptional si LIVE!"
+      }
+   ]
+}
