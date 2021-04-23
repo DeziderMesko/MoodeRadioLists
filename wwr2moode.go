@@ -1,15 +1,21 @@
 package main
 
 import (
+	"bytes"
 	"encoding/json"
+	"errors"
 	"fmt"
+	"io"
 	"io/ioutil"
+	"net/http"
 	"os"
 	"path/filepath"
+	"time"
 )
 
 func main() {
-	list := loadWWRadio("./ww-radio/content/stations/cz.json")
+	country := "cz"
+	list := loadWWRadio(fmt.Sprintf("./ww-radio/content/stations/%s.json", country), country)
 	writeMoodeRadio("moode-output", list)
 }
 
@@ -21,14 +27,16 @@ type WWRadio struct {
 	Description string `json:"description"`
 }
 type WWRadioList struct {
-	Country []WWRadio `json:"cz"`
+	Country []WWRadio `json:"country"`
 }
 
-func loadWWRadio(fileName string) WWRadioList {
+func loadWWRadio(fileName string, country string) WWRadioList {
 	data, err := ioutil.ReadFile(fileName)
 	if err != nil {
 		fmt.Print(err)
 	}
+
+	data = bytes.Replace(data, []byte(country), []byte("country"), 1)
 
 	var wwRadioList WWRadioList
 	err = json.Unmarshal(data, &wwRadioList)
@@ -86,8 +94,13 @@ func writeMoodeRadio(dir string, wwRadioList WWRadioList) {
 		},
 		Stations: []Station{},
 	}
+	os.Mkdir(dir, os.ModeDir)
+	logoDir := filepath.Join(dir, "radio-logos")
+	os.Mkdir(logoDir, os.ModeDir)
+	os.Mkdir(filepath.Join(logoDir, "thumbs"), os.ModeDir)
 
 	for idx, radio := range wwRadioList.Country {
+
 		station := Station{
 			ID:       int64(idx + 1),
 			Name:     radio.Name,
@@ -97,16 +110,63 @@ func writeMoodeRadio(dir string, wwRadioList WWRadioList) {
 		}
 
 		mr.Stations = append(mr.Stations, station)
-
+		err := saveLogo(logoDir, radio.Image, radio.Name)
+		if err != nil {
+			fmt.Println("Error saving radio name: ", radio.Name, err)
+		}
+		time.Sleep(50)
 	}
 
 	result, err := mr.Marshal()
 	if err != nil {
 		fmt.Print(err)
 	}
-	os.Mkdir(dir, os.ModeDir)
-	os.Mkdir(filepath.Join(dir, "radio-logos"), os.ModeDir)
-	os.Mkdir(filepath.Join(dir, "radio-logos", "thumbs"), os.ModeDir)
+
 	ioutil.WriteFile(filepath.Join(dir, "station_data.json"), result, os.ModePerm)
 
+}
+
+func saveLogo(logoDir, wwrName, MoodeName string) error {
+	imagesURL := "https://www.s3blog.org/s3radio-files/stations/cz/"
+	err := os.Chdir(logoDir)
+
+	if Exists(MoodeName + ".png") {
+		fmt.Print("x")
+		return nil
+	}
+
+	fmt.Print(".")
+	response, err := http.Get(imagesURL + wwrName)
+	if err != nil {
+		return err
+	}
+	defer response.Body.Close()
+
+	if response.StatusCode != 200 {
+		return errors.New("Received non 200 response code")
+	}
+	//Create a empty file
+	file, err := os.Create(MoodeName + ".png")
+	if err != nil {
+		return err
+	}
+	defer file.Close()
+
+	//Write the bytes to the fiel
+	_, err = io.Copy(file, response.Body)
+	if err != nil {
+		return err
+	}
+
+	return nil
+
+}
+
+func Exists(name string) bool {
+	if _, err := os.Stat(name); err != nil {
+		if os.IsNotExist(err) {
+			return false
+		}
+	}
+	return true
 }
